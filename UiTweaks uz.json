@@ -156,5 +156,11 @@
   "send_with_caption": "Sarlavha bilan yuborish",
   "add_caption_to_gif": "GIFga sarlavha qo'shish",
   "hide_with_spoiler": "Spoiler bilan yashirish",
-  "enter_caption": "Sarlavha kiriting..."
+  "enter_caption": "Sarlavha kiriting...",
+  "code_menu_item": "Kod",
+  "mention_menu_item": "Eslatma",
+  "create_code_dialog_title": "Kod yaratish",
+  "create_mention_dialog_title": "Eslatma yaratish",
+  "mention_id_hint": "ID"
+
 }
