@@ -156,5 +156,11 @@
   "send_with_caption": "Envoyer avec légende",
   "add_caption_to_gif": "Ajouter une légende au GIF",
   "hide_with_spoiler": "Masquer avec spoiler",
-  "enter_caption": "Entrez la légende..."
+  "enter_caption": "Entrez la légende...",
+  "code_menu_item": "Code",
+  "mention_menu_item": "Mention",
+  "create_code_dialog_title": "Créer du Code",
+  "create_mention_dialog_title": "Créer une Mention",
+  "mention_id_hint": "ID"
+
 }
