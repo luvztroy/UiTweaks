@@ -156,5 +156,11 @@
   "send_with_caption": "Açıklama ile gönder",
   "add_caption_to_gif": "GIF'e açıklama ekle",
   "hide_with_spoiler": "Spoiler ile gizle",
-  "enter_caption": "Açıklama girin..."
+  "enter_caption": "Açıklama girin...",
+  "code_menu_item": "Kod",
+  "mention_menu_item": "Bahsetme",
+  "create_code_dialog_title": "Kod Oluştur",
+  "create_mention_dialog_title": "Bahsetme Oluştur",
+  "mention_id_hint": "ID"
+
 }
