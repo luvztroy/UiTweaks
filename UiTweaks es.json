@@ -156,5 +156,11 @@
   "send_with_caption": "Enviar con descripción",
   "add_caption_to_gif": "Agregar descripción al GIF",
   "hide_with_spoiler": "Ocultar con spoiler",
-  "enter_caption": "Ingresa descripción..."
+  "enter_caption": "Ingresa descripción...",
+  "code_menu_item": "Código",
+  "mention_menu_item": "Mención",
+  "create_code_dialog_title": "Crear Código",
+  "create_mention_dialog_title": "Crear Mención",
+  "mention_id_hint": "ID"
+
 }
