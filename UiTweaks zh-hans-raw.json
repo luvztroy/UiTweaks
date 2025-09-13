@@ -156,5 +156,11 @@
   "send_with_caption": "带说明发送",
   "add_caption_to_gif": "为 GIF 添加说明",
   "hide_with_spoiler": "用剧透隐藏",
-  "enter_caption": "输入说明..."
+  "enter_caption": "输入说明...",
+  "code_menu_item": "代码",
+  "mention_menu_item": "提及",
+  "create_code_dialog_title": "创建代码",
+  "create_mention_dialog_title": "创建提及",
+  "mention_id_hint": "ID"
 }
+
