@@ -156,5 +156,11 @@
   "send_with_caption": "Trimite cu legendă",
   "add_caption_to_gif": "Adaugă legendă la GIF",
   "hide_with_spoiler": "Ascunde cu spoiler",
-  "enter_caption": "Introduceți legenda..."
+  "enter_caption": "Introduceți legenda...",
+  "code_menu_item": "Cod",
+  "mention_menu_item": "Mențiune",
+  "create_code_dialog_title": "Creează Cod",
+  "create_mention_dialog_title": "Creează Mențiune",
+  "mention_id_hint": "ID"
+
 }
