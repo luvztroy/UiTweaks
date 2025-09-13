@@ -156,5 +156,10 @@
   "send_with_caption": "Mit Beschriftung senden",
   "add_caption_to_gif": "Beschriftung zum GIF hinzufügen",
   "hide_with_spoiler": "Mit Spoiler verstecken",
-  "enter_caption": "Beschriftung eingeben..."
+  "enter_caption": "Beschriftung eingeben...",
+  "code_menu_item": "Code",
+  "mention_menu_item": "Erwähnung",
+  "create_code_dialog_title": "Code erstellen",
+  "create_mention_dialog_title": "Erwähnung erstellen",
+  "mention_id_hint": "ID"
 }
