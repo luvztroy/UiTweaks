@@ -156,5 +156,10 @@
   "send_with_caption": "إرسال مع تعليق",
   "add_caption_to_gif": "إضافة تعليق إلى GIF",
   "hide_with_spoiler": "إخفاء مع إفساد",
-  "enter_caption": "أدخل التعليق..."
+  "enter_caption": "أدخل التعليق...",
+  "code_menu_item": "كود",
+  "mention_menu_item": "إشارة",
+  "create_code_dialog_title": "إنشاء كود",
+  "create_mention_dialog_title": "إنشاء إشارة",
+  "mention_id_hint": "ID"
 }
