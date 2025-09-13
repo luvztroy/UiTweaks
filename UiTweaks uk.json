@@ -156,5 +156,11 @@
   "send_with_caption": "Надіслати з підписом",
   "add_caption_to_gif": "Додати підпис до GIF",
   "hide_with_spoiler": "Приховати зі спойлером",
-  "enter_caption": "Введіть підпис..."
+  "enter_caption": "Введіть підпис...",
+  "code_menu_item": "Код",
+  "mention_menu_item": "Згадування",
+  "create_code_dialog_title": "Створити код",
+  "create_mention_dialog_title": "Створити згадування",
+  "mention_id_hint": "ID"
+
 }
