@@ -156,5 +156,11 @@
   "send_with_caption": "Invia con didascalia",
   "add_caption_to_gif": "Aggiungi didascalia al GIF",
   "hide_with_spoiler": "Nascondi con spoiler",
-  "enter_caption": "Inserisci didascalia..."
+  "enter_caption": "Inserisci didascalia...",
+  "code_menu_item": "Codice",
+  "mention_menu_item": "Menzione",
+  "create_code_dialog_title": "Crea Codice",
+  "create_mention_dialog_title": "Crea Menzione",
+  "mention_id_hint": "ID"
+
 }
