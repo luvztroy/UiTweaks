@@ -156,5 +156,11 @@
   "send_with_caption": "Kirim dengan Keterangan",
   "add_caption_to_gif": "Tambahkan Keterangan ke GIF",
   "hide_with_spoiler": "Sembunyikan dengan spoiler",
-  "enter_caption": "Masukkan keterangan..."
+  "enter_caption": "Masukkan keterangan...",
+  "code_menu_item": "Kode",
+  "mention_menu_item": "Mention",
+  "create_code_dialog_title": "Buat Kode",
+  "create_mention_dialog_title": "Buat Mention",
+  "mention_id_hint": "ID"
 }
+
