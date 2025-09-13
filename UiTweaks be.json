@@ -156,5 +156,10 @@
   "send_with_caption": "Адправіць з подпісам",
   "add_caption_to_gif": "Дадаць подпіс да GIF",
   "hide_with_spoiler": "Схаваць са спойлерам",
-  "enter_caption": "Увядзіце подпіс..."
+  "enter_caption": "Увядзіце подпіс...",
+  "code_menu_item": "Код",
+  "mention_menu_item": "Згадванне",
+  "create_code_dialog_title": "Стварыць код",
+  "create_mention_dialog_title": "Стварыць згадванне",
+  "mention_id_hint": "ID"
 }
