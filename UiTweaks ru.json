@@ -156,6 +156,12 @@
   "send_with_caption": "Отправить с подписью",
   "add_caption_to_gif": "Добавить подпись к GIF",
   "hide_with_spoiler": "Скрыть со спойлером",
-  "enter_caption": "Введите подпись..."
+  "enter_caption": "Введите подпись...",
+  "code_menu_item": "Код",
+  "mention_menu_item": "Упоминание",
+  "create_code_dialog_title": "Создать код",
+  "create_mention_dialog_title": "Создать упоминание",
+  "mention_id_hint": "ID"
 }
+
 
