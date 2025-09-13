@@ -156,5 +156,11 @@
   "send_with_caption": "캡션과 함께 보내기",
   "add_caption_to_gif": "GIF에 캡션 추가",
   "hide_with_spoiler": "스포일러로 숨기기",
-  "enter_caption": "캡션 입력..."
+  "enter_caption": "캡션 입력...",
+  "code_menu_item": "코드",
+  "mention_menu_item": "멘션",
+  "create_code_dialog_title": "코드 생성",
+  "create_mention_dialog_title": "멘션 생성",
+  "mention_id_hint": "ID"
+
 }
