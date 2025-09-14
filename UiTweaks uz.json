@@ -161,6 +161,21 @@
   "mention_menu_item": "Eslatma",
   "create_code_dialog_title": "Kod yaratish",
   "create_mention_dialog_title": "Eslatma yaratish",
-  "mention_id_hint": "ID"
-
+  "mention_id_hint": "ID",
+  "quantahut_configuration": "QuantaHut konfiguratsiyasi",
+  "enable_debug_logging_quantahut": "Debug jurnalini yoqish",
+  "enable_debug_logging_quantahut_subtext": "QuantaHut operatsiyalarining batafsil jurnallarini ko'rsatish",
+  "clear_file_cache": "Fayl keshini tozalash",
+  "cache_info": "Kesh: {count} fayl, {languages}",
+  "download_localization": "Lokalizatsiyani yuklab olish",
+  "current_language_detected": "Joriy til aniqlandi: {language}",
+  "unlock_uitweaks_description": "Silliq tajriba uchun UiTweaks'ni {language} tilida oching.",
+  "localization_bottom_text": "Bu jarayon faqat bir marta sodir bo'ladi. Yuklab olinganidan so'ng, fayllar mahalliy ravishda saqlanadi va sizga istalgan vaqtda tilingizda UiTweaks'ga silliq kirish imkonini beradi.",
+  "download": "Yuklab olish",
+  "continue": "Davom etish",
+  "localization_not_available": "Lokalizatsiya mavjud emas",
+  "localization_not_available_description": "{language} uchun UiTweaks lokalizatsiyasi hali mavjud emas.",
+  "localization_continue_text": "Siz UiTweaks'ni ingliz tilida ishlatishda davom etishingiz mumkin yoki til tanlov tugmasidan boshqa tilni tanlashingiz mumkin.",
+  "restart_app": "Ilovani qayta ishga tushirish",
+  "restart_app_description": "O'zgarishlarni qo'llash uchun ilovani qayta ishga tushiring"
 }

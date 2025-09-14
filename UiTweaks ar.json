@@ -161,5 +161,21 @@
   "mention_menu_item": "إشارة",
   "create_code_dialog_title": "إنشاء كود",
   "create_mention_dialog_title": "إنشاء إشارة",
-  "mention_id_hint": "ID"
+  "mention_id_hint": "ID",
+  "quantahut_configuration": "إعدادات QuantaHut",
+  "enable_debug_logging_quantahut": "تفعيل سجلات التصحيح",
+  "enable_debug_logging_quantahut_subtext": "عرض سجلات مفصلة لعمليات QuantaHut",
+  "clear_file_cache": "مسح ذاكرة التخزين المؤقت للملفات",
+  "cache_info": "ذاكرة التخزين المؤقت: {count} ملف، {languages}",
+  "download_localization": "تحميل الترجمة",
+  "current_language_detected": "تم اكتشاف اللغة الحالية: {language}",
+  "unlock_uitweaks_description": "افتح UiTweaks باللغة {language} لتجربة سلسة.",
+  "localization_bottom_text": "هذه العملية تحدث مرة واحدة فقط. بعد التحميل، يتم حفظ الملفات محلياً لتمنحك وصولاً سلساً إلى UiTweaks بلغتك في أي وقت.",
+  "download": "تحميل",
+  "continue": "متابعة",
+  "localization_not_available": "الترجمة غير متاحة",
+  "localization_not_available_description": "ترجمة UiTweaks للغة {language} غير متاحة بعد.",
+  "localization_continue_text": "يمكنك الاستمرار في استخدام UiTweaks باللغة الإنجليزية، أو اختيار لغة مختلفة من زر اختيار اللغة.",
+  "restart_app": "إعادة تشغيل التطبيق",
+  "restart_app_description": "إعادة تشغيل التطبيق لتطبيق التغييرات"
 }

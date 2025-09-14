@@ -156,5 +156,21 @@
   "send_with_caption": "Отправить с подписью",
   "add_caption_to_gif": "Добавить подпись к GIF",
   "hide_with_spoiler": "Скрыть со спойлером",
-  "enter_caption": "Введите подпись..."
+  "enter_caption": "Введите подпись...",
+  "quantahut_configuration": "Конфигурация QuantaHut",
+  "enable_debug_logging_quantahut": "Включить отладочное логирование",
+  "enable_debug_logging_quantahut_subtext": "Показывать подробные логи работы QuantaHut",
+  "clear_file_cache": "Очистить кэш файлов",
+  "cache_info": "Информация о кэше",
+  "download_localization": "Скачать локализацию",
+  "current_language_detected": "Обнаружен язык: {language}",
+  "unlock_uitweaks_description": "Разблокируйте UiTweaks на {language} для бесшовного опыта.",
+  "localization_bottom_text": "Этот процесс происходит только один раз. После загрузки файлы сохраняются локально, чтобы дать вам бесшовный доступ к UiTweaks на вашем языке в любое время.",
+  "download": "Скачать",
+  "continue": "Продолжить",
+  "localization_not_available": "Локализация недоступна",
+  "localization_not_available_description": "Локализация UiTweaks для {language} пока недоступна.",
+  "localization_continue_text": "Плагин будет продолжать работать на английском языке. Проверьте позже обновления локализации.",
+  "restart_app": "Перезапустить приложение",
+  "restart_app_description": "Перезапустить приложение для применения изменений"
 }

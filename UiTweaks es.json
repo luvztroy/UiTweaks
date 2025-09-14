@@ -161,6 +161,21 @@
   "mention_menu_item": "Mención",
   "create_code_dialog_title": "Crear Código",
   "create_mention_dialog_title": "Crear Mención",
-  "mention_id_hint": "ID"
-
+  "mention_id_hint": "ID",
+  "quantahut_configuration": "Configuración de QuantaHut",
+  "enable_debug_logging_quantahut": "Habilitar registro de depuración",
+  "enable_debug_logging_quantahut_subtext": "Mostrar registros detallados de operaciones de QuantaHut",
+  "clear_file_cache": "Limpiar caché de archivos",
+  "cache_info": "Caché: {count} archivos, {languages}",
+  "download_localization": "Descargar localización",
+  "current_language_detected": "Idioma actual detectado: {language}",
+  "unlock_uitweaks_description": "Desbloquea UiTweaks en {language} para una experiencia fluida.",
+  "localization_bottom_text": "Este proceso solo ocurre una vez. Después de descargar, los archivos se guardan localmente para darte acceso fluido a UiTweaks en tu idioma en cualquier momento.",
+  "download": "Descargar",
+  "continue": "Continuar",
+  "localization_not_available": "Localización no disponible",
+  "localization_not_available_description": "La localización de UiTweaks para {language} aún no está disponible.",
+  "localization_continue_text": "Puedes seguir usando UiTweaks en inglés, o seleccionar un idioma diferente del botón selector de idioma.",
+  "restart_app": "Reiniciar aplicación",
+  "restart_app_description": "Reiniciar aplicación para aplicar cambios"
 }

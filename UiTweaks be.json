@@ -161,5 +161,21 @@
   "mention_menu_item": "Згадванне",
   "create_code_dialog_title": "Стварыць код",
   "create_mention_dialog_title": "Стварыць згадванне",
-  "mention_id_hint": "ID"
+  "mention_id_hint": "ID",
+  "quantahut_configuration": "Канфігурацыя QuantaHut",
+  "enable_debug_logging_quantahut": "Уключыць журнал адладкі",
+  "enable_debug_logging_quantahut_subtext": "Паказваць падрабязныя журналы аперацый QuantaHut",
+  "clear_file_cache": "Ачысціць кэш файлаў",
+  "cache_info": "Кэш: {count} файлаў, {languages}",
+  "download_localization": "Спампаваць лакалізацыю",
+  "current_language_detected": "Бягучая мова выяўлена: {language}",
+  "unlock_uitweaks_description": "Разблакуйце UiTweaks на {language} для бесперапыннага вопыту.",
+  "localization_bottom_text": "Гэты працэс адбываецца толькі адзін раз. Пасля спампоўкі файлы захоўваюцца лакальна, каб даць вам бесперапынны доступ да UiTweaks на вашай мове ў любы час.",
+  "download": "Спампаваць",
+  "continue": "Працягваць",
+  "localization_not_available": "Лакалізацыя недаступная",
+  "localization_not_available_description": "Лакалізацыя UiTweaks для {language} яшчэ недаступная.",
+  "localization_continue_text": "Вы можаце працягваць выкарыстоўваць UiTweaks на англійскай мове або выбраць іншую мову з кнопкі выбару мовы.",
+  "restart_app": "Перазапусціць дадатак",
+  "restart_app_description": "Перазапусціць дадатак для прымянення змяненняў"
 }

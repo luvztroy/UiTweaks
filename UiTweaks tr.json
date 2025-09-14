@@ -161,6 +161,21 @@
   "mention_menu_item": "Bahsetme",
   "create_code_dialog_title": "Kod Oluştur",
   "create_mention_dialog_title": "Bahsetme Oluştur",
-  "mention_id_hint": "ID"
-
+  "mention_id_hint": "ID",
+  "quantahut_configuration": "QuantaHut Yapılandırması",
+  "enable_debug_logging_quantahut": "Hata ayıklama günlüğünü etkinleştir",
+  "enable_debug_logging_quantahut_subtext": "QuantaHut işlemlerinin ayrıntılı günlüklerini göster",
+  "clear_file_cache": "Dosya önbelleğini temizle",
+  "cache_info": "Önbellek: {count} dosya, {languages}",
+  "download_localization": "Yerelleştirmeyi indir",
+  "current_language_detected": "Mevcut dil algılandı: {language}",
+  "unlock_uitweaks_description": "Sorunsuz bir deneyim için UiTweaks'ı {language} dilinde açın.",
+  "localization_bottom_text": "Bu işlem yalnızca bir kez gerçekleşir. İndirmeden sonra, dosyalar dilinizde UiTweaks'a istediğiniz zaman sorunsuz erişim sağlamak için yerel olarak kaydedilir.",
+  "download": "İndir",
+  "continue": "Devam et",
+  "localization_not_available": "Yerelleştirme mevcut değil",
+  "localization_not_available_description": "{language} için UiTweaks yerelleştirmesi henüz mevcut değil.",
+  "localization_continue_text": "UiTweaks'ı İngilizce olarak kullanmaya devam edebilir veya dil seçici düğmesinden farklı bir dil seçebilirsiniz.",
+  "restart_app": "Uygulamayı yeniden başlat",
+  "restart_app_description": "Değişiklikleri uygulamak için uygulamayı yeniden başlat"
 }

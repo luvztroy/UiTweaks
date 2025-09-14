@@ -156,5 +156,21 @@
   "send_with_caption": "带说明发送",
   "add_caption_to_gif": "为 GIF 添加说明",
   "hide_with_spoiler": "用剧透隐藏",
-  "enter_caption": "输入说明..."
+  "enter_caption": "输入说明...",
+  "quantahut_configuration": "QuantaHut 配置",
+  "enable_debug_logging_quantahut": "启用调试日志",
+  "enable_debug_logging_quantahut_subtext": "显示 QuantaHut 操作的详细日志",
+  "clear_file_cache": "清除文件缓存",
+  "cache_info": "缓存：{count} 个文件，{languages}",
+  "download_localization": "下载本地化",
+  "current_language_detected": "检测到当前语言：{language}",
+  "unlock_uitweaks_description": "解锁 {language} 版本的 UiTweaks 以获得无缝体验。",
+  "localization_bottom_text": "此过程只发生一次。下载后，文件将本地保存，以便您随时以您的语言无缝访问 UiTweaks。",
+  "download": "下载",
+  "continue": "继续",
+  "localization_not_available": "本地化不可用",
+  "localization_not_available_description": "{language} 的 UiTweaks 本地化尚不可用。",
+  "localization_continue_text": "您仍可以继续使用英文版 UiTweaks，或从语言选择器按钮选择不同的语言。",
+  "restart_app": "重启应用",
+  "restart_app_description": "重启应用以应用更改"
 }

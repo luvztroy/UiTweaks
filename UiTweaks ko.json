@@ -161,6 +161,21 @@
   "mention_menu_item": "멘션",
   "create_code_dialog_title": "코드 생성",
   "create_mention_dialog_title": "멘션 생성",
-  "mention_id_hint": "ID"
-
+  "mention_id_hint": "ID",
+  "quantahut_configuration": "QuantaHut 구성",
+  "enable_debug_logging_quantahut": "디버그 로깅 활성화",
+  "enable_debug_logging_quantahut_subtext": "QuantaHut 작업의 상세한 로그 표시",
+  "clear_file_cache": "파일 캐시 지우기",
+  "cache_info": "캐시: {count}개 파일, {languages}",
+  "download_localization": "현지화 다운로드",
+  "current_language_detected": "현재 언어 감지됨: {language}",
+  "unlock_uitweaks_description": "{language}로 UiTweaks를 잠금 해제하여 원활한 경험을 제공합니다.",
+  "localization_bottom_text": "이 프로세스는 한 번만 발생합니다. 다운로드 후 파일은 로컬에 저장되어 언제든지 귀하의 언어로 UiTweaks에 원활하게 액세스할 수 있습니다.",
+  "download": "다운로드",
+  "continue": "계속",
+  "localization_not_available": "현지화를 사용할 수 없음",
+  "localization_not_available_description": "{language}에 대한 UiTweaks 현지화가 아직 사용할 수 없습니다.",
+  "localization_continue_text": "영어로 UiTweaks를 계속 사용하거나 언어 선택기 버튼에서 다른 언어를 선택할 수 있습니다.",
+  "restart_app": "앱 재시작",
+  "restart_app_description": "변경사항을 적용하려면 앱을 재시작하세요"
 }

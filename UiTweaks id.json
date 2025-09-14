@@ -161,6 +161,22 @@
   "mention_menu_item": "Mention",
   "create_code_dialog_title": "Buat Kode",
   "create_mention_dialog_title": "Buat Mention",
-  "mention_id_hint": "ID"
+  "mention_id_hint": "ID",
+  "quantahut_configuration": "Konfigurasi QuantaHut",
+  "enable_debug_logging_quantahut": "Aktifkan logging debug",
+  "enable_debug_logging_quantahut_subtext": "Tampilkan log detail operasi QuantaHut",
+  "clear_file_cache": "Hapus cache file",
+  "cache_info": "Cache: {count} file, {languages}",
+  "download_localization": "Unduh lokalisasi",
+  "current_language_detected": "Bahasa saat ini terdeteksi: {language}",
+  "unlock_uitweaks_description": "Buka kunci UiTweaks dalam {language} untuk pengalaman yang mulus.",
+  "localization_bottom_text": "Proses ini hanya terjadi sekali. Setelah mengunduh, file disimpan secara lokal untuk memberi Anda akses mulus ke UiTweaks dalam bahasa Anda kapan saja.",
+  "download": "Unduh",
+  "continue": "Lanjutkan",
+  "localization_not_available": "Lokalisasi tidak tersedia",
+  "localization_not_available_description": "Lokalisasi UiTweaks untuk {language} belum tersedia.",
+  "localization_continue_text": "Anda masih dapat menggunakan UiTweaks dalam bahasa Inggris, atau memilih bahasa yang berbeda dari tombol pemilih bahasa.",
+  "restart_app": "Restart aplikasi",
+  "restart_app_description": "Restart aplikasi untuk menerapkan perubahan"
 }
 

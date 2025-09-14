@@ -161,5 +161,21 @@
   "mention_menu_item": "Erwähnung",
   "create_code_dialog_title": "Code erstellen",
   "create_mention_dialog_title": "Erwähnung erstellen",
-  "mention_id_hint": "ID"
+  "mention_id_hint": "ID",
+  "quantahut_configuration": "QuantaHut-Konfiguration",
+  "enable_debug_logging_quantahut": "Debug-Protokollierung aktivieren",
+  "enable_debug_logging_quantahut_subtext": "Detaillierte QuantaHut-Betriebsprotokolle anzeigen",
+  "clear_file_cache": "Datei-Cache löschen",
+  "cache_info": "Cache-Informationen",
+  "download_localization": "Lokalisierung herunterladen",
+  "current_language_detected": "Aktuelle Sprache erkannt: {language}",
+  "unlock_uitweaks_description": "Schalte UiTweaks in {language} für eine nahtlose Erfahrung frei.",
+  "localization_bottom_text": "Dieser Vorgang passiert nur einmal. Nach dem Herunterladen werden die Dateien lokal gespeichert, um dir jederzeit nahtlosen Zugang zu UiTweaks in deiner Sprache zu geben.",
+  "download": "Herunterladen",
+  "continue": "Weiter",
+  "localization_not_available": "Lokalisierung nicht verfügbar",
+  "localization_not_available_description": "UiTweaks-Lokalisierung für {language} ist noch nicht verfügbar.",
+  "localization_continue_text": "Das Plugin funktioniert weiterhin auf Englisch. Schaue später nach Lokalisierungs-Updates.",
+  "restart_app": "App neu starten",
+  "restart_app_description": "App neu starten, um Änderungen anzuwenden"
 }

@@ -156,7 +156,23 @@
   "send_with_caption": "Send with Caption",
   "add_caption_to_gif": "Add Caption to GIF",
   "hide_with_spoiler": "Hide with spoiler",
-  "enter_caption": "Enter caption..."
+  "enter_caption": "Enter caption...",
+  "quantahut_configuration": "QuantaHut Configuration",
+  "enable_debug_logging_quantahut": "Enable Debug Logging",
+  "enable_debug_logging_quantahut_subtext": "Display detailed QuantaHut operation logs",
+  "clear_file_cache": "Clear File Cache",
+  "cache_info": "Cache: {count} files, {languages}",
+  "download_localization": "Download Localization",
+  "current_language_detected": "Current language detected: {language}",
+  "unlock_uitweaks_description": "Unlock UiTweaks in {language} for a seamless experience.",
+  "localization_bottom_text": "This process only happens once. After downloading, the files are saved locally to give you seamless access to UiTweaks in your language anytime.",
+  "download": "Download",
+  "continue": "Continue",
+  "localization_not_available": "Localization Not Available",
+  "localization_not_available_description": "UiTweaks localization for {language} is not available yet.",
+  "localization_continue_text": "You can still use UiTweaks in English, or select a different language from the language selector button.",
+  "restart_app": "Restart App",
+  "restart_app_description": "Restart app to apply changes"
 }
 
 
