@@ -182,5 +182,8 @@
   "localization_bottom_text": "Bu işlem yalnızca bir kez gerçekleşir. İndirmeden sonra, dosyalar dilinizde UiTweaks'a istediğiniz zaman sorunsuz erişim sağlamak için yerel olarak kaydedilir.",
   "localization_not_available": "Yerelleştirme mevcut değil",
   "localization_not_available_description": "{language} için UiTweaks yerelleştirmesi henüz mevcut değil.",
-  "localization_continue_text": "UiTweaks'ı İngilizce olarak kullanmaya devam edebilir veya dil seçici düğmesinden farklı bir dil seçebilirsiniz."
+  "localization_continue_text": "UiTweaks'ı İngilizce olarak kullanmaya devam edebilir veya dil seçici düğmesinden farklı bir dil seçebilirsiniz.",
+  "send_video": "Video gönder",
+  "send_file": "Dosya gönder",
+  "send_photo": "Fotoğraf gönder"
 }

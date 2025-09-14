@@ -182,5 +182,8 @@
   "localization_bottom_text": "هذه العملية تحدث مرة واحدة فقط. بعد التحميل، يتم حفظ الملفات محلياً لتمنحك وصولاً سلساً إلى UiTweaks بلغتك في أي وقت.",
   "localization_not_available": "الترجمة غير متاحة",
   "localization_not_available_description": "ترجمة UiTweaks للغة {language} غير متاحة بعد.",
-  "localization_continue_text": "يمكنك الاستمرار في استخدام UiTweaks باللغة الإنجليزية، أو اختيار لغة مختلفة من زر اختيار اللغة."
+  "localization_continue_text": "يمكنك الاستمرار في استخدام UiTweaks باللغة الإنجليزية، أو اختيار لغة مختلفة من زر اختيار اللغة.",
+  "send_video": "إرسال فيديو",
+  "send_file": "إرسال ملف",
+  "send_photo": "إرسال صورة"
 }

@@ -182,5 +182,8 @@
   "localization_bottom_text": "Bu jarayon faqat bir marta sodir bo'ladi. Yuklab olinganidan so'ng, fayllar mahalliy ravishda saqlanadi va sizga istalgan vaqtda tilingizda UiTweaks'ga silliq kirish imkonini beradi.",
   "localization_not_available": "Lokalizatsiya mavjud emas",
   "localization_not_available_description": "{language} uchun UiTweaks lokalizatsiyasi hali mavjud emas.",
-  "localization_continue_text": "Siz UiTweaks'ni ingliz tilida ishlatishda davom etishingiz mumkin yoki til tanlov tugmasidan boshqa tilni tanlashingiz mumkin."
+  "localization_continue_text": "Siz UiTweaks'ni ingliz tilida ishlatishda davom etishingiz mumkin yoki til tanlov tugmasidan boshqa tilni tanlashingiz mumkin.",
+  "send_video": "Video yuborish",
+  "send_file": "Fayl yuborish",
+  "send_photo": "Rasm yuborish"
 }

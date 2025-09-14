@@ -182,6 +182,9 @@
   "localization_bottom_text": "此过程只发生一次。下载后，文件将本地保存，以便您随时以您的语言无缝访问 UiTweaks。",
   "localization_not_available": "本地化不可用",
   "localization_not_available_description": "{language} 的 UiTweaks 本地化尚不可用。",
-  "localization_continue_text": "您仍可以继续使用英文版 UiTweaks，或从语言选择器按钮选择不同的语言。"
+  "localization_continue_text": "您仍可以继续使用英文版 UiTweaks，或从语言选择器按钮选择不同的语言。",
+  "send_video": "发送视频",
+  "send_file": "发送文件",
+  "send_photo": "发送照片"
 }
 

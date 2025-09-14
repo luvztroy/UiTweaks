@@ -182,5 +182,8 @@
   "localization_bottom_text": "Acest proces se întâmplă doar o dată. După descărcare, fișierele sunt salvate local pentru a-ți oferi acces fără probleme la UiTweaks în limba ta oricând.",
   "localization_not_available": "Localizarea nu este disponibilă",
   "localization_not_available_description": "Localizarea UiTweaks pentru {language} nu este încă disponibilă.",
-  "localization_continue_text": "Poți continua să folosești UiTweaks în engleză, sau să selectezi o limbă diferită din butonul selector de limbă."
+  "localization_continue_text": "Poți continua să folosești UiTweaks în engleză, sau să selectezi o limbă diferită din butonul selector de limbă.",
+  "send_video": "Trimite video",
+  "send_file": "Trimite fișier",
+  "send_photo": "Trimite fotografie"
 }

@@ -182,5 +182,8 @@
   "localization_bottom_text": "Este proceso solo ocurre una vez. Después de descargar, los archivos se guardan localmente para darte acceso fluido al UiTweaks en tu idioma a cualquier momento.",
   "localization_not_available": "Localización no disponible",
   "localization_not_available_description": "La localización de UiTweaks para {language} aún no está disponible.",
-  "localization_continue_text": "Puedes seguir usando UiTweaks en inglés, o seleccionar un idioma diferente del botón seletor de idioma."
+  "localization_continue_text": "Puedes seguir usando UiTweaks en inglés, o seleccionar un idioma diferente del botón seletor de idioma.",
+  "send_video": "Enviar video",
+  "send_file": "Enviar archivo",
+  "send_photo": "Enviar foto"
 }

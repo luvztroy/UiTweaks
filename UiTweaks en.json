@@ -177,7 +177,10 @@
   "localization_bottom_text": "This process only happens once. After downloading, the files are saved locally to give you seamless access to UiTweaks in your language anytime.",
   "localization_not_available": "Localization Not Available",
   "localization_not_available_description": "UiTweaks localization for {language} is not available yet.",
-  "localization_continue_text": "The plugin will continue to work in English. Check back later for localization updates."
+  "localization_continue_text": "The plugin will continue to work in English. Check back later for localization updates.",
+  "send_video": "Send Video",
+  "send_file": "Send File",
+  "send_photo": "Send Photo"
 }
 
 
