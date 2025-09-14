@@ -158,7 +158,7 @@
   "hide_with_spoiler": "Скрыть со спойлером",
   "enter_caption": "Введите подпись...",
   "code_menu_item": "Код",
-  "mention_menu_item": "Упоминание",
+  "mention_menu_item": "Упомянуть",
   "create_code_dialog_title": "Создать код",
   "create_mention_dialog_title": "Создать упоминание",
   "mention_id_hint": "ID"
