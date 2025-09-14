@@ -180,7 +180,12 @@
   "localization_continue_text": "The plugin will continue to work in English. Check back later for localization updates.",
   "send_video": "Send Video",
   "send_file": "Send File",
-  "send_photo": "Send Photo"
+  "send_photo": "Send Photo",
+  "enable_goto_message": "Enable Go to Message",
+  "enable_goto_message_subtext": "Adds 'Go to Message' option to chat header menu for quick navigation by message ID",
+  "goto_message": "Go to Message",
+  "enter_message_id": "Enter Message ID",
+  "message_id_hint": "Message ID"
 }
 
 

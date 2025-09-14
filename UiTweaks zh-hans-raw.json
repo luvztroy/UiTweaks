@@ -185,6 +185,11 @@
   "localization_continue_text": "您仍可以继续使用英文版 UiTweaks，或从语言选择器按钮选择不同的语言。",
   "send_video": "发送视频",
   "send_file": "发送文件",
-  "send_photo": "发送照片"
+  "send_photo": "发送照片",
+  "enable_goto_message": "启用跳转到消息",
+  "enable_goto_message_subtext": "在聊天标题菜单中添加'跳转到消息'选项，用于通过消息ID快速导航",
+  "goto_message": "跳转到消息",
+  "enter_message_id": "输入消息ID",
+  "message_id_hint": "消息ID"
 }
 

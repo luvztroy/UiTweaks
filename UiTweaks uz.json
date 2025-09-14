@@ -185,5 +185,10 @@
   "localization_continue_text": "Siz UiTweaks'ni ingliz tilida ishlatishda davom etishingiz mumkin yoki til tanlov tugmasidan boshqa tilni tanlashingiz mumkin.",
   "send_video": "Video yuborish",
   "send_file": "Fayl yuborish",
-  "send_photo": "Rasm yuborish"
+  "send_photo": "Rasm yuborish",
+  "enable_goto_message": "Xabarga o'tishni yoqish",
+  "enable_goto_message_subtext": "Xabar ID bo'yicha tez navigatsiya uchun chat sarlavhasi menyusiga 'Xabarga o'tish' variantini qo'shadi",
+  "goto_message": "Xabarga o'tish",
+  "enter_message_id": "Xabar ID ni kiriting",
+  "message_id_hint": "Xabar ID"
 }

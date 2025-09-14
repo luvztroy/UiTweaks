@@ -185,5 +185,10 @@
   "localization_continue_text": "Das Plugin funktioniert weiterhin auf Englisch. Schaue später nach Lokalisierungs-Updates.",
   "send_video": "Video senden",
   "send_file": "Datei senden",
-  "send_photo": "Foto senden"
+  "send_photo": "Foto senden",
+  "enable_goto_message": "Gehe zu Nachricht aktivieren",
+  "enable_goto_message_subtext": "Fügt 'Gehe zu Nachricht' Option zum Chat-Header-Menü für schnelle Navigation per Nachrichten-ID hinzu",
+  "goto_message": "Gehe zu Nachricht",
+  "enter_message_id": "Nachrichten-ID eingeben",
+  "message_id_hint": "Nachrichten-ID"
 }

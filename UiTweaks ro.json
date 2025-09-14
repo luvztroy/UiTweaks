@@ -185,5 +185,10 @@
   "localization_continue_text": "Poți continua să folosești UiTweaks în engleză, sau să selectezi o limbă diferită din butonul selector de limbă.",
   "send_video": "Trimite video",
   "send_file": "Trimite fișier",
-  "send_photo": "Trimite fotografie"
+  "send_photo": "Trimite fotografie",
+  "enable_goto_message": "Activează Du-te la Mesaj",
+  "enable_goto_message_subtext": "Adaugă opțiunea 'Du-te la Mesaj' în meniul antetului chat-ului pentru navigare rapidă prin ID-ul mesajului",
+  "goto_message": "Du-te la Mesaj",
+  "enter_message_id": "Introdu ID-ul Mesajului",
+  "message_id_hint": "ID-ul Mesajului"
 }

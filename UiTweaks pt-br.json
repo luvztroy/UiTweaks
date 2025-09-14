@@ -185,5 +185,10 @@
   "localization_continue_text": "Você ainda pode usar UiTweaks em inglês, ou selecionar um idioma diferente do botão seletor de idioma.",
   "send_video": "Enviar vídeo",
   "send_file": "Enviar arquivo",
-  "send_photo": "Enviar foto"
+  "send_photo": "Enviar foto",
+  "enable_goto_message": "Ativar Ir para Mensagem",
+  "enable_goto_message_subtext": "Adiciona a opção 'Ir para Mensagem' ao menu do cabeçalho do chat para navegação rápida por ID da mensagem",
+  "goto_message": "Ir para Mensagem",
+  "enter_message_id": "Inserir ID da Mensagem",
+  "message_id_hint": "ID da Mensagem"
 }

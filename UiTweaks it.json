@@ -185,5 +185,10 @@
   "localization_continue_text": "Puoi continuare a usare UiTweaks in inglese, o selezionare una lingua diversa dal pulsante selettore lingua.",
   "send_video": "Invia video",
   "send_file": "Invia file",
-  "send_photo": "Invia foto"
+  "send_photo": "Invia foto",
+  "enable_goto_message": "Abilita Vai al Messaggio",
+  "enable_goto_message_subtext": "Aggiunge l'opzione 'Vai al Messaggio' al menu dell'intestazione della chat per una navigazione rapida tramite ID messaggio",
+  "goto_message": "Vai al Messaggio",
+  "enter_message_id": "Inserisci ID del Messaggio",
+  "message_id_hint": "ID del Messaggio"
 }

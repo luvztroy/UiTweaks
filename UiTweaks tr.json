@@ -185,5 +185,10 @@
   "localization_continue_text": "UiTweaks'ı İngilizce olarak kullanmaya devam edebilir veya dil seçici düğmesinden farklı bir dil seçebilirsiniz.",
   "send_video": "Video gönder",
   "send_file": "Dosya gönder",
-  "send_photo": "Fotoğraf gönder"
+  "send_photo": "Fotoğraf gönder",
+  "enable_goto_message": "Mesaja Git'i Etkinleştir",
+  "enable_goto_message_subtext": "Mesaj ID'si ile hızlı navigasyon için chat başlık menüsüne 'Mesaja Git' seçeneğini ekler",
+  "goto_message": "Mesaja Git",
+  "enter_message_id": "Mesaj ID'sini Gir",
+  "message_id_hint": "Mesaj ID"
 }
