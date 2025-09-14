@@ -177,5 +177,10 @@
   "localization_not_available_description": "{language} uchun UiTweaks lokalizatsiyasi hali mavjud emas.",
   "localization_continue_text": "Siz UiTweaks'ni ingliz tilida ishlatishda davom etishingiz mumkin yoki til tanlov tugmasidan boshqa tilni tanlashingiz mumkin.",
   "restart_app": "Ilovani qayta ishga tushirish",
-  "restart_app_description": "O'zgarishlarni qo'llash uchun ilovani qayta ishga tushiring"
+  "restart_app_description": "O'zgarishlarni qo'llash uchun ilovani qayta ishga tushiring",
+  "download_localization_title": "Lokalizatsiyani yuklab olish",
+  "localization_bottom_text": "Bu jarayon faqat bir marta sodir bo'ladi. Yuklab olinganidan so'ng, fayllar mahalliy ravishda saqlanadi va sizga istalgan vaqtda tilingizda UiTweaks'ga silliq kirish imkonini beradi.",
+  "localization_not_available": "Lokalizatsiya mavjud emas",
+  "localization_not_available_description": "{language} uchun UiTweaks lokalizatsiyasi hali mavjud emas.",
+  "localization_continue_text": "Siz UiTweaks'ni ingliz tilida ishlatishda davom etishingiz mumkin yoki til tanlov tugmasidan boshqa tilni tanlashingiz mumkin."
 }

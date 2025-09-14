@@ -177,5 +177,10 @@
   "localization_not_available_description": "{language} için UiTweaks yerelleştirmesi henüz mevcut değil.",
   "localization_continue_text": "UiTweaks'ı İngilizce olarak kullanmaya devam edebilir veya dil seçici düğmesinden farklı bir dil seçebilirsiniz.",
   "restart_app": "Uygulamayı yeniden başlat",
-  "restart_app_description": "Değişiklikleri uygulamak için uygulamayı yeniden başlat"
+  "restart_app_description": "Değişiklikleri uygulamak için uygulamayı yeniden başlat",
+  "download_localization_title": "Yerelleştirmeyi indir",
+  "localization_bottom_text": "Bu işlem yalnızca bir kez gerçekleşir. İndirmeden sonra, dosyalar dilinizde UiTweaks'a istediğiniz zaman sorunsuz erişim sağlamak için yerel olarak kaydedilir.",
+  "localization_not_available": "Yerelleştirme mevcut değil",
+  "localization_not_available_description": "{language} için UiTweaks yerelleştirmesi henüz mevcut değil.",
+  "localization_continue_text": "UiTweaks'ı İngilizce olarak kullanmaya devam edebilir veya dil seçici düğmesinden farklı bir dil seçebilirsiniz."
 }

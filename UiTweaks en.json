@@ -172,7 +172,12 @@
   "localization_not_available_description": "UiTweaks localization for {language} is not available yet.",
   "localization_continue_text": "You can still use UiTweaks in English, or select a different language from the language selector button.",
   "restart_app": "Restart App",
-  "restart_app_description": "Restart app to apply changes"
+  "restart_app_description": "Restart app to apply changes",
+  "download_localization_title": "Download Localization",
+  "localization_bottom_text": "This process only happens once. After downloading, the files are saved locally to give you seamless access to UiTweaks in your language anytime.",
+  "localization_not_available": "Localization Not Available",
+  "localization_not_available_description": "UiTweaks localization for {language} is not available yet.",
+  "localization_continue_text": "The plugin will continue to work in English. Check back later for localization updates."
 }
 
 

@@ -177,6 +177,11 @@
   "localization_not_available_description": "Lokalisasi UiTweaks untuk {language} belum tersedia.",
   "localization_continue_text": "Anda masih dapat menggunakan UiTweaks dalam bahasa Inggris, atau memilih bahasa yang berbeda dari tombol pemilih bahasa.",
   "restart_app": "Restart aplikasi",
-  "restart_app_description": "Restart aplikasi untuk menerapkan perubahan"
+  "restart_app_description": "Restart aplikasi untuk menerapkan perubahan",
+  "download_localization_title": "Unduh lokalisasi",
+  "localization_bottom_text": "Proses ini hanya terjadi sekali. Setelah mengunduh, file disimpan secara lokal untuk memberi Anda akses mulus ke UiTweaks dalam bahasa Anda kapan saja.",
+  "localization_not_available": "Lokalisasi tidak tersedia",
+  "localization_not_available_description": "Lokalisasi UiTweaks untuk {language} belum tersedia.",
+  "localization_continue_text": "Anda masih dapat menggunakan UiTweaks dalam bahasa Inggris, atau memilih bahasa yang berbeda dari tombol pemilih bahasa."
 }
 

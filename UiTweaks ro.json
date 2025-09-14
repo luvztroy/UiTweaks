@@ -177,5 +177,10 @@
   "localization_not_available_description": "Localizarea UiTweaks pentru {language} nu este încă disponibilă.",
   "localization_continue_text": "Poți continua să folosești UiTweaks în engleză, sau să selectezi o limbă diferită din butonul selector de limbă.",
   "restart_app": "Repornește aplicația",
-  "restart_app_description": "Repornește aplicația pentru a aplica modificările"
+  "restart_app_description": "Repornește aplicația pentru a aplica modificările",
+  "download_localization_title": "Descarcă localizarea",
+  "localization_bottom_text": "Acest proces se întâmplă doar o dată. După descărcare, fișierele sunt salvate local pentru a-ți oferi acces fără probleme la UiTweaks în limba ta oricând.",
+  "localization_not_available": "Localizarea nu este disponibilă",
+  "localization_not_available_description": "Localizarea UiTweaks pentru {language} nu este încă disponibilă.",
+  "localization_continue_text": "Poți continua să folosești UiTweaks în engleză, sau să selectezi o limbă diferită din butonul selector de limbă."
 }

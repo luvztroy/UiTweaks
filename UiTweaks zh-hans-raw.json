@@ -177,6 +177,11 @@
   "localization_not_available_description": "{language} 的 UiTweaks 本地化尚不可用。",
   "localization_continue_text": "您仍可以继续使用英文版 UiTweaks，或从语言选择器按钮选择不同的语言。",
   "restart_app": "重启应用",
-  "restart_app_description": "重启应用以应用更改"
+  "restart_app_description": "重启应用以应用更改",
+  "download_localization_title": "下载本地化",
+  "localization_bottom_text": "此过程只发生一次。下载后，文件将本地保存，以便您随时以您的语言无缝访问 UiTweaks。",
+  "localization_not_available": "本地化不可用",
+  "localization_not_available_description": "{language} 的 UiTweaks 本地化尚不可用。",
+  "localization_continue_text": "您仍可以继续使用英文版 UiTweaks，或从语言选择器按钮选择不同的语言。"
 }
 

@@ -177,5 +177,10 @@
   "localization_not_available_description": "Лакалізацыя UiTweaks для {language} яшчэ недаступная.",
   "localization_continue_text": "Вы можаце працягваць выкарыстоўваць UiTweaks на англійскай мове або выбраць іншую мову з кнопкі выбару мовы.",
   "restart_app": "Перазапусціць дадатак",
-  "restart_app_description": "Перазапусціць дадатак для прымянення змяненняў"
+  "restart_app_description": "Перазапусціць дадатак для прымянення змяненняў",
+  "download_localization_title": "Спампаваць лакалізацыю",
+  "localization_bottom_text": "Гэты працэс адбываецца толькі адзін раз. Пасля спампоўкі файлы захоўваюцца лакальна, каб даць вам бесперапынны доступ да UiTweaks на вашай мове ў любы час.",
+  "localization_not_available": "Лакалізацыя недаступная",
+  "localization_not_available_description": "Лакалізацыя UiTweaks для {language} яшчэ недаступная.",
+  "localization_continue_text": "Вы можаце працягваць выкарыстоўваць UiTweaks на англійскай мове або выбраць іншую мову з кнопкі выбару мовы."
 }

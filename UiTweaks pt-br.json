@@ -177,5 +177,10 @@
   "localization_not_available_description": "A localização do UiTweaks para {language} ainda não está disponível.",
   "localization_continue_text": "Você ainda pode usar UiTweaks em inglês, ou selecionar um idioma diferente do botão seletor de idioma.",
   "restart_app": "Reiniciar aplicativo",
-  "restart_app_description": "Reiniciar aplicativo para aplicar alterações"
+  "restart_app_description": "Reiniciar aplicativo para aplicar alterações",
+  "download_localization_title": "Baixar localização",
+  "localization_bottom_text": "Este processo acontece apenas uma vez. Após o download, os arquivos são salvos localmente para dar acesso fluido ao UiTweaks no seu idioma a qualquer momento.",
+  "localization_not_available": "Localização não disponível",
+  "localization_not_available_description": "A localização do UiTweaks para {language} ainda não está disponível.",
+  "localization_continue_text": "Você ainda pode usar UiTweaks em inglês, ou selecionar um idioma diferente do botão seletor de idioma."
 }
