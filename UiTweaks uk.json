@@ -2,6 +2,8 @@
   "add_caption_to_gif": "Додати підпис до GIF",
   "all_features_disabled": "Всі функції UiTweaks були вимкнені.",
   "always_show": "Завжди показувати",
+  "enable_account_switcher": "Увімкнути перемикач акаунтів",
+  "enable_account_switcher_subtext": "Додає кнопку перемикання акаунтів до приватних чатів для швидкого перемикання між акаунтами",
   "always_show_download_manager": "Завжди показувати менеджер завантажень",
   "always_show_download_manager_subtext": "Робить менеджер завантажень завжди видимим у меню",
   "always_show_proxy_button": "Завжди показувати кнопку проксі",

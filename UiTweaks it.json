@@ -2,6 +2,8 @@
   "add_caption_to_gif": "Aggiungi didascalia al GIF",
   "all_features_disabled": "Tutte le funzioni UiTweaks sono state disabilitate.",
   "always_show": "Mostra sempre",
+  "enable_account_switcher": "Abilita selettore account",
+  "enable_account_switcher_subtext": "Aggiunge un pulsante selettore account alle chat private per cambiare rapidamente tra account",
   "always_show_download_manager": "Mostra sempre il gestore download",
   "always_show_download_manager_subtext": "Rende il gestore download sempre visibile nel menu",
   "always_show_proxy_button": "Mostra sempre il pulsante proxy",

@@ -2,6 +2,8 @@
   "add_caption_to_gif": "GIFga sarlavha qo'shish",
   "all_features_disabled": "Barcha UiTweaks funksiyalari o'chirildi.",
   "always_show": "Doim ko'rsatish",
+  "enable_account_switcher": "Hisob almashtiruvchini yoqish",
+  "enable_account_switcher_subtext": "Xususiy chatlarga hisob almashtirish tugmasini qo'shadi, hisoblar o'rtasida tez o'tish uchun",
   "always_show_download_manager": "Yuklab olish menejeri doim ko'rinadigan",
   "always_show_download_manager_subtext": "Yuklab olish menejeri menyuda doim ko'rinadigan qiladi",
   "always_show_proxy_button": "Proxy tugmasi doim ko'rinadigan",

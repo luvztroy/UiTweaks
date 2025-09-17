@@ -2,6 +2,8 @@
   "add_caption_to_gif": "Дадаць подпіс да GIF",
   "all_features_disabled": "Усе функцыі UiTweaks былі адключаны.",
   "always_show": "Заўсёды паказваць",
+  "enable_account_switcher": "Уключыць пераключальнік уліковых запісаў",
+  "enable_account_switcher_subtext": "Дадае кнопку пераключэння ўліковых запісаў у прыватныя чаты для хуткага пераключэння паміж уліковымі запісамі",
   "always_show_download_manager": "Заўсёды паказваць менеджар загрузак",
   "always_show_download_manager_subtext": "Робіць менеджар загрузак заўсёды бачным у меню",
   "always_show_proxy_button": "Заўсёды паказваць кнопку проксі",

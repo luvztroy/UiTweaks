@@ -2,6 +2,8 @@
   "add_caption_to_gif": "为 GIF 添加说明",
   "all_features_disabled": "所有UiTweaks功能已被禁用。",
   "always_show": "始终显示",
+  "enable_account_switcher": "启用账户切换器",
+  "enable_account_switcher_subtext": "在私聊中添加账户切换器按钮，用于快速切换账户",
   "always_show_download_manager": "始终显示下载管理器",
   "always_show_download_manager_subtext": "使下载管理器在菜单中始终可见",
   "always_show_proxy_button": "始终显示代理按钮",

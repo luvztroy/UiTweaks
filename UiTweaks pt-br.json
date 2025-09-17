@@ -2,6 +2,8 @@
   "add_caption_to_gif": "Adicionar legenda ao GIF",
   "all_features_disabled": "Todos os recursos do UiTweaks foram desabilitados.",
   "always_show": "Sempre mostrar",
+  "enable_account_switcher": "Ativar seletor de contas",
+  "enable_account_switcher_subtext": "Adiciona um botão seletor de contas aos chats privados para troca rápida entre contas",
   "always_show_download_manager": "Sempre mostrar gerenciador de downloads",
   "always_show_download_manager_subtext": "Torna o gerenciador de downloads sempre visível no menu",
   "always_show_proxy_button": "Sempre mostrar botão de proxy",

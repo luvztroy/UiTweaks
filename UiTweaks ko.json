@@ -2,6 +2,8 @@
   "add_caption_to_gif": "GIF에 캡션 추가",
   "all_features_disabled": "모든 UiTweaks 기능이 비활성화되었습니다.",
   "always_show": "항상 표시",
+  "enable_account_switcher": "계정 전환기 활성화",
+  "enable_account_switcher_subtext": "개인 채팅에 계정 전환 버튼을 추가하여 계정 간 빠른 전환을 제공합니다",
   "always_show_download_manager": "다운로드 관리자 항상 표시",
   "always_show_download_manager_subtext": "메뉴에서 다운로드 관리자를 항상 표시되도록 만듭니다",
   "always_show_proxy_button": "프록시 버튼 항상 표시",

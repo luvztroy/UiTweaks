@@ -2,6 +2,8 @@
   "add_caption_to_gif": "إضافة تعليق إلى GIF",
   "all_features_disabled": "تم تعطيل جميع ميزات UiTweaks.",
   "always_show": "إظهار دائم",
+  "enable_account_switcher": "تفعيل مبدل الحسابات",
+  "enable_account_switcher_subtext": "يضيف زر تبديل الحسابات في المحادثات الخاصة للتبديل السريع بين الحسابات",
   "always_show_download_manager": "إظهار مدير التنزيل دائماً",
   "always_show_download_manager_subtext": "يجعل مدير التنزيل مرئياً دائماً في القائمة",
   "always_show_proxy_button": "إظهار زر البروكسي دائماً",

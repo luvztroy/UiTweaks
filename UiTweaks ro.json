@@ -2,6 +2,8 @@
   "add_caption_to_gif": "Adaugă legendă la GIF",
   "all_features_disabled": "Toate funcțiile UiTweaks au fost dezactivate.",
   "always_show": "Arată întotdeauna",
+  "enable_account_switcher": "Activează selectorul de conturi",
+  "enable_account_switcher_subtext": "Adaugă un buton selector de conturi la conversațiile private pentru comutarea rapidă între conturi",
   "always_show_download_manager": "Arată întotdeauna managerul de descărcări",
   "always_show_download_manager_subtext": "Face managerul de descărcări întotdeauna vizibil în meniu",
   "always_show_proxy_button": "Arată întotdeauna butonul proxy",

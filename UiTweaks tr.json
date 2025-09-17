@@ -2,6 +2,8 @@
   "add_caption_to_gif": "GIF'e açıklama ekle",
   "all_features_disabled": "Tüm UiTweaks özellikleri devre dışı bırakıldı.",
   "always_show": "Her zaman göster",
+  "enable_account_switcher": "Hesap değiştiriciyi etkinleştir",
+  "enable_account_switcher_subtext": "Özel sohbetlere hesap değiştirme düğmesi ekler, hesaplar arasında hızlı geçiş için",
   "always_show_download_manager": "İndirme yöneticisini her zaman göster",
   "always_show_download_manager_subtext": "İndirme yöneticisini menüde her zaman görünür yapar",
   "always_show_proxy_button": "Proxy düğmesini her zaman göster",

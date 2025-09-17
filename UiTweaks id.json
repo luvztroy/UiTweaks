@@ -2,6 +2,8 @@
   "add_caption_to_gif": "Tambahkan Keterangan ke GIF",
   "all_features_disabled": "Semua fitur UiTweaks telah dinonaktifkan.",
   "always_show": "Selalu tampilkan",
+  "enable_account_switcher": "Aktifkan pengalih akun",
+  "enable_account_switcher_subtext": "Menambahkan tombol pengalih akun ke obrolan pribadi untuk beralih akun dengan cepat",
   "always_show_download_manager": "Selalu tampilkan manajer unduhan",
   "always_show_download_manager_subtext": "Membuat manajer unduhan selalu terlihat di menu",
   "always_show_proxy_button": "Selalu tampilkan tombol proxy",
