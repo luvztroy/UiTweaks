@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "Tem certeza de que deseja limpar todos os chats recentes?",
   "code_menu_item": "Código",
   "confirm_ayugram_deeplinks": "Confirmar links profundos do Ayugram",
-  "confirm_ayugram_deeplinks_subtext": "Mostra diálogo de confirmação antes de abrir links profundos do Ayugram",
   "confirm_deeplink_message": "Você realmente quer abrir este link profundo?\n{url}",
   "confirm_deeplink_title": "Confirmar Link Profundo",
   "confirm_deeplinks": "Confirmar links profundos do Telegram",
-  "confirm_deeplinks_subtext": "Mostra diálogo de confirmação antes de abrir links profundos do Telegram",
   "confirm_forward": "Confirmar encaminhamento de mensagens",
   "confirm_forward_message": "Você tem certeza de que deseja encaminhar esta mensagem?",
   "confirm_send_count_message": "{count} {message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "Inserir ID da Mensagem",
   "export_settings": "Exportar configurações",
   "export_settings_success": "{count} configurações exportadas",
-  "fab_settings_shortcut": "Atalho de configurações FAB",
+  "fab_settings_shortcut": "Atalho FAB",
   "general": "Geral",
   "goto_message": "Ir para Mensagem",
   "hidden_name": "Nome oculto",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "Badge de não lidos no botão voltar",
   "fab_action_selector": "Ação",
   "fab_action_uitweaks_settings": "Abrir configurações do UiTweaks",
-  "fab_action_archived_chats": "Abrir chats arquivados"
+  "fab_action_archived_chats": "Abrir chats arquivados",
+  "deeplink_confirmation_info": "Esses interruptores adicionam diálogos de confirmação antes de abrir links profundos para prevenir navegação acidental para conteúdo externo."
 }

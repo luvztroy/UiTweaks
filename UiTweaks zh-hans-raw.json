@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "您确定要清除所有最近聊天吗？",
   "code_menu_item": "代码",
   "confirm_ayugram_deeplinks": "确认AyuGram深度链接",
-  "confirm_ayugram_deeplinks_subtext": "打开AyuGram深度链接前显示确认对话框",
   "confirm_deeplink_message": "您真的想打开此深度链接吗？\n{url}",
   "confirm_deeplink_title": "确认深度链接",
   "confirm_deeplinks": "确认Telegram深度链接",
-  "confirm_deeplinks_subtext": "打开Telegram深度链接前显示确认对话框",
   "confirm_forward": "确认转发消息",
   "confirm_forward_message": "您确定要转发此消息吗？",
   "confirm_send_count_message": "{count}个{message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "输入消息ID",
   "export_settings": "导出设置",
   "export_settings_success": "已导出{count}个设置",
-  "fab_settings_shortcut": "FAB 设置快捷方式",
+  "fab_settings_shortcut": "FAB 快捷方式",
   "general": "常规",
   "goto_message": "跳转到消息",
   "hidden_name": "隐藏名称",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "返回按钮上的未读徽章",
   "fab_action_selector": "操作",
   "fab_action_uitweaks_settings": "打开 UiTweaks 设置",
-  "fab_action_archived_chats": "打开已归档聊天"
+  "fab_action_archived_chats": "打开已归档聊天",
+  "deeplink_confirmation_info": "这些开关在打开深度链接之前添加确认对话框，以防止意外导航到外部内容。"
 }

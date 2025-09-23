@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "Sind Sie sicher, dass Sie alle letzten Chats löschen möchten?",
   "code_menu_item": "Code",
   "confirm_ayugram_deeplinks": "Ayugram Deep-Links bestätigen",
-  "confirm_ayugram_deeplinks_subtext": "Zeigt einen Bestätigungsdialog vor dem Öffnen von Ayugram Deep-Links an",
   "confirm_deeplink_message": "Möchten Sie diesen Deep Link wirklich öffnen?\n{url}",
   "confirm_deeplink_title": "Deep Link bestätigen",
   "confirm_deeplinks": "Telegram Deep-Links bestätigen",
-  "confirm_deeplinks_subtext": "Zeigt einen Bestätigungsdialog vor dem Öffnen von Telegram Deep-Links an",
   "confirm_forward": "Weiterleiten bestätigen",
   "confirm_forward_message": "Möchten Sie diese Nachricht wirklich weiterleiten?",
   "confirm_send_count_message": "{count} {message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "Nachrichten-ID eingeben",
   "export_settings": "Einstellungen exportieren",
   "export_settings_success": "{count} Einstellungen exportiert",
-  "fab_settings_shortcut": "FAB-Einstellungen Verknüpfung",
+  "fab_settings_shortcut": "FAB-Verknüpfung",
   "general": "Allgemein",
   "goto_message": "Gehe zu Nachricht",
   "hidden_name": "Versteckter Name",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "Ungelesener Badge auf Zurück-Button",
   "fab_action_selector": "Aktion",
   "fab_action_uitweaks_settings": "UiTweaks-Einstellungen öffnen",
-  "fab_action_archived_chats": "Archivierte Chats öffnen"
+  "fab_action_archived_chats": "Archivierte Chats öffnen",
+  "deeplink_confirmation_info": "Diese Schalter fügen Bestätigungsdialoge hinzu, bevor Deep Links geöffnet werden, um versehentliche Navigation zu externen Inhalten zu verhindern."
 }

@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "Apakah Anda yakin ingin menghapus semua chat terbaru?",
   "code_menu_item": "Kode",
   "confirm_ayugram_deeplinks": "Konfirmasi Deep Link Ayugram",
-  "confirm_ayugram_deeplinks_subtext": "Tampilkan dialog konfirmasi sebelum membuka deep link Ayugram",
   "confirm_deeplink_message": "Apakah Anda benar-benar ingin membuka deep link ini?\n{url}",
   "confirm_deeplink_title": "Konfirmasi Deep Link",
   "confirm_deeplinks": "Konfirmasi Deep Link Telegram",
-  "confirm_deeplinks_subtext": "Tampilkan dialog konfirmasi sebelum membuka deep link Telegram",
   "confirm_forward": "Konfirmasi penerusan pesan",
   "confirm_forward_message": "Apakah Anda yakin ingin meneruskan pesan ini?",
   "confirm_send_count_message": "{count} {message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "Masukkan ID Pesan",
   "export_settings": "Ekspor Pengaturan",
   "export_settings_success": "Diekspor {count} pengaturan",
-  "fab_settings_shortcut": "Pintasan Pengaturan FAB",
+  "fab_settings_shortcut": "Pintasan FAB",
   "general": "Umum",
   "goto_message": "Pergi ke Pesan",
   "hidden_name": "Nama Tersembunyi",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "Badge Belum Dibaca di Tombol Kembali",
   "fab_action_selector": "Aksi",
   "fab_action_uitweaks_settings": "Buka pengaturan UiTweaks",
-  "fab_action_archived_chats": "Buka obrolan yang diarsipkan"
+  "fab_action_archived_chats": "Buka obrolan yang diarsipkan",
+  "deeplink_confirmation_info": "Tombol-tombol ini menambahkan dialog konfirmasi sebelum membuka tautan dalam untuk mencegah navigasi tidak sengaja ke konten eksternal."
 }

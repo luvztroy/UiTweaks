@@ -22,11 +22,9 @@
   "create_code_dialog_title": "Create Code",
   "create_mention_dialog_title": "Create Mention",
   "confirm_ayugram_deeplinks": "Confirm Ayugram Deep Links",
-  "confirm_ayugram_deeplinks_subtext": "Show confirmation dialog before opening Ayugram deep links",
   "confirm_deeplink_message": "Do you really want to open this deep link?\n{url}",
   "confirm_deeplink_title": "Confirm Deep Link",
   "confirm_deeplinks": "Confirm Telegram Deep Links",
-  "confirm_deeplinks_subtext": "Show confirmation dialog before opening Telegram deep links",
   "confirm_forward": "Confirm forwarding messages",
   "confirm_forward_message": "Are you sure you want to forward this message?",
   "confirm_send_count_message": "{count} {message_type}",
@@ -56,7 +54,7 @@
   "enter_message_id": "Enter Message ID",
   "export_settings": "Export Settings",
   "export_settings_success": "Exported {count} settings",
-  "fab_settings_shortcut": "FAB Settings Shortcut",
+  "fab_settings_shortcut": "FAB Shortcut",
   "general": "General",
   "goto_message": "Go to Message",
   "hidden_name": "Hidden Name",
@@ -169,5 +167,6 @@
   "context_menu_info": "These will add items to the context menu that appears when you tap on any message.",
   "fab_action_selector": "Action",
   "fab_action_uitweaks_settings": "Open UiTweaks Settings",
-  "fab_action_archived_chats": "Open Archived Chats"
+  "fab_action_archived_chats": "Open Archived Chats",
+  "deeplink_confirmation_info": "These toggles add confirmation dialogs before opening deep links to prevent accidental navigation to external content."
 }

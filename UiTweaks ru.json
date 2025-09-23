@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "Вы уверены, что хотите очистить все недавние чаты?",
   "code_menu_item": "Код",
   "confirm_ayugram_deeplinks": "Подтверждать Ayugram deeplink-ссылки",
-  "confirm_ayugram_deeplinks_subtext": "Показывать диалог подтверждения перед открытием Ayugram deeplink-ссылок",
   "confirm_deeplink_message": "Вы действительно хотите открыть эту deeplink-ссылку?\n{url}",
   "confirm_deeplink_title": "Подтвердить deeplink-ссылку",
   "confirm_deeplinks": "Подтверждать Telegram deeplink-ссылки",
-  "confirm_deeplinks_subtext": "Показывать диалог подтверждения перед открытием Telegram deeplink-ссылок",
   "confirm_forward": "Подтвердить пересылку сообщений",
   "confirm_forward_message": "Вы уверены, что хотите переслать это сообщение?",
   "confirm_send_count_message": "{count} {message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "Введите ID сообщения",
   "export_settings": "Экспорт настроек",
   "export_settings_success": "Экспортировано {count} настроек",
-  "fab_settings_shortcut": "Ярлык настроек FAB",
+  "fab_settings_shortcut": "Ярлык FAB",
   "general": "Общее",
   "goto_message": "Перейти к сообщению",
   "hidden_name": "Скрытое имя",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "Бейдж непрочитанных на кнопке «Назад»",
   "fab_action_selector": "Действие",
   "fab_action_uitweaks_settings": "Открыть настройки UiTweaks",
-  "fab_action_archived_chats": "Открыть архивированные чаты"
+  "fab_action_archived_chats": "Открыть архивированные чаты",
+  "deeplink_confirmation_info": "Эти переключатели добавляют диалоги подтверждения перед открытием глубоких ссылок, чтобы предотвратить случайную навигацию к внешнему контенту."
 }

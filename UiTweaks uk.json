@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "Ви впевнені, що хочете очистити всі останні чати?",
   "code_menu_item": "Код",
   "confirm_ayugram_deeplinks": "Підтверджувати Ayugram глибокі посилання",
-  "confirm_ayugram_deeplinks_subtext": "Показувати діалог підтвердження перед відкриттям Ayugram глибоких посилань",
   "confirm_deeplink_message": "Ви дійсно хочете відкрити це глибоке посилання?\n{url}",
   "confirm_deeplink_title": "Підтвердити Глибоке Посилання",
   "confirm_deeplinks": "Підтверджувати Telegram глибокі посилання",
-  "confirm_deeplinks_subtext": "Показувати діалог підтвердження перед відкриттям Telegram глибоких посилань",
   "confirm_forward": "Підтвердити пересилання повідомлень",
   "confirm_forward_message": "Ви впевнені, що хочете переслати це повідомлення?",
   "confirm_send_count_message": "{count} {message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "Введіть ID повідомлення",
   "export_settings": "Експорт налаштувань",
   "export_settings_success": "Експортовано {count} налаштувань",
-  "fab_settings_shortcut": "Ярлик налаштувань FAB",
+  "fab_settings_shortcut": "Ярлик FAB",
   "general": "Загальні",
   "goto_message": "Перейти до повідомлення",
   "hidden_name": "Приховане ім'я",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "Значок непрочитаних на кнопці назад",
   "fab_action_selector": "Дія",
   "fab_action_uitweaks_settings": "Відкрити налаштування UiTweaks",
-  "fab_action_archived_chats": "Відкрити архівні чати"
+  "fab_action_archived_chats": "Відкрити архівні чати",
+  "deeplink_confirmation_info": "Ці перемикачі додають діалоги підтвердження перед відкриттям глибоких посилань, щоб запобігти випадковій навігації до зовнішнього контенту."
 }

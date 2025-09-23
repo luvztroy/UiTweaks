@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "Êtes-vous sûr de vouloir effacer tous les chats récents ?",
   "code_menu_item": "Code",
   "confirm_ayugram_deeplinks": "Confirmer les liens profonds d'Ayugram",
-  "confirm_ayugram_deeplinks_subtext": "Affiche la boîte de dialogue de confirmation avant d'ouvrir des liens profonds AyuGram",
   "confirm_deeplink_message": "Voulez-vous vraiment ouvrir ce lien profond ?\n{url}",
   "confirm_deeplink_title": "Confirmer le Lien Profond",
   "confirm_deeplinks": "Confirmer les liens profonds de Telegram",
-  "confirm_deeplinks_subtext": "Affiche la boîte de dialogue de confirmation avant d'ouvrir des liens profonds de Telegram",
   "confirm_forward": "Confirmer le transfert de messages",
   "confirm_forward_message": "Êtes-vous sûr de vouloir transférer ce message ?",
   "confirm_send_count_message": "{count} {message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "Entrer l'ID du Message",
   "export_settings": "Exporter les paramètres",
   "export_settings_success": "{count} paramètres exportés",
-  "fab_settings_shortcut": "Raccourci des paramètres FAB",
+  "fab_settings_shortcut": "Raccourci FAB",
   "general": "Général",
   "goto_message": "Aller au Message",
   "hidden_name": "Nom masqué",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "Badge de non lus sur le bouton retour",
   "fab_action_selector": "Action",
   "fab_action_uitweaks_settings": "Ouvrir les paramètres UiTweaks",
-  "fab_action_archived_chats": "Ouvrir les chats archivés"
+  "fab_action_archived_chats": "Ouvrir les chats archivés",
+  "deeplink_confirmation_info": "Ces boutons ajoutent des dialogues de confirmation avant d'ouvrir les liens profonds pour éviter la navigation accidentelle vers du contenu externe."
 }

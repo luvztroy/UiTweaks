@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "Tüm son sohbetleri temizlemek istediğinizden emin misiniz?",
   "code_menu_item": "Kod",
   "confirm_ayugram_deeplinks": "Ayugram derin bağlantılarını onayla",
-  "confirm_ayugram_deeplinks_subtext": "Ayugram derin bağlantılarını açmadan önce onay diyaloğu göster",
   "confirm_deeplink_message": "Bu derin bağlantıyı gerçekten açmak istiyor musunuz?\n{url}",
   "confirm_deeplink_title": "Derin Bağlantıyı Onayla",
   "confirm_deeplinks": "Telegram derin bağlantılarını onayla",
-  "confirm_deeplinks_subtext": "Telegram derin bağlantılarını açmadan önce onay diyaloğu göster",
   "confirm_forward": "Mesajları iletmeyi onayla",
   "confirm_forward_message": "Bu mesajı iletmek istediğinizden emin misiniz?",
   "confirm_send_count_message": "{count} {message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "Mesaj ID'sini Gir",
   "export_settings": "Ayarları dışa aktar",
   "export_settings_success": "{count} ayar dışa aktarıldı",
-  "fab_settings_shortcut": "FAB Ayarları Kısayolu",
+  "fab_settings_shortcut": "FAB Kısayolu",
   "general": "Genel",
   "goto_message": "Mesaja Git",
   "hidden_name": "Gizli isim",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "Geri düğmesinde okunmamış rozet",
   "fab_action_selector": "Eylem",
   "fab_action_uitweaks_settings": "UiTweaks ayarlarını aç",
-  "fab_action_archived_chats": "Arşivlenmiş sohbetleri aç"
+  "fab_action_archived_chats": "Arşivlenmiş sohbetleri aç",
+  "deeplink_confirmation_info": "Bu anahtarlar, harici içeriğe yanlışlıkla yönlendirmeyi önlemek için derin bağlantıları açmadan önce onay diyalogları ekler."
 }

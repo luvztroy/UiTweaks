@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "Ești sigur că vrei să ștergi toate chat-urile recente?",
   "code_menu_item": "Cod",
   "confirm_ayugram_deeplinks": "Confirmă link-urile profunde de Ayugram",
-  "confirm_ayugram_deeplinks_subtext": "Arată dialogul de confirmare înainte de a deschide link-uri profunde de Ayugram",
   "confirm_deeplink_message": "Chiar vrei să deschizi acest link profund?\n{url}",
   "confirm_deeplink_title": "Confirmă Linkul Profund",
   "confirm_deeplinks": "Confirmă link-urile profunde de Telegram",
-  "confirm_deeplinks_subtext": "Arată dialogul de confirmare înainte de a deschide link-uri profunde de Telegram",
   "confirm_forward": "Confirmă trimiterea mesajelor",
   "confirm_forward_message": "Ești sigur că vrei să redirecționezi acest mesaj?",
   "confirm_send_count_message": "{count} {message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "Introdu ID-ul Mesajului",
   "export_settings": "Exportă setările",
   "export_settings_success": "{count} setări exportate",
-  "fab_settings_shortcut": "Scurtătură setări FAB",
+  "fab_settings_shortcut": "Scurtătură FAB",
   "general": "General",
   "goto_message": "Du-te la Mesaj",
   "hidden_name": "Nume ascuns",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "Insignă de necitite pe butonul înapoi",
   "fab_action_selector": "Acțiune",
   "fab_action_uitweaks_settings": "Deschide setările UiTweaks",
-  "fab_action_archived_chats": "Deschide conversațiile arhivate"
+  "fab_action_archived_chats": "Deschide conversațiile arhivate",
+  "deeplink_confirmation_info": "Aceste comutatoare adaugă dialoguri de confirmare înainte de a deschide link-uri adânci pentru a preveni navigarea accidentală către conținut extern."
 }

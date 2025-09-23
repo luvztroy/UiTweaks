@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "Barcha so'nggi chatlarni tozalashni xohlaysizmi?",
   "code_menu_item": "Kod",
   "confirm_ayugram_deeplinks": "Ayugram chuqur havolalarni tasdiqlash",
-  "confirm_ayugram_deeplinks_subtext": "Ayugram chuqur havolalarni ochishdan oldin tasdiqlash dialogini ko'rsatadi",
   "confirm_deeplink_message": "Bu chuqur havolani haqiqatan ham ochmoqchimisiz?\n{url}",
   "confirm_deeplink_title": "Chuqur Havolani Tasdiqlash",
   "confirm_deeplinks": "Telegram chuqur havolalarni tasdiqlash",
-  "confirm_deeplinks_subtext": "Telegram chuqur havolalarni ochishdan oldin tasdiqlash dialogini ko'rsatadi",
   "confirm_forward": "Xabarlarni uzatishni tasdiqlash",
   "confirm_forward_message": "Ushbu xabarni jo'natmoqchi ekanligingizga ishonchingiz komilmi?",
   "confirm_send_count_message": "{count} ta {message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "Xabar ID ni kiriting",
   "export_settings": "Sozlamalarni eksport qilish",
   "export_settings_success": "{count} sozlama eksport qilindi",
-  "fab_settings_shortcut": "FAB sozlamalari qisqa yo'li",
+  "fab_settings_shortcut": "FAB qisqa yo'li",
   "general": "Umumiy",
   "goto_message": "Xabarga o'tish",
   "hidden_name": "Yashirin ism",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "Orqaga tugmasida o'qilmagan belgisi",
   "fab_action_selector": "Harakat",
   "fab_action_uitweaks_settings": "UiTweaks sozlamalarini ochish",
-  "fab_action_archived_chats": "Arxivlangan suhbatlarni ochish"
+  "fab_action_archived_chats": "Arxivlangan suhbatlarni ochish",
+  "deeplink_confirmation_info": "Bu kalitlar tashqi kontentga tasodifiy navigatsiyani oldini olish uchun chuqur havolalarni ochishdan oldin tasdiqlash dialog qutilarini qo'shadi."
 }

@@ -18,11 +18,9 @@
   "clear_recent_chats_confirm": "هل أنت متأكد من أنك تريد مسح جميع الدردشات الأخيرة؟",
   "code_menu_item": "كود",
   "confirm_ayugram_deeplinks": "تأكيد الروابط العميقة لـ Ayugram",
-  "confirm_ayugram_deeplinks_subtext": "إظهار مربع حوار التأكيد قبل فتح الروابط العميقة لـ Ayugram",
   "confirm_deeplink_message": "هل تريد حقاً فتح هذا الرابط العميق؟\n{url}",
   "confirm_deeplink_title": "تأكيد الرابط العميق",
   "confirm_deeplinks": "تأكيد الروابط العميقة لـ Telegram",
-  "confirm_deeplinks_subtext": "إظهار مربع حوار التأكيد قبل فتح الروابط العميقة لـ Telegram",
   "confirm_forward": "تأكيد إعادة توجيه الرسائل",
   "confirm_forward_message": "هل أنت متأكد أنك تريد إعادة توجيه هذه الرسالة؟",
   "confirm_send_count_message": "{count} {message_type}",
@@ -59,7 +57,7 @@
   "enter_message_id": "أدخل معرف الرسالة",
   "export_settings": "تصدير الإعدادات",
   "export_settings_success": "تم تصدير {count} إعداد",
-  "fab_settings_shortcut": "اختصار إعدادات FAB",
+  "fab_settings_shortcut": "اختصار FAB",
   "general": "عام",
   "goto_message": "الانتقال إلى الرسالة",
   "hidden_name": "اسم مخفي",
@@ -169,5 +167,6 @@
   "unread_badge_on_back_button": "شارة الرسائل غير المقروءة على زر الرجوع",
   "fab_action_selector": "إجراء",
   "fab_action_uitweaks_settings": "فتح إعدادات UiTweaks",
-  "fab_action_archived_chats": "فتح الدردشات المؤرشفة"
+  "fab_action_archived_chats": "فتح الدردشات المؤرشفة",
+  "deeplink_confirmation_info": "تضيف هذه المفاتيح مربعات حوار تأكيد قبل فتح الروابط العميقة لمنع التنقل العرضي إلى المحتوى الخارجي."
 }
