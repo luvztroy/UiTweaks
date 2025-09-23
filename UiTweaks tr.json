@@ -32,8 +32,6 @@
   "confirm_deeplinks_subtext": "Telegram derin bağlantılarını açmadan önce onay diyaloğu göster",
   "confirm_document": "Dosya gönderimini onayla",
   "confirm_document_subtext": "Genel dosyalar göndermeden önce onay diyaloğu göster",
-  "confirm_external_links": "Harici bağlantıları onayla",
-  "confirm_external_links_subtext": "Harici bağlantıları açmadan önce onay iletişim kutusunu göster",
   "confirm_forward": "Mesajları iletmeyi onayla",
   "confirm_forward_message": "Bu mesajı iletmek istediğinizden emin misiniz?",
   "confirm_forward_subtext": "Mesajları iletmeden önce onay penceresi göster",
@@ -201,6 +199,7 @@
   "item_gifs": "GIF'ler",
   "item_forward": "İlet",
   "item_join_chat": "Sohbete katıl",
+  "item_external_links": "Harici bağlantılar",
   "item_reaction_menu": "Tepki menüsü",
   "item_message_cells": "Mesaj hücreleri"
 }

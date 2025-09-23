@@ -32,8 +32,6 @@
   "confirm_deeplinks_subtext": "Mostrar diálogo de confirmación antes de abrir enlaces profundos de Telegram",
   "confirm_document": "Confirmar envío de archivos",
   "confirm_document_subtext": "Mostrar diálogo de confirmación antes de enviar archivos generales",
-  "confirm_external_links": "Confirmar enlaces externos",
-  "confirm_external_links_subtext": "Mostrar diálogo de confirmación antes de abrir enlaces externos",
   "confirm_forward": "Confirmar reenvío de mensajes",
   "confirm_forward_message": "¿Seguro que quieres reenviar este mensaje?",
   "confirm_forward_subtext": "Mostrar un diálogo de confirmación antes de reenviar mensajes",
@@ -201,6 +199,7 @@
   "item_gifs": "GIFs",
   "item_forward": "Reenviar",
   "item_join_chat": "Unirse al chat",
+  "item_external_links": "Enlaces externos",
   "item_reaction_menu": "Menú de reacciones",
   "item_message_cells": "Celdas de mensaje"
 }

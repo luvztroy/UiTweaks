@@ -28,8 +28,6 @@
   "confirm_deeplink_title": "Підтвердити Глибоке Посилання",
   "confirm_deeplinks": "Підтверджувати Telegram глибокі посилання",
   "confirm_deeplinks_subtext": "Показувати діалог підтвердження перед відкриттям Telegram глибоких посилань",
-  "confirm_external_links": "Підтверджувати зовнішні посилання",
-  "confirm_external_links_subtext": "Показувати діалог підтвердження перед відкриттям зовнішніх посилань",
   "confirm_forward_message": "Ви впевнені, що хочете переслати це повідомлення?",
   "confirm_send_count_message": "{count} {message_type}",
   "confirm_send_message": "Ви дійсно хочете відправити цей {message_type}?",
@@ -181,6 +179,7 @@
   "item_gifs": "GIF",
   "item_forward": "Переслати",
   "item_join_chat": "Приєднатися до чату",
+  "item_external_links": "Зовнішні посилання",
   "item_reaction_menu": "Меню реакцій",
   "item_message_cells": "Клітинки повідомлень"
 }

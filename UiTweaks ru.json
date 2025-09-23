@@ -28,8 +28,6 @@
   "confirm_deeplink_title": "Подтвердить deeplink-ссылку",
   "confirm_deeplinks": "Подтверждать Telegram deeplink-ссылки",
   "confirm_deeplinks_subtext": "Показывать диалог подтверждения перед открытием Telegram deeplink-ссылок",
-  "confirm_external_links": "Подтверждать внешние ссылки",
-  "confirm_external_links_subtext": "Показывать диалог подтверждения перед открытием внешних ссылок",
   "confirm_forward_message": "Вы уверены, что хотите переслать это сообщение?",
   "confirm_send_count_message": "{count} {message_type}",
   "confirm_send_message": "Вы действительно хотите отправить {message_type}?",
@@ -181,6 +179,7 @@
   "item_gifs": "GIF",
   "item_forward": "Переслать",
   "item_join_chat": "Присоединиться к чату",
+  "item_external_links": "Внешние ссылки",
   "item_reaction_menu": "Меню реакций",
   "item_message_cells": "Ячейки сообщений"
 }

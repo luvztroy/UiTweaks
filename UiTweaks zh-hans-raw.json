@@ -32,8 +32,6 @@
   "confirm_deeplinks_subtext": "打开Telegram深度链接前显示确认对话框",
   "confirm_document": "确认发送文件",
   "confirm_document_subtext": "发送通用文件前显示确认对话框",
-  "confirm_external_links": "确认外部链接",
-  "confirm_external_links_subtext": "在打开外部链接前显示确认对话框",
   "confirm_forward": "确认转发消息",
   "confirm_forward_message": "您确定要转发此消息吗？",
   "confirm_forward_subtext": "转发消息前显示确认对话框",
@@ -201,6 +199,7 @@
   "item_gifs": "GIF",
   "item_forward": "转发",
   "item_join_chat": "加入聊天",
+  "item_external_links": "外部链接",
   "item_reaction_menu": "反应菜单",
   "item_message_cells": "消息单元格"
 }

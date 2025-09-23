@@ -28,8 +28,6 @@
   "confirm_deeplink_title": "Chuqur Havolani Tasdiqlash",
   "confirm_deeplinks": "Telegram chuqur havolalarni tasdiqlash",
   "confirm_deeplinks_subtext": "Telegram chuqur havolalarni ochishdan oldin tasdiqlash dialogini ko'rsatadi",
-  "confirm_external_links": "Tashqi havolalarni tasdiqlash",
-  "confirm_external_links_subtext": "Tashqi havolalarni ochishdan oldin tasdiqlash dialogini ko'rsatish",
   "confirm_forward_message": "Ushbu xabarni jo'natmoqchi ekanligingizga ishonchingiz komilmi?",
   "confirm_send_count_message": "{count} {message_type}",
   "confirm_send_message": "Bu {message_type} ni haqiqatan ham yubormoqchimisiz?",
@@ -181,6 +179,7 @@
   "item_gifs": "GIF",
   "item_forward": "Jo'natish",
   "item_join_chat": "Chatga qo'shilish",
+  "item_external_links": "Tashqi havolalar",
   "item_reaction_menu": "Reaksiya menyusi",
   "item_message_cells": "Xabar kataklari"
 }

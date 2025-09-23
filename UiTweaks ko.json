@@ -32,8 +32,6 @@
   "confirm_deeplinks_subtext": "Telegram 딥링크를 열기 전에 확인 대화상자를 표시합니다",
   "confirm_document": "문서 전송 확인",
   "confirm_document_subtext": "일반 파일을 전송하기 전에 확인 대화상자를 표시합니다",
-  "confirm_external_links": "외부 링크 확인",
-  "confirm_external_links_subtext": "외부 링크를 열기 전에 확인 대화상자 표시",
   "confirm_forward": "메시지 전달 확인",
   "confirm_forward_message": "이 메시지를 정말로 전달하시겠습니까?",
   "confirm_forward_subtext": "메시지 전달 전에 확인 대화상자를 표시합니다",
@@ -201,6 +199,7 @@
   "item_gifs": "GIF",
   "item_forward": "전달",
   "item_join_chat": "채팅 참여",
+  "item_external_links": "외부 링크",
   "item_reaction_menu": "반응 메뉴",
   "item_message_cells": "메시지 셀"
 }

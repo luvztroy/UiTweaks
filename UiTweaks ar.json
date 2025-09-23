@@ -28,8 +28,6 @@
   "confirm_deeplink_title": "تأكيد الرابط العميق",
   "confirm_deeplinks": "تأكيد الروابط العميقة لـ Telegram",
   "confirm_deeplinks_subtext": "إظهار مربع حوار التأكيد قبل فتح الروابط العميقة لـ Telegram",
-  "confirm_external_links": "تأكيد الروابط الخارجية",
-  "confirm_external_links_subtext": "إظهار مربع حوار التأكيد قبل فتح الروابط الخارجية",
   "confirm_forward_message": "هل أنت متأكد أنك تريد إعادة توجيه هذه الرسالة؟",
   "confirm_send_count_message": "{count} {message_type}",
   "confirm_send_message": "هل تريد حقاً إرسال هذا {message_type}؟",
@@ -181,6 +179,7 @@
   "item_gifs": "صور GIF",
   "item_forward": "إعادة التوجيه",
   "item_join_chat": "الانضمام للمحادثة",
+  "item_external_links": "الروابط الخارجية",
   "item_reaction_menu": "قائمة التفاعلات",
   "item_message_cells": "خلايا الرسائل"
 }

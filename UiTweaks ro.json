@@ -28,8 +28,6 @@
   "confirm_deeplink_title": "Confirmă Linkul Profund",
   "confirm_deeplinks": "Confirmă link-urile profunde de Telegram",
   "confirm_deeplinks_subtext": "Arată dialogul de confirmare înainte de a deschide link-uri profunde de Telegram",
-  "confirm_external_links": "Confirmă linkurile externe",
-  "confirm_external_links_subtext": "Afișează dialogul de confirmare înainte de a deschide linkurile externe",
   "confirm_forward_message": "Ești sigur că vrei să redirecționezi acest mesaj?",
   "confirm_send_count_message": "{count} {message_type}",
   "confirm_send_message": "Chiar vrei să trimiți acest {message_type}?",
@@ -181,6 +179,7 @@
   "item_gifs": "GIF-uri",
   "item_forward": "Redirecționează",
   "item_join_chat": "Alătură-te chat-ului",
+  "item_external_links": "Linkuri externe",
   "item_reaction_menu": "Meniul de reacții",
   "item_message_cells": "Celulele de mesaje"
 }

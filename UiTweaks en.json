@@ -30,8 +30,6 @@
   "confirm_deeplink_title": "Confirm Deep Link",
   "confirm_deeplinks": "Confirm Telegram Deep Links",
   "confirm_deeplinks_subtext": "Show confirmation dialog before opening Telegram deep links",
-  "confirm_external_links": "Confirm External Links",
-  "confirm_external_links_subtext": "Show a confirmation dialog before opening external links",
   "confirm_forward_message": "Are you sure you want to forward this message?",
   "confirm_send_count_message": "{count} {message_type}",
   "confirm_send_message": "Do you really want to send this {message_type}?",
@@ -181,6 +179,7 @@
   "item_gifs": "GIFs",
   "item_forward": "Forward",
   "item_join_chat": "Join Chat",
+  "item_external_links": "External Links",
   "item_reaction_menu": "Reaction Menu",
   "item_message_cells": "Message Cells"
 }

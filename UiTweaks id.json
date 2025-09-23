@@ -28,8 +28,6 @@
   "confirm_deeplink_title": "Konfirmasi Deep Link",
   "confirm_deeplinks": "Konfirmasi Deep Link Telegram",
   "confirm_deeplinks_subtext": "Tampilkan dialog konfirmasi sebelum membuka deep link Telegram",
-  "confirm_external_links": "Konfirmasi Link Eksternal",
-  "confirm_external_links_subtext": "Tampilkan dialog konfirmasi sebelum membuka link eksternal",
   "confirm_forward_message": "Apakah Anda yakin ingin meneruskan pesan ini?",
   "confirm_send_count_message": "{count} {message_type}",
   "confirm_send_message": "Apakah Anda benar-benar ingin mengirim {message_type} ini?",
@@ -181,6 +179,7 @@
   "item_gifs": "GIF",
   "item_forward": "Teruskan",
   "item_join_chat": "Bergabung ke chat",
+  "item_external_links": "Tautan eksternal",
   "item_reaction_menu": "Menu reaksi",
   "item_message_cells": "Sel pesan"
 }

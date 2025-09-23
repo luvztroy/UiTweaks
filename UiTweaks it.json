@@ -32,8 +32,6 @@
   "confirm_deeplinks_subtext": "Mostra dialog di conferma prima di aprire link profondi di Telegram",
   "confirm_document": "Conferma invio file",
   "confirm_document_subtext": "Mostra dialog di conferma prima di inviare file generali",
-  "confirm_external_links": "Conferma link esterni",
-  "confirm_external_links_subtext": "Mostra una finestra di dialogo di conferma prima di aprire link esterni",
   "confirm_forward": "Conferma l'inoltro dei messaggi",
   "confirm_forward_message": "Sei sicuro di voler inoltrare questo messaggio?",
   "confirm_forward_subtext": "Mostra una conferma prima di inoltrare i messaggi",
@@ -201,6 +199,7 @@
   "item_gifs": "GIF",
   "item_forward": "Inoltra",
   "item_join_chat": "Unisciti alla chat",
+  "item_external_links": "Link esterni",
   "item_reaction_menu": "Menu reazioni",
   "item_message_cells": "Celle messaggio"
 }
