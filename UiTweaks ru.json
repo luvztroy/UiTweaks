@@ -51,7 +51,7 @@
   "enable_debug_logging_quantahut": "Включить отладочное логирование",
   "enable_debug_logging_quantahut_subtext": "Показывать подробные логи работы QuantaHut",
   "enable_debug_logging_subtext": "Показывать подробные логи работы UiTweaks",
-  "enable_goto_message": "Включить Перейти к сообщению",
+  "enable_goto_message": "Поиск по ID сообщения",
   "enable_goto_message_subtext": "Добавляет опцию 'Перейти к сообщению' в меню заголовка чата для быстрой навигации по ID сообщения",
   "enable_no_quote_forward": "Включить пересылку без цитирования",
   "enable_no_quote_forward_subtext": "Добавляет опцию «Переслать без цитирования» в контекстное меню сообщений",

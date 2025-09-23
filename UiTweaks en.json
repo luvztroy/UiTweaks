@@ -51,7 +51,7 @@
   "enable_debug_logging_quantahut": "Enable Debug Logging",
   "enable_debug_logging_quantahut_subtext": "Display detailed QuantaHut operation logs",
   "enable_debug_logging_subtext": "Display detailed UiTweaks operation logs",
-  "enable_goto_message": "Enable Go to Message",
+  "enable_goto_message": "Search by Message ID",
   "enable_goto_message_subtext": "Adds 'Go to Message' option to chat header menu for quick navigation by message ID",
   "enable_no_quote_forward": "Enable No-Quote Forward",
   "enable_no_quote_forward_subtext": "Adds 'NoQuote forward' option to message context menu to forward messages without sender attribution",

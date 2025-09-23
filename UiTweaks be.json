@@ -51,7 +51,7 @@
   "enable_debug_logging_quantahut": "Уключыць журнал адладкі",
   "enable_debug_logging_quantahut_subtext": "Паказваць падрабязныя журналы аперацый QuantaHut",
   "enable_debug_logging_subtext": "Паказваць падрабязныя журналы працы UiTweaks",
-  "enable_goto_message": "Уключыць пераход да паведамлення",
+  "enable_goto_message": "Пошук па ID паведамлення",
   "enable_goto_message_subtext": "Дадае опцыю 'Пераход да паведамлення' ў меню загалоўка чата для хуткай навігацыі па ID паведамлення",
   "enable_no_quote_forward": "Уключыць перасылку без цытавання",
   "enable_no_quote_forward_subtext": "Дадае опцыю «Пераслаць без цытавання» у кантэкстнае меню паведамленняў для перасылкі паведамленняў без указання адпраўніка",

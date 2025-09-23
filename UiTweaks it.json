@@ -71,7 +71,7 @@
   "enable_debug_logging_quantahut": "Abilita registri di debug",
   "enable_debug_logging_quantahut_subtext": "Mostra registri dettagliati delle operazioni QuantaHut",
   "enable_debug_logging_subtext": "Mostra registri dettagliati delle operazioni UiTweaks",
-  "enable_goto_message": "Abilita Vai al Messaggio",
+  "enable_goto_message": "Cerca per ID messaggio",
   "enable_goto_message_subtext": "Aggiunge l'opzione 'Vai al Messaggio' al menu dell'intestazione della chat per una navigazione rapida tramite ID messaggio",
   "enable_no_quote_forward": "Abilita inoltro senza citazione",
   "enable_no_quote_forward_subtext": "Aggiunge l'opzione 'Inoltro senza citazione' al menu contestuale dei messaggi per inoltrare messaggi senza attribuzione del mittente",

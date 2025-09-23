@@ -51,7 +51,7 @@
   "enable_debug_logging_quantahut": "Activează jurnalizarea de depanare",
   "enable_debug_logging_quantahut_subtext": "Afișează jurnale detaliate ale operațiunilor QuantaHut",
   "enable_debug_logging_subtext": "Afișează jurnale detaliate ale operațiunilor UiTweaks",
-  "enable_goto_message": "Activează Du-te la Mesaj",
+  "enable_goto_message": "Caută după ID-ul mesajului",
   "enable_goto_message_subtext": "Adaugă opțiunea 'Du-te la Mesaj' în meniul antetului chat-ului pentru navigare rapidă prin ID-ul mesajului",
   "enable_no_quote_forward": "Activați trimiterea fără citare",
   "enable_no_quote_forward_subtext": "Adaugă opțiunea 'Trimite fără citare' la meniul contextual al mesajelor pentru a trimite mesaje fără atribuirea expeditorului",

@@ -71,7 +71,7 @@
   "enable_debug_logging_quantahut": "Debug-Protokollierung aktivieren",
   "enable_debug_logging_quantahut_subtext": "Detaillierte QuantaHut-Betriebsprotokolle anzeigen",
   "enable_debug_logging_subtext": "Detaillierte UiTweaks-Betriebsprotokolle anzeigen",
-  "enable_goto_message": "Gehe zu Nachricht aktivieren",
+  "enable_goto_message": "Nach Nachrichten-ID suchen",
   "enable_goto_message_subtext": "Fügt 'Gehe zu Nachricht' Option zum Chat-Header-Menü für schnelle Navigation per Nachrichten-ID hinzu",
   "enable_no_quote_forward": "Weiterleitung ohne Zitat aktivieren",
   "enable_no_quote_forward_subtext": "Fügt die Option 'Weiterleitung ohne Zitat' zum Nachrichten-Kontextmenü hinzu, um Nachrichten ohne Absenderangabe weiterzuleiten",

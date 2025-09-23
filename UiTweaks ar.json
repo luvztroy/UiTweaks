@@ -51,7 +51,7 @@
   "enable_debug_logging_quantahut": "تفعيل سجلات التصحيح",
   "enable_debug_logging_quantahut_subtext": "عرض سجلات مفصلة لعمليات QuantaHut",
   "enable_debug_logging_subtext": "عرض سجلات مفصلة لعمليات UiTweaks",
-  "enable_goto_message": "تفعيل الانتقال إلى الرسالة",
+  "enable_goto_message": "البحث بواسطة معرف الرسالة",
   "enable_goto_message_subtext": "يضيف خيار 'الانتقال إلى الرسالة' في قائمة رأس المحادثة للتنقل السريع باستخدام معرف الرسالة",
   "enable_no_quote_forward": "تفعيل إعادة التوجيه بدون اقتباس",
   "enable_no_quote_forward_subtext": "يضيف خيار 'إعادة توجيه بدون اقتباس' إلى قائمة سياق الرسائل لإعادة توجيه الرسائل بدون ذكر المرسل",

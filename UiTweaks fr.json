@@ -71,7 +71,7 @@
   "enable_debug_logging_quantahut": "Activer les journaux de débogage",
   "enable_debug_logging_quantahut_subtext": "Afficher les journaux détaillés des opérations QuantaHut",
   "enable_debug_logging_subtext": "Afficher les journaux détaillés des opérations UiTweaks",
-  "enable_goto_message": "Activer Aller au Message",
+  "enable_goto_message": "Rechercher par ID de message",
   "enable_goto_message_subtext": "Ajoute l'option 'Aller au Message' au menu d'en-tête de chat pour une navigation rapide par ID de message",
   "enable_no_quote_forward": "Activer le transfert sans citation",
   "enable_no_quote_forward_subtext": "Ajoute l'option 'Transférer sans citation' au menu contextuel des messages pour transférer des messages sans attribution de l'expéditeur",

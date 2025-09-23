@@ -71,7 +71,7 @@
   "enable_debug_logging_quantahut": "Hata ayıklama günlüğünü etkinleştir",
   "enable_debug_logging_quantahut_subtext": "QuantaHut işlemlerinin ayrıntılı günlüklerini göster",
   "enable_debug_logging_subtext": "UiTweaks işlemlerinin ayrıntılı günlüklerini göster",
-  "enable_goto_message": "Mesaja Git'i Etkinleştir",
+  "enable_goto_message": "Mesaj ID'sine göre ara",
   "enable_goto_message_subtext": "Mesaj ID'si ile hızlı navigasyon için chat başlık menüsüne 'Mesaja Git' seçeneğini ekler",
   "enable_no_quote_forward": "Alıntısız yönlendirmeyi etkinleştir",
   "enable_no_quote_forward_subtext": "Mesajları gönderen bilgisi olmadan yönlendirmek için mesaj bağlam menüsüne 'Alıntısız yönlendir' seçeneğini ekler",

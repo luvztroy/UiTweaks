@@ -71,7 +71,7 @@
   "enable_debug_logging_quantahut": "Habilitar registro de depuración",
   "enable_debug_logging_quantahut_subtext": "Mostrar registros detallados de operaciones de QuantaHut",
   "enable_debug_logging_subtext": "Mostrar registros detallados de operaciones de UiTweaks",
-  "enable_goto_message": "Habilitar Ir a Mensaje",
+  "enable_goto_message": "Buscar por ID de mensaje",
   "enable_goto_message_subtext": "Añade la opción 'Ir a Mensaje' al menú del encabezado del chat para navegación rápida por ID de mensaje",
   "enable_no_quote_forward": "Habilitar reenvío sin cita",
   "enable_no_quote_forward_subtext": "Añade la opción 'Reenviar sin cita' al menú contextual de mensajes para reenviar mensajes sin atribución del remitente",
