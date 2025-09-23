@@ -60,7 +60,6 @@
   "export_settings": "导出设置",
   "export_settings_success": "已导出{count}个设置",
   "fab_settings_shortcut": "FAB 设置快捷方式",
-  "fab_settings_shortcut_subtext": "长按 FAB 打开 UiTweaks 设置",
   "general": "常规",
   "goto_message": "跳转到消息",
   "hidden_name": "隐藏名称",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "输入而不是选择贴纸",
   "uitweaks_settings": "UiTweaks设置",
   "unlock_uitweaks_description": "解锁 {language} 版本的 UiTweaks 以获得无缝体验。",
-  "unread_badge_on_back_button": "返回按钮上的未读徽章"
+  "unread_badge_on_back_button": "返回按钮上的未读徽章",
+  "fab_action_selector": "操作",
+  "fab_action_uitweaks_settings": "打开 UiTweaks 设置",
+  "fab_action_archived_chats": "打开已归档聊天"
 }

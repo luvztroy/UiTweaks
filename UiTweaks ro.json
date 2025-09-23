@@ -60,7 +60,6 @@
   "export_settings": "Exportă setările",
   "export_settings_success": "{count} setări exportate",
   "fab_settings_shortcut": "Scurtătură setări FAB",
-  "fab_settings_shortcut_subtext": "Ține apăsat FAB pentru a deschide setările UiTweaks",
   "general": "General",
   "goto_message": "Du-te la Mesaj",
   "hidden_name": "Nume ascuns",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "Tastare în loc de alegerea sticker-ului",
   "uitweaks_settings": "Setări UiTweaks",
   "unlock_uitweaks_description": "Deblochează UiTweaks în {language} pentru o experiență fără probleme.",
-  "unread_badge_on_back_button": "Insignă de necitite pe butonul înapoi"
+  "unread_badge_on_back_button": "Insignă de necitite pe butonul înapoi",
+  "fab_action_selector": "Acțiune",
+  "fab_action_uitweaks_settings": "Deschide setările UiTweaks",
+  "fab_action_archived_chats": "Deschide conversațiile arhivate"
 }

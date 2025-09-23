@@ -60,7 +60,6 @@
   "export_settings": "Ekspor Pengaturan",
   "export_settings_success": "Diekspor {count} pengaturan",
   "fab_settings_shortcut": "Pintasan Pengaturan FAB",
-  "fab_settings_shortcut_subtext": "Tekan lama FAB untuk membuka pengaturan UiTweaks",
   "general": "Umum",
   "goto_message": "Pergi ke Pesan",
   "hidden_name": "Nama Tersembunyi",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "Mengetik alih-alih memilih stiker",
   "uitweaks_settings": "Pengaturan UiTweaks",
   "unlock_uitweaks_description": "Buka kunci UiTweaks dalam {language} untuk pengalaman yang mulus.",
-  "unread_badge_on_back_button": "Badge Belum Dibaca di Tombol Kembali"
+  "unread_badge_on_back_button": "Badge Belum Dibaca di Tombol Kembali",
+  "fab_action_selector": "Aksi",
+  "fab_action_uitweaks_settings": "Buka pengaturan UiTweaks",
+  "fab_action_archived_chats": "Buka obrolan yang diarsipkan"
 }

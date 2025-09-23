@@ -60,7 +60,6 @@
   "export_settings": "설정 내보내기",
   "export_settings_success": "{count}개 설정 내보냄",
   "fab_settings_shortcut": "FAB 설정 바로가기",
-  "fab_settings_shortcut_subtext": "FAB을 길게 눌러 UiTweaks 설정을 엽니다",
   "general": "일반",
   "goto_message": "메시지로 이동",
   "hidden_name": "숨겨진 이름",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "스티커 선택 대신 타이핑",
   "uitweaks_settings": "UiTweaks 설정",
   "unlock_uitweaks_description": "{language}로 UiTweaks를 잠금 해제하여 원활한 경험을 제공합니다.",
-  "unread_badge_on_back_button": "뒤로 버튼의 읽지 않은 배지"
+  "unread_badge_on_back_button": "뒤로 버튼의 읽지 않은 배지",
+  "fab_action_selector": "동작",
+  "fab_action_uitweaks_settings": "UiTweaks 설정 열기",
+  "fab_action_archived_chats": "보관된 채팅 열기"
 }

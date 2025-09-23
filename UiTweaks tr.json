@@ -60,7 +60,6 @@
   "export_settings": "Ayarları dışa aktar",
   "export_settings_success": "{count} ayar dışa aktarıldı",
   "fab_settings_shortcut": "FAB Ayarları Kısayolu",
-  "fab_settings_shortcut_subtext": "UiTweaks ayarlarını açmak için FAB'a uzun basın",
   "general": "Genel",
   "goto_message": "Mesaja Git",
   "hidden_name": "Gizli isim",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "Çıkartma seçmek yerine yazıyor",
   "uitweaks_settings": "UiTweaks Ayarları",
   "unlock_uitweaks_description": "Sorunsuz bir deneyim için UiTweaks'ı {language} dilinde açın.",
-  "unread_badge_on_back_button": "Geri düğmesinde okunmamış rozet"
+  "unread_badge_on_back_button": "Geri düğmesinde okunmamış rozet",
+  "fab_action_selector": "Eylem",
+  "fab_action_uitweaks_settings": "UiTweaks ayarlarını aç",
+  "fab_action_archived_chats": "Arşivlenmiş sohbetleri aç"
 }

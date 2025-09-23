@@ -60,7 +60,6 @@
   "export_settings": "Экспорт настроек",
   "export_settings_success": "Экспортировано {count} настроек",
   "fab_settings_shortcut": "Ярлык настроек FAB",
-  "fab_settings_shortcut_subtext": "Долгое нажатие FAB для открытия настроек UiTweaks",
   "general": "Общее",
   "goto_message": "Перейти к сообщению",
   "hidden_name": "Скрытое имя",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "Печатание вместо выбора стикера",
   "uitweaks_settings": "Настройки UiTweaks",
   "unlock_uitweaks_description": "Разблокируйте UiTweaks на {language} для бесшовного опыта.",
-  "unread_badge_on_back_button": "Бейдж непрочитанных на кнопке «Назад»"
+  "unread_badge_on_back_button": "Бейдж непрочитанных на кнопке «Назад»",
+  "fab_action_selector": "Действие",
+  "fab_action_uitweaks_settings": "Открыть настройки UiTweaks",
+  "fab_action_archived_chats": "Открыть архивированные чаты"
 }

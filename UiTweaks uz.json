@@ -60,7 +60,6 @@
   "export_settings": "Sozlamalarni eksport qilish",
   "export_settings_success": "{count} sozlama eksport qilindi",
   "fab_settings_shortcut": "FAB sozlamalari qisqa yo'li",
-  "fab_settings_shortcut_subtext": "UiTweaks sozlamalarini ochish uchun FABni uzoq bosing",
   "general": "Umumiy",
   "goto_message": "Xabarga o'tish",
   "hidden_name": "Yashirin ism",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "Stiker tanlash o'rniga yozish",
   "uitweaks_settings": "UiTweaks Sozlamalari",
   "unlock_uitweaks_description": "Silliq tajriba uchun UiTweaks'ni {language} tilida oching.",
-  "unread_badge_on_back_button": "Orqaga tugmasida o'qilmagan belgisi"
+  "unread_badge_on_back_button": "Orqaga tugmasida o'qilmagan belgisi",
+  "fab_action_selector": "Harakat",
+  "fab_action_uitweaks_settings": "UiTweaks sozlamalarini ochish",
+  "fab_action_archived_chats": "Arxivlangan suhbatlarni ochish"
 }

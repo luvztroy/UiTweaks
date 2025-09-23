@@ -57,7 +57,6 @@
   "export_settings": "Export Settings",
   "export_settings_success": "Exported {count} settings",
   "fab_settings_shortcut": "FAB Settings Shortcut",
-  "fab_settings_shortcut_subtext": "Long press FAB to open UiTweaks settings",
   "general": "General",
   "goto_message": "Go to Message",
   "hidden_name": "Hidden Name",
@@ -167,5 +166,8 @@
   "menu_visibility_info": "This will force the buttons to always show in the action bar.",
   "recent_chats_menu_info": "Shows recent chats when long-pressing the drawer icon in chat list. Stores up to 20 chats.",
   "navigation_controls_info": "This will prevent the telegram navigation gestures to work from these scenarios.",
-  "context_menu_info": "These will add items to the context menu that appears when you tap on any message."
+  "context_menu_info": "These will add items to the context menu that appears when you tap on any message.",
+  "fab_action_selector": "Action",
+  "fab_action_uitweaks_settings": "Open UiTweaks Settings",
+  "fab_action_archived_chats": "Open Archived Chats"
 }

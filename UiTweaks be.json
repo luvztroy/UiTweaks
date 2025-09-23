@@ -60,7 +60,6 @@
   "export_settings": "Экспарт налад",
   "export_settings_success": "Экспартавана {count} налад",
   "fab_settings_shortcut": "Спасылка на налады FAB",
-  "fab_settings_shortcut_subtext": "Доўгае націсканне FAB для адкрыцця наладаў UiTweaks",
   "general": "Агульнае",
   "goto_message": "Пераход да паведамлення",
   "hidden_name": "Схаванае імя",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "Набор замест выбару стыкера",
   "uitweaks_settings": "Налады UiTweaks",
   "unlock_uitweaks_description": "Разблакуйце UiTweaks на {language} для бесперапыннага вопыту.",
-  "unread_badge_on_back_button": "Значок непрачытаных на кнопцы назад"
+  "unread_badge_on_back_button": "Значок непрачытаных на кнопцы назад",
+  "fab_action_selector": "Дзеянне",
+  "fab_action_uitweaks_settings": "Адкрыць налады UiTweaks",
+  "fab_action_archived_chats": "Адкрыць архіўныя чаты"
 }

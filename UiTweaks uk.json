@@ -60,7 +60,6 @@
   "export_settings": "Експорт налаштувань",
   "export_settings_success": "Експортовано {count} налаштувань",
   "fab_settings_shortcut": "Ярлик налаштувань FAB",
-  "fab_settings_shortcut_subtext": "Довге натискання FAB для відкриття налаштувань UiTweaks",
   "general": "Загальні",
   "goto_message": "Перейти до повідомлення",
   "hidden_name": "Приховане ім'я",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "Друкування замість вибору стікера",
   "uitweaks_settings": "Налаштування UiTweaks",
   "unlock_uitweaks_description": "Розблокуйте UiTweaks українською мовою для безшовного досвіду.",
-  "unread_badge_on_back_button": "Значок непрочитаних на кнопці назад"
+  "unread_badge_on_back_button": "Значок непрочитаних на кнопці назад",
+  "fab_action_selector": "Дія",
+  "fab_action_uitweaks_settings": "Відкрити налаштування UiTweaks",
+  "fab_action_archived_chats": "Відкрити архівні чати"
 }

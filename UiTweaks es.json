@@ -60,7 +60,6 @@
   "export_settings": "Exportar configuraciones",
   "export_settings_success": "{count} configuraciones exportadas",
   "fab_settings_shortcut": "Atajo de configuración FAB",
-  "fab_settings_shortcut_subtext": "Mantén presionado FAB para abrir la configuración de UiTweaks",
   "general": "General",
   "goto_message": "Ir a Mensaje",
   "hidden_name": "Nombre oculto",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "Escribir en lugar de elegir sticker",
   "uitweaks_settings": "Configuración de UiTweaks",
   "unlock_uitweaks_description": "Desbloquea UiTweaks en {language} para una experiencia fluida.",
-  "unread_badge_on_back_button": "Insignia de no leídos en botón de retroceso"
+  "unread_badge_on_back_button": "Insignia de no leídos en botón de retroceso",
+  "fab_action_selector": "Acción",
+  "fab_action_uitweaks_settings": "Abrir configuración de UiTweaks",
+  "fab_action_archived_chats": "Abrir chats archivados"
 }

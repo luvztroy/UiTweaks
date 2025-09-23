@@ -60,7 +60,6 @@
   "export_settings": "تصدير الإعدادات",
   "export_settings_success": "تم تصدير {count} إعداد",
   "fab_settings_shortcut": "اختصار إعدادات FAB",
-  "fab_settings_shortcut_subtext": "اضغط مطولاً على FAB لفتح إعدادات UiTweaks",
   "general": "عام",
   "goto_message": "الانتقال إلى الرسالة",
   "hidden_name": "اسم مخفي",
@@ -167,5 +166,8 @@
   "typing_instead_sticker": "الكتابة بدلاً من اختيار الملصق",
   "uitweaks_settings": "إعدادات UiTweaks",
   "unlock_uitweaks_description": "افتح UiTweaks باللغة {language} لتجربة سلسة.",
-  "unread_badge_on_back_button": "شارة الرسائل غير المقروءة على زر الرجوع"
+  "unread_badge_on_back_button": "شارة الرسائل غير المقروءة على زر الرجوع",
+  "fab_action_selector": "إجراء",
+  "fab_action_uitweaks_settings": "فتح إعدادات UiTweaks",
+  "fab_action_archived_chats": "فتح الدردشات المؤرشفة"
 }
