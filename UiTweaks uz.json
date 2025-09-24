@@ -74,7 +74,7 @@
   "hide_hd_icon_info": "Bu faqat media tanlovchisidan HD belgisini olib tashlaydi. Bu media sifati ta'sir qilmaydi.",
   "hide_items_option": "Elementlarni yashirish",
   "hide_phone_number": "Profillarda telefon raqamini yashirish",
-  "hide_phone_number_subtext": "Maxfiylik uchun profillarda boshqa foydalanuvchilar telefon raqamlarini 'Mobil yashirilgan' bilan almashtiradi",
+  "hide_phone_number_info": "Bu qabul qiluvchining profilidagi telefon raqamini yashiradi.",
   "hide_reaction_button": "Reaksiya hisoblagichi tugmasini yashirish",
   "hide_star_reaction": "Yulduz reaktsiyasini yashirish",
   "hide_with_spoiler": "Spoiler bilan yashirish",

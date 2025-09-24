@@ -74,7 +74,7 @@
   "hide_hd_icon_info": "Isso apenas removerá o ícone HD do seletor de mídia. Não afetará a qualidade da mídia.",
   "hide_items_option": "Ocultar itens",
   "hide_phone_number": "Ocultar número de telefone nos perfis",
-  "hide_phone_number_subtext": "Substitui números de telefone de outros usuários nos perfis por 'Móvel oculto' para privacidade",
+  "hide_phone_number_info": "Isso ocultará o número de telefone do destinatário em seu perfil.",
   "hide_reaction_button": "Ocultar botão contador de reações",
   "hide_star_reaction": "Ocultar reação de estrela",
   "hide_with_spoiler": "Ocultar com spoiler",

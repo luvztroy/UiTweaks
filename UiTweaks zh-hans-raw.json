@@ -74,7 +74,7 @@
   "hide_hd_icon_info": "这只会从媒体选择器中移除HD图标。不会影响媒体质量。",
   "hide_items_option": "隐藏项目",
   "hide_phone_number": "在个人资料中隐藏电话号码",
-  "hide_phone_number_subtext": "出于隐私原因，在个人资料中将其他用户的电话号码替换为\"移动电话已隐藏\"",
+  "hide_phone_number_info": "这将隐藏收件人个人资料中的电话号码。",
   "hide_reaction_button": "隐藏反应计数按钮",
   "hide_star_reaction": "隐藏星形反应",
   "hide_with_spoiler": "用剧透隐藏",

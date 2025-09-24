@@ -74,7 +74,7 @@
   "hide_hd_icon_info": "Dies entfernt nur das HD-Symbol aus dem Medienauswähler. Es beeinflusst nicht die Qualität der Medien.",
   "hide_items_option": "Elemente ausblenden",
   "hide_phone_number": "Telefonnummer in Profilen ausblenden",
-  "hide_phone_number_subtext": "Ersetzt die Telefonnummern anderer Benutzer durch 'Mobil versteckt' in Profilen aus Datenschutzgründen",
+  "hide_phone_number_info": "Dies verbirgt die Telefonnummer des Empfängers in seinem Profil.",
   "hide_reaction_button": "Reaktionszähler-Button ausblenden",
   "hide_star_reaction": "Stern-Reaktion ausblenden",
   "hide_with_spoiler": "Mit Spoiler verstecken",

@@ -74,7 +74,7 @@
   "hide_hd_icon_info": "Ini hanya akan menghapus ikon HD dari pemilih media. Ini tidak akan mempengaruhi kualitas media.",
   "hide_items_option": "Sembunyikan Item",
   "hide_phone_number": "Sembunyikan nomor telepon di profil",
-  "hide_phone_number_subtext": "Mengganti nomor telepon pengguna lain dengan 'Ponsel disembunyikan' di profil untuk alasan privasi",
+  "hide_phone_number_info": "Ini akan menyembunyikan nomor telepon penerima dari profil mereka.",
   "hide_reaction_button": "Sembunyikan Tombol Hitung Reaksi",
   "hide_star_reaction": "Sembunyikan reaksi bintang",
   "hide_with_spoiler": "Sembunyikan dengan spoiler",

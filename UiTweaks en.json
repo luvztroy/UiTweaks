@@ -70,7 +70,7 @@
   "hide_hd_icon": "Hide HD icon in media picker",
   "hide_items_option": "Hide Items",
   "hide_phone_number": "Hide phone number in profiles",
-  "hide_phone_number_subtext": "Replaces other users' phone numbers with 'Mobile hidden' in profiles for privacy reasons",
+  "hide_phone_number_info": "This will hide the recipient's phone number from their profile.",
   "hide_reaction_button": "Hide Reaction Count Button",
   "hide_star_reaction": "Hide star reaction",
   "hide_with_spoiler": "Hide with spoiler",
