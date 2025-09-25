@@ -38,6 +38,8 @@
   "disable_all": "Disable All",
   "disable_article_viewer_swipe": "Disable article viewer swipe to close",
   "disable_article_viewer_swipe_subtext": "Disables the annoying swipe-to-close gesture in the browser/ArticleViewer",
+  "disable_auto_web_login": "Disable Auto Web Login",
+  "do_not_share_phone_number": "Do Not Share My Phone Number",
   "dont_auto_play_next_voice": "Don't Auto Play Next Voice Message",
   "download": "Download",
   "download_localization": "Download Localization",
@@ -168,5 +170,7 @@
   "fab_action_selector": "Action",
   "fab_action_uitweaks_settings": "Open UiTweaks Settings",
   "fab_action_archived_chats": "Open Archived Chats",
-  "deeplink_confirmation_info": "These toggles add confirmation dialogs before opening deep links to prevent accidental navigation to external content."
+  "deeplink_confirmation_info": "These toggles add confirmation dialogs before opening deep links to prevent accidental navigation to external content.",
+  "prefer_common_groups_tab": "Prefer Common Groups Tab",
+  "prefer_common_groups_tab_info": "Automatically selects the Groups tab instead of Gifts tab in user profiles when both are available."
 }

@@ -38,6 +38,8 @@
   "disable_all": "Nonaktifkan Semua",
   "disable_article_viewer_swipe": "Nonaktifkan geser penutup di penampil artikel",
   "disable_article_viewer_swipe_subtext": "Menonaktifkan gestur geser-untuk-menutup yang mengganggu di browser/PenampilArtikel",
+  "disable_auto_web_login": "Nonaktifkan login web otomatis",
+  "do_not_share_phone_number": "Jangan bagikan nomor telepon saya",
   "done": "Selesai",
   "dont_auto_play_next_voice": "Jangan Putar Otomatis Pesan Suara Berikutnya",
   "download": "Unduh",
@@ -168,5 +170,7 @@
   "fab_action_selector": "Aksi",
   "fab_action_uitweaks_settings": "Buka pengaturan UiTweaks",
   "fab_action_archived_chats": "Buka obrolan yang diarsipkan",
-  "deeplink_confirmation_info": "Tombol-tombol ini menambahkan dialog konfirmasi sebelum membuka tautan dalam untuk mencegah navigasi tidak sengaja ke konten eksternal."
+  "deeplink_confirmation_info": "Tombol-tombol ini menambahkan dialog konfirmasi sebelum membuka tautan dalam untuk mencegah navigasi tidak sengaja ke konten eksternal.",
+  "prefer_common_groups_tab": "Lebih suka tab Grup Umum",
+  "prefer_common_groups_tab_info": "Secara otomatis memilih tab Grup alih-alih tab Hadiah di profil pengguna ketika keduanya tersedia."
 }

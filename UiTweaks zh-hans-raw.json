@@ -38,6 +38,8 @@
   "disable_all": "全部禁用",
   "disable_article_viewer_swipe": "禁用文章查看器滑动关闭",
   "disable_article_viewer_swipe_subtext": "禁用浏览器/文章查看器中烦人的滑动关闭手势",
+  "disable_auto_web_login": "禁用自动网页登录",
+  "do_not_share_phone_number": "不分享我的电话号码",
   "done": "完成",
   "dont_auto_play_next_voice": "不自动播放下一个语音消息",
   "download": "下载",
@@ -168,5 +170,7 @@
   "fab_action_selector": "操作",
   "fab_action_uitweaks_settings": "打开 UiTweaks 设置",
   "fab_action_archived_chats": "打开已归档聊天",
-  "deeplink_confirmation_info": "这些开关在打开深度链接之前添加确认对话框，以防止意外导航到外部内容。"
+  "deeplink_confirmation_info": "这些开关在打开深度链接之前添加确认对话框，以防止意外导航到外部内容。",
+  "prefer_common_groups_tab": "偏好共同群组标签",
+  "prefer_common_groups_tab_info": "当用户档案中两者都可用时，自动选择群组标签而不是礼物标签。"
 }

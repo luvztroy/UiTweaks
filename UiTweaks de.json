@@ -38,6 +38,8 @@
   "disable_all": "Alle deaktivieren",
   "disable_article_viewer_swipe": "Artikel-Viewer Wisch zum Schließen deaktivieren",
   "disable_article_viewer_swipe_subtext": "Deaktiviert die nervige Wisch-zum-Schließen-Geste im Browser/Artikel-Viewer",
+  "disable_auto_web_login": "Automatische Web-Anmeldung deaktivieren",
+  "do_not_share_phone_number": "Meine Telefonnummer nicht teilen",
   "done": "Fertig",
   "dont_auto_play_next_voice": "Nächste Sprachnachricht nicht automatisch abspielen",
   "download": "Herunterladen",
@@ -168,5 +170,7 @@
   "fab_action_selector": "Aktion",
   "fab_action_uitweaks_settings": "UiTweaks-Einstellungen öffnen",
   "fab_action_archived_chats": "Archivierte Chats öffnen",
-  "deeplink_confirmation_info": "Diese Schalter fügen Bestätigungsdialoge hinzu, bevor Deep Links geöffnet werden, um versehentliche Navigation zu externen Inhalten zu verhindern."
+  "deeplink_confirmation_info": "Diese Schalter fügen Bestätigungsdialoge hinzu, bevor Deep Links geöffnet werden, um versehentliche Navigation zu externen Inhalten zu verhindern.",
+  "prefer_common_groups_tab": "Gemeinsame Gruppen-Tab bevorzugen",
+  "prefer_common_groups_tab_info": "Wählt automatisch den Gruppen-Tab anstelle des Geschenke-Tabs in Benutzerprofilen aus, wenn beide verfügbar sind."
 }

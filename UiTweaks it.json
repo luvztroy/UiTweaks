@@ -38,6 +38,8 @@
   "disable_all": "Disabilita Tutto",
   "disable_article_viewer_swipe": "Disabilita swipe per chiudere nel visualizzatore articoli",
   "disable_article_viewer_swipe_subtext": "Disabilita il fastidioso gesto swipe per chiudere nel browser/visualizzatore articoli",
+  "disable_auto_web_login": "Disabilita accesso automatico web",
+  "do_not_share_phone_number": "Non condividere il mio numero di telefono",
   "done": "Fatto",
   "dont_auto_play_next_voice": "Non riprodurre automaticamente il prossimo messaggio vocale",
   "download": "Scarica",
@@ -168,5 +170,7 @@
   "fab_action_selector": "Azione",
   "fab_action_uitweaks_settings": "Apri impostazioni UiTweaks",
   "fab_action_archived_chats": "Apri chat archiviate",
-  "deeplink_confirmation_info": "Questi interruttori aggiungono dialoghi di conferma prima di aprire i link profondi per prevenire la navigazione accidentale verso contenuti esterni."
+  "deeplink_confirmation_info": "Questi interruttori aggiungono dialoghi di conferma prima di aprire i link profondi per prevenire la navigazione accidentale verso contenuti esterni.",
+  "prefer_common_groups_tab": "Preferisci tab Gruppi comuni",
+  "prefer_common_groups_tab_info": "Seleziona automaticamente il tab Gruppi invece del tab Regali nei profili utente quando entrambi sono disponibili."
 }

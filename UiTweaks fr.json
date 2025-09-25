@@ -38,6 +38,8 @@
   "disable_all": "Tout Désactiver",
   "disable_article_viewer_swipe": "Désactiver le balayage pour fermer dans le lecteur d'articles",
   "disable_article_viewer_swipe_subtext": "Désactive le geste agaçant de balayage pour fermer dans le lecteur de navigateur/articles",
+  "disable_auto_web_login": "Désactiver la connexion automatique web",
+  "do_not_share_phone_number": "Ne pas partager mon numéro de téléphone",
   "done": "Terminé",
   "dont_auto_play_next_voice": "Ne pas lire automatiquement le prochain message vocal",
   "download": "Télécharger",
@@ -168,5 +170,7 @@
   "fab_action_selector": "Action",
   "fab_action_uitweaks_settings": "Ouvrir les paramètres UiTweaks",
   "fab_action_archived_chats": "Ouvrir les chats archivés",
-  "deeplink_confirmation_info": "Ces boutons ajoutent des dialogues de confirmation avant d'ouvrir les liens profonds pour éviter la navigation accidentelle vers du contenu externe."
+  "deeplink_confirmation_info": "Ces boutons ajoutent des dialogues de confirmation avant d'ouvrir les liens profonds pour éviter la navigation accidentelle vers du contenu externe.",
+  "prefer_common_groups_tab": "Préférer l'onglet Groupes communs",
+  "prefer_common_groups_tab_info": "Sélectionne automatiquement l'onglet Groupes au lieu de l'onglet Cadeaux dans les profils utilisateur lorsque les deux sont disponibles."
 }

@@ -38,6 +38,8 @@
   "disable_all": "Deshabilitar Todo",
   "disable_article_viewer_swipe": "Deshabilitar deslizamiento para cerrar en el visor de artículos",
   "disable_article_viewer_swipe_subtext": "Deshabilita el molesto gesto de deslizamiento para cerrar en el navegador/visor de artículos",
+  "disable_auto_web_login": "Deshabilitar inicio de sesión automático web",
+  "do_not_share_phone_number": "No compartir mi número de teléfono",
   "done": "Hecho",
   "dont_auto_play_next_voice": "No reproducir automáticamente el siguiente mensaje de voz",
   "download": "Descargar",
@@ -168,5 +170,7 @@
   "fab_action_selector": "Acción",
   "fab_action_uitweaks_settings": "Abrir configuración de UiTweaks",
   "fab_action_archived_chats": "Abrir chats archivados",
-  "deeplink_confirmation_info": "Estos interruptores añaden diálogos de confirmación antes de abrir enlaces profundos para prevenir la navegación accidental a contenido externo."
+  "deeplink_confirmation_info": "Estos interruptores añaden diálogos de confirmación antes de abrir enlaces profundos para prevenir la navegación accidental a contenido externo.",
+  "prefer_common_groups_tab": "Preferir pestaña de grupos comunes",
+  "prefer_common_groups_tab_info": "Selecciona automáticamente la pestaña de Grupos en lugar de la pestaña de Regalos en perfiles de usuario cuando ambas están disponibles."
 }

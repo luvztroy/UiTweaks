@@ -38,6 +38,8 @@
   "disable_all": "تعطيل الكل",
   "disable_article_viewer_swipe": "تعطيل السحب للإغلاق في عارض المقالات",
   "disable_article_viewer_swipe_subtext": "يعطل إيماءة السحب المزعجة للإغلاق في المتصفح/عارض المقالات",
+  "disable_auto_web_login": "تعطيل تسجيل الدخول التلقائي للويب",
+  "do_not_share_phone_number": "عدم مشاركة رقم هاتفي",
   "done": "تم",
   "dont_auto_play_next_voice": "عدم تشغيل الرسالة الصوتية التالية تلقائياً",
   "download": "تحميل",
@@ -168,5 +170,7 @@
   "fab_action_selector": "إجراء",
   "fab_action_uitweaks_settings": "فتح إعدادات UiTweaks",
   "fab_action_archived_chats": "فتح الدردشات المؤرشفة",
-  "deeplink_confirmation_info": "تضيف هذه المفاتيح مربعات حوار تأكيد قبل فتح الروابط العميقة لمنع التنقل العرضي إلى المحتوى الخارجي."
+  "deeplink_confirmation_info": "تضيف هذه المفاتيح مربعات حوار تأكيد قبل فتح الروابط العميقة لمنع التنقل العرضي إلى المحتوى الخارجي.",
+  "prefer_common_groups_tab": "تفضيل تبويب المجموعات المشتركة",
+  "prefer_common_groups_tab_info": "يختار تلقائياً تبويب المجموعات بدلاً من تبويب الهدايا في ملفات المستخدمين عندما يكون كلاهما متاحاً."
 }

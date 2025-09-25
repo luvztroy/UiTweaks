@@ -38,6 +38,8 @@
   "disable_all": "Hammasini O'chirish",
   "disable_article_viewer_swipe": "Maqola ko'ruvchida yopish uchun surishni o'chirish",
   "disable_article_viewer_swipe_subtext": "Brauzer/maqola ko'ruvchida yopish uchun zerikarli surish harakatini o'chiradi",
+  "disable_auto_web_login": "Avtomatik veb-kirishni o'chirish",
+  "do_not_share_phone_number": "Telefon raqamimni baham ko'rmaslik",
   "done": "Tayyor",
   "dont_auto_play_next_voice": "Keyingi ovozli xabarni avtomatik o'ynatmaslik",
   "download": "Yuklab olish",
@@ -168,5 +170,7 @@
   "fab_action_selector": "Harakat",
   "fab_action_uitweaks_settings": "UiTweaks sozlamalarini ochish",
   "fab_action_archived_chats": "Arxivlangan suhbatlarni ochish",
-  "deeplink_confirmation_info": "Bu kalitlar tashqi kontentga tasodifiy navigatsiyani oldini olish uchun chuqur havolalarni ochishdan oldin tasdiqlash dialog qutilarini qo'shadi."
+  "deeplink_confirmation_info": "Bu kalitlar tashqi kontentga tasodifiy navigatsiyani oldini olish uchun chuqur havolalarni ochishdan oldin tasdiqlash dialog qutilarini qo'shadi.",
+  "prefer_common_groups_tab": "Umumiy guruhlar tabini afzal ko'rish",
+  "prefer_common_groups_tab_info": "Foydalanuvchi profillarida ikkalasi ham mavjud bo'lganda Sovg'alar tabi o'rniga Guruhlar tabini avtomatik ravishda tanlaydi."
 }

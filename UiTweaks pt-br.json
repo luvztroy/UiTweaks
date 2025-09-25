@@ -38,6 +38,8 @@
   "disable_all": "Desabilitar Tudo",
   "disable_article_viewer_swipe": "Desabilitar deslizar para fechar no visualizador de artigos",
   "disable_article_viewer_swipe_subtext": "Desabilita o gesto irritante de deslizar para fechar no visualizador de navegador/artigos",
+  "disable_auto_web_login": "Desabilitar login automático web",
+  "do_not_share_phone_number": "Não compartilhar meu número de telefone",
   "done": "Concluído",
   "dont_auto_play_next_voice": "Não reproduzir automaticamente a próxima mensagem de voz",
   "download": "Baixar",
@@ -168,5 +170,7 @@
   "fab_action_selector": "Ação",
   "fab_action_uitweaks_settings": "Abrir configurações do UiTweaks",
   "fab_action_archived_chats": "Abrir chats arquivados",
-  "deeplink_confirmation_info": "Esses interruptores adicionam diálogos de confirmação antes de abrir links profundos para prevenir navegação acidental para conteúdo externo."
+  "deeplink_confirmation_info": "Esses interruptores adicionam diálogos de confirmação antes de abrir links profundos para prevenir navegação acidental para conteúdo externo.",
+  "prefer_common_groups_tab": "Preferir aba de grupos comuns",
+  "prefer_common_groups_tab_info": "Seleciona automaticamente a aba de Grupos em vez da aba de Presentes nos perfis de usuário quando ambas estão disponíveis."
 }

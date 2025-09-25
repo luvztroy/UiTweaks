@@ -38,6 +38,8 @@
   "disable_all": "Dezactivează Tot",
   "disable_article_viewer_swipe": "Dezactivează glisarea pentru închidere în vizualizatorul de articole",
   "disable_article_viewer_swipe_subtext": "Dezactivează gestul enervant de glisare pentru închidere în vizualizatorul de browser/articole",
+  "disable_auto_web_login": "Dezactivează autentificarea automată web",
+  "do_not_share_phone_number": "Nu împărtăși numărul meu de telefon",
   "done": "Gata",
   "dont_auto_play_next_voice": "Nu reda automat următorul mesaj vocal",
   "download": "Descarcă",
@@ -168,5 +170,7 @@
   "fab_action_selector": "Acțiune",
   "fab_action_uitweaks_settings": "Deschide setările UiTweaks",
   "fab_action_archived_chats": "Deschide conversațiile arhivate",
-  "deeplink_confirmation_info": "Aceste comutatoare adaugă dialoguri de confirmare înainte de a deschide link-uri adânci pentru a preveni navigarea accidentală către conținut extern."
+  "deeplink_confirmation_info": "Aceste comutatoare adaugă dialoguri de confirmare înainte de a deschide link-uri adânci pentru a preveni navigarea accidentală către conținut extern.",
+  "prefer_common_groups_tab": "Preferă tab-ul Grupuri comune",
+  "prefer_common_groups_tab_info": "Selectează automat tab-ul Grupuri în loc de tab-ul Cadouri în profilurile utilizatorilor când ambele sunt disponibile."
 }

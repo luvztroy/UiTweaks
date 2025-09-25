@@ -38,6 +38,8 @@
   "disable_all": "모두 비활성화",
   "disable_article_viewer_swipe": "기사 뷰어에서 닫기 스와이프 비활성화",
   "disable_article_viewer_swipe_subtext": "브라우저/기사 뷰어에서 닫기 위한 짜증나는 스와이프 제스처를 비활성화합니다",
+  "disable_auto_web_login": "자동 웹 로그인 비활성화",
+  "do_not_share_phone_number": "내 전화번호 공유하지 않기",
   "done": "완료",
   "dont_auto_play_next_voice": "다음 음성 메시지를 자동으로 재생하지 않음",
   "download": "다운로드",
@@ -168,5 +170,7 @@
   "fab_action_selector": "동작",
   "fab_action_uitweaks_settings": "UiTweaks 설정 열기",
   "fab_action_archived_chats": "보관된 채팅 열기",
-  "deeplink_confirmation_info": "이 토글은 외부 콘텐츠로의 실수한 탐색을 방지하기 위해 딥 링크를 열기 전에 확인 대화상자를 추가합니다."
+  "deeplink_confirmation_info": "이 토글은 외부 콘텐츠로의 실수한 탐색을 방지하기 위해 딥 링크를 열기 전에 확인 대화상자를 추가합니다.",
+  "prefer_common_groups_tab": "공통 그룹 탭 선호",
+  "prefer_common_groups_tab_info": "사용자 프로필에서 둘 다 사용 가능할 때 선물 탭 대신 그룹 탭을 자동으로 선택합니다."
 }

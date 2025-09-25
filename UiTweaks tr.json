@@ -38,6 +38,8 @@
   "disable_all": "Hepsini Devre Dışı Bırak",
   "disable_article_viewer_swipe": "Makale görüntüleyicide kapatma kaydırmasını devre dışı bırak",
   "disable_article_viewer_swipe_subtext": "Tarayıcı/makale görüntüleyicide kapatma için sinir bozucu kaydırma hareketini devre dışı bırakır",
+  "disable_auto_web_login": "Otomatik web girişini devre dışı bırak",
+  "do_not_share_phone_number": "Telefon numaramı paylaşma",
   "done": "Tamam",
   "dont_auto_play_next_voice": "Sonraki sesli mesajı otomatik oynatma",
   "download": "İndir",
@@ -168,5 +170,7 @@
   "fab_action_selector": "Eylem",
   "fab_action_uitweaks_settings": "UiTweaks ayarlarını aç",
   "fab_action_archived_chats": "Arşivlenmiş sohbetleri aç",
-  "deeplink_confirmation_info": "Bu anahtarlar, harici içeriğe yanlışlıkla yönlendirmeyi önlemek için derin bağlantıları açmadan önce onay diyalogları ekler."
+  "deeplink_confirmation_info": "Bu anahtarlar, harici içeriğe yanlışlıkla yönlendirmeyi önlemek için derin bağlantıları açmadan önce onay diyalogları ekler.",
+  "prefer_common_groups_tab": "Ortak gruplar sekmesini tercih et",
+  "prefer_common_groups_tab_info": "Kullanıcı profillerinde her ikisi de mevcut olduğunda Hediye sekmesi yerine Gruplar sekmesini otomatik olarak seçer."
 }
