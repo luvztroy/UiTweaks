@@ -47,7 +47,6 @@
   "enable_debug_logging": "Enable Debug Logging",
   "enable_debug_logging_quantahut": "Enable Debug Logging",
   "enable_debug_logging_quantahut_subtext": "Display detailed QuantaHut operation logs",
-  "enable_debug_logging_subtext": "Display detailed UiTweaks operation logs",
   "enable_goto_message": "Search by Message ID",
   "enable_no_quote_forward": "Enable No-Quote Forward",
   "enable_recent_chats_menu": "Enable Recent Chats Menu",

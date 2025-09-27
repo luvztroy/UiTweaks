@@ -50,7 +50,6 @@
   "enable_debug_logging": "Activează jurnalele de depanare",
   "enable_debug_logging_quantahut": "Activează jurnalizarea de depanare",
   "enable_debug_logging_quantahut_subtext": "Afișează jurnale detaliate ale operațiunilor QuantaHut",
-  "enable_debug_logging_subtext": "Afișează jurnale detaliate ale operațiunilor UiTweaks",
   "enable_goto_message": "Caută după ID-ul mesajului",
   "enable_no_quote_forward": "Activați trimiterea fără citare",
   "enable_recent_chats_menu": "Activează meniul de chat-uri recente",

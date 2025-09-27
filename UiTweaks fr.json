@@ -50,7 +50,6 @@
   "enable_debug_logging": "Activer les journaux de débogage",
   "enable_debug_logging_quantahut": "Activer les journaux de débogage",
   "enable_debug_logging_quantahut_subtext": "Afficher les journaux détaillés des opérations QuantaHut",
-  "enable_debug_logging_subtext": "Afficher les journaux détaillés des opérations UiTweaks",
   "enable_goto_message": "Rechercher par ID de message",
   "enable_no_quote_forward": "Activer le transfert sans citation",
   "enable_recent_chats_menu": "Activer le menu des chats récents",

@@ -50,7 +50,6 @@
   "enable_debug_logging": "Aktifkan Log Debug",
   "enable_debug_logging_quantahut": "Aktifkan logging debug",
   "enable_debug_logging_quantahut_subtext": "Tampilkan log detail operasi QuantaHut",
-  "enable_debug_logging_subtext": "Menampilkan log operasi UiTweaks yang detail",
   "enable_goto_message": "Cari berdasarkan ID Pesan",
   "enable_no_quote_forward": "Aktifkan Penerusan Tanpa Kutipan",
   "enable_recent_chats_menu": "Aktifkan Menu Chat Terbaru",

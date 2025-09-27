@@ -50,7 +50,6 @@
   "enable_debug_logging": "Habilitar registro de depuración",
   "enable_debug_logging_quantahut": "Habilitar registro de depuración",
   "enable_debug_logging_quantahut_subtext": "Mostrar registros detallados de operaciones de QuantaHut",
-  "enable_debug_logging_subtext": "Mostrar registros detallados de operaciones de UiTweaks",
   "enable_goto_message": "Buscar por ID de mensaje",
   "enable_no_quote_forward": "Habilitar reenvío sin cita",
   "enable_recent_chats_menu": "Habilitar menú de chats recientes",

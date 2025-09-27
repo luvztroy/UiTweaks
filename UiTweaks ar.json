@@ -50,7 +50,6 @@
   "enable_debug_logging": "تفعيل سجلات التصحيح",
   "enable_debug_logging_quantahut": "تفعيل سجلات التصحيح",
   "enable_debug_logging_quantahut_subtext": "عرض سجلات مفصلة لعمليات QuantaHut",
-  "enable_debug_logging_subtext": "عرض سجلات مفصلة لعمليات UiTweaks",
   "enable_goto_message": "البحث بواسطة معرف الرسالة",
   "enable_no_quote_forward": "تفعيل إعادة التوجيه بدون اقتباس",
   "enable_recent_chats_menu": "تفعيل قائمة الدردشات الأخيرة",

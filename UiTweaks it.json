@@ -50,7 +50,6 @@
   "enable_debug_logging": "Abilita registri di debug",
   "enable_debug_logging_quantahut": "Abilita registri di debug",
   "enable_debug_logging_quantahut_subtext": "Mostra registri dettagliati delle operazioni QuantaHut",
-  "enable_debug_logging_subtext": "Mostra registri dettagliati delle operazioni UiTweaks",
   "enable_goto_message": "Cerca per ID messaggio",
   "enable_no_quote_forward": "Abilita inoltro senza citazione",
   "enable_recent_chats_menu": "Abilita menu chat recenti",

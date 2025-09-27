@@ -50,7 +50,6 @@
   "enable_debug_logging": "Увімкнути налагоджувальні журнали",
   "enable_debug_logging_quantahut": "Увімкнути журналювання налагодження",
   "enable_debug_logging_quantahut_subtext": "Показувати детальні журнали операцій QuantaHut",
-  "enable_debug_logging_subtext": "Показувати детальні журнали роботи UiTweaks",
   "enable_goto_message": "Пошук за ID повідомлення",
   "enable_no_quote_forward": "Увімкнути пересилання без цитування",
   "enable_recent_chats_menu": "Увімкнути меню останніх чатів",

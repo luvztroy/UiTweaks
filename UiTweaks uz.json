@@ -50,7 +50,6 @@
   "enable_debug_logging": "Debug jurnallarini yoqish",
   "enable_debug_logging_quantahut": "Debug jurnalini yoqish",
   "enable_debug_logging_quantahut_subtext": "QuantaHut operatsiyalarining batafsil jurnallarini ko'rsatish",
-  "enable_debug_logging_subtext": "UiTweaks operatsiyalarining batafsil jurnallarini ko'rsatish",
   "enable_goto_message": "Xabar ID bo'yicha qidirish",
   "enable_no_quote_forward": "Iqtibossiz yuborishni yoqish",
   "enable_recent_chats_menu": "So'nggi chatlar menyusini yoqish",

@@ -50,7 +50,6 @@
   "enable_debug_logging": "启用调试日志",
   "enable_debug_logging_quantahut": "启用调试日志",
   "enable_debug_logging_quantahut_subtext": "显示 QuantaHut 操作的详细日志",
-  "enable_debug_logging_subtext": "显示详细的 UiTweaks 操作日志",
   "enable_goto_message": "按消息ID搜索",
   "enable_no_quote_forward": "启用无引用转发",
   "enable_recent_chats_menu": "启用最近聊天菜单",

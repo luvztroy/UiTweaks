@@ -50,7 +50,6 @@
   "enable_debug_logging": "디버그 로깅 활성화",
   "enable_debug_logging_quantahut": "디버그 로깅 활성화",
   "enable_debug_logging_quantahut_subtext": "QuantaHut 작업의 상세한 로그 표시",
-  "enable_debug_logging_subtext": "UiTweaks 작업의 상세한 로그 표시",
   "enable_goto_message": "메시지 ID로 검색",
   "enable_no_quote_forward": "인용 없는 전달 활성화",
   "enable_recent_chats_menu": "최근 채팅 메뉴 활성화",
