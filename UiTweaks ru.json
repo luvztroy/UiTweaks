@@ -148,7 +148,7 @@
   "mobile_hidden": "Мобильный скрыт",
   "navigation_controls": "Управление навигацией",
   "no_data_in_clipboard": "В буфере обмена нет данных",
-  "no_quote": "Без цитирования",
+  "no_quote": "Без цитаты
   "no_quote_forward": "Переслать без цитирования",
   "not_uitweaks_settings_file": "Это не файл настроек UiTweaks",
   "ok": "OK",
@@ -169,7 +169,7 @@
   "recent_chats": "Недавние чаты",
   "removed_protection_message": "Защита от мошеннических ссылок и пользователей отключена из-за отсутствия поддержки",
   "replies": "Ответы",
-  "reply_in_private_chat": "Ответить в личном чате",
+  "reply_in_private_chat": "Ответить в ЛС",
   "reset_language_preference": "Сбросить язык",
   "restart_app": "Перезапустить приложение",
   "restart_app_description": "Перезапустить приложение для применения изменений",
