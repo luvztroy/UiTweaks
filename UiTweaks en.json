@@ -151,7 +151,6 @@
   "send_photo": "Send Photo",
   "send_video": "Send Video",
   "send_with_caption": "Send with Caption",
-  "settings_management": "Settings Management",
   "star_reaction_hide_location": "Select from where",
   "thank_you_message": "Thank you for using UiTweaks! Feedback?\nJoin: @QuantaPlugins",
   "typing_instead_sticker": "Typing Instead of Choosing Sticker",
@@ -188,5 +187,6 @@
   "fab_action_archived_chats": "Open Archived Chats",
   "deeplink_confirmation_info": "These toggles add confirmation dialogs before opening deep links to prevent accidental navigation to external content.",
   "prefer_common_groups_tab": "Prefer Common Groups Tab",
-  "prefer_common_groups_tab_info": "Automatically selects the Groups tab instead of Gifts tab in user profiles when both are available."
+  "prefer_common_groups_tab_info": "Automatically selects the Groups tab instead of Gifts tab in user profiles when both are available.",
+  "another_services": "If the provided services are not available in your country, you can contact me via direct message"
 }
