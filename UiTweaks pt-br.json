@@ -188,6 +188,6 @@
   "performance_warning_subtitle": "Informação importante",
   "performance_warning_description": "O UiTweaks amplia o {client_name} com recursos avançados, mas devido ao uso de hooks, alterações dinâmicas na interface e maior consumo de memória, pode afetar gradualmente o desempenho do dispositivo.",
   "performance_warning_footer": "Para melhor desempenho, revise regularmente os recursos ativados e mantenha apenas os necessários.",
-  "understood": "Entendi"
+  "understood": "Entendi",
   "another_services": "Se os serviços disponibilizados não estiverem disponíveis no seu país, você pode me contatar via mensagem direta"
 }
