@@ -183,7 +183,7 @@
   "failed_to_copy": "Falha ao copiar para a área de transferência",
   "donation_info_title": "Sobre as doações",
   "donation_info_subtitle": "Apoie o desenvolvimento do UiTweaks",
-  "donation_info_description": "Doações são uma forma de reconhecer o trabalho por trás deste plugin. Elas não concedem privilégios especiais, mas você pode solicitar um agradecimento.",
+  "donation_info_description": "Doações são uma forma de reconhecer o esforço por trás deste Plugin. Elas não concedem privilégios especiais, porém você pode solicitar uma função como agradecimento.",
   "donation_info_footer": "Obrigado por considerar apoiar o desenvolvimento do UiTweaks!",
   "performance_warning_subtitle": "Informação importante",
   "performance_warning_description": "O UiTweaks amplia o {client_name} com recursos avançados, mas devido ao uso de hooks, alterações dinâmicas na interface e maior consumo de memória, pode afetar gradualmente o desempenho do dispositivo.",
