@@ -17,7 +17,7 @@
   "clear_recent_chats": "Очистить недавние чаты",
   "clear_recent_chats_confirm": "Вы уверены, что хотите очистить все недавние чаты?",
   "code_menu_item": "Код",
-  "confirm_ayugram_deeplinks": "Подтверждать Ayugram deeplink-ссылки",
+  "confirm_ayugram_deeplinks": "Подтверждать AyuGram deeplink-ссылки",
   "confirm_deeplink_message": "Вы действительно хотите открыть эту deeplink-ссылку?\n{url}",
   "confirm_deeplink_title": "Подтвердить deeplink-ссылку",
   "confirm_deeplinks": "Подтверждать Telegram deeplink-ссылки",
