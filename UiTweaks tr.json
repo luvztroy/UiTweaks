@@ -186,7 +186,10 @@
   "donation_info_description": "Bağışlar, bu eklentinin arkasındaki emeği takdir etmenin bir yoludur. Özel ayrıcalıklar sağlamaz, ancak bir teşekkür notu isteyebilirsiniz.",
   "donation_info_footer": "UiTweaks geliştirmesini desteklemeyi düşündüğünüz için teşekkürler!",
   "performance_warning_subtitle": "Önemli bilgi",
-  "performance_warning_description": "UiTweaks, {client_name}’i gelişmiş özelliklerle zenginleştirir, ancak metot kancaları, dinamik arayüz değişiklikleri ve artan bellek kullanımı nedeniyle cihaz performansını zamanla etkileyebilir.",
+  "performance_warning_description": "UiTweaks, {client_name}’e gelişmiş özellikler ekler ancak zamanla cihaz performansını etkileyebilir.",
   "performance_warning_footer": "En iyi performans için etkin özellikleri düzenli olarak gözden geçirin ve yalnızca gerekli olanları açık bırakın.",
-  "understood": "Anladım"
+  "memory_warning_title": "Bellek Uyarısı",
+  "memory_warning_message": "Yüksek bellek kullanımı tespit edildi: {used_mb}MB.\n\nUygulamayı yeniden başlatmak belleği temizler.",
+  "understood": "Anladım",
+  "another_services": "Sağlanan hizmetler ülkenizde mevcut değilse, bana direkt mesaj yoluyla ulaşabilirsiniz"
 }

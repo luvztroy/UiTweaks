@@ -186,7 +186,10 @@
   "donation_info_description": "Donasi adalah cara untuk menghargai kerja di balik plugin ini. Donasi tidak memberikan hak istimewa khusus, tetapi Anda dapat meminta ucapan terima kasih.",
   "donation_info_footer": "Terima kasih telah mempertimbangkan untuk mendukung pengembangan UiTweaks!",
   "performance_warning_subtitle": "Informasi penting",
-  "performance_warning_description": "UiTweaks memperluas {client_name} dengan fitur lanjutan, tetapi karena penggunaan hook metode, perubahan UI dinamis, dan peningkatan penggunaan memori, hal ini dapat secara bertahap memengaruhi kinerja perangkat.",
+  "performance_warning_description": "UiTweaks menambahkan fitur lanjutan di {client_name}, tetapi dapat memengaruhi kinerja perangkat seiring waktu.",
   "performance_warning_footer": "Untuk kinerja optimal, tinjau fitur yang diaktifkan secara berkala dan sisakan hanya yang diperlukan.",
-  "understood": "Mengerti"
+  "memory_warning_title": "Peringatan memori",
+  "memory_warning_message": "Penggunaan memori tinggi terdeteksi: {used_mb}MB.\n\nRestart aplikasi akan membersihkan memori.",
+  "understood": "Mengerti",
+  "another_services": "Jika layanan yang disediakan tidak tersedia di negara Anda, Anda dapat menghubungi saya melalui pesan langsung"
 }

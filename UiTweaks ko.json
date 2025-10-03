@@ -186,7 +186,10 @@
   "donation_info_description": "후원은 이 플러그인에 담긴 노력을 인정하는 방법입니다. 특별한 혜택은 없지만, 감사 표기를 요청할 수 있습니다.",
   "donation_info_footer": "UiTweaks 개발 지원을 고려해 주셔서 감사합니다!",
   "performance_warning_subtitle": "중요한 정보",
-  "performance_warning_description": "UiTweaks는 {client_name}에 고급 기능을 추가하지만, 메서드 훅 사용, 동적 UI 변경, 메모리 사용 증가로 인해 기기 성능에 점진적으로 영향을 줄 수 있습니다.",
+  "performance_warning_description": "UiTweaks는 {client_name}에 고급 기능을 추가하지만, 시간이 지나면서 기기 성능에 영향을 줄 수 있습니다.",
   "performance_warning_footer": "최적의 성능을 위해 활성화된 기능을 주기적으로 점검하고 필요한 것만 유지하세요.",
-  "understood": "알겠어요"
+  "memory_warning_title": "메모리 경고",
+  "memory_warning_message": "높은 메모리 사용량이 감지되었습니다: {used_mb}MB.\n\n앱을 재시작하면 메모리가 정리됩니다.",
+  "understood": "알겠어요",
+  "another_services": "제공된 서비스가 귀하의 국가에서 사용 불가한 경우, 직접 메시지로 연락하실 수 있습니다"
 }

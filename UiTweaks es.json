@@ -186,7 +186,10 @@
   "donation_info_description": "Las donaciones son una forma de agradecer el trabajo detrás de este plugin. No otorgan privilegios especiales, pero puedes solicitar un agradecimiento.",
   "donation_info_footer": "¡Gracias por considerar apoyar el desarrollo de UiTweaks!",
   "performance_warning_subtitle": "Información importante",
-  "performance_warning_description": "UiTweaks amplía {client_name} con funcion avanzadas, lo que puede afectar gradualmente el rendimiento del dispositivo debido al uso de hooks de métodos, cambios de UI dinámicos y mayor consumo de memoria.",
+  "performance_warning_description": "UiTweaks agrega funciones avanzadas en {client_name}, pero puede afectar el rendimiento del dispositivo con el tiempo.",
   "performance_warning_footer": "Para un rendimiento óptimo, revisa periódicamente las función activadas y deja solo las necesarias.",
-  "understood": "Entendido"
+  "memory_warning_title": "Advertencia de memoria",
+  "memory_warning_message": "Uso de memoria alto detectado: {used_mb}MB.\n\nReiniciar la app limpiará la memoria.",
+  "understood": "Entendido",
+  "another_services": "Si los servicios proporcionados no están disponibles en tu país, puedes contactarme por mensaje directo"
 }

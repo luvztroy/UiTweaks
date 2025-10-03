@@ -172,7 +172,7 @@
   "prefer_common_groups_tab": "Gemeinsame Gruppen-Tab bevorzugen",
   "prefer_common_groups_tab_info": "Wählt automatisch den Gruppen-Tab anstelle des Geschenke-Tabs in Benutzerprofilen aus, wenn beide verfügbar sind.",
   "performance_warning_subtitle": "Wichtige Information",
-  "performance_warning_description": "UiTweaks erweitert {client_name} um erweiterte Funktionen, kann jedoch aufgrund von Method-Hooks, dynamischen UI-Änderungen und höherem Speicherverbrauch die Geräteleistung nach und nach beeinträchtigen.",
+  "performance_warning_description": "UiTweaks fügt in {client_name} erweiterte Funktionen hinzu, kann jedoch die Geräteleistung im Laufe der Zeit beeinflussen.",
   "performance_warning_footer": "Überprüfen Sie regelmäßig die aktivierten Funktionen und lassen Sie nur die benötigten aktiv.",
   "understood": "Verstanden",
   "goto_message_action_bar": "Aktionsleisten-Menü",
@@ -188,5 +188,8 @@
   "donation_info_title": "Über Spenden",
   "donation_info_subtitle": "Entwicklung von UiTweaks unterstützen",
   "donation_info_description": "Spenden sind eine Möglichkeit, die Arbeit hinter diesem Plugin zu würdigen. Sie gewähren keine besonderen Vorteile, aber Sie können um eine Danksagung bitten.",
-  "donation_info_footer": "Vielen Dank, dass Sie die Entwicklung von UiTweaks unterstützen möchten!"
+  "donation_info_footer": "Vielen Dank, dass Sie die Entwicklung von UiTweaks unterstützen möchten!",
+  "memory_warning_title": "Speicherwarnung",
+  "memory_warning_message": "Hohe Speicherauslastung erkannt: {used_mb}MB.\n\nEin Neustart der App löscht den Speicher.",
+  "another_services": "Wenn die angebotenen Dienste in Ihrem Land nicht verfügbar sind, können Sie mich per Direktnachricht kontaktieren"
 }

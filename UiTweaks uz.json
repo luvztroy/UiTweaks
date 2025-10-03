@@ -186,7 +186,10 @@
   "donation_info_description": "Xayriyalar — ushbu plagin ortidagi mehnatni qadrlash yo‘lidir. Ular maxsus imtiyozlar bermaydi, biroq minnatdorchilik qaydini so‘rashingiz mumkin.",
   "donation_info_footer": "UiTweaks rivojlanishini qo‘llab-quvvatlashni ko‘rib chiqqaningiz uchun rahmat!",
   "performance_warning_subtitle": "Muhim ma’lumot",
-  "performance_warning_description": "UiTweaks {client_name} imkoniyatlarini kengaytiradi, biroq metod hooklari, dinamik UI o‘zgarishlari va xotira sarfining ortishi tufayli qurilma unumdorligiga bosqichma-bosqich ta’sir qilishi mumkin.",
+  "performance_warning_description": "UiTweaks {client_name} ga ilg'or funksiyalar qo‘shadi, ammo vaqt o‘tishi bilan qurilma unumdorligiga ta’sir qilishi mumkin.",
   "performance_warning_footer": "Eng yaxshi unumdorlik uchun yoqilgan funksiyalarni vaqti-vaqti bilan ko‘rib chiqing va faqat zarurlarini qoldiring.",
-  "understood": "Tushunarli"
+  "memory_warning_title": "Xotira ogohlantirishi",
+  "memory_warning_message": "Yuqori xotira ishlatilishi aniqlandi: {used_mb}MB.\n\nIlovani qayta ishga tushirish xotirani tozalaydi.",
+  "understood": "Tushunarli",
+  "another_services": "Agar taqdim etilgan xizmatlar mamlakatingizda mavjud bo'lmasa, menga shaxsiy xabar orqali murojaat qilishingiz mumkin"
 }

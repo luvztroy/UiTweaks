@@ -186,7 +186,10 @@
   "donation_info_description": "Donațiile reprezintă o modalitate de a aprecia munca din spatele acestui plugin. Nu oferă privilegii speciale, dar poți solicita o mențiune de mulțumire.",
   "donation_info_footer": "Îți mulțumim că iei în considerare să susții dezvoltarea UiTweaks!",
   "performance_warning_subtitle": "Informație importantă",
-  "performance_warning_description": "UiTweaks extinde {client_name} cu funcții avansate, dar din cauza hook-urilor, a modificărilor dinamice ale interfeței și a consumului crescut de memorie, poate afecta treptat performanța dispozitivului.",
+  "performance_warning_description": "UiTweaks adaugă funcții avansate în {client_name}, dar poate afecta performanța dispozitivului în timp.",
   "performance_warning_footer": "Pentru performanțe optime, revizuiește periodic funcțiile activate și păstrează doar ce ai nevoie.",
-  "understood": "Am înțeles"
+  "memory_warning_title": "Avertisment de memorie",
+  "memory_warning_message": "Utilizare mare de memorie detectată: {used_mb}MB.\n\nRepornierea aplicației va curăța memoria.",
+  "understood": "Am înțeles",
+  "another_services": "Dacă serviciile oferite nu sunt disponibile în țara ta, mă poți contacta prin mesaj direct"
 }

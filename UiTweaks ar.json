@@ -186,8 +186,10 @@
   "donation_info_description": "التبرعات هي طريقة لتقدير الجهد وراء هذه الإضافة. لا تمنح امتيازات خاصة، لكن يمكنك طلب لفت شكر.",
   "donation_info_footer": "شكرًا لك على التفكير في دعم تطوير UiTweaks!",
   "performance_warning_subtitle": "معلومات مهمة",
-  "performance_warning_description": "UiTweaks يعزز {client_name} بميزات متقدمة، لكن بسبب استخدام خطافات الطرق، والتغييرات الديناميكية في الواجهة، وزيادة استهلاك الذاكرة، قد يؤثر تدريجيًا على أداء الجهاز.",
+  "performance_warning_description": "UiTweaks يضيف ميزات متقدمة في {client_name}، لكنه قد يؤثر على أداء الجهاز مع مرور الوقت.",
   "performance_warning_footer": "لتحسين الأداء، راجع الميزات المفعلة بانتظام وابقِ ما تحتاجه فقط.",
-  "understood": "مفهوم"
-  
+  "memory_warning_title": "تحذير الذاكرة",
+  "memory_warning_message": "تم اكتشاف استخدام مرتفع للذاكرة: {used_mb}MB.\n\nإعادة تشغيل التطبيق ستقوم بتنظيف الذاكرة.",
+  "understood": "مفهوم",
+  "another_services": "إذا لم تكن الخدمات المقدمة متاحة في بلدك، فيمكنك التواصل معي عبر رسالة مباشرة"
 }
