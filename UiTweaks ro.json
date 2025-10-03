@@ -183,7 +183,7 @@
   "failed_to_copy": "Copierea în clipboard a eșuat",
   "donation_info_title": "Despre donații",
   "donation_info_subtitle": "Sprijină dezvoltarea UiTweaks",
-  "donation_info_description": "Donațiile reprezintă o modalitate de a aprecia munca din spatele acestui plugin. Nu oferă privilegii speciale, dar poți solicita o mențiune de mulțumire.",
+  "donation_info_description": "Donațiile reprezintă o modalitate de a aprecia munca din spatele acestui plugin. Nu oferă privilegii speciale, dar poți solicita o funcție ca mulțumire.",
   "donation_info_footer": "Îți mulțumim că iei în considerare să susții dezvoltarea UiTweaks!",
   "performance_warning_subtitle": "Informație importantă",
   "performance_warning_description": "UiTweaks adaugă funcții avansate în {client_name}, dar poate afecta performanța dispozitivului în timp.",

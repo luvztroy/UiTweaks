@@ -183,7 +183,7 @@
   "failed_to_copy": "Échec de la copie dans le presse-papiers",
   "donation_info_title": "À propos des dons",
   "donation_info_subtitle": "Soutenir le développement de UiTweaks",
-  "donation_info_description": "Les dons sont un moyen d’apprécier le travail derrière ce plugin. Ils n’offrent pas d’avantages particuliers, mais vous pouvez demander une mention de remerciement.",
+  "donation_info_description": "Les dons sont un moyen d’apprécier le travail derrière ce plugin. Ils n’offrent pas d’avantages particuliers, mais vous pouvez demander une fonctionnalité en remerciement.",
   "donation_info_footer": "Merci d’envisager de soutenir le développement de UiTweaks !",
   "performance_warning_subtitle": "Information importante",
   "performance_warning_description": "UiTweaks ajoute des fonctionnalités avancées dans {client_name}, mais peut affecter les performances de l’appareil avec le temps.",

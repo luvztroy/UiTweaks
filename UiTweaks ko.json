@@ -183,7 +183,7 @@
   "failed_to_copy": "클립보드 복사 실패",
   "donation_info_title": "후원 안내",
   "donation_info_subtitle": "UiTweaks 개발 지원",
-  "donation_info_description": "후원은 이 플러그인에 담긴 노력을 인정하는 방법입니다. 특별한 혜택은 없지만, 감사 표기를 요청할 수 있습니다.",
+  "donation_info_description": "후원은 이 플러그인에 담긴 노력을 인정하는 방법입니다. 특별한 혜택은 없지만, 감사로 기능을 요청할 수 있습니다.",
   "donation_info_footer": "UiTweaks 개발 지원을 고려해 주셔서 감사합니다!",
   "performance_warning_subtitle": "중요한 정보",
   "performance_warning_description": "UiTweaks는 {client_name}에 고급 기능을 추가하지만, 시간이 지나면서 기기 성능에 영향을 줄 수 있습니다.",

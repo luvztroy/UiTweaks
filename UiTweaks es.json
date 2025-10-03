@@ -183,7 +183,7 @@
   "failed_to_copy": "No se pudo copiar al portapapeles",
   "donation_info_title": "Acerca de las donaciones",
   "donation_info_subtitle": "Apoya el desarrollo de UiTweaks",
-  "donation_info_description": "Las donaciones son una forma de agradecer el trabajo detrás de este plugin. No otorgan privilegios especiales, pero puedes solicitar un agradecimiento.",
+  "donation_info_description": "Las donaciones son una forma de agradecer el trabajo detrás de este plugin. No otorgan privilegios especiales, pero puedes solicitar una función como agradecimiento.",
   "donation_info_footer": "¡Gracias por considerar apoyar el desarrollo de UiTweaks!",
   "performance_warning_subtitle": "Información importante",
   "performance_warning_description": "UiTweaks agrega funciones avanzadas en {client_name}, pero puede afectar el rendimiento del dispositivo con el tiempo.",
