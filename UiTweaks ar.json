@@ -191,5 +191,14 @@
   "memory_warning_title": "تحذير الذاكرة",
   "memory_warning_message": "تم اكتشاف استخدام مرتفع للذاكرة: {used_mb}MB.\n\nإعادة تشغيل التطبيق ستقوم بتنظيف الذاكرة.",
   "understood": "مفهوم",
-  "another_services": "إذا لم تكن الخدمات المقدمة متاحة في بلدك، فيمكنك التواصل معي عبر رسالة مباشرة"
+  "another_services": "إذا لم تكن الخدمات المقدمة متاحة في بلدك، فيمكنك التواصل معي عبر رسالة مباشرة",
+  "miscellaneous_features": "ميزات متنوعة",
+  "select_features": "اختر الميزات التي تريد تفعيلها",
+  "code_formatting_menu": "تنسيق الكود والمراجع",
+  "gif_spoiler_caption": "مفسد GIF والتسمية التوضيحية",
+  "message_preview_send_button": "زر الإرسال في معاينة الرسالة",
+  "sender_select_improvements": "تحسينات اختيار المرسل",
+  "select_all_dialogs_menu": "قائمة تحديد جميع المحادثات",
+  "miscellaneous_features_info": "قم بإلغاء تفعيل الميزات من هذه القائمة التي لا تستخدمها بنشاط للحفاظ على الأداء.",
+  "restart_to_apply_changes": "إعادة التشغيل لتطبيق التغييرات"
 }

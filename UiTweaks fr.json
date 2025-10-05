@@ -191,5 +191,14 @@
   "memory_warning_title": "Avertissement mémoire",
   "memory_warning_message": "Utilisation élevée de la mémoire détectée : {used_mb}MB.\n\nRedémarrer l'application effacera la mémoire.",
   "understood": "Compris",
-  "another_services": "Si les services fournis ne sont pas disponibles dans votre pays, vous pouvez me contacter par message privé"
+  "another_services": "Si les services fournis ne sont pas disponibles dans votre pays, vous pouvez me contacter par message privé",
+  "miscellaneous_features": "Fonctionnalités Diverses",
+  "select_features": "Sélectionnez quelles fonctionnalités activer",
+  "code_formatting_menu": "Formatage de Code et Mentions",
+  "gif_spoiler_caption": "Spoiler et Légende GIF",
+  "message_preview_send_button": "Bouton d'Envoi en Aperçu",
+  "sender_select_improvements": "Améliorations de Sélection d'Expéditeur",
+  "select_all_dialogs_menu": "Menu Sélectionner Tous les Dialogues",
+  "miscellaneous_features_info": "Désactivez les fonctionnalités de cette liste que vous n'utilisez pas activement pour maintenir les performances.",
+  "restart_to_apply_changes": "Redémarrer pour appliquer les modifications"
 }

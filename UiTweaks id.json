@@ -191,5 +191,14 @@
   "memory_warning_title": "Peringatan memori",
   "memory_warning_message": "Penggunaan memori tinggi terdeteksi: {used_mb}MB.\n\nRestart aplikasi akan membersihkan memori.",
   "understood": "Mengerti",
-  "another_services": "Jika layanan yang disediakan tidak tersedia di negara Anda, Anda dapat menghubungi saya melalui pesan langsung"
+  "another_services": "Jika layanan yang disediakan tidak tersedia di negara Anda, Anda dapat menghubungi saya melalui pesan langsung",
+  "miscellaneous_features": "Fitur Beragam",
+  "select_features": "Pilih fitur mana yang akan diaktifkan",
+  "code_formatting_menu": "Pemformatan Kode dan Mention",
+  "gif_spoiler_caption": "Spoiler dan Caption GIF",
+  "message_preview_send_button": "Tombol Kirim di Pratinjau Pesan",
+  "sender_select_improvements": "Peningkatan Pemilihan Pengirim",
+  "select_all_dialogs_menu": "Menu Pilih Semua Dialog",
+  "miscellaneous_features_info": "Nonaktifkan fitur dari daftar ini yang tidak Anda gunakan secara aktif untuk menjaga performa.",
+  "restart_to_apply_changes": "Restart untuk menerapkan perubahan"
 }

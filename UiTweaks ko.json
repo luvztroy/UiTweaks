@@ -191,5 +191,14 @@
   "memory_warning_title": "메모리 경고",
   "memory_warning_message": "높은 메모리 사용량이 감지되었습니다: {used_mb}MB.\n\n앱을 재시작하면 메모리가 정리됩니다.",
   "understood": "알겠어요",
-  "another_services": "제공된 서비스가 귀하의 국가에서 사용 불가한 경우, 직접 메시지로 연락하실 수 있습니다"
+  "another_services": "제공된 서비스가 귀하의 국가에서 사용 불가한 경우, 직접 메시지로 연락하실 수 있습니다",
+  "miscellaneous_features": "기타 기능",
+  "select_features": "활성화할 기능을 선택하세요",
+  "code_formatting_menu": "코드 및 멘션 포맷팅",
+  "gif_spoiler_caption": "GIF 스포일러 및 캡션",
+  "message_preview_send_button": "메시지 미리보기 전송 버튼",
+  "sender_select_improvements": "발신자 선택 개선사항",
+  "select_all_dialogs_menu": "모든 대화 선택 메뉴",
+  "miscellaneous_features_info": "성능을 유지하기 위해 이 목록에서 적극적으로 사용하지 않는 기능을 비활성화하세요.",
+  "restart_to_apply_changes": "변경사항 적용을 위해 재시작"
 }

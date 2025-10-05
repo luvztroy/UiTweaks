@@ -191,5 +191,14 @@
   "memory_warning_title": "Avviso di memoria",
   "memory_warning_message": "Rilevato un alto utilizzo della memoria: {used_mb}MB.\n\nRiavviare l'app pulirà la memoria.",
   "understood": "Ho capito",
-  "another_services": "Se i servizi forniti non sono disponibili nel tuo paese, puoi contattarmi tramite messaggio diretto"
+  "another_services": "Se i servizi forniti non sono disponibili nel tuo paese, puoi contattarmi tramite messaggio diretto",
+  "miscellaneous_features": "Caratteristiche Varie",
+  "select_features": "Seleziona quali caratteristiche abilitare",
+  "code_formatting_menu": "Formattazione Codice e Menzioni",
+  "gif_spoiler_caption": "Spoiler e Didascalia GIF",
+  "message_preview_send_button": "Pulsante Invia in Anteprima Messaggio",
+  "sender_select_improvements": "Miglioramenti Selezione Mittente",
+  "select_all_dialogs_menu": "Menu Seleziona Tutti i Dialoghi",
+  "miscellaneous_features_info": "Disabilita le caratteristiche di questo elenco che non usi attivamente per mantenere le prestazioni.",
+  "restart_to_apply_changes": "Riavvia per applicare le modifiche"
 }

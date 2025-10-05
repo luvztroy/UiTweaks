@@ -191,5 +191,14 @@
   "memory_warning_title": "Bellek Uyarısı",
   "memory_warning_message": "Yüksek bellek kullanımı tespit edildi: {used_mb}MB.\n\nUygulamayı yeniden başlatmak belleği temizler.",
   "understood": "Anladım",
-  "another_services": "Sağlanan hizmetler ülkenizde mevcut değilse, bana direkt mesaj yoluyla ulaşabilirsiniz"
+  "another_services": "Sağlanan hizmetler ülkenizde mevcut değilse, bana direkt mesaj yoluyla ulaşabilirsiniz",
+  "miscellaneous_features": "Çeşitli Özellikler",
+  "select_features": "Hangi özellikleri etkinleştirmek istediğinizi seçin",
+  "code_formatting_menu": "Kod ve Bahsetme Formatlaması",
+  "gif_spoiler_caption": "GIF Spoiler ve Açıklama",
+  "message_preview_send_button": "Mesaj Önizleme Gönder Butonu",
+  "sender_select_improvements": "Gönderen Seçim İyileştirmeleri",
+  "select_all_dialogs_menu": "Tüm Sohbetleri Seç Menüsü",
+  "miscellaneous_features_info": "Performansı korumak için bu listeden aktif olarak kullanmadığınız özellikleri devre dışı bırakın.",
+  "restart_to_apply_changes": "Değişiklikleri uygulamak için yeniden başlat"
 }

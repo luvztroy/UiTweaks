@@ -191,5 +191,14 @@
   "memory_warning_title": "Avertisment de memorie",
   "memory_warning_message": "Utilizare mare de memorie detectată: {used_mb}MB.\n\nRepornierea aplicației va curăța memoria.",
   "understood": "Am înțeles",
-  "another_services": "Dacă serviciile oferite nu sunt disponibile în țara ta, mă poți contacta prin mesaj direct"
+  "another_services": "Dacă serviciile oferite nu sunt disponibile în țara ta, mă poți contacta prin mesaj direct",
+  "miscellaneous_features": "Caracteristici Diverse",
+  "select_features": "Selectează ce caracteristici să activezi",
+  "code_formatting_menu": "Formatare Cod și Mențiuni",
+  "gif_spoiler_caption": "Spoiler și Caption GIF",
+  "message_preview_send_button": "Buton Trimite în Previzualizare Mesaj",
+  "sender_select_improvements": "Îmbunătățiri Selecție Expeditor",
+  "select_all_dialogs_menu": "Meniu Selectează Toate Dialogurile",
+  "miscellaneous_features_info": "Dezactivează caracteristicile din această listă pe care nu le folosești activ pentru a menține performanța.",
+  "restart_to_apply_changes": "Repornește pentru a aplica modificările"
 }

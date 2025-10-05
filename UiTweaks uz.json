@@ -191,5 +191,14 @@
   "memory_warning_title": "Xotira ogohlantirishi",
   "memory_warning_message": "Yuqori xotira ishlatilishi aniqlandi: {used_mb}MB.\n\nIlovani qayta ishga tushirish xotirani tozalaydi.",
   "understood": "Tushunarli",
-  "another_services": "Agar taqdim etilgan xizmatlar mamlakatingizda mavjud bo'lmasa, menga shaxsiy xabar orqali murojaat qilishingiz mumkin"
+  "another_services": "Agar taqdim etilgan xizmatlar mamlakatingizda mavjud bo'lmasa, menga shaxsiy xabar orqali murojaat qilishingiz mumkin",
+  "miscellaneous_features": "Turli xil funksiyalar",
+  "select_features": "Qaysi funksiyalarni yoqishni tanlang",
+  "code_formatting_menu": "Kod va eslatish formatlash",
+  "gif_spoiler_caption": "GIF spoiler va sarlavha",
+  "message_preview_send_button": "Xabar oldindan ko'rish yuborish tugmasi",
+  "sender_select_improvements": "Yuboruvchi tanlash yaxshilanishlari",
+  "select_all_dialogs_menu": "Barcha suhbatlarni tanlash menyusi",
+  "miscellaneous_features_info": "Ishlashni saqlash uchun bu ro'yxatdan faol foydalanmayotgan funksiyalarni o'chiring.",
+  "restart_to_apply_changes": "O'zgarishlarni qo'llash uchun qayta ishga tushiring"
 }
