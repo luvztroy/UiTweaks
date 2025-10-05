@@ -196,7 +196,7 @@
   "select_features": "Select which features to enable",
   "code_formatting_menu": "Code & Mention Formatting",
   "gif_spoiler_caption": "GIF Spoiler & Caption",
-  "message_preview_send_button": "Message Preview Send Button",
+  "message_preview_send_button": "Link Preview Send Button",
   "sender_select_improvements": "Sender Select Improvements",
   "select_all_dialogs_menu": "Select All Chats Menu Option",
   "miscellaneous_features_info": "Disable features from this list that you don't use actively to maintain performance.",
