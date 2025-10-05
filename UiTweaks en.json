@@ -194,6 +194,7 @@
   "another_services": "If the provided services are not available in your country, you can contact me via direct message",
   "miscellaneous_features": "Miscellaneous Features",
   "select_features": "Select which features to enable",
+  "select": "Select",
   "code_formatting_menu": "Code & Mention Formatting",
   "gif_spoiler_caption": "GIF Spoiler & Caption",
   "message_preview_send_button": "Message Preview Send Button",

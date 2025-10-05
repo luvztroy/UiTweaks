@@ -194,6 +194,7 @@
   "another_services": "Agar taqdim etilgan xizmatlar mamlakatingizda mavjud bo'lmasa, menga shaxsiy xabar orqali murojaat qilishingiz mumkin",
   "miscellaneous_features": "Turli xil funksiyalar",
   "select_features": "Qaysi funksiyalarni yoqishni tanlang",
+  "select": "Tanlash",
   "code_formatting_menu": "Kod va eslatish formatlash",
   "gif_spoiler_caption": "GIF spoiler va sarlavha",
   "message_preview_send_button": "Xabar oldindan ko'rish yuborish tugmasi",

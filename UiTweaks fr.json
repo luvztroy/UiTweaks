@@ -194,6 +194,7 @@
   "another_services": "Si les services fournis ne sont pas disponibles dans votre pays, vous pouvez me contacter par message privé",
   "miscellaneous_features": "Fonctionnalités Diverses",
   "select_features": "Sélectionnez quelles fonctionnalités activer",
+  "select": "Sélectionner",
   "code_formatting_menu": "Formatage de Code et Mentions",
   "gif_spoiler_caption": "Spoiler et Légende GIF",
   "message_preview_send_button": "Bouton d'Envoi en Aperçu",
