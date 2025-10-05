@@ -195,11 +195,11 @@
   "miscellaneous_features": "Разные функции",
   "select_features": "Выберите, какие функции включить",
   "select": "Выбрать",
-  "code_formatting_menu": "Форматирование кода и упоминаний",
-  "gif_spoiler_caption": "GIF спойлер и подпись",
-  "message_preview_send_button": "Кнопка отправки в предпросмотре сообщения",
-  "sender_select_improvements": "Улучшения выбора отправителя",
-  "select_all_dialogs_menu": "Меню выбора всех диалогов",
+  "code_formatting_menu": "Форматирование в виде кода и упоминаний",
+  "gif_spoiler_caption": "Спойлер и подпись для GIF",
+  "message_preview_send_button": "Отправка превью при предпросмотре сообщения",
+  "sender_select_improvements": "Личные аккаунты (в своих группах)",
+  "select_all_dialogs_menu": "Кнопка «Выбрать все чаты»",
   "miscellaneous_features_info": "Отключите функции из этого списка, которые вы не используете активно, для поддержания производительности.",
   "restart_to_apply_changes": "Перезапустить для применения изменений"
 }
