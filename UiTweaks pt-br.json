@@ -205,5 +205,7 @@
   "miscellaneous_features_info": "Desative recursos desta lista que você não usa ativamente para manter o desempenho.",
   "restart_to_apply_changes": "Reiniciar para aplicar alterações",
   "disable_swipe_gestures": "Adicionar desabilitar no menu de gestos de deslizar da lista de chat",
-  "disable": "Desabilitar"
+  "disable": "Desabilitar",
+  "quanta_team_member_badge": "**{user_name}** é membro da equipe de desenvolvimento **Quanta**!",
+  "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"
 }

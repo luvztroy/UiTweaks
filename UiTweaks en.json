@@ -205,5 +205,7 @@
   "miscellaneous_features_info": "Disable features from this list that you don't use actively to maintain performance.",
   "restart_to_apply_changes": "Restart to apply changes",
   "disable_swipe_gestures": "Add disable in chat list swipe gesture menu",
-  "disable": "Disable"
+  "disable": "Disable",
+  "quanta_team_member_badge": "**{user_name}** is a member of the **Quanta**! development team",
+  "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"
 }

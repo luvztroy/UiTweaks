@@ -205,5 +205,7 @@
   "miscellaneous_features_info": "성능을 유지하기 위해 이 목록에서 적극적으로 사용하지 않는 기능을 비활성화하세요.",
   "restart_to_apply_changes": "변경사항 적용을 위해 재시작",
   "disable_swipe_gestures": "채팅 목록 스와이프 제스처 메뉴에 비활성화 추가",
-  "disable": "비활성화"
+  "disable": "비활성화",
+  "quanta_team_member_badge": "**{user_name}**은 **Quanta**! 개발팀의 멤버입니다",
+  "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"
 }

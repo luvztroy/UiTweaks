@@ -205,5 +205,7 @@
   "miscellaneous_features_info": "Désactivez les fonctionnalités de cette liste que vous n'utilisez pas activement pour maintenir les performances.",
   "restart_to_apply_changes": "Redémarrer pour appliquer les modifications",
   "disable_swipe_gestures": "Ajouter désactiver dans le menu de gestes de balayage de liste de chat",
-  "disable": "Désactiver"
+  "disable": "Désactiver",
+  "quanta_team_member_badge": "**{user_name}** est membre de l'équipe de développement **Quanta**!",
+  "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"
 }

@@ -205,5 +205,7 @@
   "miscellaneous_features_info": "Ishlashni saqlash uchun bu ro'yxatdan faol foydalanmayotgan funksiyalarni o'chiring.",
   "restart_to_apply_changes": "O'zgarishlarni qo'llash uchun qayta ishga tushiring",
   "disable_swipe_gestures": "Chat ro'yxati siljish harakati menyusiga o'chirish qo'shing",
-  "disable": "O'chirish"
+  "disable": "O'chirish",
+  "quanta_team_member_badge": "**{user_name}** **Quanta**! ishlab chiqish jamoasining a'zosi",
+  "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"
 }
