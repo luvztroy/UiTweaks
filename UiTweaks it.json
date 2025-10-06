@@ -69,6 +69,8 @@
   "hide_bot_button": "Nascondi pulsante bot nel campo di input",
   "hide_bot_button_subtext": "Nasconde il pulsante bot che appare nel campo di input della chat quando i bot sono disponibili",
   "hide_bot_open": "Nascondi pulsante 'Apri' bot nella lista chat",
+  "hide_birthday_alert": "Nascondi avviso compleanno",
+  "hide_birthday_alert_info": "Nasconde il suggerimento di configurazione compleanno che appare nella lista chat.",
   "hide_chat_controls": "Nascondi controlli chat",
   "hide_elements": "Nascondi elementi",
   "hide_hd_icon": "Nascondi icona HD nel selettore media",

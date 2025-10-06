@@ -69,6 +69,8 @@
   "hide_bot_button": "Bot-Button im Eingabefeld ausblenden",
   "hide_bot_button_subtext": "Blendet den Bot-Button aus, der im Chat-Eingabefeld erscheint, wenn Bots verfügbar sind",
   "hide_bot_open": "Bot 'Öffnen'-Button in Chatliste",
+  "hide_birthday_alert": "Geburtstagsbenachrichtigung ausblenden",
+  "hide_birthday_alert_info": "Blendet den Geburtstag-Einrichtungsvorschlag aus, der in der Chatliste erscheint.",
   "hide_chat_controls": "Chat-Steuerung ausblenden",
   "hide_elements": "Elemente ausblenden",
   "hide_hd_icon": "HD-Symbol im Medienauswahl",

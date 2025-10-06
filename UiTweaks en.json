@@ -69,6 +69,8 @@
   "hide_bot_button": "Hide bot button in input field",
   "hide_bot_button_subtext": "Hides the bot button that appears in the chat input field when bots are available",
   "hide_bot_open": "Hide bot 'Open' button in chat list",
+  "hide_birthday_alert": "Hide Birthday Alert",
+  "hide_birthday_alert_info": "Hides the birthday setup suggestion that appears in the chat list.",
   "hide_chat_controls": "Hide Chat Controls",
   "hide_elements": "Hide elements",
   "hide_hd_icon": "Hide HD icon in media picker",

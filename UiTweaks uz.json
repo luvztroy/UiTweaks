@@ -69,6 +69,8 @@
   "hide_bot_button": "Kirish maydonida bot tugmasini yashirish",
   "hide_bot_button_subtext": "Botlar mavjud bo'lganda chat kirish maydonida paydo bo'ladigan bot tugmasini yashiradi",
   "hide_bot_open": "Chat ro'yxatida bot 'Ochish' tugmasini yashirish",
+  "hide_birthday_alert": "Tug'ilgan kun ogohlantirishini yashirish",
+  "hide_birthday_alert_info": "Chat ro'yxatida ko'rinadigan tug'ilgan kun sozlamasi taklifini yashiradi.",
   "hide_chat_controls": "Chat boshqaruv elementlarini yashirish",
   "hide_elements": "Elementlarni yashirish",
   "hide_hd_icon": "Media tanlovchida HD belgisini yashirish",

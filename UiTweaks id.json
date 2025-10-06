@@ -69,6 +69,8 @@
   "hide_bot_button": "Sembunyikan tombol bot di bidang input",
   "hide_bot_button_subtext": "Menyembunyikan tombol bot yang muncul di bidang input chat ketika bot tersedia",
   "hide_bot_open": "Sembunyikan tombol 'Buka' bot di daftar chat",
+  "hide_birthday_alert": "Sembunyikan peringatan ulang tahun",
+  "hide_birthday_alert_info": "Menyembunyikan saran pengaturan ulang tahun yang muncul di daftar chat.",
   "hide_chat_controls": "Sembunyikan Kontrol Chat",
   "hide_elements": "Sembunyikan elemen",
   "hide_hd_icon": "Sembunyikan ikon HD di pemilih media",

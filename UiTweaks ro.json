@@ -69,6 +69,8 @@
   "hide_bot_button": "Ascunde butonul bot în câmpul de introducere",
   "hide_bot_button_subtext": "Ascunde butonul bot care apare în câmpul de introducere al chat-ului când boturile sunt disponibile",
   "hide_bot_open": "Ascunde butonul 'Deschide' al boturilor în lista de chat-uri",
+  "hide_birthday_alert": "Ascunde alertele de ziua de naștere",
+  "hide_birthday_alert_info": "Ascunde sugestia de configurare a zilei de naștere care apare în lista de chat-uri.",
   "hide_chat_controls": "Ascunde controalele de chat",
   "hide_elements": "Ascunde elementele",
   "hide_hd_icon": "Ascunde iconița HD în selectorul de media",

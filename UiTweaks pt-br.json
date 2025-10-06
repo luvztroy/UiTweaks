@@ -69,6 +69,8 @@
   "hide_bot_button": "Ocultar botão do bot no campo de entrada",
   "hide_bot_button_subtext": "Oculta o botão do bot que aparece no campo de entrada do chat quando os bots estão disponíveis",
   "hide_bot_open": "Ocultar botão 'Abrir' de bots na lista de chats",
+  "hide_birthday_alert": "Ocultar alerta de aniversário",
+  "hide_birthday_alert_info": "Oculta a sugestão de configuração de aniversário que aparece na lista de chats.",
   "hide_chat_controls": "Ocultar controles de chat",
   "hide_elements": "Ocultar elementos",
   "hide_hd_icon": "Ocultar ícone HD no seletor de mídia",

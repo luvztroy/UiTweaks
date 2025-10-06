@@ -69,6 +69,8 @@
   "hide_bot_button": "입력 필드에서 봇 버튼 숨기기",
   "hide_bot_button_subtext": "봇이 사용 가능할 때 채팅 입력 필드에 나타나는 봇 버튼을 숨깁니다",
   "hide_bot_open": "채팅 목록에서 봇 '열기' 버튼 숨기기",
+  "hide_birthday_alert": "생일 알림 숨기기",
+  "hide_birthday_alert_info": "채팅 목록에 나타나는 생일 설정 제안을 숨깁니다.",
   "hide_chat_controls": "채팅 컨트롤 숨기기",
   "hide_elements": "요소 숨기기",
   "hide_hd_icon": "미디어 선택기에서 HD 아이콘 숨기기",

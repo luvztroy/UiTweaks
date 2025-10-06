@@ -69,6 +69,8 @@
   "hide_bot_button": "Giriş alanında bot düğmesini gizle",
   "hide_bot_button_subtext": "Botlar mevcut olduğunda sohbet giriş alanında görünen bot düğmesini gizler",
   "hide_bot_open": "Sohbet listesinde bot 'Aç' düğmesini gizle",
+  "hide_birthday_alert": "Doğum günü uyarısını gizle",
+  "hide_birthday_alert_info": "Sohbet listesinde görünen doğum günü kurulum önerisini gizler.",
   "hide_chat_controls": "Sohbet kontrollerini gizle",
   "hide_elements": "Öğeleri gizle",
   "hide_hd_icon": "Medya seçicide HD simgesini gizle",
