@@ -199,9 +199,9 @@
   "select": "Tanlash",
   "code_formatting_menu": "Kod va eslatish formatlash",
   "gif_spoiler_caption": "GIF spoiler va sarlavha",
-  "message_preview_send_button": "Xabar oldindan ko'rish yuborish tugmasi",
+  "message_preview_send_button": "Havola oldindan ko'rish yuborish tugmasi",
   "sender_select_improvements": "Yuboruvchi tanlash yaxshilanishlari",
-  "select_all_dialogs_menu": "Barcha suhbatlarni tanlash menyusi",
+  "select_all_dialogs_menu": "Barcha chatlarni tanlash menyusi opsiyasi",
   "miscellaneous_features_info": "Ishlashni saqlash uchun bu ro'yxatdan faol foydalanmayotgan funksiyalarni o'chiring.",
   "restart_to_apply_changes": "O'zgarishlarni qo'llash uchun qayta ishga tushiring",
   "disable_swipe_gestures": "Chat ro'yxati siljish harakati menyusiga o'chirish qo'shing"

@@ -199,9 +199,9 @@
   "select": "Вибрати",
   "code_formatting_menu": "Форматування коду та згадок",
   "gif_spoiler_caption": "GIF спойлер та підпис",
-  "message_preview_send_button": "Кнопка відправки в попередньому перегляді повідомлення",
+  "message_preview_send_button": "Кнопка відправки в попередньому перегляді посилання",
   "sender_select_improvements": "Покращення вибору відправника",
-  "select_all_dialogs_menu": "Меню вибору всіх діалогів",
+  "select_all_dialogs_menu": "Опція меню вибору всіх чатів",
   "miscellaneous_features_info": "Вимкніть функції з цього списку, які ви не використовуєте активно, для підтримки продуктивності.",
   "restart_to_apply_changes": "Перезапуск для застосування змін",
   "disable_swipe_gestures": "Додати вимкнення в меню жестів свайпу списку чатів"

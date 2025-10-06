@@ -199,9 +199,9 @@
   "select": "Seleccionar",
   "code_formatting_menu": "Formato de Código y Menciones",
   "gif_spoiler_caption": "Spoiler y Pie de GIF",
-  "message_preview_send_button": "Botón de Envío en Vista Previa",
+  "message_preview_send_button": "Botón de Envío en Vista Previa de Enlace",
   "sender_select_improvements": "Mejoras de Selección de Remitente",
-  "select_all_dialogs_menu": "Menú Seleccionar Todos los Diálogos",
+  "select_all_dialogs_menu": "Opción de Menú Seleccionar Todos los Chats",
   "miscellaneous_features_info": "Desactiva las características de esta lista que no uses activamente para mantener el rendimiento.",
   "restart_to_apply_changes": "Reiniciar para aplicar cambios",
   "disable_swipe_gestures": "Agregar deshabilitar en menú de gestos de deslizar de lista de chat"

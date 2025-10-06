@@ -199,9 +199,9 @@
   "select": "Seç",
   "code_formatting_menu": "Kod ve Bahsetme Formatlaması",
   "gif_spoiler_caption": "GIF Spoiler ve Açıklama",
-  "message_preview_send_button": "Mesaj Önizleme Gönder Butonu",
+  "message_preview_send_button": "Link Önizleme Gönder Butonu",
   "sender_select_improvements": "Gönderen Seçim İyileştirmeleri",
-  "select_all_dialogs_menu": "Tüm Sohbetleri Seç Menüsü",
+  "select_all_dialogs_menu": "Tüm Sohbetleri Seç Menü Seçeneği",
   "miscellaneous_features_info": "Performansı korumak için bu listeden aktif olarak kullanmadığınız özellikleri devre dışı bırakın.",
   "restart_to_apply_changes": "Değişiklikleri uygulamak için yeniden başlat",
   "disable_swipe_gestures": "Sohbet listesi kaydırma hareketi menüsüne devre dışı bırakma ekle"

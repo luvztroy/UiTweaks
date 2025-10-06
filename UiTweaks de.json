@@ -199,9 +199,9 @@
   "select": "Auswählen",
   "code_formatting_menu": "Code- und Erwähnungsformatierung",
   "gif_spoiler_caption": "GIF-Spoiler und Beschriftung",
-  "message_preview_send_button": "Senden-Button in Nachrichtenvorschau",
+  "message_preview_send_button": "Senden-Button in Linkvorschau",
   "sender_select_improvements": "Absender-Auswahl-Verbesserungen",
-  "select_all_dialogs_menu": "Alle Dialoge auswählen-Menü",
+  "select_all_dialogs_menu": "Alle Chats auswählen-Menüoption",
   "miscellaneous_features_info": "Deaktivieren Sie Funktionen aus dieser Liste, die Sie nicht aktiv verwenden, um die Leistung zu erhalten.",
   "restart_to_apply_changes": "Neustart, um Änderungen anzuwenden",
   "disable_swipe_gestures": "Deaktivierung in Chat-Liste Wischgesten-Menü hinzufügen"

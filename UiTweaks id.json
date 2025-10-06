@@ -199,9 +199,9 @@
   "select": "Pilih",
   "code_formatting_menu": "Pemformatan Kode dan Mention",
   "gif_spoiler_caption": "Spoiler dan Caption GIF",
-  "message_preview_send_button": "Tombol Kirim di Pratinjau Pesan",
+  "message_preview_send_button": "Tombol Kirim di Pratinjau Tautan",
   "sender_select_improvements": "Peningkatan Pemilihan Pengirim",
-  "select_all_dialogs_menu": "Menu Pilih Semua Dialog",
+  "select_all_dialogs_menu": "Opsi Menu Pilih Semua Chat",
   "miscellaneous_features_info": "Nonaktifkan fitur dari daftar ini yang tidak Anda gunakan secara aktif untuk menjaga performa.",
   "restart_to_apply_changes": "Restart untuk menerapkan perubahan",
   "disable_swipe_gestures": "Tambahkan nonaktif di menu gestur geser daftar chat"

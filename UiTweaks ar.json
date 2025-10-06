@@ -199,9 +199,9 @@
   "select": "اختر",
   "code_formatting_menu": "تنسيق الكود والمراجع",
   "gif_spoiler_caption": "مفسد GIF والتسمية التوضيحية",
-  "message_preview_send_button": "زر الإرسال في معاينة الرسالة",
+  "message_preview_send_button": "زر الإرسال في معاينة الرابط",
   "sender_select_improvements": "تحسينات اختيار المرسل",
-  "select_all_dialogs_menu": "قائمة تحديد جميع المحادثات",
+  "select_all_dialogs_menu": "خيار تحديد جميع المحادثات",
   "miscellaneous_features_info": "قم بإلغاء تفعيل الميزات من هذه القائمة التي لا تستخدمها بنشاط للحفاظ على الأداء.",
   "restart_to_apply_changes": "إعادة التشغيل لتطبيق التغييرات",
   "disable_swipe_gestures": "إضافة تعطيل في قائمة إيماءات السحب لقائمة الدردشة"
