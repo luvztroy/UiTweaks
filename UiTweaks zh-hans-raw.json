@@ -204,5 +204,6 @@
   "select_all_dialogs_menu": "选择所有聊天菜单选项",
   "miscellaneous_features_info": "禁用此列表中您不经常使用的功能以保持性能。",
   "restart_to_apply_changes": "重启以应用更改",
-  "disable_swipe_gestures": "在聊天列表滑动手势菜单中添加禁用"
+  "disable_swipe_gestures": "在聊天列表滑动手势菜单中添加禁用",
+  "disable": "禁用"
 }

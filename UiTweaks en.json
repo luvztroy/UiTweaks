@@ -204,5 +204,6 @@
   "select_all_dialogs_menu": "Select All Chats Menu Option",
   "miscellaneous_features_info": "Disable features from this list that you don't use actively to maintain performance.",
   "restart_to_apply_changes": "Restart to apply changes",
-  "disable_swipe_gestures": "Add disable in chat list swipe gesture menu"
+  "disable_swipe_gestures": "Add disable in chat list swipe gesture menu",
+  "disable": "Disable"
 }

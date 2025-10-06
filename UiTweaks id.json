@@ -204,5 +204,6 @@
   "select_all_dialogs_menu": "Opsi Menu Pilih Semua Chat",
   "miscellaneous_features_info": "Nonaktifkan fitur dari daftar ini yang tidak Anda gunakan secara aktif untuk menjaga performa.",
   "restart_to_apply_changes": "Restart untuk menerapkan perubahan",
-  "disable_swipe_gestures": "Tambahkan nonaktif di menu gestur geser daftar chat"
+  "disable_swipe_gestures": "Tambahkan nonaktif di menu gestur geser daftar chat",
+  "disable": "Nonaktifkan"
 }

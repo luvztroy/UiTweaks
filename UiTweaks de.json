@@ -204,5 +204,6 @@
   "select_all_dialogs_menu": "Alle Chats auswählen-Menüoption",
   "miscellaneous_features_info": "Deaktivieren Sie Funktionen aus dieser Liste, die Sie nicht aktiv verwenden, um die Leistung zu erhalten.",
   "restart_to_apply_changes": "Neustart, um Änderungen anzuwenden",
-  "disable_swipe_gestures": "Deaktivierung in Chat-Liste Wischgesten-Menü hinzufügen"
+  "disable_swipe_gestures": "Deaktivierung in Chat-Liste Wischgesten-Menü hinzufügen",
+  "disable": "Deaktivieren"
 }

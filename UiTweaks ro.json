@@ -204,5 +204,6 @@
   "select_all_dialogs_menu": "Opțiune Meniu Selectează Toate Chat-urile",
   "miscellaneous_features_info": "Dezactivează caracteristicile din această listă pe care nu le folosești activ pentru a menține performanța.",
   "restart_to_apply_changes": "Repornește pentru a aplica modificările",
-  "disable_swipe_gestures": "Adaugă dezactivare în meniul gesturilor de glisare din lista de chat"
+  "disable_swipe_gestures": "Adaugă dezactivare în meniul gesturilor de glisare din lista de chat",
+  "disable": "Dezactivează"
 }
