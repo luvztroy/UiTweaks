@@ -203,5 +203,6 @@
   "sender_select_improvements": "Mejoras de Selección de Remitente",
   "select_all_dialogs_menu": "Menú Seleccionar Todos los Diálogos",
   "miscellaneous_features_info": "Desactiva las características de esta lista que no uses activamente para mantener el rendimiento.",
-  "restart_to_apply_changes": "Reiniciar para aplicar cambios"
+  "restart_to_apply_changes": "Reiniciar para aplicar cambios",
+  "disable_swipe_gestures": "Agregar deshabilitar en menú de gestos de deslizar de lista de chat"
 }

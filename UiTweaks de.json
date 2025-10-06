@@ -203,5 +203,6 @@
   "sender_select_improvements": "Absender-Auswahl-Verbesserungen",
   "select_all_dialogs_menu": "Alle Dialoge auswählen-Menü",
   "miscellaneous_features_info": "Deaktivieren Sie Funktionen aus dieser Liste, die Sie nicht aktiv verwenden, um die Leistung zu erhalten.",
-  "restart_to_apply_changes": "Neustart, um Änderungen anzuwenden"
+  "restart_to_apply_changes": "Neustart, um Änderungen anzuwenden",
+  "disable_swipe_gestures": "Deaktivierung in Chat-Liste Wischgesten-Menü hinzufügen"
 }

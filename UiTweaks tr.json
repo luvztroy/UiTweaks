@@ -203,5 +203,6 @@
   "sender_select_improvements": "Gönderen Seçim İyileştirmeleri",
   "select_all_dialogs_menu": "Tüm Sohbetleri Seç Menüsü",
   "miscellaneous_features_info": "Performansı korumak için bu listeden aktif olarak kullanmadığınız özellikleri devre dışı bırakın.",
-  "restart_to_apply_changes": "Değişiklikleri uygulamak için yeniden başlat"
+  "restart_to_apply_changes": "Değişiklikleri uygulamak için yeniden başlat",
+  "disable_swipe_gestures": "Sohbet listesi kaydırma hareketi menüsüne devre dışı bırakma ekle"
 }

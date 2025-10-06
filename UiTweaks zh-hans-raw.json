@@ -69,6 +69,8 @@
   "hide_bot_button": "在输入字段中隐藏机器人按钮",
   "hide_bot_button_subtext": "隐藏聊天输入字段中有机器人可用时出现的机器人按钮",
   "hide_bot_open": "在聊天列表中隐藏机器人\"打开\"按钮",
+  "hide_birthday_alert": "隐藏生日提醒",
+  "hide_birthday_alert_info": "隐藏聊天列表中出现的生日设置建议",
   "hide_chat_controls": "隐藏聊天控制",
   "hide_elements": "隐藏元素",
   "hide_hd_icon": "在媒体选择器中隐藏HD图标",
@@ -201,5 +203,6 @@
   "sender_select_improvements": "发送者选择改进",
   "select_all_dialogs_menu": "选择所有对话菜单",
   "miscellaneous_features_info": "禁用此列表中您不经常使用的功能以保持性能。",
-  "restart_to_apply_changes": "重启以应用更改"
+  "restart_to_apply_changes": "重启以应用更改",
+  "disable_swipe_gestures": "在聊天列表滑动手势菜单中添加禁用"
 }

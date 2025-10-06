@@ -203,5 +203,6 @@
   "sender_select_improvements": "تحسينات اختيار المرسل",
   "select_all_dialogs_menu": "قائمة تحديد جميع المحادثات",
   "miscellaneous_features_info": "قم بإلغاء تفعيل الميزات من هذه القائمة التي لا تستخدمها بنشاط للحفاظ على الأداء.",
-  "restart_to_apply_changes": "إعادة التشغيل لتطبيق التغييرات"
+  "restart_to_apply_changes": "إعادة التشغيل لتطبيق التغييرات",
+  "disable_swipe_gestures": "إضافة تعطيل في قائمة إيماءات السحب لقائمة الدردشة"
 }

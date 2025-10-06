@@ -203,5 +203,6 @@
   "sender_select_improvements": "Покращення вибору відправника",
   "select_all_dialogs_menu": "Меню вибору всіх діалогів",
   "miscellaneous_features_info": "Вимкніть функції з цього списку, які ви не використовуєте активно, для підтримки продуктивності.",
-  "restart_to_apply_changes": "Перезапуск для застосування змін"
+  "restart_to_apply_changes": "Перезапуск для застосування змін",
+  "disable_swipe_gestures": "Додати вимкнення в меню жестів свайпу списку чатів"
 }

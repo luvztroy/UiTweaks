@@ -203,5 +203,6 @@
   "sender_select_improvements": "발신자 선택 개선사항",
   "select_all_dialogs_menu": "모든 대화 선택 메뉴",
   "miscellaneous_features_info": "성능을 유지하기 위해 이 목록에서 적극적으로 사용하지 않는 기능을 비활성화하세요.",
-  "restart_to_apply_changes": "변경사항 적용을 위해 재시작"
+  "restart_to_apply_changes": "변경사항 적용을 위해 재시작",
+  "disable_swipe_gestures": "채팅 목록 스와이프 제스처 메뉴에 비활성화 추가"
 }

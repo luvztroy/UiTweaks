@@ -203,5 +203,6 @@
   "sender_select_improvements": "Miglioramenti Selezione Mittente",
   "select_all_dialogs_menu": "Menu Seleziona Tutti i Dialoghi",
   "miscellaneous_features_info": "Disabilita le caratteristiche di questo elenco che non usi attivamente per mantenere le prestazioni.",
-  "restart_to_apply_changes": "Riavvia per applicare le modifiche"
+  "restart_to_apply_changes": "Riavvia per applicare le modifiche",
+  "disable_swipe_gestures": "Aggiungi disabilita nel menu gesti di scorrimento lista chat"
 }

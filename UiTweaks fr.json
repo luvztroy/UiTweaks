@@ -203,5 +203,6 @@
   "sender_select_improvements": "Améliorations de Sélection d'Expéditeur",
   "select_all_dialogs_menu": "Menu Sélectionner Tous les Dialogues",
   "miscellaneous_features_info": "Désactivez les fonctionnalités de cette liste que vous n'utilisez pas activement pour maintenir les performances.",
-  "restart_to_apply_changes": "Redémarrer pour appliquer les modifications"
+  "restart_to_apply_changes": "Redémarrer pour appliquer les modifications",
+  "disable_swipe_gestures": "Ajouter désactiver dans le menu de gestes de balayage de liste de chat"
 }
