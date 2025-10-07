@@ -207,6 +207,8 @@
   "restart_to_apply_changes": "변경사항 적용을 위해 재시작",
   "disable_swipe_gestures": "채팅 목록 스와이프 제스처 메뉴에 비활성화 추가",
   "add_folders_to_share_sheet": "직접 공유 시트에 폴더 추가",
+  "enable_memory_warning": "메모리 경고 활성화",
+  "disable_memory_warning": "메모리 경고 비활성화",
   "disable": "비활성화",
   "quanta_team_member_badge": "**{user_name}**은 **Quanta**! 개발팀의 멤버입니다",
   "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"

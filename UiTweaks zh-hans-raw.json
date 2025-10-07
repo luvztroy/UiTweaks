@@ -207,6 +207,8 @@
   "restart_to_apply_changes": "重启以应用更改",
   "disable_swipe_gestures": "在聊天列表滑动手势菜单中添加禁用",
   "add_folders_to_share_sheet": "在直接分享表中添加文件夹",
+  "enable_memory_warning": "启用内存警告",
+  "disable_memory_warning": "禁用内存警告",
   "disable": "禁用",
   "quanta_team_member_badge": "**{user_name}** 是 **Quanta**! 开发团队的成员",
   "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"

@@ -207,6 +207,8 @@
   "restart_to_apply_changes": "Redémarrer pour appliquer les modifications",
   "disable_swipe_gestures": "Ajouter désactiver dans le menu de gestes de balayage de liste de chat",
   "add_folders_to_share_sheet": "Ajouter des dossiers à la feuille de partage direct",
+  "enable_memory_warning": "Activer l'avertissement de mémoire",
+  "disable_memory_warning": "Désactiver l'avertissement de mémoire",
   "disable": "Désactiver",
   "quanta_team_member_badge": "**{user_name}** est membre de l'équipe de développement **Quanta**!",
   "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"

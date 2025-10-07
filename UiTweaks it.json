@@ -207,6 +207,8 @@
   "restart_to_apply_changes": "Riavvia per applicare le modifiche",
   "disable_swipe_gestures": "Aggiungi disabilita nel menu gesti di scorrimento lista chat",
   "add_folders_to_share_sheet": "Aggiungi cartelle al foglio di condivisione diretta",
+  "enable_memory_warning": "Abilita avviso memoria",
+  "disable_memory_warning": "Disabilita avviso memoria",
   "disable": "Disabilita",
   "quanta_team_member_badge": "**{user_name}** è un membro del team di sviluppo **Quanta**!",
   "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"

@@ -207,6 +207,8 @@
   "restart_to_apply_changes": "Перезапуск для застосування змін",
   "disable_swipe_gestures": "Додати вимкнення в меню жестів свайпу списку чатів",
   "add_folders_to_share_sheet": "Додати папки до прямого листа спільного доступу",
+  "enable_memory_warning": "Увімкнути попередження про пам'ять",
+  "disable_memory_warning": "Вимкнути попередження про пам'ять",
   "disable": "Вимкнути",
   "quanta_team_member_badge": "**{user_name}** є учасником команди розробки **Quanta**!",
   "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"
