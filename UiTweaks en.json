@@ -41,6 +41,8 @@
   "disable_auto_web_login": "Disable Auto Web Login",
   "do_not_share_phone_number": "Do Not Share My Phone Number",
   "dont_auto_play_next_voice": "Don't Auto Play Next Voice Message",
+    "voice_message_time_display": "Progress Timestamp For Voice Messages",
+  "voice_message_time_display_info": "Shows current playback time and total duration on voice messages.",
   "download": "Download",
   "download_localization": "Download Localization",
   "download_localization_title": "Download Localization",

@@ -42,6 +42,7 @@
   "do_not_share_phone_number": "내 전화번호 공유하지 않기",
   "done": "완료",
   "dont_auto_play_next_voice": "다음 음성 메시지를 자동으로 재생하지 않음",
+    "voice_message_time_display": "음성 메시지용 진행 타임스탬프",
   "download": "다운로드",
   "download_localization": "현지화 다운로드",
   "download_localization_title": "현지화 다운로드",

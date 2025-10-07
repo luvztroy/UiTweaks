@@ -42,6 +42,7 @@
   "do_not_share_phone_number": "Ne pas partager mon numéro de téléphone",
   "done": "Terminé",
   "dont_auto_play_next_voice": "Ne pas lire automatiquement le prochain message vocal",
+    "voice_message_time_display": "Horodatage de progression pour les messages vocaux",
   "download": "Télécharger",
   "download_localization": "Télécharger la localisation",
   "download_localization_title": "Télécharger la localisation",
