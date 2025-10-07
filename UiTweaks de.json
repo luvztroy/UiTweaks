@@ -206,6 +206,7 @@
   "miscellaneous_features_info": "Deaktivieren Sie Funktionen aus dieser Liste, die Sie nicht aktiv verwenden, um die Leistung zu erhalten.",
   "restart_to_apply_changes": "Neustart, um Änderungen anzuwenden",
   "disable_swipe_gestures": "Deaktivierung in Chat-Liste Wischgesten-Menü hinzufügen",
+  "add_folders_to_share_sheet": "Ordner zum direkten Freigabe-Blatt hinzufügen",
   "disable": "Deaktivieren",
   "quanta_team_member_badge": "**{user_name}** ist Mitglied des **Quanta**!-Entwicklungsteams",
   "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"
