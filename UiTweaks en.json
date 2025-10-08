@@ -210,7 +210,5 @@
   "add_folders_to_share_sheet": "Add folders to direct share sheet",
   "enable_memory_warning": "Enable Memory Warning",
   "disable_memory_warning": "Disable Memory Warning",
-  "disable": "Disable",
-  "quanta_team_member_badge": "**{user_name}** is a member of the **Quanta**! development team",
-  "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"
+  "disable": "Disable"
 }

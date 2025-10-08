@@ -210,6 +210,4 @@
   "enable_memory_warning": "启用内存警告",
   "disable_memory_warning": "禁用内存警告",
   "disable": "禁用",
-  "quanta_team_member_badge": "**{user_name}** 是 **Quanta**! 开发团队的成员",
-  "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"
 }

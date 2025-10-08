@@ -210,6 +210,4 @@
   "enable_memory_warning": "تفعيل تحذير الذاكرة",
   "disable_memory_warning": "إلغاء تفعيل تحذير الذاكرة",
   "disable": "تعطيل",
-  "quanta_team_member_badge": "**{user_name}** هو عضو في فريق تطوير **Quanta**!",
-  "quanta_team_member_ids": "774320669,1392173058,938670184,914123704,1431579375,6985852072"
 }
