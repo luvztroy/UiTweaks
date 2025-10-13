@@ -219,5 +219,15 @@
   "reset_failed": "فشل إعادة التعيين: {error}",
   "open_profile": "فتح الملف الشخصي",
   "non_clickable_preview": "معاينة المحادثة غير القابلة للنقر",
-  "dont_auto_play_next_video": "عدم تشغيل الفيديو التالي تلقائياً"
+  "dont_auto_play_next_video": "عدم تشغيل الفيديو التالي تلقائياً",
+  "progress_timestamp_enabled": "طابع زمني للتقدم",
+  "progress_timestamp_types": "أنواع الرسائل",
+  "progress_timestamp_voice": "رسائل الصوت",
+  "progress_timestamp_video": "رسائل الفيديو",
+  "dont_auto_play_enabled": "عدم التشغيل التلقائي التالي",
+  "dont_auto_play_types": "أنواع الرسائل",
+  "dont_auto_play_voice": "رسائل الصوت",
+  "dont_auto_play_video": "رسائل الفيديو",
+  "progress_timestamp_subtitle": "اختر أنواع الرسائل",
+  "dont_auto_play_subtitle": "اختر أنواع الرسائل"
 }

@@ -219,5 +219,15 @@
   "reset_failed": "Resetarea a eșuat: {error}",
   "open_profile": "Deschide profilul",
   "non_clickable_preview": "Previzualizare chat neclicabilă",
-  "dont_auto_play_next_video": "Nu reda automat următorul videoclip"
+  "dont_auto_play_next_video": "Nu reda automat următorul videoclip",
+  "progress_timestamp_enabled": "Marcaj temporal de progres",
+  "progress_timestamp_types": "Tipuri de mesaje",
+  "progress_timestamp_voice": "Mesaje vocale",
+  "progress_timestamp_video": "Mesaje video",
+  "dont_auto_play_enabled": "Nu reda automat următorul",
+  "dont_auto_play_types": "Tipuri de mesaje",
+  "dont_auto_play_voice": "Mesaje vocale",
+  "dont_auto_play_video": "Mesaje video",
+  "progress_timestamp_subtitle": "Selectați tipurile de mesaje",
+  "dont_auto_play_subtitle": "Selectați tipurile de mesaje"
 }

@@ -219,5 +219,15 @@
   "reset_failed": "Sıfırlama başarısız: {error}",
   "open_profile": "Profili aç",
   "non_clickable_preview": "Tıklanamaz sohbet önizlemesi",
-  "dont_auto_play_next_video": "Sonraki videoyu otomatik oynatma"
+  "dont_auto_play_next_video": "Sonraki videoyu otomatik oynatma",
+  "progress_timestamp_enabled": "İlerleme zaman damgası",
+  "progress_timestamp_types": "Mesaj türleri",
+  "progress_timestamp_voice": "Sesli mesajlar",
+  "progress_timestamp_video": "Video mesajlar",
+  "dont_auto_play_enabled": "Sonrakini otomatik oynatma",
+  "dont_auto_play_types": "Mesaj türleri",
+  "dont_auto_play_voice": "Sesli mesajlar",
+  "dont_auto_play_video": "Video mesajlar",
+  "progress_timestamp_subtitle": "Mesaj türlerini seçin",
+  "dont_auto_play_subtitle": "Mesaj türlerini seçin"
 }

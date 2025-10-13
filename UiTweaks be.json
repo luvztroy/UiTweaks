@@ -219,5 +219,15 @@
   "reset_failed": "Скід не ўдаўся: {error}",
   "open_profile": "Адкрыць профіль",
   "non_clickable_preview": "Неклікабельная папярэдняя версія чата",
-  "dont_auto_play_next_video": "Не прайграваць наступнае відэа аўтаматычна"
+  "dont_auto_play_next_video": "Не прайграваць наступнае відэа аўтаматычна",
+  "progress_timestamp_enabled": "Часовая метка прагрэсу",
+  "progress_timestamp_types": "Тыпы паведамленняў",
+  "progress_timestamp_voice": "Галасавыя паведамленні",
+  "progress_timestamp_video": "Відэа паведамленні",
+  "dont_auto_play_enabled": "Не прайграваць наступнае",
+  "dont_auto_play_types": "Тыпы паведамленняў",
+  "dont_auto_play_voice": "Галасавыя паведамленні",
+  "dont_auto_play_video": "Відэа паведамленні",
+  "progress_timestamp_subtitle": "Выберыце тыпы паведамленняў",
+  "dont_auto_play_subtitle": "Выберыце тыпы паведамленняў"
 }

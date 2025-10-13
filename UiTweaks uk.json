@@ -219,5 +219,15 @@
   "reset_failed": "Скидання не вдалося: {error}",
   "open_profile": "Відкрити профіль",
   "non_clickable_preview": "Неклікабельна попередня версія чату",
-  "dont_auto_play_next_video": "Не відтворювати наступне відео автоматично"
+  "dont_auto_play_next_video": "Не відтворювати наступне відео автоматично",
+  "progress_timestamp_enabled": "Мітка часу прогресу",
+  "progress_timestamp_types": "Типи повідомлень",
+  "progress_timestamp_voice": "Голосові повідомлення",
+  "progress_timestamp_video": "Відео повідомлення",
+  "dont_auto_play_enabled": "Не відтворювати наступне автоматично",
+  "dont_auto_play_types": "Типи повідомлень",
+  "dont_auto_play_voice": "Голосові повідомлення",
+  "dont_auto_play_video": "Відео повідомлення",
+  "progress_timestamp_subtitle": "Виберіть типи повідомлень",
+  "dont_auto_play_subtitle": "Виберіть типи повідомлень"
 }

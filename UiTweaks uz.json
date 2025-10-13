@@ -219,5 +219,15 @@
   "reset_failed": "Tiklanish muvaffaqiyatsiz: {error}",
   "open_profile": "Profilni ochish",
   "non_clickable_preview": "Bosilmaydigan suhbat oldindan ko'rish",
-  "dont_auto_play_next_video": "Keyingi videoni avtomatik ijro etmaslik"
+  "dont_auto_play_next_video": "Keyingi videoni avtomatik ijro etmaslik",
+  "progress_timestamp_enabled": "Jarayon vaqt belgisi",
+  "progress_timestamp_types": "Xabar turlari",
+  "progress_timestamp_voice": "Ovozli xabarlar",
+  "progress_timestamp_video": "Video xabarlar",
+  "dont_auto_play_enabled": "Keyingisini avtomatik ijro etmaslik",
+  "dont_auto_play_types": "Xabar turlari",
+  "dont_auto_play_voice": "Ovozli xabarlar",
+  "dont_auto_play_video": "Video xabarlar",
+  "progress_timestamp_subtitle": "Xabar turlarini tanlang",
+  "dont_auto_play_subtitle": "Xabar turlarini tanlang"
 }

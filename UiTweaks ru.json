@@ -219,5 +219,15 @@
   "reset_failed": "Сброс не удался: {error}",
   "open_profile": "Открыть профиль",
   "non_clickable_preview": "Неактивная предварительная версия чата",
-  "dont_auto_play_next_video": "Не воспроизводить следующее видео автоматически"
+  "dont_auto_play_next_video": "Не воспроизводить следующее видео автоматически",
+  "progress_timestamp_enabled": "Временная метка прогресса",
+  "progress_timestamp_types": "Типы сообщений",
+  "progress_timestamp_voice": "Голосовые сообщения",
+  "progress_timestamp_video": "Видео сообщения",
+  "dont_auto_play_enabled": "Не воспроизводить следующее автоматически",
+  "dont_auto_play_types": "Типы сообщений",
+  "dont_auto_play_voice": "Голосовые сообщения",
+  "dont_auto_play_video": "Видео сообщения",
+  "progress_timestamp_subtitle": "Выберите типы сообщений",
+  "dont_auto_play_subtitle": "Выберите типы сообщений"
 }

@@ -219,5 +219,15 @@
   "reset_failed": "Error al restablecer: {error}",
   "open_profile": "Abrir perfil",
   "non_clickable_preview": "Vista previa de chat no clicable",
-  "dont_auto_play_next_video": "No reproducir automáticamente el siguiente video"
+  "dont_auto_play_next_video": "No reproducir automáticamente el siguiente video",
+  "progress_timestamp_enabled": "Marca de tiempo de progreso",
+  "progress_timestamp_types": "Tipos de mensaje",
+  "progress_timestamp_voice": "Mensajes de voz",
+  "progress_timestamp_video": "Mensajes de video",
+  "dont_auto_play_enabled": "No reproducir automáticamente el siguiente",
+  "dont_auto_play_types": "Tipos de mensaje",
+  "dont_auto_play_voice": "Mensajes de voz",
+  "dont_auto_play_video": "Mensajes de video",
+  "progress_timestamp_subtitle": "Selecciona tipos de mensaje",
+  "dont_auto_play_subtitle": "Selecciona tipos de mensaje"
 }

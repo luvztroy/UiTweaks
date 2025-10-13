@@ -219,5 +219,15 @@
   "reset_failed": "초기화 실패: {error}",
   "open_profile": "프로필 열기",
   "non_clickable_preview": "클릭 불가능한 채팅 미리보기",
-  "dont_auto_play_next_video": "다음 비디오 자동 재생 안 함"
+  "dont_auto_play_next_video": "다음 비디오 자동 재생 안 함",
+  "progress_timestamp_enabled": "진행 타임스탬프",
+  "progress_timestamp_types": "메시지 유형",
+  "progress_timestamp_voice": "음성 메시지",
+  "progress_timestamp_video": "비디오 메시지",
+  "dont_auto_play_enabled": "다음 자동 재생 안 함",
+  "dont_auto_play_types": "메시지 유형",
+  "dont_auto_play_voice": "음성 메시지",
+  "dont_auto_play_video": "비디오 메시지",
+  "progress_timestamp_subtitle": "메시지 유형 선택",
+  "dont_auto_play_subtitle": "메시지 유형 선택"
 }

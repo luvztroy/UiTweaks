@@ -219,5 +219,15 @@
   "reset_failed": "Zurücksetzen fehlgeschlagen: {error}",
   "open_profile": "Profil öffnen",
   "non_clickable_preview": "Nicht anklickbare Chat-Vorschau",
-  "dont_auto_play_next_video": "Nächstes Video nicht automatisch abspielen"
+  "dont_auto_play_next_video": "Nächstes Video nicht automatisch abspielen",
+  "progress_timestamp_enabled": "Fortschritts-Zeitstempel",
+  "progress_timestamp_types": "Nachrichtentypen",
+  "progress_timestamp_voice": "Sprachnachrichten",
+  "progress_timestamp_video": "Videonachrichten",
+  "dont_auto_play_enabled": "Nächstes nicht automatisch abspielen",
+  "dont_auto_play_types": "Nachrichtentypen",
+  "dont_auto_play_voice": "Sprachnachrichten",
+  "dont_auto_play_video": "Videonachrichten",
+  "progress_timestamp_subtitle": "Nachrichtentypen auswählen",
+  "dont_auto_play_subtitle": "Nachrichtentypen auswählen"
 }

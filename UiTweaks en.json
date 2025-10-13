@@ -219,5 +219,15 @@
   "reset_failed": "Reset failed: {error}",
   "open_profile": "Open Profile",
   "non_clickable_preview": "Non-Clickable Chat Preview",
-  "dont_auto_play_next_video": "Don't Auto Play Next Video Message"
+  "dont_auto_play_next_video": "Don't Auto Play Next Video Message",
+  "progress_timestamp_enabled": "Progress Timestamp",
+  "progress_timestamp_types": "Message Types",
+  "progress_timestamp_voice": "Voice Messages",
+  "progress_timestamp_video": "Video Messages",
+  "dont_auto_play_enabled": "Don't Auto Play Next",
+  "dont_auto_play_types": "Message Types",
+  "dont_auto_play_voice": "Voice Messages",
+  "dont_auto_play_video": "Video Messages",
+  "progress_timestamp_subtitle": "Select message types",
+  "dont_auto_play_subtitle": "Select message types"
 }

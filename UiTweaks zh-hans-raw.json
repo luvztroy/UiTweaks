@@ -219,5 +219,15 @@
   "reset_failed": "重置失败：{error}",
   "open_profile": "打开个人资料",
   "non_clickable_preview": "不可点击的聊天预览",
-  "dont_auto_play_next_video": "不自动播放下一个视频"
+  "dont_auto_play_next_video": "不自动播放下一个视频",
+  "progress_timestamp_enabled": "进度时间戳",
+  "progress_timestamp_types": "消息类型",
+  "progress_timestamp_voice": "语音消息",
+  "progress_timestamp_video": "视频消息",
+  "dont_auto_play_enabled": "不自动播放下一个",
+  "dont_auto_play_types": "消息类型",
+  "dont_auto_play_voice": "语音消息",
+  "dont_auto_play_video": "视频消息",
+  "progress_timestamp_subtitle": "选择消息类型",
+  "dont_auto_play_subtitle": "选择消息类型"
 }
