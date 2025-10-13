@@ -215,5 +215,7 @@
   "reset_confirmation": "Вы уверены, что хотите сбросить?",
   "reset_all": "Сбросить все",
   "shared_preferences_reset_success": "Все настройки сброшены! Перезапуск...",
-  "reset_failed": "Сброс не удался: {error}"
+  "reset_failed": "Сброс не удался: {error}",
+  "open_profile": "Открыть профиль",
+  "non_clickable_preview": "Неактивная предварительная версия чата"
 }

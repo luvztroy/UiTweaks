@@ -215,5 +215,7 @@
   "reset_confirmation": "Sıfırlamak istediğinizden emin misiniz?",
   "reset_all": "Tümünü sıfırla",
   "shared_preferences_reset_success": "Tüm tercihler sıfırlandı! Yeniden başlatılıyor...",
-  "reset_failed": "Sıfırlama başarısız: {error}"
+  "reset_failed": "Sıfırlama başarısız: {error}",
+  "open_profile": "Profili aç",
+  "non_clickable_preview": "Tıklanamaz sohbet önizlemesi"
 }

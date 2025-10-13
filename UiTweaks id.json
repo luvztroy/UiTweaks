@@ -215,5 +215,7 @@
   "reset_confirmation": "Apakah Anda yakin ingin mereset?",
   "reset_all": "Reset semua",
   "shared_preferences_reset_success": "Semua preferensi direset! Restart...",
-  "reset_failed": "Reset gagal: {error}"
+  "reset_failed": "Reset gagal: {error}",
+  "open_profile": "Buka profil",
+  "non_clickable_preview": "Pratinjau chat non-klik"
 }

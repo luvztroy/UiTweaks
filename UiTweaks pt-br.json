@@ -215,5 +215,7 @@
   "reset_confirmation": "Tem certeza de que deseja redefinir?",
   "reset_all": "Redefinir tudo",
   "shared_preferences_reset_success": "Todas as preferências redefinidas! Reiniciando...",
-  "reset_failed": "Falha ao redefinir: {error}"
+  "reset_failed": "Falha ao redefinir: {error}",
+  "open_profile": "Abrir perfil",
+  "non_clickable_preview": "Prévia de chat não clicável"
 }

@@ -215,5 +215,7 @@
   "reset_confirmation": "Tiklashni xohlaysizmi?",
   "reset_all": "Hammasini tiklash",
   "shared_preferences_reset_success": "Barcha sozlamalar tiklandi! Qayta ishga tushirilmoqda...",
-  "reset_failed": "Tiklanish muvaffaqiyatsiz: {error}"
+  "reset_failed": "Tiklanish muvaffaqiyatsiz: {error}",
+  "open_profile": "Profilni ochish",
+  "non_clickable_preview": "Bosilmaydigan suhbat oldindan ko'rish"
 }

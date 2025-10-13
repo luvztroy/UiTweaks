@@ -215,5 +215,7 @@
   "reset_confirmation": "Вы ўпэўнены, што хочаце скінуць?",
   "reset_all": "Скінуць усё",
   "shared_preferences_reset_success": "Усе налады скінуты! Перазапуск...",
-  "reset_failed": "Скід не ўдаўся: {error}"
+  "reset_failed": "Скід не ўдаўся: {error}",
+  "open_profile": "Адкрыць профіль",
+  "non_clickable_preview": "Неклікабельная папярэдняя версія чата"
 }

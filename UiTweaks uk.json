@@ -215,5 +215,7 @@
   "reset_confirmation": "Ви впевнені, що хочете скинути?",
   "reset_all": "Скинути все",
   "shared_preferences_reset_success": "Всі налаштування скинуто! Перезапуск...",
-  "reset_failed": "Скидання не вдалося: {error}"
+  "reset_failed": "Скидання не вдалося: {error}",
+  "open_profile": "Відкрити профіль",
+  "non_clickable_preview": "Неклікабельна попередня версія чату"
 }

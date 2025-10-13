@@ -215,5 +215,7 @@
   "reset_confirmation": "Sind Sie sicher, dass Sie zurücksetzen möchten?",
   "reset_all": "Alles zurücksetzen",
   "shared_preferences_reset_success": "Alle Einstellungen zurückgesetzt! Neustart...",
-  "reset_failed": "Zurücksetzen fehlgeschlagen: {error}"
+  "reset_failed": "Zurücksetzen fehlgeschlagen: {error}",
+  "open_profile": "Profil öffnen",
+  "non_clickable_preview": "Nicht anklickbare Chat-Vorschau"
 }
