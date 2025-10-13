@@ -31,6 +31,12 @@
       "text_template": "**{user_name}** is a member of the **Quanta**! beta testing group"
     },
     {
+      "id": "user6",
+      "user_id": 1071521215,
+      "emoji_id": 5992228811058450471,
+      "text_template": "**{user_name}** is a member of the **Quanta**! beta testing group"
+    },
+    {
       "id": "channel1",
       "chat_id": 2863704830,
       "emoji_id": 5393416280147522806,
