@@ -43,7 +43,7 @@
   "done": "Hecho",
   "dont_auto_play_next_voice": "No reproducir automáticamente el siguiente mensaje de voz",
     "voice_message_time_display": "Marca de tiempo de progreso para mensajes de voz",
-  "round_video_time_display": "Marca de tiempo de progreso para mensajes de video redondos",
+  "round_video_time_display": "Marca de tiempo de progreso para mensajes de video",
   "download": "Descargar",
   "download_localization": "Descargar localización",
   "download_localization_title": "Descargar localización",
