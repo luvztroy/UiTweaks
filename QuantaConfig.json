@@ -3,8 +3,8 @@
     {
       "id": "user1",
       "user_id": 774320669,
-      "emoji_id": 5393267846077751570,
-      "text_template": "Hahahah funny guy"
+      "emoji_id": 5393416280147522806,
+      "text_template": "**{user_name}** is a member of the **Quanta**! development team"
     },
     {
       "id": "user2",
