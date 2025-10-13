@@ -19,6 +19,12 @@
       "text_template": "**{user_name}** is a member of the **Quanta**! development team"
     },
     {
+      "id": "user4",
+      "user_id": 6985852072,
+      "emoji_id": 5393416280147522806,
+      "text_template": "**{user_name}** is a member of the **Quanta**! development team"
+    },
+    {
       "id": "channel1",
       "chat_id": 2863704830,
       "emoji_id": 5393416280147522806,
