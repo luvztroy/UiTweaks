@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "Toate preferințele au fost resetate! Repornire...",
   "reset_failed": "Resetarea a eșuat: {error}",
   "open_profile": "Deschide profilul",
-  "non_clickable_preview": "Previzualizare chat neclicabilă"
+  "non_clickable_preview": "Previzualizare chat neclicabilă",
+  "dont_auto_play_next_video": "Nu reda automat următorul videoclip"
 }

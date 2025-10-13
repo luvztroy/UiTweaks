@@ -218,5 +218,6 @@
   "shared_preferences_reset_success": "ALL SharedPreferences reset! Restarting...",
   "reset_failed": "Reset failed: {error}",
   "open_profile": "Open Profile",
-  "non_clickable_preview": "Non-Clickable Chat Preview"
+  "non_clickable_preview": "Non-Clickable Chat Preview",
+  "dont_auto_play_next_video": "Don't Auto Play Next Video Message"
 }

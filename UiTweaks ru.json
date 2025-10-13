@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "Все настройки сброшены! Перезапуск...",
   "reset_failed": "Сброс не удался: {error}",
   "open_profile": "Открыть профиль",
-  "non_clickable_preview": "Неактивная предварительная версия чата"
+  "non_clickable_preview": "Неактивная предварительная версия чата",
+  "dont_auto_play_next_video": "Не воспроизводить следующее видео автоматически"
 }

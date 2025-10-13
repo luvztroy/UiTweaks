@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "所有偏好设置已重置！正在重启...",
   "reset_failed": "重置失败：{error}",
   "open_profile": "打开个人资料",
-  "non_clickable_preview": "不可点击的聊天预览"
+  "non_clickable_preview": "不可点击的聊天预览",
+  "dont_auto_play_next_video": "不自动播放下一个视频"
 }

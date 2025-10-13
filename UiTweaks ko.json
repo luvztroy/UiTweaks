@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "모든 설정이 초기화되었습니다! 재시작 중...",
   "reset_failed": "초기화 실패: {error}",
   "open_profile": "프로필 열기",
-  "non_clickable_preview": "클릭 불가능한 채팅 미리보기"
+  "non_clickable_preview": "클릭 불가능한 채팅 미리보기",
+  "dont_auto_play_next_video": "다음 비디오 자동 재생 안 함"
 }

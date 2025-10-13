@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "Alle Einstellungen zurückgesetzt! Neustart...",
   "reset_failed": "Zurücksetzen fehlgeschlagen: {error}",
   "open_profile": "Profil öffnen",
-  "non_clickable_preview": "Nicht anklickbare Chat-Vorschau"
+  "non_clickable_preview": "Nicht anklickbare Chat-Vorschau",
+  "dont_auto_play_next_video": "Nächstes Video nicht automatisch abspielen"
 }

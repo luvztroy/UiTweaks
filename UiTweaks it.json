@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "Tutte le preferenze ripristinate! Riavvio...",
   "reset_failed": "Ripristino fallito: {error}",
   "open_profile": "Apri profilo",
-  "non_clickable_preview": "Anteprima chat non cliccabile"
+  "non_clickable_preview": "Anteprima chat non cliccabile",
+  "dont_auto_play_next_video": "Non riprodurre automaticamente il prossimo video"
 }

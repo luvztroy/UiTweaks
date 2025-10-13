@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "Semua preferensi direset! Restart...",
   "reset_failed": "Reset gagal: {error}",
   "open_profile": "Buka profil",
-  "non_clickable_preview": "Pratinjau chat non-klik"
+  "non_clickable_preview": "Pratinjau chat non-klik",
+  "dont_auto_play_next_video": "Jangan putar video berikutnya secara otomatis"
 }

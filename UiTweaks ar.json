@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "تم إعادة تعيين جميع التفضيلات! إعادة التشغيل...",
   "reset_failed": "فشل إعادة التعيين: {error}",
   "open_profile": "فتح الملف الشخصي",
-  "non_clickable_preview": "معاينة المحادثة غير القابلة للنقر"
+  "non_clickable_preview": "معاينة المحادثة غير القابلة للنقر",
+  "dont_auto_play_next_video": "عدم تشغيل الفيديو التالي تلقائياً"
 }

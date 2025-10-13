@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "Tüm tercihler sıfırlandı! Yeniden başlatılıyor...",
   "reset_failed": "Sıfırlama başarısız: {error}",
   "open_profile": "Profili aç",
-  "non_clickable_preview": "Tıklanamaz sohbet önizlemesi"
+  "non_clickable_preview": "Tıklanamaz sohbet önizlemesi",
+  "dont_auto_play_next_video": "Sonraki videoyu otomatik oynatma"
 }

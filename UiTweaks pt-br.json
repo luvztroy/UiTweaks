@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "Todas as preferências redefinidas! Reiniciando...",
   "reset_failed": "Falha ao redefinir: {error}",
   "open_profile": "Abrir perfil",
-  "non_clickable_preview": "Prévia de chat não clicável"
+  "non_clickable_preview": "Prévia de chat não clicável",
+  "dont_auto_play_next_video": "Não reproduzir automaticamente o próximo vídeo"
 }

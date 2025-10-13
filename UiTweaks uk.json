@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "Всі налаштування скинуто! Перезапуск...",
   "reset_failed": "Скидання не вдалося: {error}",
   "open_profile": "Відкрити профіль",
-  "non_clickable_preview": "Неклікабельна попередня версія чату"
+  "non_clickable_preview": "Неклікабельна попередня версія чату",
+  "dont_auto_play_next_video": "Не відтворювати наступне відео автоматично"
 }

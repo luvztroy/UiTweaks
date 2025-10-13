@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "Barcha sozlamalar tiklandi! Qayta ishga tushirilmoqda...",
   "reset_failed": "Tiklanish muvaffaqiyatsiz: {error}",
   "open_profile": "Profilni ochish",
-  "non_clickable_preview": "Bosilmaydigan suhbat oldindan ko'rish"
+  "non_clickable_preview": "Bosilmaydigan suhbat oldindan ko'rish",
+  "dont_auto_play_next_video": "Keyingi videoni avtomatik ijro etmaslik"
 }

@@ -217,5 +217,6 @@
   "shared_preferences_reset_success": "Toutes les préférences réinitialisées ! Redémarrage...",
   "reset_failed": "Échec de la réinitialisation : {error}",
   "open_profile": "Ouvrir le profil",
-  "non_clickable_preview": "Aperçu de chat non cliquable"
+  "non_clickable_preview": "Aperçu de chat non cliquable",
+  "dont_auto_play_next_video": "Ne pas lire automatiquement la vidéo suivante"
 }
