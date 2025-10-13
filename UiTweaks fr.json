@@ -43,6 +43,7 @@
   "done": "Terminé",
   "dont_auto_play_next_voice": "Ne pas lire automatiquement le prochain message vocal",
     "voice_message_time_display": "Horodatage de progression pour les messages vocaux",
+  "round_video_time_display": "Horodatage de progression pour les messages vidéo ronds",
   "download": "Télécharger",
   "download_localization": "Télécharger la localisation",
   "download_localization_title": "Télécharger la localisation",

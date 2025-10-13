@@ -43,6 +43,7 @@
   "done": "Tamam",
   "dont_auto_play_next_voice": "Sonraki sesli mesajı otomatik oynatma",
     "voice_message_time_display": "Sesli mesajlar için ilerleme zaman damgası",
+  "round_video_time_display": "Yuvarlak video mesajlar için ilerleme zaman damgası",
   "download": "İndir",
   "download_localization": "Yerelleştirmeyi indir",
   "download_localization_title": "Yerelleştirmeyi indir",

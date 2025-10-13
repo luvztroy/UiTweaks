@@ -43,6 +43,7 @@
   "done": "Fatto",
   "dont_auto_play_next_voice": "Non riprodurre automaticamente il prossimo messaggio vocale",
     "voice_message_time_display": "Timestamp di progresso per messaggi vocali",
+  "round_video_time_display": "Timestamp di progresso per messaggi video rotondi",
   "download": "Scarica",
   "download_localization": "Scarica localizzazione",
   "download_localization_title": "Scarica localizzazione",

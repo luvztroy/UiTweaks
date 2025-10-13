@@ -43,6 +43,7 @@
   "done": "Fertig",
   "dont_auto_play_next_voice": "Nächste Sprachnachricht nicht automatisch abspielen",
     "voice_message_time_display": "Fortschritts-Zeitstempel für Sprachmeldungen",
+  "round_video_time_display": "Fortschritts-Zeitstempel für runde Videomeldungen",
   "download": "Herunterladen",
   "download_localization": "Lokalisierung herunterladen",
   "download_localization_title": "Lokalisierung herunterladen",
