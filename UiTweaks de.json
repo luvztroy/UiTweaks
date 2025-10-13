@@ -214,7 +214,7 @@
   "warning": "Warnung",
   "reset_confirmation": "Sind Sie sicher, dass Sie zurücksetzen möchten?",
   "reset_all": "Alles zurücksetzen",
-  "shared_preferences_reset_success": "Alle Einstellungen zurückgesetzt! Neustart...",
+  "shared_preferences_reset_success": "{count} Einstellungen zurücksetzen? App wird neu gestartet.",
   "reset_failed": "Zurücksetzen fehlgeschlagen: {error}",
   "open_profile": "Profil öffnen",
   "non_clickable_preview": "Nicht anklickbare Chat-Vorschau",

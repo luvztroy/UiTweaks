@@ -214,7 +214,7 @@
   "warning": "Advertencia",
   "reset_confirmation": "¿Estás seguro de que quieres restablecer?",
   "reset_all": "Restablecer todo",
-  "shared_preferences_reset_success": "¡Todas las preferencias restablecidas! Reiniciando...",
+  "shared_preferences_reset_success": "¿Restablecer {count} preferencias? La app se reiniciará.",
   "reset_failed": "Error al restablecer: {error}",
   "open_profile": "Abrir perfil",
   "non_clickable_preview": "Vista previa de chat no clicable",

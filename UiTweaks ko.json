@@ -214,7 +214,7 @@
   "warning": "경고",
   "reset_confirmation": "정말로 초기화하시겠습니까?",
   "reset_all": "모두 초기화",
-  "shared_preferences_reset_success": "모든 설정이 초기화되었습니다! 재시작 중...",
+  "shared_preferences_reset_success": "{count}개 설정을 초기화하시겠습니까? 앱이 재시작됩니다.",
   "reset_failed": "초기화 실패: {error}",
   "open_profile": "프로필 열기",
   "non_clickable_preview": "클릭 불가능한 채팅 미리보기",

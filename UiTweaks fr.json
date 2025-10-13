@@ -214,7 +214,7 @@
   "warning": "Avertissement",
   "reset_confirmation": "Êtes-vous sûr de vouloir réinitialiser ?",
   "reset_all": "Tout réinitialiser",
-  "shared_preferences_reset_success": "Toutes les préférences réinitialisées ! Redémarrage...",
+  "shared_preferences_reset_success": "Réinitialiser {count} préférences ? L'app va redémarrer.",
   "reset_failed": "Échec de la réinitialisation : {error}",
   "open_profile": "Ouvrir le profil",
   "non_clickable_preview": "Aperçu de chat non cliquable",

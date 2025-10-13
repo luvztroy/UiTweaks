@@ -214,7 +214,7 @@
   "warning": "Uyarı",
   "reset_confirmation": "Sıfırlamak istediğinizden emin misiniz?",
   "reset_all": "Tümünü sıfırla",
-  "shared_preferences_reset_success": "Tüm tercihler sıfırlandı! Yeniden başlatılıyor...",
+  "shared_preferences_reset_success": "{count} tercihi sıfırla? Uygulama yeniden başlatılacak.",
   "reset_failed": "Sıfırlama başarısız: {error}",
   "open_profile": "Profili aç",
   "non_clickable_preview": "Tıklanamaz sohbet önizlemesi",

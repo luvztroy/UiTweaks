@@ -214,7 +214,7 @@
   "warning": "Avviso",
   "reset_confirmation": "Sei sicuro di voler ripristinare?",
   "reset_all": "Ripristina tutto",
-  "shared_preferences_reset_success": "Tutte le preferenze ripristinate! Riavvio...",
+  "shared_preferences_reset_success": "Ripristina {count} preferenze? L'app si riavvierà.",
   "reset_failed": "Ripristino fallito: {error}",
   "open_profile": "Apri profilo",
   "non_clickable_preview": "Anteprima chat non cliccabile",

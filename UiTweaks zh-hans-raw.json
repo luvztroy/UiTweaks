@@ -214,7 +214,7 @@
   "warning": "警告",
   "reset_confirmation": "您确定要重置吗？",
   "reset_all": "重置全部",
-  "shared_preferences_reset_success": "所有偏好设置已重置！正在重启...",
+  "shared_preferences_reset_success": "重置 {count} 个偏好设置？应用将重启。",
   "reset_failed": "重置失败：{error}",
   "open_profile": "打开个人资料",
   "non_clickable_preview": "不可点击的聊天预览",

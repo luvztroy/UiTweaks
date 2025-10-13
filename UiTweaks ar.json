@@ -214,7 +214,7 @@
   "warning": "تحذير",
   "reset_confirmation": "هل أنت متأكد من أنك تريد إعادة التعيين؟",
   "reset_all": "إعادة تعيين الكل",
-  "shared_preferences_reset_success": "تم إعادة تعيين جميع التفضيلات! إعادة التشغيل...",
+  "shared_preferences_reset_success": "إعادة تعيين {count} تفضيل؟ سيتم إعادة تشغيل التطبيق.",
   "reset_failed": "فشل إعادة التعيين: {error}",
   "open_profile": "فتح الملف الشخصي",
   "non_clickable_preview": "معاينة المحادثة غير القابلة للنقر",

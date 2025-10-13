@@ -215,7 +215,7 @@
   "warning": "Warning",
   "reset_confirmation": "Are you sure you want to reset?",
   "reset_all": "Reset All",
-  "shared_preferences_reset_success": "ALL SharedPreferences reset! Restarting...",
+  "shared_preferences_reset_success": "Reset {count} preferences? App will restart.",
   "reset_failed": "Reset failed: {error}",
   "open_profile": "Open Profile",
   "non_clickable_preview": "Non-Clickable Chat Preview",

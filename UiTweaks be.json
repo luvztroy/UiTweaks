@@ -214,7 +214,7 @@
   "warning": "Папярэджанне",
   "reset_confirmation": "Вы ўпэўнены, што хочаце скінуць?",
   "reset_all": "Скінуць усё",
-  "shared_preferences_reset_success": "Усе налады скінуты! Перазапуск...",
+  "shared_preferences_reset_success": "Скінуць {count} наладаў? Прыкладанне перазапусціцца.",
   "reset_failed": "Скід не ўдаўся: {error}",
   "open_profile": "Адкрыць профіль",
   "non_clickable_preview": "Неклікабельная папярэдняя версія чата",

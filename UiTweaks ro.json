@@ -214,7 +214,7 @@
   "warning": "Avertisment",
   "reset_confirmation": "Ești sigur că vrei să resetezi?",
   "reset_all": "Resetează tot",
-  "shared_preferences_reset_success": "Toate preferințele au fost resetate! Repornire...",
+  "shared_preferences_reset_success": "Resetează {count} preferințe? Aplicația se va reporni.",
   "reset_failed": "Resetarea a eșuat: {error}",
   "open_profile": "Deschide profilul",
   "non_clickable_preview": "Previzualizare chat neclicabilă",
