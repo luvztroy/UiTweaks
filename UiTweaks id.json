@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "Tambahkan folder ke lembar berbagi langsung",
   "enable_memory_warning": "Aktifkan peringatan memori",
   "disable_memory_warning": "Nonaktifkan peringatan memori",
-  "disable": "Nonaktifkan"
+  "disable": "Nonaktifkan",
+  "reset_shared_preferences": "Reset preferensi aplikasi",
+  "reset_preferences_description": "Reset semua pengaturan aplikasi termasuk tema, bahasa, notifikasi, dan konfigurasi pengguna. Tindakan ini tidak dapat dibatalkan.",
+  "warning": "Peringatan",
+  "reset_confirmation": "Apakah Anda yakin ingin mereset?",
+  "reset_all": "Reset semua",
+  "shared_preferences_reset_success": "Semua preferensi direset! Restart...",
+  "reset_failed": "Reset gagal: {error}"
 }

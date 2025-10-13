@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "Ordner zum direkten Freigabe-Blatt hinzufügen",
   "enable_memory_warning": "Speicher-Warnung aktivieren",
   "disable_memory_warning": "Speicher-Warnung deaktivieren",
-  "disable": "Deaktivieren"
+  "disable": "Deaktivieren",
+  "reset_shared_preferences": "App-Einstellungen zurücksetzen",
+  "reset_preferences_description": "Alle App-Einstellungen zurücksetzen, einschließlich Themes, Sprache, Benachrichtigungen und Benutzerkonfigurationen. Diese Aktion kann nicht rückgängig gemacht werden.",
+  "warning": "Warnung",
+  "reset_confirmation": "Sind Sie sicher, dass Sie zurücksetzen möchten?",
+  "reset_all": "Alles zurücksetzen",
+  "shared_preferences_reset_success": "Alle Einstellungen zurückgesetzt! Neustart...",
+  "reset_failed": "Zurücksetzen fehlgeschlagen: {error}"
 }

@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "To'g'ridan-to'g'ri ulashish varaqasiga papkalar qo'shish",
   "enable_memory_warning": "Xotira ogohlantirishini yoqish",
   "disable_memory_warning": "Xotira ogohlantirishini o'chirish",
-  "disable": "O'chirish"
+  "disable": "O'chirish",
+  "reset_shared_preferences": "Ilova sozlamalarini tiklash",
+  "reset_preferences_description": "Mavzular, til, bildirishnomalar va foydalanuvchi konfiguratsiyalari kabi barcha ilova sozlamalarini tiklash. Bu harakatni bekor qilib bo'lmaydi.",
+  "warning": "Ogohlantirish",
+  "reset_confirmation": "Tiklashni xohlaysizmi?",
+  "reset_all": "Hammasini tiklash",
+  "shared_preferences_reset_success": "Barcha sozlamalar tiklandi! Qayta ishga tushirilmoqda...",
+  "reset_failed": "Tiklanish muvaffaqiyatsiz: {error}"
 }

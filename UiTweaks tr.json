@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "Doğrudan paylaşım sayfasına klasörler ekle",
   "enable_memory_warning": "Bellek uyarısını etkinleştir",
   "disable_memory_warning": "Bellek uyarısını devre dışı bırak",
-  "disable": "Devre Dışı Bırak"
+  "disable": "Devre Dışı Bırak",
+  "reset_shared_preferences": "Uygulama tercihlerini sıfırla",
+  "reset_preferences_description": "Temalar, dil, bildirimler ve kullanıcı yapılandırmaları dahil tüm uygulama ayarlarını sıfırla. Bu işlem geri alınamaz.",
+  "warning": "Uyarı",
+  "reset_confirmation": "Sıfırlamak istediğinizden emin misiniz?",
+  "reset_all": "Tümünü sıfırla",
+  "shared_preferences_reset_success": "Tüm tercihler sıfırlandı! Yeniden başlatılıyor...",
+  "reset_failed": "Sıfırlama başarısız: {error}"
 }

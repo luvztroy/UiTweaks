@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "إضافة مجلدات إلى ورقة المشاركة المباشرة",
   "enable_memory_warning": "تفعيل تحذير الذاكرة",
   "disable_memory_warning": "إلغاء تفعيل تحذير الذاكرة",
-  "disable": "تعطيل"
+  "disable": "تعطيل",
+  "reset_shared_preferences": "إعادة تعيين تفضيلات التطبيق",
+  "reset_preferences_description": "إعادة تعيين جميع إعدادات التطبيق بما في ذلك السمات واللغة والإشعارات وتكوينات المستخدم. لا يمكن التراجع عن هذا الإجراء.",
+  "warning": "تحذير",
+  "reset_confirmation": "هل أنت متأكد من أنك تريد إعادة التعيين؟",
+  "reset_all": "إعادة تعيين الكل",
+  "shared_preferences_reset_success": "تم إعادة تعيين جميع التفضيلات! إعادة التشغيل...",
+  "reset_failed": "فشل إعادة التعيين: {error}"
 }

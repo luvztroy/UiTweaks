@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "Agregar carpetas a la hoja de compartir directo",
   "enable_memory_warning": "Habilitar advertencia de memoria",
   "disable_memory_warning": "Deshabilitar advertencia de memoria",
-  "disable": "Deshabilitar"
+  "disable": "Deshabilitar",
+  "reset_shared_preferences": "Restablecer preferencias de la aplicación",
+  "reset_preferences_description": "Restablecer todas las configuraciones de la aplicación, incluyendo temas, idioma, notificaciones y configuraciones de usuario. Esta acción no se puede deshacer.",
+  "warning": "Advertencia",
+  "reset_confirmation": "¿Estás seguro de que quieres restablecer?",
+  "reset_all": "Restablecer todo",
+  "shared_preferences_reset_success": "¡Todas las preferencias restablecidas! Reiniciando...",
+  "reset_failed": "Error al restablecer: {error}"
 }

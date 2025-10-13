@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "Adicionar pastas à folha de compartilhamento direto",
   "enable_memory_warning": "Habilitar aviso de memória",
   "disable_memory_warning": "Desabilitar aviso de memória",
-  "disable": "Desabilitar"
+  "disable": "Desabilitar",
+  "reset_shared_preferences": "Redefinir preferências do app",
+  "reset_preferences_description": "Redefinir todas as configurações do app incluindo temas, idioma, notificações e configurações do usuário. Esta ação não pode ser desfeita.",
+  "warning": "Aviso",
+  "reset_confirmation": "Tem certeza de que deseja redefinir?",
+  "reset_all": "Redefinir tudo",
+  "shared_preferences_reset_success": "Todas as preferências redefinidas! Reiniciando...",
+  "reset_failed": "Falha ao redefinir: {error}"
 }

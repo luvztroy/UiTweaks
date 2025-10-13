@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "Adaugă foldere la foaia de partajare directă",
   "enable_memory_warning": "Activează avertizarea de memorie",
   "disable_memory_warning": "Dezactivează avertizarea de memorie",
-  "disable": "Dezactivează"
+  "disable": "Dezactivează",
+  "reset_shared_preferences": "Resetează preferințele aplicației",
+  "reset_preferences_description": "Resetează toate setările aplicației incluzând teme, limba, notificările și configurațiile utilizatorului. Această acțiune nu poate fi anulată.",
+  "warning": "Avertisment",
+  "reset_confirmation": "Ești sigur că vrei să resetezi?",
+  "reset_all": "Resetează tot",
+  "shared_preferences_reset_success": "Toate preferințele au fost resetate! Repornire...",
+  "reset_failed": "Resetarea a eșuat: {error}"
 }

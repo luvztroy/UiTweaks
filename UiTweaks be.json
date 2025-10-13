@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "Дадаць папкі ў прамы ліст агульнага доступу",
   "enable_memory_warning": "Уключыць папярэджанне пра памяць",
   "disable_memory_warning": "Адключыць папярэджанне пра памяць",
-  "disable": "Адключыць"
+  "disable": "Адключыць",
+  "reset_shared_preferences": "Скінуць налады прыкладання",
+  "reset_preferences_description": "Скінуць усе налады прыкладання, уключаючы тэмы, мову, апавяшчэнні і карыстальніцкія канфігурацыі. Гэта дзеянне нельга адмяніць.",
+  "warning": "Папярэджанне",
+  "reset_confirmation": "Вы ўпэўнены, што хочаце скінуць?",
+  "reset_all": "Скінуць усё",
+  "shared_preferences_reset_success": "Усе налады скінуты! Перазапуск...",
+  "reset_failed": "Скід не ўдаўся: {error}"
 }

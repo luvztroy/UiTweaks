@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "在直接分享表中添加文件夹",
   "enable_memory_warning": "启用内存警告",
   "disable_memory_warning": "禁用内存警告",
-  "disable": "禁用"
+  "disable": "禁用",
+  "reset_shared_preferences": "重置应用偏好设置",
+  "reset_preferences_description": "重置所有应用设置，包括主题、语言、通知和用户配置。此操作无法撤销。",
+  "warning": "警告",
+  "reset_confirmation": "您确定要重置吗？",
+  "reset_all": "重置全部",
+  "shared_preferences_reset_success": "所有偏好设置已重置！正在重启...",
+  "reset_failed": "重置失败：{error}"
 }

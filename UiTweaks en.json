@@ -209,5 +209,12 @@
   "add_folders_to_share_sheet": "Add folders to direct share sheet",
   "enable_memory_warning": "Enable Memory Warning",
   "disable_memory_warning": "Disable Memory Warning",
-  "disable": "Disable"
+  "disable": "Disable",
+  "reset_shared_preferences": "Reset Shared Preferences",
+  "reset_preferences_description": "Reset all application settings including themes, language, notifications, and user configurations. This action cannot be undone.",
+  "warning": "Warning",
+  "reset_confirmation": "Are you sure you want to reset?",
+  "reset_all": "Reset All",
+  "shared_preferences_reset_success": "ALL SharedPreferences reset! Restarting...",
+  "reset_failed": "Reset failed: {error}"
 }

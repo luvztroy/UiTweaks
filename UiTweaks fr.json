@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "Ajouter des dossiers à la feuille de partage direct",
   "enable_memory_warning": "Activer l'avertissement de mémoire",
   "disable_memory_warning": "Désactiver l'avertissement de mémoire",
-  "disable": "Désactiver"
+  "disable": "Désactiver",
+  "reset_shared_preferences": "Réinitialiser les préférences de l'application",
+  "reset_preferences_description": "Réinitialiser tous les paramètres de l'application, y compris les thèmes, la langue, les notifications et les configurations utilisateur. Cette action ne peut pas être annulée.",
+  "warning": "Avertissement",
+  "reset_confirmation": "Êtes-vous sûr de vouloir réinitialiser ?",
+  "reset_all": "Tout réinitialiser",
+  "shared_preferences_reset_success": "Toutes les préférences réinitialisées ! Redémarrage...",
+  "reset_failed": "Échec de la réinitialisation : {error}"
 }

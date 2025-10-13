@@ -208,5 +208,12 @@
   "add_folders_to_share_sheet": "직접 공유 시트에 폴더 추가",
   "enable_memory_warning": "메모리 경고 활성화",
   "disable_memory_warning": "메모리 경고 비활성화",
-  "disable": "비활성화"
+  "disable": "비활성화",
+  "reset_shared_preferences": "앱 설정 초기화",
+  "reset_preferences_description": "테마, 언어, 알림 및 사용자 설정을 포함한 모든 앱 설정을 초기화합니다. 이 작업은 되돌릴 수 없습니다.",
+  "warning": "경고",
+  "reset_confirmation": "정말로 초기화하시겠습니까?",
+  "reset_all": "모두 초기화",
+  "shared_preferences_reset_success": "모든 설정이 초기화되었습니다! 재시작 중...",
+  "reset_failed": "초기화 실패: {error}"
 }
