@@ -165,7 +165,7 @@
   "star_reaction_hide_location": "Выбраць адкуль",
   "thank_you_message": "Дзякуй за выкарыстанне UiTweaks! Зваротная сувязь?\nДалучайцеся: @QuantaPlugins",
   "typing_instead_sticker": "Набор замест выбару стыкера",
-  "uitweaks_settings": "Налады UiTweaks",
+  "uitweaks_settings": "Катэгорыі",
   "unlock_uitweaks_description": "Разблакуйце UiTweaks на {language} для бесперапыннага вопыту.",
   "unread_badge_on_back_button": "Значок непрачытаных на кнопцы назад",
   "fab_action_selector": "Дзеянне",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "Выберыце тыпы паведамленняў",
   "dont_auto_play_subtitle": "Выберыце тыпы паведамленняў",
   "dont_auto_play_info": "Прадухіляе аўтаматычнае прайграванне наступнага галасавога або відэа паведамлення ў чаце, даючы вам кантроль над тым, калі прайграваюцца медыя.",
-  "progress_timestamp_info": "Паказвае бягучы час прайгравання і агульную працягласць на галасавых і відэа паведамленнях для лепшага кантролю медыя."
+  "progress_timestamp_info": "Паказвае бягучы час прайгравання і агульную працягласць на галасавых і відэа паведамленнях для лепшага кантролю медыя.",
+  "links": "Спасылкі"
 }

@@ -165,7 +165,7 @@
   "star_reaction_hide_location": "Nereden seç",
   "thank_you_message": "UiTweaks kullandığınız için teşekkürler! Geri bildirim?\nKatılın: @QuantaPlugins",
   "typing_instead_sticker": "Çıkartma seçmek yerine yazıyor",
-  "uitweaks_settings": "UiTweaks Ayarları",
+  "uitweaks_settings": "Kategoriler",
   "unlock_uitweaks_description": "Sorunsuz bir deneyim için UiTweaks'ı {language} dilinde açın.",
   "unread_badge_on_back_button": "Geri düğmesinde okunmamış rozet",
   "fab_action_selector": "Eylem",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "Mesaj türlerini seçin",
   "dont_auto_play_subtitle": "Mesaj türlerini seçin",
   "dont_auto_play_info": "Sohbetteki bir sonraki sesli veya video mesajın otomatik oynatılmasını önler, medyanın ne zaman oynatılacağı konusunda size kontrol verir.",
-  "progress_timestamp_info": "Daha iyi medya kontrolü için sesli ve video mesajlarda mevcut oynatma süresini ve toplam süreyi gösterir."
+  "progress_timestamp_info": "Daha iyi medya kontrolü için sesli ve video mesajlarda mevcut oynatma süresini ve toplam süreyi gösterir.",
+  "links": "Bağlantılar"
 }

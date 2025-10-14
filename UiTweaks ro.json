@@ -165,7 +165,7 @@
   "star_reaction_hide_location": "Alege de unde",
   "thank_you_message": "Mulțumim că folosiți UiTweaks! Feedback?\nAlăturați-vă: @QuantaPlugins",
   "typing_instead_sticker": "Tastare în loc de alegerea sticker-ului",
-  "uitweaks_settings": "Setări UiTweaks",
+  "uitweaks_settings": "Categorii",
   "unlock_uitweaks_description": "Deblochează UiTweaks în {language} pentru o experiență fără probleme.",
   "unread_badge_on_back_button": "Insignă de necitite pe butonul înapoi",
   "fab_action_selector": "Acțiune",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "Selectați tipurile de mesaje",
   "dont_auto_play_subtitle": "Selectați tipurile de mesaje",
   "dont_auto_play_info": "Previne redarea automată a următorului mesaj vocal sau video într-un chat, oferindu-vă controlul asupra momentului când sunt redate mediile.",
-  "progress_timestamp_info": "Afișează timpul de redare curent și durata totală pe mesajele vocale și video pentru un control mai bun al mediilor."
+  "progress_timestamp_info": "Afișează timpul de redare curent și durata totală pe mesajele vocale și video pentru un control mai bun al mediilor.",
+  "links": "Linkuri"
 }

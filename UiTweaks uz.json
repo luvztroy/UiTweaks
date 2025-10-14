@@ -165,7 +165,7 @@
   "star_reaction_hide_location": "Qayerdan tanlash",
   "thank_you_message": "UiTweaks ishlatganingiz uchun rahmat! Fikr?\nQo'shiling: @QuantaPlugins",
   "typing_instead_sticker": "Stiker tanlash o'rniga yozish",
-  "uitweaks_settings": "UiTweaks Sozlamalari",
+  "uitweaks_settings": "Kategoriyalar",
   "unlock_uitweaks_description": "Silliq tajriba uchun UiTweaks'ni {language} tilida oching.",
   "unread_badge_on_back_button": "Orqaga tugmasida o'qilmagan belgisi",
   "fab_action_selector": "Harakat",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "Xabar turlarini tanlang",
   "dont_auto_play_subtitle": "Xabar turlarini tanlang",
   "dont_auto_play_info": "Suhbatdagi keyingi ovozli yoki video xabarning avtomatik ijrosini oldini oladi va sizga media qachon ijro etilishini boshqarish imkonini beradi.",
-  "progress_timestamp_info": "Ovozli va video xabarlarda joriy ijro vaqti va umumiy davomiyligini ko'rsatadi, media boshqaruvini yaxshilaydi."
+  "progress_timestamp_info": "Ovozli va video xabarlarda joriy ijro vaqti va umumiy davomiyligini ko'rsatadi, media boshqaruvini yaxshilaydi.",
+  "links": "Havolalar"
 }

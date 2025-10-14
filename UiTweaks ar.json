@@ -165,7 +165,7 @@
   "star_reaction_hide_location": "اختر من أين",
   "thank_you_message": "شكراً لاستخدام UiTweaks! ملاحظات؟\nانضم: @QuantaPlugins",
   "typing_instead_sticker": "الكتابة بدلاً من اختيار الملصق",
-  "uitweaks_settings": "إعدادات UiTweaks",
+  "uitweaks_settings": "الفئات",
   "unlock_uitweaks_description": "افتح UiTweaks باللغة {language} لتجربة سلسة.",
   "unread_badge_on_back_button": "شارة الرسائل غير المقروءة على زر الرجوع",
   "fab_action_selector": "إجراء",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "اختر أنواع الرسائل",
   "dont_auto_play_subtitle": "اختر أنواع الرسائل",
   "dont_auto_play_info": "يمنع التشغيل التلقائي للرسالة الصوتية أو المرئية التالية في المحادثة، مما يمنحك التحكم في وقت تشغيل الوسائط.",
-  "progress_timestamp_info": "يعرض وقت التشغيل الحالي والمدة الإجمالية على الرسائل الصوتية والمرئية لتحكم أفضل في الوسائط."
+  "progress_timestamp_info": "يعرض وقت التشغيل الحالي والمدة الإجمالية على الرسائل الصوتية والمرئية لتحكم أفضل في الوسائط.",
+  "links": "الروابط"
 }

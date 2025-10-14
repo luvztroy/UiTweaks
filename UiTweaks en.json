@@ -160,7 +160,7 @@
   "star_reaction_hide_location": "Select from where",
   "thank_you_message": "Thank you for using UiTweaks! Feedback?\nJoin: @QuantaPlugins",
   "typing_instead_sticker": "Typing Instead of Choosing Sticker",
-  "uitweaks_settings": "UiTweaks Settings",
+  "uitweaks_settings": "Categories",
   "unlock_uitweaks_description": "Unlock UiTweaks in {language} for a seamless experience.",
   "unread_badge_on_back_button": "Unread Badge on Back Button",
   "prevent_webapp_swipe_down": "Prevent swipe down in webapp bots",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "Select message types",
   "dont_auto_play_subtitle": "Select message types",
   "dont_auto_play_info": "Prevents automatic playback of the next voice or video message in a chat, giving you control over when media plays.",
-  "progress_timestamp_info": "Shows the current playback time and total duration on voice and video messages for better media control."
+  "progress_timestamp_info": "Shows the current playback time and total duration on voice and video messages for better media control.",
+  "links": "Links"
 }

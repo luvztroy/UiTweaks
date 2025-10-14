@@ -165,7 +165,7 @@
   "star_reaction_hide_location": "Pilih dari mana",
   "thank_you_message": "Terima kasih telah menggunakan UiTweaks! Ada masukan?\nBergabunglah: @QuantaPlugins",
   "typing_instead_sticker": "Mengetik alih-alih memilih stiker",
-  "uitweaks_settings": "Pengaturan UiTweaks",
+  "uitweaks_settings": "Kategori",
   "unlock_uitweaks_description": "Buka kunci UiTweaks dalam {language} untuk pengalaman yang mulus.",
   "unread_badge_on_back_button": "Badge Belum Dibaca di Tombol Kembali",
   "fab_action_selector": "Aksi",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "Pilih jenis pesan",
   "dont_auto_play_subtitle": "Pilih jenis pesan",
   "dont_auto_play_info": "Mencegah pemutaran otomatis pesan suara atau video berikutnya dalam obrolan, memberi Anda kontrol kapan media diputar.",
-  "progress_timestamp_info": "Menampilkan waktu pemutaran saat ini dan durasi total pada pesan suara dan video untuk kontrol media yang lebih baik."
+  "progress_timestamp_info": "Menampilkan waktu pemutaran saat ini dan durasi total pada pesan suara dan video untuk kontrol media yang lebih baik.",
+  "links": "Tautan"
 }

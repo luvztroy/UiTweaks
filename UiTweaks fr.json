@@ -165,7 +165,7 @@
   "star_reaction_hide_location": "Sélectionner d'où",
   "thank_you_message": "Merci d'utiliser UiTweaks ! Retour d'expérience ?\nRejoignez : @QuantaPlugins",
   "typing_instead_sticker": "Taper au lieu de choisir un autocollant",
-  "uitweaks_settings": "Paramètres UiTweaks",
+  "uitweaks_settings": "Catégories",
   "unlock_uitweaks_description": "Débloquez UiTweaks en {language} pour une expérience fluide.",
   "unread_badge_on_back_button": "Badge de non lus sur le bouton retour",
   "fab_action_selector": "Action",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "Sélectionnez les types de messages",
   "dont_auto_play_subtitle": "Sélectionnez les types de messages",
   "dont_auto_play_info": "Empêche la lecture automatique du prochain message vocal ou vidéo dans un chat, vous donnant le contrôle sur quand les médias sont lus.",
-  "progress_timestamp_info": "Affiche le temps de lecture actuel et la durée totale sur les messages vocaux et vidéo pour un meilleur contrôle des médias."
+  "progress_timestamp_info": "Affiche le temps de lecture actuel et la durée totale sur les messages vocaux et vidéo pour un meilleur contrôle des médias.",
+  "links": "Liens"
 }

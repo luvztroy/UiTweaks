@@ -165,7 +165,7 @@
   "star_reaction_hide_location": "选择从哪里",
   "thank_you_message": "感谢您使用UiTweaks！有反馈吗？\n加入：@QuantaPlugins",
   "typing_instead_sticker": "输入而不是选择贴纸",
-  "uitweaks_settings": "UiTweaks设置",
+  "uitweaks_settings": "分类",
   "unlock_uitweaks_description": "解锁 {language} 版本的 UiTweaks 以获得无缝体验。",
   "unread_badge_on_back_button": "返回按钮上的未读徽章",
   "fab_action_selector": "操作",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "选择消息类型",
   "dont_auto_play_subtitle": "选择消息类型",
   "dont_auto_play_info": "防止聊天中下一个语音或视频消息的自动播放，让您控制媒体何时播放。",
-  "progress_timestamp_info": "在语音和视频消息上显示当前播放时间和总时长，以便更好地控制媒体。"
+  "progress_timestamp_info": "在语音和视频消息上显示当前播放时间和总时长，以便更好地控制媒体。",
+  "links": "链接"
 }

@@ -165,7 +165,7 @@
   "star_reaction_hide_location": "어디서 선택",
   "thank_you_message": "UiTweaks를 사용해 주셔서 감사합니다! 피드백이 있으신가요?\n참여하기: @QuantaPlugins",
   "typing_instead_sticker": "스티커 선택 대신 타이핑",
-  "uitweaks_settings": "UiTweaks 설정",
+  "uitweaks_settings": "카테고리",
   "unlock_uitweaks_description": "{language}로 UiTweaks를 잠금 해제하여 원활한 경험을 제공합니다.",
   "unread_badge_on_back_button": "뒤로 버튼의 읽지 않은 배지",
   "fab_action_selector": "동작",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "메시지 유형 선택",
   "dont_auto_play_subtitle": "메시지 유형 선택",
   "dont_auto_play_info": "채팅에서 다음 음성 또는 비디오 메시지의 자동 재생을 방지하여 언제 미디어가 재생되는지 제어할 수 있습니다.",
-  "progress_timestamp_info": "더 나은 미디어 제어를 위해 음성 및 비디오 메시지에 현재 재생 시간과 총 재생 시간을 표시합니다."
+  "progress_timestamp_info": "더 나은 미디어 제어를 위해 음성 및 비디오 메시지에 현재 재생 시간과 총 재생 시간을 표시합니다.",
+  "links": "링크"
 }

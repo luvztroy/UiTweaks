@@ -165,7 +165,7 @@
   "star_reaction_hide_location": "Seleccionar de dónde",
   "thank_you_message": "¡Gracias por usar UiTweaks! ¿Comentarios?\nÚnete: @QuantaPlugins",
   "typing_instead_sticker": "Escribir en lugar de elegir sticker",
-  "uitweaks_settings": "Configuración de UiTweaks",
+  "uitweaks_settings": "Categorías",
   "unlock_uitweaks_description": "Desbloquea UiTweaks en {language} para una experiencia fluida.",
   "unread_badge_on_back_button": "Insignia de no leídos en botón de retroceso",
   "fab_action_selector": "Acción",
@@ -231,5 +231,6 @@
   "progress_timestamp_subtitle": "Selecciona tipos de mensaje",
   "dont_auto_play_subtitle": "Selecciona tipos de mensaje",
   "dont_auto_play_info": "Previene la reproducción automática del siguiente mensaje de voz o video en un chat, dándote control sobre cuándo se reproducen los medios.",
-  "progress_timestamp_info": "Muestra el tiempo de reproducción actual y la duración total en mensajes de voz y video para un mejor control de medios."
+  "progress_timestamp_info": "Muestra el tiempo de reproducción actual y la duración total en mensajes de voz y video para un mejor control de medios.",
+  "links": "Enlaces"
 }
