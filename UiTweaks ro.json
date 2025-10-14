@@ -236,5 +236,8 @@
   "channel": "Canal",
   "chats": "Chats",
   "translate": "Traduce",
-  "dump_memory": "Golire memorie"
+  "dump_memory": "Golire memorie",
+  "memory_dump_success": "Memoria golită cu succes! Eliberat {freed_memory:.1f}MB",
+  "memory_dump_no_freed": "Memoria golită. Nu a fost eliberată memorie semnificativă.",
+  "memory_dump_failed": "Eșec la golirea memoriei"
 }

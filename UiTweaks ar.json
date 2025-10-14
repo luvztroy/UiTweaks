@@ -236,5 +236,8 @@
   "channel": "القناة",
   "chats": "الدردشات",
   "translate": "ترجم",
-  "dump_memory": "تفريغ الذاكرة"
+  "dump_memory": "تفريغ الذاكرة",
+  "memory_dump_success": "تم تفريغ الذاكرة بنجاح! تم تحرير {freed_memory:.1f} ميجابايت",
+  "memory_dump_no_freed": "تم تفريغ الذاكرة. لم يتم تحرير ذاكرة كبيرة.",
+  "memory_dump_failed": "فشل في تفريغ الذاكرة"
 }

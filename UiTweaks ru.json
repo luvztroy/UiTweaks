@@ -236,5 +236,8 @@
   "channel": "Канал",
   "chats": "Чат",
   "translate": "Перевод",
-  "dump_memory": "Сбросить память"
+  "dump_memory": "Сбросить память",
+  "memory_dump_success": "Память успешно сброшена! Освобождено {freed_memory:.1f}МБ",
+  "memory_dump_no_freed": "Память сброшена. Значительная память не была освобождена.",
+  "memory_dump_failed": "Не удалось сбросить память"
 }

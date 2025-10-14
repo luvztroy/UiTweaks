@@ -236,5 +236,8 @@
   "channel": "Canal",
   "chats": "Chats",
   "translate": "Traduzir",
-  "dump_memory": "Descarregar memória"
+  "dump_memory": "Descarregar memória",
+  "memory_dump_success": "Memória descarregada com sucesso! Liberados {freed_memory:.1f}MB",
+  "memory_dump_no_freed": "Memória descarregada. Nenhuma memória significativa foi liberada.",
+  "memory_dump_failed": "Falha ao descarregar memória"
 }

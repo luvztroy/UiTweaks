@@ -236,5 +236,8 @@
   "channel": "Canal",
   "chats": "Chats",
   "translate": "Traducir",
-  "dump_memory": "Vaciar memoria"
+  "dump_memory": "Vaciar memoria",
+  "memory_dump_success": "¡Memoria vaciada exitosamente! Liberados {freed_memory:.1f}MB",
+  "memory_dump_no_freed": "Memoria vaciada. No se liberó memoria significativa.",
+  "memory_dump_failed": "Error al vaciar memoria"
 }

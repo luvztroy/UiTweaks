@@ -236,5 +236,8 @@
   "channel": "Kanal",
   "chats": "Suhbatlar",
   "translate": "Tarjima qilish",
-  "dump_memory": "Xotirani tozalash"
+  "dump_memory": "Xotirani tozalash",
+  "memory_dump_success": "Xotira muvaffaqiyatli tozalandi! {freed_memory:.1f}MB bo'shatildi",
+  "memory_dump_no_freed": "Xotira tozalandi. Muhim xotira bo'shatilmadi.",
+  "memory_dump_failed": "Xotirani tozalashda xatolik"
 }

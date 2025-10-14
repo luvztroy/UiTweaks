@@ -236,5 +236,8 @@
   "channel": "Canale",
   "chats": "Chats",
   "translate": "Traduci",
-  "dump_memory": "Svuota memoria"
+  "dump_memory": "Svuota memoria",
+  "memory_dump_success": "Memoria svuotata con successo! Liberati {freed_memory:.1f}MB",
+  "memory_dump_no_freed": "Memoria svuotata. Nessuna memoria significativa è stata liberata.",
+  "memory_dump_failed": "Impossibile svuotare la memoria"
 }

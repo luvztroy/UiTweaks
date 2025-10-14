@@ -236,5 +236,8 @@
   "channel": "Saluran",
   "chats": "Obrolan",
   "translate": "Terjemahkan",
-  "dump_memory": "Buang memori"
+  "dump_memory": "Buang memori",
+  "memory_dump_success": "Memori berhasil dibuang! Dibebaskan {freed_memory:.1f}MB",
+  "memory_dump_no_freed": "Memori dibuang. Tidak ada memori signifikan yang dibebaskan.",
+  "memory_dump_failed": "Gagal membuang memori"
 }

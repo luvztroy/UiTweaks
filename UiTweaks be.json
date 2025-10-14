@@ -236,5 +236,8 @@
   "channel": "Канал",
   "chats": "Чат",
   "translate": "Перакласці",
-  "dump_memory": "Скід памяці"
+  "dump_memory": "Скід памяці",
+  "memory_dump_success": "Скід памяці прайшоў паспяхова! Вызвалена {freed_memory:.1f}МБ",
+  "memory_dump_no_freed": "Скід памяці завершаны. Значнай памяці не было вызвалена.",
+  "memory_dump_failed": "Не ўдалося скінуць памяць"
 }

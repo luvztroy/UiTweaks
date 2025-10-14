@@ -236,5 +236,8 @@
   "channel": "Канал",
   "chats": "Чати",
   "translate": "Перекласти",
-  "dump_memory": "Скинути пам'ять"
+  "dump_memory": "Скинути пам'ять",
+  "memory_dump_success": "Пам'ять успішно скинута! Звільнено {freed_memory:.1f}МБ",
+  "memory_dump_no_freed": "Пам'ять скинута. Значна пам'ять не була звільнена.",
+  "memory_dump_failed": "Не вдалося скинути пам'ять"
 }

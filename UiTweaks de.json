@@ -236,5 +236,8 @@
   "channel": "Kanal",
   "chats": "Chats",
   "translate": "Übersetzen",
-  "dump_memory": "Speicher leeren"
+  "dump_memory": "Speicher leeren",
+  "memory_dump_success": "Speicher erfolgreich geleert! {freed_memory:.1f}MB freigegeben",
+  "memory_dump_no_freed": "Speicher geleert. Kein nennenswerter Speicher wurde freigegeben.",
+  "memory_dump_failed": "Speicher leeren fehlgeschlagen"
 }
