@@ -229,5 +229,7 @@
   "dont_auto_play_voice": "Sprachnachrichten",
   "dont_auto_play_video": "Videonachrichten",
   "progress_timestamp_subtitle": "Nachrichtentypen auswählen",
-  "dont_auto_play_subtitle": "Nachrichtentypen auswählen"
+  "dont_auto_play_subtitle": "Nachrichtentypen auswählen",
+  "dont_auto_play_info": "Verhindert die automatische Wiedergabe der nächsten Sprach- oder Videobotschaft in einem Chat und gibt Ihnen die Kontrolle darüber, wann Medien abgespielt werden.",
+  "progress_timestamp_info": "Zeigt die aktuelle Wiedergabezeit und Gesamtdauer bei Sprach- und Videobotschaften für bessere Medienkontrolle an."
 }

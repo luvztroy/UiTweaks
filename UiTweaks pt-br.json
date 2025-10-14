@@ -229,5 +229,7 @@
   "dont_auto_play_voice": "Mensagens de voz",
   "dont_auto_play_video": "Mensagens de vídeo",
   "progress_timestamp_subtitle": "Selecione tipos de mensagem",
-  "dont_auto_play_subtitle": "Selecione tipos de mensagem"
+  "dont_auto_play_subtitle": "Selecione tipos de mensagem",
+  "dont_auto_play_info": "Previne a reprodução automática da próxima mensagem de voz ou vídeo em um chat, dando-lhe controle sobre quando as mídias são reproduzidas.",
+  "progress_timestamp_info": "Mostra o tempo de reprodução atual e a duração total em mensagens de voz e vídeo para melhor controle de mídia."
 }

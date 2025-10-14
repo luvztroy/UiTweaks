@@ -229,5 +229,7 @@
   "dont_auto_play_voice": "Messages vocaux",
   "dont_auto_play_video": "Messages vidéo",
   "progress_timestamp_subtitle": "Sélectionnez les types de messages",
-  "dont_auto_play_subtitle": "Sélectionnez les types de messages"
+  "dont_auto_play_subtitle": "Sélectionnez les types de messages",
+  "dont_auto_play_info": "Empêche la lecture automatique du prochain message vocal ou vidéo dans un chat, vous donnant le contrôle sur quand les médias sont lus.",
+  "progress_timestamp_info": "Affiche le temps de lecture actuel et la durée totale sur les messages vocaux et vidéo pour un meilleur contrôle des médias."
 }

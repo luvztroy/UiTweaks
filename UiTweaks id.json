@@ -229,5 +229,7 @@
   "dont_auto_play_voice": "Pesan suara",
   "dont_auto_play_video": "Pesan video",
   "progress_timestamp_subtitle": "Pilih jenis pesan",
-  "dont_auto_play_subtitle": "Pilih jenis pesan"
+  "dont_auto_play_subtitle": "Pilih jenis pesan",
+  "dont_auto_play_info": "Mencegah pemutaran otomatis pesan suara atau video berikutnya dalam obrolan, memberi Anda kontrol kapan media diputar.",
+  "progress_timestamp_info": "Menampilkan waktu pemutaran saat ini dan durasi total pada pesan suara dan video untuk kontrol media yang lebih baik."
 }
