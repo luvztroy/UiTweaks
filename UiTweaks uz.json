@@ -232,5 +232,8 @@
   "dont_auto_play_subtitle": "Xabar turlarini tanlang",
   "dont_auto_play_info": "Suhbatdagi keyingi ovozli yoki video xabarning avtomatik ijrosini oldini oladi va sizga media qachon ijro etilishini boshqarish imkonini beradi.",
   "progress_timestamp_info": "Ovozli va video xabarlarda joriy ijro vaqti va umumiy davomiyligini ko'rsatadi, media boshqaruvini yaxshilaydi.",
-  "links": "Havolalar"
+  "links": "Havolalar",
+  "channel": "Kanal",
+  "group": "Guruh",
+  "translation": "Tarjima"
 }

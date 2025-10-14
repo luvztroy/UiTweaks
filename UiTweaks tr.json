@@ -232,5 +232,8 @@
   "dont_auto_play_subtitle": "Mesaj türlerini seçin",
   "dont_auto_play_info": "Sohbetteki bir sonraki sesli veya video mesajın otomatik oynatılmasını önler, medyanın ne zaman oynatılacağı konusunda size kontrol verir.",
   "progress_timestamp_info": "Daha iyi medya kontrolü için sesli ve video mesajlarda mevcut oynatma süresini ve toplam süreyi gösterir.",
-  "links": "Bağlantılar"
+  "links": "Bağlantılar",
+  "channel": "Kanal",
+  "group": "Grup",
+  "translation": "Çeviri"
 }

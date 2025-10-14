@@ -232,5 +232,8 @@
   "dont_auto_play_subtitle": "Selectați tipurile de mesaje",
   "dont_auto_play_info": "Previne redarea automată a următorului mesaj vocal sau video într-un chat, oferindu-vă controlul asupra momentului când sunt redate mediile.",
   "progress_timestamp_info": "Afișează timpul de redare curent și durata totală pe mesajele vocale și video pentru un control mai bun al mediilor.",
-  "links": "Linkuri"
+  "links": "Linkuri",
+  "channel": "Canal",
+  "group": "Grup",
+  "translation": "Traducere"
 }

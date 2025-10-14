@@ -232,5 +232,8 @@
   "dont_auto_play_subtitle": "Pilih jenis pesan",
   "dont_auto_play_info": "Mencegah pemutaran otomatis pesan suara atau video berikutnya dalam obrolan, memberi Anda kontrol kapan media diputar.",
   "progress_timestamp_info": "Menampilkan waktu pemutaran saat ini dan durasi total pada pesan suara dan video untuk kontrol media yang lebih baik.",
-  "links": "Tautan"
+  "links": "Tautan",
+  "channel": "Saluran",
+  "chats": "Obrolan",
+  "translation": "Terjemahan"
 }

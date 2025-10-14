@@ -232,5 +232,8 @@
   "dont_auto_play_subtitle": "Seleziona i tipi di messaggio",
   "dont_auto_play_info": "Previene la riproduzione automatica del prossimo messaggio vocale o video in una chat, dandoti il controllo su quando i media vengono riprodotti.",
   "progress_timestamp_info": "Mostra il tempo di riproduzione attuale e la durata totale sui messaggi vocali e video per un migliore controllo dei media.",
-  "links": "Collegamenti"
+  "links": "Collegamenti",
+  "channel": "Canale",
+  "group": "Gruppo",
+  "translation": "Traduzione"
 }

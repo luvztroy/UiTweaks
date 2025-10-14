@@ -232,5 +232,8 @@
   "dont_auto_play_subtitle": "Select message types",
   "dont_auto_play_info": "Prevents automatic playback of the next voice or video message in a chat, giving you control over when media plays.",
   "progress_timestamp_info": "Shows the current playback time and total duration on voice and video messages for better media control.",
-  "links": "Links"
+  "links": "Links",
+  "channel": "Channel",
+  "chats": "Chats",
+  "translation": "Translation"
 }
