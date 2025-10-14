@@ -234,6 +234,6 @@
   "progress_timestamp_info": "在语音和视频消息上显示当前播放时间和总时长，以便更好地控制媒体。",
   "links": "链接",
   "channel": "频道",
-  "group": "群组",
-  "translation": "翻译"
+  "chats": "聊天",
+  "translate": "翻译"
 }

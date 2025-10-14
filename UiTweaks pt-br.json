@@ -234,6 +234,6 @@
   "progress_timestamp_info": "Mostra o tempo de reprodução atual e a duração total em mensagens de voz e vídeo para melhor controle de mídia.",
   "links": "Links",
   "channel": "Canal",
-  "group": "Grupo",
-  "translation": "Tradução"
+  "chats": "Chats",
+  "translate": "Traduzir"
 }
