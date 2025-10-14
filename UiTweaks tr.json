@@ -192,7 +192,7 @@
   "performance_warning_description": "UiTweaks, {client_name}’e gelişmiş özellikler ekler ancak zamanla cihaz performansını etkileyebilir.",
   "performance_warning_footer": "En iyi performans için etkin özellikleri düzenli olarak gözden geçirin ve yalnızca gerekli olanları açık bırakın.",
   "memory_warning_title": "Bellek Uyarısı",
-  "memory_warning_message": "Yüksek bellek kullanımı tespit edildi: {used_mb}MB.\n\nUygulamayı yeniden başlatmak belleği temizler.",
+  "memory_warning_message": "Yüksek bellek kullanımı: {used_mb}MB.\n\nUygulamayı yeniden başlat veya belleği boşalt?",
   "understood": "Anladım",
   "another_services": "Sağlanan hizmetler ülkenizde mevcut değilse, bana direkt mesaj yoluyla ulaşabilirsiniz",
   "miscellaneous_features": "Çeşitli Özellikler",
@@ -235,5 +235,6 @@
   "links": "Bağlantılar",
   "channel": "Kanal",
   "chats": "Sohbetler",
-  "translate": "Çevir"
+  "translate": "Çevir",
+  "dump_memory": "Belleği boşalt"
 }

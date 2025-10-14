@@ -192,7 +192,7 @@
   "performance_warning_description": "UiTweaks يضيف ميزات متقدمة في {client_name}، لكنه قد يؤثر على أداء الجهاز مع مرور الوقت.",
   "performance_warning_footer": "لتحسين الأداء، راجع الميزات المفعلة بانتظام وابقِ ما تحتاجه فقط.",
   "memory_warning_title": "تحذير الذاكرة",
-  "memory_warning_message": "تم اكتشاف استخدام مرتفع للذاكرة: {used_mb}MB.\n\nإعادة تشغيل التطبيق ستقوم بتنظيف الذاكرة.",
+  "memory_warning_message": "استخدام ذاكرة عالي: {used_mb} ميجابايت.\n\nإعادة تشغيل التطبيق أم تفريغ الذاكرة؟",
   "understood": "مفهوم",
   "another_services": "إذا لم تكن الخدمات المقدمة متاحة في بلدك، فيمكنك التواصل معي عبر رسالة مباشرة",
   "miscellaneous_features": "ميزات متنوعة",
@@ -235,5 +235,6 @@
   "links": "الروابط",
   "channel": "القناة",
   "chats": "الدردشات",
-  "translate": "ترجم"
+  "translate": "ترجم",
+  "dump_memory": "تفريغ الذاكرة"
 }

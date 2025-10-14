@@ -192,7 +192,7 @@
   "performance_warning_description": "UiTweaks adiciona recursos avançados no {client_name}, mas pode afetar o desempenho do dispositivo ao longo do tempo.",
   "performance_warning_footer": "Para melhor desempenho, revise regularmente os recursos ativados e mantenha apenas os necessários.",
   "memory_warning_title": "Aviso de memória",
-  "memory_warning_message": "Uso de memória alto detectado: {used_mb}MB.\n\nReiniciar o app limpará a memória.",
+  "memory_warning_message": "Alto uso de memória: {used_mb}MB.\n\nReiniciar app ou descarregar memória?",
   "understood": "Entendi",
   "another_services": "Se os serviços disponibilizados não estiverem disponíveis no seu país, você pode me contatar via mensagem direta",
   "miscellaneous_features": "Demais Recursos",
@@ -235,5 +235,6 @@
   "links": "Links",
   "channel": "Canal",
   "chats": "Chats",
-  "translate": "Traduzir"
+  "translate": "Traduzir",
+  "dump_memory": "Descarregar memória"
 }

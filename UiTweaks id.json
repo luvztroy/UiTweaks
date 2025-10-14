@@ -192,7 +192,7 @@
   "performance_warning_description": "UiTweaks menambahkan fitur lanjutan di {client_name}, tetapi dapat memengaruhi kinerja perangkat seiring waktu.",
   "performance_warning_footer": "Untuk kinerja optimal, tinjau fitur yang diaktifkan secara berkala dan sisakan hanya yang diperlukan.",
   "memory_warning_title": "Peringatan memori",
-  "memory_warning_message": "Penggunaan memori tinggi terdeteksi: {used_mb}MB.\n\nRestart aplikasi akan membersihkan memori.",
+  "memory_warning_message": "Penggunaan memori tinggi: {used_mb}MB.\n\nRestart app atau buang memori?",
   "understood": "Mengerti",
   "another_services": "Jika layanan yang disediakan tidak tersedia di negara Anda, Anda dapat menghubungi saya melalui pesan langsung",
   "miscellaneous_features": "Fitur Beragam",
@@ -235,5 +235,6 @@
   "links": "Tautan",
   "channel": "Saluran",
   "chats": "Obrolan",
-  "translate": "Terjemahkan"
+  "translate": "Terjemahkan",
+  "dump_memory": "Buang memori"
 }

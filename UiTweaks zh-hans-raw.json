@@ -192,7 +192,7 @@
   "performance_warning_description": "UiTweaks 在 {client_name} 中添加高级功能，但可能会随着时间影响设备性能。",
   "performance_warning_footer": "为获得最佳性能，请定期检查已启用的功能，只保留所需的功能。",
   "memory_warning_title": "内存警告",
-  "memory_warning_message": "检测到内存占用过高：{used_mb}MB。\n\n重启应用将清理内存。",
+  "memory_warning_message": "内存占用过高：{used_mb}MB。\n\n重启应用或清理内存?",
   "understood": "知道了",
   "another_services": "如果所提供的服务在您所在的国家/地区不可用，您可以通过私信联系我",
   "miscellaneous_features": "杂项功能",
@@ -235,5 +235,6 @@
   "links": "链接",
   "channel": "频道",
   "chats": "聊天",
-  "translate": "翻译"
+  "translate": "翻译",
+  "dump_memory": "清理内存"
 }

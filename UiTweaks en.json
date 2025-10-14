@@ -134,7 +134,7 @@
   "performance_warning_message": "UiTweaks enhances exteraGram/AyuGram with advanced features, but some of them may influence device performance. The plugin uses method hooks to modify exteraGram/AyuGram's behavior, continuously monitors user interactions, dynamically changes UI elements, and consumes additional memory. These processes can impact device performance over time.\n\n**Recommendations:**\n• Enable only the features you actively use\n• Restart Telegram from time to time to clear temporary memory usage\n• If you notice slowdown, disable UiTweaks or specific features for better performance",
   "performance_warning_footer": "For optimal performance, consider reviewing your enabled features regularly and keeping only what you need active.",
   "memory_warning_title": "Memory Warning",
-  "memory_warning_message": "High memory usage detected: {used_mb}MB.\n\nRestarting the app will clear the memory.",
+  "memory_warning_message": "High memory usage: {used_mb}MB.\n\nRestart app or dump memory?",
   "understood": "Understood",
   "prevent_swipe_while_editing": "Prevent swipe back while editing",
   "prevent_swipe_while_typing": "Prevent swipe back while typing",
@@ -235,5 +235,6 @@
   "links": "Links",
   "channel": "Channel",
   "chats": "Chats",
-  "translate": "Translate"
+  "translate": "Translate",
+  "dump_memory": "Dump Memory"
 }

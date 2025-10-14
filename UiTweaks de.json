@@ -193,7 +193,7 @@
   "donation_info_description": "Spenden sind eine Möglichkeit, die Arbeit hinter diesem Plugin zu würdigen. Sie gewähren keine besonderen Vorteile, aber Sie können als Dank eine Funktion anfragen.",
   "donation_info_footer": "Vielen Dank, dass Sie die Entwicklung von UiTweaks unterstützen möchten!",
   "memory_warning_title": "Speicherwarnung",
-  "memory_warning_message": "Hohe Speicherauslastung erkannt: {used_mb}MB.\n\nEin Neustart der App löscht den Speicher.",
+  "memory_warning_message": "Hohe Speichernutzung: {used_mb}MB.\n\nApp neu starten oder Speicher leeren?",
   "another_services": "Wenn die angebotenen Dienste in Ihrem Land nicht verfügbar sind, können Sie mich per Direktnachricht kontaktieren",
   "miscellaneous_features": "Verschiedene Funktionen",
   "select_features": "Wählen Sie aus, welche Funktionen aktiviert werden sollen",
@@ -235,5 +235,6 @@
   "links": "Links",
   "channel": "Kanal",
   "chats": "Chats",
-  "translate": "Übersetzen"
+  "translate": "Übersetzen",
+  "dump_memory": "Speicher leeren"
 }

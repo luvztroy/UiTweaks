@@ -192,7 +192,7 @@
   "performance_warning_description": "UiTweaks {client_name} ga ilg'or funksiyalar qo‘shadi, ammo vaqt o‘tishi bilan qurilma unumdorligiga ta’sir qilishi mumkin.",
   "performance_warning_footer": "Eng yaxshi unumdorlik uchun yoqilgan funksiyalarni vaqti-vaqti bilan ko‘rib chiqing va faqat zarurlarini qoldiring.",
   "memory_warning_title": "Xotira ogohlantirishi",
-  "memory_warning_message": "Yuqori xotira ishlatilishi aniqlandi: {used_mb}MB.\n\nIlovani qayta ishga tushirish xotirani tozalaydi.",
+  "memory_warning_message": "Yuqori xotira ishlatilishi: {used_mb}MB.\n\nIlovani qayta ishga tushirish yoki xotirani tozalash?",
   "understood": "Tushunarli",
   "another_services": "Agar taqdim etilgan xizmatlar mamlakatingizda mavjud bo'lmasa, menga shaxsiy xabar orqali murojaat qilishingiz mumkin",
   "miscellaneous_features": "Turli xil funksiyalar",
@@ -235,5 +235,6 @@
   "links": "Havolalar",
   "channel": "Kanal",
   "chats": "Suhbatlar",
-  "translate": "Tarjima qilish"
+  "translate": "Tarjima qilish",
+  "dump_memory": "Xotirani tozalash"
 }

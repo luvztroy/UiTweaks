@@ -192,7 +192,7 @@
   "performance_warning_description": "UiTweaks adaugă funcții avansate în {client_name}, dar poate afecta performanța dispozitivului în timp.",
   "performance_warning_footer": "Pentru performanțe optime, revizuiește periodic funcțiile activate și păstrează doar ce ai nevoie.",
   "memory_warning_title": "Avertisment de memorie",
-  "memory_warning_message": "Utilizare mare de memorie detectată: {used_mb}MB.\n\nRepornierea aplicației va curăța memoria.",
+  "memory_warning_message": "Utilizare ridicată a memoriei: {used_mb}MB.\n\nRepornire app sau golire memorie?",
   "understood": "Am înțeles",
   "another_services": "Dacă serviciile oferite nu sunt disponibile în țara ta, mă poți contacta prin mesaj direct",
   "miscellaneous_features": "Caracteristici Diverse",
@@ -235,5 +235,6 @@
   "links": "Linkuri",
   "channel": "Canal",
   "chats": "Chats",
-  "translate": "Traduce"
+  "translate": "Traduce",
+  "dump_memory": "Golire memorie"
 }
