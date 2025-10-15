@@ -251,5 +251,8 @@
   "share_sheet_folders_subtext": "Include folderele în foaia de partajare directă",
   "non_clickable_preview_subtext": "Face previzualizările de chat neclicabile",
   "account_visibility_subtext": "Ascunde/afișează conturile prin apăsarea lungă a butonului de temă",
-  "refreshed_badges": "Actualizate {count} insigne din QuantaConfig"
+  "refreshed_badges": "Actualizate {count} insigne din QuantaConfig",
+  "debug_logging": "Înregistrare debug",
+  "enabled": "Activat",
+  "disabled": "Dezactivat"
 }

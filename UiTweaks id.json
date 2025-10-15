@@ -251,5 +251,8 @@
   "share_sheet_folders_subtext": "Sertakan folder dalam lembar berbagi langsung",
   "non_clickable_preview_subtext": "Buat pratinjau chat tidak dapat diklik",
   "account_visibility_subtext": "Sembunyikan/tampilkan akun dengan menekan lama tombol tema",
-  "refreshed_badges": "Diperbarui {count} lencana dari QuantaConfig"
+  "refreshed_badges": "Diperbarui {count} lencana dari QuantaConfig",
+  "debug_logging": "Pencatatan debug",
+  "enabled": "Diaktifkan",
+  "disabled": "Dinonaktifkan"
 }

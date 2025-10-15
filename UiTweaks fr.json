@@ -251,5 +251,8 @@
   "share_sheet_folders_subtext": "Inclure dossiers dans la feuille de partage directe",
   "non_clickable_preview_subtext": "Rendre les aperçus de chat non cliquables",
   "account_visibility_subtext": "Masquer/afficher comptes en appuyant longuement sur le bouton de thème",
-  "refreshed_badges": "Actualisé {count} badges de QuantaConfig"
+  "refreshed_badges": "Actualisé {count} badges de QuantaConfig",
+  "debug_logging": "Journal de débogage",
+  "enabled": "Activé",
+  "disabled": "Désactivé"
 }

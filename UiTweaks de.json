@@ -251,5 +251,8 @@
   "share_sheet_folders_subtext": "Ordner in direktes Share-Sheet einbeziehen",
   "non_clickable_preview_subtext": "Chat-Vorschauen nicht anklickbar machen",
   "account_visibility_subtext": "Konten durch langes Drücken des Theme-Buttons ein-/ausblenden",
-  "refreshed_badges": "{count} Abzeichen von QuantaConfig aktualisiert"
+  "refreshed_badges": "{count} Abzeichen von QuantaConfig aktualisiert",
+  "debug_logging": "Debug-Protokollierung",
+  "enabled": "Aktiviert",
+  "disabled": "Deaktiviert"
 }

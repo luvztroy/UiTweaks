@@ -251,5 +251,8 @@
   "share_sheet_folders_subtext": "To'g'ridan-to'g'ri ulashish varaqasiga papkalarni kiritish",
   "non_clickable_preview_subtext": "Suhbat oldindan ko'rishni bosilmaydigan qilish",
   "account_visibility_subtext": "Mavzu tugmasini uzoq bosib hisoblarni yashirish/ko'rsatish",
-  "refreshed_badges": "QuantaConfig'dan {count} ta nishon yangilandi"
+  "refreshed_badges": "QuantaConfig'dan {count} ta nishon yangilandi",
+  "debug_logging": "Debug jurnali",
+  "enabled": "Yoqilgan",
+  "disabled": "O'chirilgan"
 }

@@ -251,5 +251,8 @@
   "share_sheet_folders_subtext": "Добавить папки в меню пересылки сообщений",
   "non_clickable_preview_subtext": "Делает превью чатов некликабельными.",
   "account_visibility_subtext": "Скрывать/показывать дополнительные аккаунты долгим нажатием на кнопку изменения темы в боковом меню.",
-  "refreshed_badges": "Обновлено {count} значков из QuantaConfig"
+  "refreshed_badges": "Обновлено {count} значков из QuantaConfig",
+  "debug_logging": "Отладка журнала",
+  "enabled": "Включено",
+  "disabled": "Отключено"
 }

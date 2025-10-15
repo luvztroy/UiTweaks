@@ -251,5 +251,8 @@
   "share_sheet_folders_subtext": "Incluir carpetas en hoja de compartir directa",
   "non_clickable_preview_subtext": "Hacer previsualizaciones de chat no clicables",
   "account_visibility_subtext": "Ocultar/mostrar cuentas manteniendo presionado el botón de tema",
-  "refreshed_badges": "Actualizadas {count} insignias de QuantaConfig"
+  "refreshed_badges": "Actualizadas {count} insignias de QuantaConfig",
+  "debug_logging": "Registro de depuración",
+  "enabled": "Habilitado",
+  "disabled": "Deshabilitado"
 }

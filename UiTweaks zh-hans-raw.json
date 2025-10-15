@@ -251,5 +251,8 @@
   "share_sheet_folders_subtext": "在直接分享表中包含文件夹",
   "non_clickable_preview_subtext": "使聊天预览不可点击",
   "account_visibility_subtext": "长按主题按钮隐藏/显示账户",
-  "refreshed_badges": "从 QuantaConfig 刷新了 {count} 个徽章"
+  "refreshed_badges": "从 QuantaConfig 刷新了 {count} 个徽章",
+  "debug_logging": "调试日志",
+  "enabled": "已启用",
+  "disabled": "已禁用"
 }

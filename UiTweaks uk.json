@@ -251,5 +251,8 @@
   "share_sheet_folders_subtext": "Включити папки в прямий лист спільного доступу",
   "non_clickable_preview_subtext": "Зробити попередній перегляд чатів неактивними",
   "account_visibility_subtext": "Приховати/показати акаунти довгим натисканням на кнопку теми",
-  "refreshed_badges": "Оновлено {count} значків з QuantaConfig"
+  "refreshed_badges": "Оновлено {count} значків з QuantaConfig",
+  "debug_logging": "Налагодження журналу",
+  "enabled": "Увімкнено",
+  "disabled": "Вимкнено"
 }
