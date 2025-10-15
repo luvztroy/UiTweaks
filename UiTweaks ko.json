@@ -242,7 +242,7 @@
   "memory_dump_failed": "메모리 덤프 실패",
   "disable_topics_swipe": "주제 숨기기 스와이프 비활성화",
   "account_visibility": "계정 표시",
-  "code_formatting_subtext": "코드 블록과 멘션을 자동으로 포맷",
+  "code_formatting_subtext": "포맷 메뉴에 코드 블록과 멘션을 추가",
   "gif_spoiler_subtext": "GIF에 스포일러 효과와 캡션 추가 - 주제 제외",
   "message_preview_subtext": "사용 가능한 링크 미리보기에서 미디어 전송",
   "sender_select_subtext": "그룹 소유자인 메시지 전송 메뉴에서 개인 계정 표시",

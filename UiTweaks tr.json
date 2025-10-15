@@ -242,7 +242,7 @@
   "memory_dump_failed": "Bellek boşaltma başarısız",
   "disable_topics_swipe": "Konu gizleme kaydırmasını devre dışı bırak",
   "account_visibility": "Hesap görünürlüğü",
-  "code_formatting_subtext": "Kod blokları ve bahsetmeleri otomatik olarak biçimlendir",
+  "code_formatting_subtext": "Format menüsüne kod blokları ve bahsetmeleri ekler",
   "gif_spoiler_subtext": "GIF'lere spoiler efekti ve altyazı ekle - konular hariç",
   "message_preview_subtext": "Mevcut link önizlemesinden medya gönder",
   "sender_select_subtext": "Grup sahibi olduğunuz mesaj gönderme menüsünde kişisel hesabı göster",

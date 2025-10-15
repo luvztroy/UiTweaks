@@ -242,7 +242,7 @@
   "memory_dump_failed": "Speicher leeren fehlgeschlagen",
   "disable_topics_swipe": "Themen-Swipe zum Ausblenden deaktivieren",
   "account_visibility": "Kontosichtbarkeit",
-  "code_formatting_subtext": "Code-Blöcke und Erwähnungen automatisch formatieren",
+  "code_formatting_subtext": "Fügt Code-Blöcke und Erwähnungen im Format-Menü hinzu",
   "gif_spoiler_subtext": "Spoiler-Effekt und Beschriftungen zu GIFs hinzufügen - außer Themen",
   "message_preview_subtext": "Medien aus verfügbarer Link-Vorschau senden",
   "sender_select_subtext": "Persönliches Konto im Nachrichtensendungsmenü anzeigen, wo Sie Besitzer der Gruppe sind",

@@ -242,7 +242,7 @@
   "memory_dump_failed": "Eșec la golirea memoriei",
   "disable_topics_swipe": "Dezactivează glisarea temelor pentru ascundere",
   "account_visibility": "Vizibilitatea contului",
-  "code_formatting_subtext": "Formatează automat blocurile de cod și mențiunile",
+  "code_formatting_subtext": "Adaugă blocuri de cod și mențiuni în meniul de formatare",
   "gif_spoiler_subtext": "Adaugă efect spoiler și subtitrări la GIF-uri - cu excepția subiectelor",
   "message_preview_subtext": "Trimite media din previzualizarea de link disponibilă",
   "sender_select_subtext": "Afișează contul personal în meniul de trimitere mesaje unde ești proprietarul grupului",

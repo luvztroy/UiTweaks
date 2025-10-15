@@ -242,7 +242,7 @@
   "memory_dump_failed": "Xotirani tozalashda xatolik",
   "disable_topics_swipe": "Mavzularni yashirish uchun siljitishni o'chirish",
   "account_visibility": "Hisob ko'rinishi",
-  "code_formatting_subtext": "Kod bloklari va eslatmalarni avtomatik formatlash",
+  "code_formatting_subtext": "Formatlash menyusiga kod bloklari va eslatmalarni qo'shadi",
   "gif_spoiler_subtext": "GIF'larga spoiler effekti va sarlavhalar qo'shish - mavzular bundan mustasno",
   "message_preview_subtext": "Mavjud havola oldindan ko'rishidan media yuborish",
   "sender_select_subtext": "Guruh egasi bo'lgan xabar yuborish menyusida shaxsiy hisobni ko'rsatish",

@@ -242,7 +242,7 @@
   "memory_dump_failed": "فشل في تفريغ الذاكرة",
   "disable_topics_swipe": "تعطيل السحب لإخفاء المواضيع",
   "account_visibility": "رؤية الحسابات",
-  "code_formatting_subtext": "تنسيق كتل الكود والمراجع تلقائياً",
+  "code_formatting_subtext": "يضيف كتل الكود والمراجع في قائمة التنسيق",
   "gif_spoiler_subtext": "إضافة تأثير المفسد والتسميات التوضيحية للصور المتحركة - باستثناء المواضيع",
   "message_preview_subtext": "إرسال الوسائط من معاينة الرابط المتاحة",
   "sender_select_subtext": "إظهار الحساب الشخصي في قائمة إرسال الرسائل حيث أنت مالك المجموعة",

@@ -242,7 +242,7 @@
   "memory_dump_failed": "内存清理失败",
   "disable_topics_swipe": "禁用话题滑动隐藏",
   "account_visibility": "账户可见性",
-  "code_formatting_subtext": "自动格式化代码块和提及",
+  "code_formatting_subtext": "在格式菜单中添加代码块和提及",
   "gif_spoiler_subtext": "为GIF添加剧透效果和字幕 - 主题除外",
   "message_preview_subtext": "从可用的链接预览发送媒体",
   "sender_select_subtext": "在您拥有群组的发送消息菜单中显示个人账户",

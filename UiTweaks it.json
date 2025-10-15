@@ -242,7 +242,7 @@
   "memory_dump_failed": "Impossibile svuotare la memoria",
   "disable_topics_swipe": "Disabilita scorrimento argomenti per nascondere",
   "account_visibility": "Visibilità account",
-  "code_formatting_subtext": "Formatta automaticamente blocchi di codice e menzioni",
+  "code_formatting_subtext": "Aggiunge blocchi di codice e menzioni nel menu formato",
   "gif_spoiler_subtext": "Aggiungi effetto spoiler e didascalie ai GIF - eccetto argomenti",
   "message_preview_subtext": "Invia i media dall'anteprima del link disponibile",
   "sender_select_subtext": "Mostra account personale nel menu di invio messaggi dove sei proprietario del gruppo",

@@ -242,7 +242,7 @@
   "memory_dump_failed": "Error al vaciar memoria",
   "disable_topics_swipe": "Desactivar deslizar temas para ocultar",
   "account_visibility": "Visibilidad de cuentas",
-  "code_formatting_subtext": "Formatear bloques de código y menciones automáticamente",
+  "code_formatting_subtext": "Añade bloques de código y menciones en el menú de formato",
   "gif_spoiler_subtext": "Añadir efecto spoiler y subtítulos a GIFs - excepto temas",
   "message_preview_subtext": "Enviar los medios desde la previsualización de enlace disponible",
   "sender_select_subtext": "Mostrar cuenta personal en el menú de envío de mensajes donde eres propietario del grupo",

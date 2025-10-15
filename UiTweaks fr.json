@@ -242,7 +242,7 @@
   "memory_dump_failed": "Échec du vidage de la mémoire",
   "disable_topics_swipe": "Désactiver le balayage des sujets pour masquer",
   "account_visibility": "Visibilité des comptes",
-  "code_formatting_subtext": "Formater automatiquement les blocs de code et mentions",
+  "code_formatting_subtext": "Ajoute des blocs de code et mentions dans le menu format",
   "gif_spoiler_subtext": "Ajouter effet spoiler et légendes aux GIFs - sauf les sujets",
   "message_preview_subtext": "Envoyer les médias depuis l'aperçu de lien disponible",
   "sender_select_subtext": "Afficher le compte personnel dans le menu d'envoi de messages où vous êtes propriétaire du groupe",
