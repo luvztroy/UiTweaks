@@ -241,5 +241,14 @@
   "memory_dump_no_freed": "Bellek boşaltıldı. Önemli bellek serbest bırakılmadı.",
   "memory_dump_failed": "Bellek boşaltma başarısız",
   "disable_topics_swipe": "Konu gizleme kaydırmasını devre dışı bırak",
-  "account_visibility": "Hesap görünürlüğü"
+  "account_visibility": "Hesap görünürlüğü",
+  "code_formatting_subtext": "Kod blokları ve bahsetmeleri otomatik olarak biçimlendir",
+  "gif_spoiler_subtext": "GIF'lere spoiler efekti ve altyazı ekle",
+  "message_preview_subtext": "Gönder butonunda link önizlemelerini göster",
+  "sender_select_subtext": "Grup sohbetlerinde gönderen seçimini iyileştir",
+  "select_all_dialogs_subtext": "Sohbet listesi menüsüne 'Tümünü seç' seçeneği ekle",
+  "disable_swipe_subtext": "Sohbet listesi kaydırma menüsüne devre dışı bırakma seçeneği ekle",
+  "share_sheet_folders_subtext": "Doğrudan paylaşım sayfasına klasörleri dahil et",
+  "non_clickable_preview_subtext": "Sohbet önizlemelerini tıklanamaz yap",
+  "account_visibility_subtext": "Tema butonuna uzun basarak hesapları gizle/göster"
 }

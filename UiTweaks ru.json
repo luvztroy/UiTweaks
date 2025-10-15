@@ -241,5 +241,14 @@
   "memory_dump_no_freed": "Память успешно сброшена! Значительного освобождения памяти не произошло.",
   "memory_dump_failed": "Не удалось сбросить память",
   "disable_topics_swipe": "Отключить свайп тем для скрытия",
-  "account_visibility": "Видимость аккаунтов"
+  "account_visibility": "Видимость аккаунтов",
+  "code_formatting_subtext": "Автоматически форматировать блоки кода и упоминания",
+  "gif_spoiler_subtext": "Добавить эффект спойлера и подписи к GIF",
+  "message_preview_subtext": "Показывать превью ссылок в кнопке отправки",
+  "sender_select_subtext": "Улучшить выбор отправителя в групповых чатах",
+  "select_all_dialogs_subtext": "Добавить опцию 'Выбрать все' в меню списка чатов",
+  "disable_swipe_subtext": "Добавить опцию отключения в меню свайпа списка чатов",
+  "share_sheet_folders_subtext": "Включить папки в прямое меню отправки",
+  "non_clickable_preview_subtext": "Сделать превью чатов некликабельными",
+  "account_visibility_subtext": "Скрывать/показывать аккаунты долгим нажатием на кнопку темы"
 }

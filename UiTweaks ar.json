@@ -241,5 +241,14 @@
   "memory_dump_no_freed": "تم تفريغ الذاكرة. لم يتم تحرير ذاكرة كبيرة.",
   "memory_dump_failed": "فشل في تفريغ الذاكرة",
   "disable_topics_swipe": "تعطيل السحب لإخفاء المواضيع",
-  "account_visibility": "رؤية الحسابات"
+  "account_visibility": "رؤية الحسابات",
+  "code_formatting_subtext": "تنسيق كتل الكود والمراجع تلقائياً",
+  "gif_spoiler_subtext": "إضافة تأثير المفسد والتسميات التوضيحية للصور المتحركة",
+  "message_preview_subtext": "إظهار معاينة الروابط في زر الإرسال",
+  "sender_select_subtext": "تحسين اختيار المرسل في الدردشات الجماعية",
+  "select_all_dialogs_subtext": "إضافة خيار 'تحديد الكل' في قائمة الدردشات",
+  "disable_swipe_subtext": "إضافة خيار التعطيل في قائمة السحب",
+  "share_sheet_folders_subtext": "تضمين المجلدات في ورقة المشاركة المباشرة",
+  "non_clickable_preview_subtext": "جعل معاينة الدردشات غير قابلة للنقر",
+  "account_visibility_subtext": "إخفاء/إظهار الحسابات بالضغط المطول على زر السمة"
 }

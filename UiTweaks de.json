@@ -241,5 +241,14 @@
   "memory_dump_no_freed": "Speicher geleert. Kein nennenswerter Speicher wurde freigegeben.",
   "memory_dump_failed": "Speicher leeren fehlgeschlagen",
   "disable_topics_swipe": "Themen-Swipe zum Ausblenden deaktivieren",
-  "account_visibility": "Kontosichtbarkeit"
+  "account_visibility": "Kontosichtbarkeit",
+  "code_formatting_subtext": "Code-Blöcke und Erwähnungen automatisch formatieren",
+  "gif_spoiler_subtext": "Spoiler-Effekt und Beschriftungen zu GIFs hinzufügen",
+  "message_preview_subtext": "Link-Vorschauen in Senden-Button anzeigen",
+  "sender_select_subtext": "Absender-Auswahl in Gruppenchats verbessern",
+  "select_all_dialogs_subtext": "'Alle auswählen' Option zum Chat-Liste Menü hinzufügen",
+  "disable_swipe_subtext": "Deaktivierungsoption zum Chat-Liste Swipe-Menü hinzufügen",
+  "share_sheet_folders_subtext": "Ordner in direktes Share-Sheet einbeziehen",
+  "non_clickable_preview_subtext": "Chat-Vorschauen nicht anklickbar machen",
+  "account_visibility_subtext": "Konten durch langes Drücken des Theme-Buttons ein-/ausblenden"
 }

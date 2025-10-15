@@ -241,5 +241,14 @@
   "memory_dump_no_freed": "内存清理完成。没有释放大量内存。",
   "memory_dump_failed": "内存清理失败",
   "disable_topics_swipe": "禁用话题滑动隐藏",
-  "account_visibility": "账户可见性"
+  "account_visibility": "账户可见性",
+  "code_formatting_subtext": "自动格式化代码块和提及",
+  "gif_spoiler_subtext": "为GIF添加剧透效果和字幕",
+  "message_preview_subtext": "在发送按钮中显示链接预览",
+  "sender_select_subtext": "改善群聊中的发送者选择",
+  "select_all_dialogs_subtext": "在聊天列表菜单中添加'全选'选项",
+  "disable_swipe_subtext": "在聊天列表滑动菜单中添加禁用选项",
+  "share_sheet_folders_subtext": "在直接分享表中包含文件夹",
+  "non_clickable_preview_subtext": "使聊天预览不可点击",
+  "account_visibility_subtext": "长按主题按钮隐藏/显示账户"
 }

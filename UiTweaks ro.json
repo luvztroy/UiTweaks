@@ -241,5 +241,14 @@
   "memory_dump_no_freed": "Memoria golită. Nu a fost eliberată memorie semnificativă.",
   "memory_dump_failed": "Eșec la golirea memoriei",
   "disable_topics_swipe": "Dezactivează glisarea temelor pentru ascundere",
-  "account_visibility": "Vizibilitatea contului"
+  "account_visibility": "Vizibilitatea contului",
+  "code_formatting_subtext": "Formatează automat blocurile de cod și mențiunile",
+  "gif_spoiler_subtext": "Adaugă efect spoiler și subtitrări la GIF-uri",
+  "message_preview_subtext": "Afișează previzualizări de linkuri în butonul de trimitere",
+  "sender_select_subtext": "Îmbunătățește selecția expeditorului în chat-urile de grup",
+  "select_all_dialogs_subtext": "Adaugă opțiunea 'Selectează tot' la meniul listei de chat-uri",
+  "disable_swipe_subtext": "Adaugă opțiunea de dezactivare la meniul de glisare a listei de chat-uri",
+  "share_sheet_folders_subtext": "Include folderele în foaia de partajare directă",
+  "non_clickable_preview_subtext": "Face previzualizările de chat neclicabile",
+  "account_visibility_subtext": "Ascunde/afișează conturile prin apăsarea lungă a butonului de temă"
 }

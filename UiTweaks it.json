@@ -241,5 +241,14 @@
   "memory_dump_no_freed": "Memoria svuotata. Nessuna memoria significativa è stata liberata.",
   "memory_dump_failed": "Impossibile svuotare la memoria",
   "disable_topics_swipe": "Disabilita scorrimento argomenti per nascondere",
-  "account_visibility": "Visibilità account"
+  "account_visibility": "Visibilità account",
+  "code_formatting_subtext": "Formatta automaticamente blocchi di codice e menzioni",
+  "gif_spoiler_subtext": "Aggiungi effetto spoiler e didascalie ai GIF",
+  "message_preview_subtext": "Mostra anteprime link nel pulsante invio",
+  "sender_select_subtext": "Migliora selezione mittente nelle chat di gruppo",
+  "select_all_dialogs_subtext": "Aggiungi opzione 'Seleziona tutto' al menu lista chat",
+  "disable_swipe_subtext": "Aggiungi opzione disabilita al menu scorrimento lista chat",
+  "share_sheet_folders_subtext": "Includi cartelle nel foglio condivisione diretto",
+  "non_clickable_preview_subtext": "Rendi anteprime chat non cliccabili",
+  "account_visibility_subtext": "Nascondi/mostra account tenendo premuto il pulsante tema"
 }

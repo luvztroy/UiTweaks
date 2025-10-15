@@ -241,5 +241,14 @@
   "memory_dump_no_freed": "Memória descarregada. Nenhuma memória significativa foi liberada.",
   "memory_dump_failed": "Falha ao descarregar memória",
   "disable_topics_swipe": "Desativar deslizar tópicos para ocultar",
-  "account_visibility": "Visibilidade da conta"
+  "account_visibility": "Visibilidade da conta",
+  "code_formatting_subtext": "Formatar blocos de código e menções automaticamente",
+  "gif_spoiler_subtext": "Adicionar efeito spoiler e legendas aos GIFs",
+  "message_preview_subtext": "Mostrar visualizações de links no botão de envio",
+  "sender_select_subtext": "Melhorar seleção de remetente em chats de grupo",
+  "select_all_dialogs_subtext": "Adicionar opção 'Selecionar tudo' ao menu da lista de chats",
+  "disable_swipe_subtext": "Adicionar opção de desativar ao menu de deslizar lista de chats",
+  "share_sheet_folders_subtext": "Incluir pastas na folha de compartilhamento direto",
+  "non_clickable_preview_subtext": "Tornar visualizações de chat não clicáveis",
+  "account_visibility_subtext": "Ocultar/mostrar contas mantendo pressionado o botão de tema"
 }
