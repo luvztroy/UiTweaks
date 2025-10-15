@@ -218,7 +218,7 @@
   "shared_preferences_reset_success": "Сбросить {count} настроек? Приложение перезапустится.",
   "reset_failed": "Сброс не удался: {error}",
   "open_profile": "Открыть профиль",
-  "non_clickable_preview": "Неактивная предварительная версия чата",
+  "non_clickable_preview": "Некликабельный предпросмотр чатов",
   "dont_auto_play_next_video": "Не воспроизводить следующее видео автоматически",
   "progress_timestamp_enabled": "Временная метка прогресса",
   "progress_timestamp_types": "Типы сообщений",
