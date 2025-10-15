@@ -15,7 +15,7 @@
     {
       "id": "user3",
       "user_id": 938670184,
-      "emoji_id": 5393416280147522806,
+      "emoji_id": 5249213633652597172,
       "text_template": "**{user_name}** is a member of the **Quanta**! development team"
     },
     {
@@ -56,4 +56,5 @@
     }
   ]
 }
+
 
