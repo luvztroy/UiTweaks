@@ -240,5 +240,6 @@
   "memory_dump_success": "Xotira muvaffaqiyatli tozalandi! {freed_memory:.1f}MB bo'shatildi",
   "memory_dump_no_freed": "Xotira tozalandi. Muhim xotira bo'shatilmadi.",
   "memory_dump_failed": "Xotirani tozalashda xatolik",
-  "disable_topics_swipe": "Mavzularni yashirish uchun siljitishni o'chirish"
+  "disable_topics_swipe": "Mavzularni yashirish uchun siljitishni o'chirish",
+  "account_visibility": "Hisob ko'rinishi"
 }

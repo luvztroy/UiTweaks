@@ -240,5 +240,6 @@
   "memory_dump_success": "Память успешно сброшена! Освобождено {freed_memory:.1f}МБ",
   "memory_dump_no_freed": "Память успешно сброшена! Значительного освобождения памяти не произошло.",
   "memory_dump_failed": "Не удалось сбросить память",
-  "disable_topics_swipe": "Отключить свайп тем для скрытия"
+  "disable_topics_swipe": "Отключить свайп тем для скрытия",
+  "account_visibility": "Видимость аккаунтов"
 }

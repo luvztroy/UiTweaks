@@ -240,5 +240,6 @@
   "memory_dump_success": "内存清理成功！释放了 {freed_memory:.1f}MB",
   "memory_dump_no_freed": "内存清理完成。没有释放大量内存。",
   "memory_dump_failed": "内存清理失败",
-  "disable_topics_swipe": "禁用话题滑动隐藏"
+  "disable_topics_swipe": "禁用话题滑动隐藏",
+  "account_visibility": "账户可见性"
 }

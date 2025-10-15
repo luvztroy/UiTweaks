@@ -240,5 +240,6 @@
   "memory_dump_success": "¡Memoria vaciada exitosamente! Liberados {freed_memory:.1f}MB",
   "memory_dump_no_freed": "Memoria vaciada. No se liberó memoria significativa.",
   "memory_dump_failed": "Error al vaciar memoria",
-  "disable_topics_swipe": "Desactivar deslizar temas para ocultar"
+  "disable_topics_swipe": "Desactivar deslizar temas para ocultar",
+  "account_visibility": "Visibilidad de cuentas"
 }

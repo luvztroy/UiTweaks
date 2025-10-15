@@ -240,5 +240,6 @@
   "memory_dump_success": "Bellek başarıyla boşaltıldı! {freed_memory:.1f}MB serbest bırakıldı",
   "memory_dump_no_freed": "Bellek boşaltıldı. Önemli bellek serbest bırakılmadı.",
   "memory_dump_failed": "Bellek boşaltma başarısız",
-  "disable_topics_swipe": "Konu gizleme kaydırmasını devre dışı bırak"
+  "disable_topics_swipe": "Konu gizleme kaydırmasını devre dışı bırak",
+  "account_visibility": "Hesap görünürlüğü"
 }

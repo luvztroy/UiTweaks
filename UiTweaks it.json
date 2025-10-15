@@ -240,5 +240,6 @@
   "memory_dump_success": "Memoria svuotata con successo! Liberati {freed_memory:.1f}MB",
   "memory_dump_no_freed": "Memoria svuotata. Nessuna memoria significativa è stata liberata.",
   "memory_dump_failed": "Impossibile svuotare la memoria",
-  "disable_topics_swipe": "Disabilita scorrimento argomenti per nascondere"
+  "disable_topics_swipe": "Disabilita scorrimento argomenti per nascondere",
+  "account_visibility": "Visibilità account"
 }
