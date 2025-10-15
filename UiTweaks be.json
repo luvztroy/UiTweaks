@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "Дадаць опцыю адключэння ў меню смаху спісу чатаў",
   "share_sheet_folders_subtext": "Уключыць папкі ў прамое меню адпраўкі",
   "non_clickable_preview_subtext": "Зрабіць папярэдні прагляд чатаў неактыўнымі",
-  "account_visibility_subtext": "Схаваць/паказаць акаўнты доўгім націсканнем на кнопку тэмы"
+  "account_visibility_subtext": "Схаваць/паказаць акаўнты доўгім націсканнем на кнопку тэмы",
+  "refreshed_badges": "Абноўлена {count} значкоў з QuantaConfig"
 }

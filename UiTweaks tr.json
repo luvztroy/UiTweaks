@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "Sohbet listesi kaydırma menüsüne devre dışı bırakma seçeneği ekle",
   "share_sheet_folders_subtext": "Doğrudan paylaşım sayfasına klasörleri dahil et",
   "non_clickable_preview_subtext": "Sohbet önizlemelerini tıklanamaz yap",
-  "account_visibility_subtext": "Tema butonuna uzun basarak hesapları gizle/göster"
+  "account_visibility_subtext": "Tema butonuna uzun basarak hesapları gizle/göster",
+  "refreshed_badges": "QuantaConfig'den {count} rozet yenilendi"
 }

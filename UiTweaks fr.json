@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "Ajouter option de désactivation au menu de balayage de liste de chats",
   "share_sheet_folders_subtext": "Inclure dossiers dans la feuille de partage directe",
   "non_clickable_preview_subtext": "Rendre les aperçus de chat non cliquables",
-  "account_visibility_subtext": "Masquer/afficher comptes en appuyant longuement sur le bouton de thème"
+  "account_visibility_subtext": "Masquer/afficher comptes en appuyant longuement sur le bouton de thème",
+  "refreshed_badges": "Actualisé {count} badges de QuantaConfig"
 }

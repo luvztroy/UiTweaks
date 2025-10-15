@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "채팅 목록 스와이프 메뉴에 비활성화 옵션 추가",
   "share_sheet_folders_subtext": "직접 공유 시트에 폴더 포함",
   "non_clickable_preview_subtext": "채팅 미리보기를 클릭할 수 없게 만들기",
-  "account_visibility_subtext": "테마 버튼을 길게 눌러 계정 표시/숨기기"
+  "account_visibility_subtext": "테마 버튼을 길게 눌러 계정 표시/숨기기",
+  "refreshed_badges": "QuantaConfig에서 {count}개 배지 새로고침됨"
 }

@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "Aggiungi opzione disabilita al menu scorrimento lista chat",
   "share_sheet_folders_subtext": "Includi cartelle nel foglio condivisione diretto",
   "non_clickable_preview_subtext": "Rendi anteprime chat non cliccabili",
-  "account_visibility_subtext": "Nascondi/mostra account tenendo premuto il pulsante tema"
+  "account_visibility_subtext": "Nascondi/mostra account tenendo premuto il pulsante tema",
+  "refreshed_badges": "Aggiornati {count} badge da QuantaConfig"
 }

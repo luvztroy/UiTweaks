@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "Añadir opción de desactivar al menú de deslizar lista de chats",
   "share_sheet_folders_subtext": "Incluir carpetas en hoja de compartir directa",
   "non_clickable_preview_subtext": "Hacer previsualizaciones de chat no clicables",
-  "account_visibility_subtext": "Ocultar/mostrar cuentas manteniendo presionado el botón de tema"
+  "account_visibility_subtext": "Ocultar/mostrar cuentas manteniendo presionado el botón de tema",
+  "refreshed_badges": "Actualizadas {count} insignias de QuantaConfig"
 }

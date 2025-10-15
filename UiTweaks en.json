@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "Add disable option to chat list swipe menu",
   "share_sheet_folders_subtext": "Include folders in direct share sheet",
   "non_clickable_preview_subtext": "Make chat previews non-clickable",
-  "account_visibility_subtext": "Hide/show accounts by long-pressing theme button"
+  "account_visibility_subtext": "Hide/show accounts by long-pressing theme button",
+  "refreshed_badges": "Refreshed {count} badges from QuantaConfig"
 }

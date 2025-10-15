@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "Додати опцію вимкнення до меню свайпу списку чатів",
   "share_sheet_folders_subtext": "Включити папки в прямий лист спільного доступу",
   "non_clickable_preview_subtext": "Зробити попередній перегляд чатів неактивними",
-  "account_visibility_subtext": "Приховати/показати акаунти довгим натисканням на кнопку теми"
+  "account_visibility_subtext": "Приховати/показати акаунти довгим натисканням на кнопку теми",
+  "refreshed_badges": "Оновлено {count} значків з QuantaConfig"
 }

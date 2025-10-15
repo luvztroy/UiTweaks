@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "Suhbat ro'yxati siljitish menyusiga o'chirish variantini qo'shish",
   "share_sheet_folders_subtext": "To'g'ridan-to'g'ri ulashish varaqasiga papkalarni kiritish",
   "non_clickable_preview_subtext": "Suhbat oldindan ko'rishni bosilmaydigan qilish",
-  "account_visibility_subtext": "Mavzu tugmasini uzoq bosib hisoblarni yashirish/ko'rsatish"
+  "account_visibility_subtext": "Mavzu tugmasini uzoq bosib hisoblarni yashirish/ko'rsatish",
+  "refreshed_badges": "QuantaConfig'dan {count} ta nishon yangilandi"
 }

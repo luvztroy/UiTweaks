@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "Tambahkan opsi nonaktif ke menu geser daftar chat",
   "share_sheet_folders_subtext": "Sertakan folder dalam lembar berbagi langsung",
   "non_clickable_preview_subtext": "Buat pratinjau chat tidak dapat diklik",
-  "account_visibility_subtext": "Sembunyikan/tampilkan akun dengan menekan lama tombol tema"
+  "account_visibility_subtext": "Sembunyikan/tampilkan akun dengan menekan lama tombol tema",
+  "refreshed_badges": "Diperbarui {count} lencana dari QuantaConfig"
 }

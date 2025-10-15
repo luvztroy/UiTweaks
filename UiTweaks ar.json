@@ -250,5 +250,6 @@
   "disable_swipe_subtext": "إضافة خيار التعطيل في قائمة السحب",
   "share_sheet_folders_subtext": "تضمين المجلدات في ورقة المشاركة المباشرة",
   "non_clickable_preview_subtext": "جعل معاينة الدردشات غير قابلة للنقر",
-  "account_visibility_subtext": "إخفاء/إظهار الحسابات بالضغط المطول على زر السمة"
+  "account_visibility_subtext": "إخفاء/إظهار الحسابات بالضغط المطول على زر السمة",
+  "refreshed_badges": "تم تحديث {count} شارة من QuantaConfig"
 }
