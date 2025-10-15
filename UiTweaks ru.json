@@ -218,7 +218,7 @@
   "shared_preferences_reset_success": "Сбросить {count} настроек? Приложение перезапустится.",
   "reset_failed": "Сброс не удался: {error}",
   "open_profile": "Открыть профиль",
-  "non_clickable_preview": "Неактивная предварительная версия чата",
+  "non_clickable_preview": "Некликабельный предпросмотр чатов",
   "dont_auto_play_next_video": "Не воспроизводить следующее видео автоматически",
   "progress_timestamp_enabled": "Временная метка прогресса",
   "progress_timestamp_types": "Типы сообщений",
@@ -240,6 +240,6 @@
   "memory_dump_success": "Память успешно сброшена! Освобождено {freed_memory:.1f}МБ",
   "memory_dump_no_freed": "Память успешно сброшена! Значительного освобождения памяти не произошло.",
   "memory_dump_failed": "Не удалось сбросить память",
-  "disable_topics_swipe": "Отключить свайп тем для скрытия",
-  "account_visibility": "Видимость аккаунтов"
+  "disable_topics_swipe": "Отключить свайп скрывающий чаты на форумах",
+  "account_visibility": "Скрыть остальные аккауты зажатием кнопки изменения темы в боковом меню"
 }
