@@ -239,5 +239,6 @@
   "dump_memory": "Dump Memory",
   "memory_dump_success": "Memory dump successful! Freed {freed_memory:.1f}MB",
   "memory_dump_no_freed": "Memory dump completed. No significant memory was freed.",
-  "memory_dump_failed": "Failed to dump memory"
+  "memory_dump_failed": "Failed to dump memory",
+  "disable_topics_swipe": "Disable Topics Swipe to Hide"
 }

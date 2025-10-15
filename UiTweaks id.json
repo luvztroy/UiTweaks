@@ -239,5 +239,6 @@
   "dump_memory": "Buang memori",
   "memory_dump_success": "Memori berhasil dibuang! Dibebaskan {freed_memory:.1f}MB",
   "memory_dump_no_freed": "Memori dibuang. Tidak ada memori signifikan yang dibebaskan.",
-  "memory_dump_failed": "Gagal membuang memori"
+  "memory_dump_failed": "Gagal membuang memori",
+  "disable_topics_swipe": "Nonaktifkan geser topik untuk menyembunyikan"
 }

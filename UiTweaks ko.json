@@ -239,5 +239,6 @@
   "dump_memory": "메모리 덤프",
   "memory_dump_success": "메모리 덤프 성공! {freed_memory:.1f}MB 해제됨",
   "memory_dump_no_freed": "메모리 덤프 완료. 상당한 메모리가 해제되지 않았습니다.",
-  "memory_dump_failed": "메모리 덤프 실패"
+  "memory_dump_failed": "메모리 덤프 실패",
+  "disable_topics_swipe": "주제 숨기기 스와이프 비활성화"
 }

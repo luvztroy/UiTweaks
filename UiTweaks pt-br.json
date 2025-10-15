@@ -239,5 +239,6 @@
   "dump_memory": "Descarregar memória",
   "memory_dump_success": "Memória descarregada com sucesso! Liberados {freed_memory:.1f}MB",
   "memory_dump_no_freed": "Memória descarregada. Nenhuma memória significativa foi liberada.",
-  "memory_dump_failed": "Falha ao descarregar memória"
+  "memory_dump_failed": "Falha ao descarregar memória",
+  "disable_topics_swipe": "Desativar deslizar tópicos para ocultar"
 }

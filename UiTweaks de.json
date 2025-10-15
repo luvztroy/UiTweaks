@@ -239,5 +239,6 @@
   "dump_memory": "Speicher leeren",
   "memory_dump_success": "Speicher erfolgreich geleert! {freed_memory:.1f}MB freigegeben",
   "memory_dump_no_freed": "Speicher geleert. Kein nennenswerter Speicher wurde freigegeben.",
-  "memory_dump_failed": "Speicher leeren fehlgeschlagen"
+  "memory_dump_failed": "Speicher leeren fehlgeschlagen",
+  "disable_topics_swipe": "Themen-Swipe zum Ausblenden deaktivieren"
 }
