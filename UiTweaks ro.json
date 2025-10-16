@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "Include folderele în foaia de partajare directă",
   "non_clickable_preview_subtext": "Face previzualizările de chat neclicabile",
   "account_visibility_subtext": "Ascunde/afișează conturile prin apăsarea lungă a butonului de temă",
+  "add_to_folder_all_tabs": "Adaugă în folder în toate filele",
+  "add_to_folder_all_tabs_subtext": "Activează opțiunea 'Adaugă în folder' în toate filele de foldere, nu doar în 'Toate chat-urile'",
   "refreshed_badges": "Actualizate {count} insigne din QuantaConfig",
   "debug_logging": "Înregistrare debug",
   "enabled": "Activat",

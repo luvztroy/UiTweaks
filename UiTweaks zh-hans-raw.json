@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "在直接分享表中包含文件夹",
   "non_clickable_preview_subtext": "使聊天预览不可点击",
   "account_visibility_subtext": "长按主题按钮隐藏/显示账户",
+  "add_to_folder_all_tabs": "在所有标签页中添加到文件夹",
+  "add_to_folder_all_tabs_subtext": "在所有文件夹标签页中启用'添加到文件夹'选项，而不仅仅是在'所有聊天'标签页中",
   "refreshed_badges": "从 QuantaConfig 刷新了 {count} 个徽章",
   "debug_logging": "调试日志",
   "enabled": "已启用",

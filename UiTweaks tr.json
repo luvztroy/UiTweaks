@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "Doğrudan paylaşım sayfasına klasörleri dahil et",
   "non_clickable_preview_subtext": "Sohbet önizlemelerini tıklanamaz yap",
   "account_visibility_subtext": "Tema butonuna uzun basarak hesapları gizle/göster",
+  "add_to_folder_all_tabs": "Tüm sekmelerde klasöre ekle",
+  "add_to_folder_all_tabs_subtext": "Tüm klasör sekmelerinde 'Klasöre ekle' seçeneğini etkinleştirir, sadece 'Tüm sohbetler' sekmesinde değil",
   "refreshed_badges": "QuantaConfig'den {count} rozet yenilendi",
   "debug_logging": "Hata ayıklama günlüğü",
   "enabled": "Etkin",

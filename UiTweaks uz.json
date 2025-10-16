@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "To'g'ridan-to'g'ri ulashish varaqasiga papkalarni kiritish",
   "non_clickable_preview_subtext": "Suhbat oldindan ko'rishni bosilmaydigan qilish",
   "account_visibility_subtext": "Mavzu tugmasini uzoq bosib hisoblarni yashirish/ko'rsatish",
+  "add_to_folder_all_tabs": "Barcha tablarda papkaga qo'shish",
+  "add_to_folder_all_tabs_subtext": "Barcha papka tablarida 'Papkaga qo'shish' variantini yoqadi, faqat 'Barcha suhbatlar' tabida emas",
   "refreshed_badges": "QuantaConfig'dan {count} ta nishon yangilandi",
   "debug_logging": "Debug jurnali",
   "enabled": "Yoqilgan",

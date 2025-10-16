@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "Include folders in direct share sheet",
   "non_clickable_preview_subtext": "Make chat previews non-clickable",
   "account_visibility_subtext": "Hide/show accounts by long-pressing theme button",
+  "add_to_folder_all_tabs": "Add to Folder in All Tabs",
+  "add_to_folder_all_tabs_subtext": "Enables 'Add to folder' option in all folder tabs, not just the All chats tab",
   "refreshed_badges": "Refreshed {count} badges from QuantaConfig",
   "debug_logging": "Debug logging",
   "enabled": "Enabled",

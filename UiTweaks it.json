@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "Includi cartelle nel foglio condivisione diretto",
   "non_clickable_preview_subtext": "Rendi anteprime chat non cliccabili",
   "account_visibility_subtext": "Nascondi/mostra account tenendo premuto il pulsante tema",
+  "add_to_folder_all_tabs": "Aggiungi alla cartella in tutte le schede",
+  "add_to_folder_all_tabs_subtext": "Abilita l'opzione 'Aggiungi alla cartella' in tutte le schede delle cartelle, non solo in 'Tutte le chat'",
   "refreshed_badges": "Aggiornati {count} badge da QuantaConfig",
   "debug_logging": "Registrazione debug",
   "enabled": "Abilitato",

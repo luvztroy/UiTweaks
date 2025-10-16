@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "Incluir pastas na folha de compartilhamento direto",
   "non_clickable_preview_subtext": "Tornar visualizações de chat não clicáveis",
   "account_visibility_subtext": "Ocultar/mostrar contas mantendo pressionado o botão de tema",
+  "add_to_folder_all_tabs": "Adicionar à pasta em todas as abas",
+  "add_to_folder_all_tabs_subtext": "Habilita a opção 'Adicionar à pasta' em todas as abas de pastas, não apenas em 'Todos os chats'",
   "refreshed_badges": "Atualizados {count} emblemas do QuantaConfig",
   "debug_logging": "Registro de depuração",
   "enabled": "Habilitado",

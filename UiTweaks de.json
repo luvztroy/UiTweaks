@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "Ordner in direktes Share-Sheet einbeziehen",
   "non_clickable_preview_subtext": "Chat-Vorschauen nicht anklickbar machen",
   "account_visibility_subtext": "Konten durch langes Drücken des Theme-Buttons ein-/ausblenden",
+  "add_to_folder_all_tabs": "Zu Ordner in allen Tabs hinzufügen",
+  "add_to_folder_all_tabs_subtext": "Aktiviert die 'Zu Ordner hinzufügen' Option in allen Ordner-Tabs, nicht nur im 'Alle Chats' Tab",
   "refreshed_badges": "{count} Abzeichen von QuantaConfig aktualisiert",
   "debug_logging": "Debug-Protokollierung",
   "enabled": "Aktiviert",

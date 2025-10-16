@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "Включити папки в прямий лист спільного доступу",
   "non_clickable_preview_subtext": "Зробити попередній перегляд чатів неактивними",
   "account_visibility_subtext": "Приховати/показати акаунти довгим натисканням на кнопку теми",
+  "add_to_folder_all_tabs": "Додати до папки в усіх вкладках",
+  "add_to_folder_all_tabs_subtext": "Увімкнює опцію 'Додати до папки' в усіх вкладках папок, а не тільки в 'Всі чати'",
   "refreshed_badges": "Оновлено {count} значків з QuantaConfig",
   "debug_logging": "Налагодження журналу",
   "enabled": "Увімкнено",

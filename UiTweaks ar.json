@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "تضمين المجلدات في ورقة المشاركة المباشرة",
   "non_clickable_preview_subtext": "جعل معاينة الدردشات غير قابلة للنقر",
   "account_visibility_subtext": "إخفاء/إظهار الحسابات بالضغط المطول على زر السمة",
+  "add_to_folder_all_tabs": "إضافة إلى مجلد في جميع التبويبات",
+  "add_to_folder_all_tabs_subtext": "تفعيل خيار 'إضافة إلى مجلد' في جميع تبويبات المجلدات، وليس فقط في 'جميع الدردشات'",
   "refreshed_badges": "تم تحديث {count} شارة من QuantaConfig",
   "debug_logging": "تسجيل التصحيح",
   "enabled": "مفعل",

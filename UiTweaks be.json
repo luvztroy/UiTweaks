@@ -251,6 +251,8 @@
   "share_sheet_folders_subtext": "Уключыць папкі ў прамое меню адпраўкі",
   "non_clickable_preview_subtext": "Зрабіць папярэдні прагляд чатаў неактыўнымі",
   "account_visibility_subtext": "Схаваць/паказаць акаўнты доўгім націсканнем на кнопку тэмы",
+  "add_to_folder_all_tabs": "Дадаць у папку ва ўсіх укладках",
+  "add_to_folder_all_tabs_subtext": "Уключае опцыю 'Дадаць у папку' ва ўсіх укладках папак, а не толькі ў 'Усе чаты'",
   "refreshed_badges": "Абноўлена {count} значкоў з QuantaConfig",
   "debug_logging": "Адладка журнала",
   "enabled": "Уключана",
