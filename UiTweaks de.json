@@ -256,7 +256,7 @@
   "unread_count_controls": "Ungelesene Zähler-Steuerung",
   "unread_chat_count": "Ungelesene Chat-Anzahl anzeigen",
   "unread_message_count": "Ungelesene Nachrichten-Anzahl anzeigen",
-  "unread_count_info": "Steuert, wie ungelesene Zähler in Ordner-Tabs und dem 'Alle Chats' Tab angezeigt werden.",
+  "unread_count_info": "Passen Sie an, wie sich ungelesene Zähler in Ordnern verhalten. Wenn beide aktiviert sind, werden nur nicht stummgeschaltete Chats gezählt.",
   "refreshed_badges": "{count} Abzeichen von QuantaConfig aktualisiert",
   "debug_logging": "Debug-Protokollierung",
   "enabled": "Aktiviert",

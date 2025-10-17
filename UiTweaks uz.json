@@ -256,7 +256,7 @@
   "unread_count_controls": "O'qilmagan hisobchilar boshqaruvi",
   "unread_chat_count": "O'qilmagan suhbatlar sonini ko'rsatish",
   "unread_message_count": "O'qilmagan xabarlar sonini ko'rsatish",
-  "unread_count_info": "Papka tablari va 'Barcha suhbatlar' tabida o'qilmagan hisobchilar qanday ko'rsatilishini boshqaring.",
+  "unread_count_info": "Papkalarda o'qilmagan hisobchilar qanday ishlashini sozlang. Ikkalasi ham yoqilganda, faqat jim qilinmagan suhbatlar hisoblanadi.",
   "refreshed_badges": "QuantaConfig'dan {count} ta nishon yangilandi",
   "debug_logging": "Debug jurnali",
   "enabled": "Yoqilgan",

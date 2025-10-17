@@ -256,7 +256,7 @@
   "unread_count_controls": "Controale contor necitite",
   "unread_chat_count": "Afișează numărul de chat-uri necitite",
   "unread_message_count": "Afișează numărul de mesaje necitite",
-  "unread_count_info": "Controlează cum sunt afișate contoarele de necitite în filele de foldere și fila 'Toate chat-urile'.",
+  "unread_count_info": "Ajustează cum se comportă contoarele de necitite în foldere. Când ambele sunt activate, doar chat-urile neamutate sunt numărate.",
   "refreshed_badges": "Actualizate {count} insigne din QuantaConfig",
   "debug_logging": "Înregistrare debug",
   "enabled": "Activat",

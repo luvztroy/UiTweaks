@@ -256,7 +256,7 @@
   "unread_count_controls": "Controles de contador de não lidos",
   "unread_chat_count": "Mostrar contador de chats não lidos",
   "unread_message_count": "Mostrar contador de mensagens não lidas",
-  "unread_count_info": "Controla como os contadores de não lidos são exibidos nas abas de pastas e na aba 'Todos os chats'.",
+  "unread_count_info": "Ajuste como os contadores de não lidos se comportam nas pastas. Quando ambos estão habilitados, apenas chats não silenciados são contados.",
   "refreshed_badges": "Atualizados {count} emblemas do QuantaConfig",
   "debug_logging": "Registro de depuração",
   "enabled": "Habilitado",

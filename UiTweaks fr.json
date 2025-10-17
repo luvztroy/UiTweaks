@@ -256,7 +256,7 @@
   "unread_count_controls": "Contrôles du compteur de non lus",
   "unread_chat_count": "Afficher le nombre de chats non lus",
   "unread_message_count": "Afficher le nombre de messages non lus",
-  "unread_count_info": "Contrôle l'affichage des compteurs de non lus dans les onglets de dossiers et l'onglet 'Tous les chats'.",
+  "unread_count_info": "Ajustez le comportement des compteurs de non lus dans les dossiers. Lorsque les deux sont activés, seuls les chats non silencieux sont comptés.",
   "refreshed_badges": "Actualisé {count} badges de QuantaConfig",
   "debug_logging": "Journal de débogage",
   "enabled": "Activé",

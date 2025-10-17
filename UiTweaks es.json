@@ -256,7 +256,7 @@
   "unread_count_controls": "Controles de contador de no leídos",
   "unread_chat_count": "Mostrar contador de chats no leídos",
   "unread_message_count": "Mostrar contador de mensajes no leídos",
-  "unread_count_info": "Controla cómo se muestran los contadores de no leídos en las pestañas de carpetas y la pestaña 'Todos los chats'.",
+  "unread_count_info": "Ajusta cómo se comportan los contadores de no leídos en las carpetas. Cuando ambos están habilitados, solo se cuentan los chats no silenciados.",
   "refreshed_badges": "Actualizadas {count} insignias de QuantaConfig",
   "debug_logging": "Registro de depuración",
   "enabled": "Habilitado",

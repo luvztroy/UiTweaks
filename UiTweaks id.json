@@ -256,7 +256,7 @@
   "unread_count_controls": "Kontrol penghitung belum dibaca",
   "unread_chat_count": "Tampilkan jumlah chat belum dibaca",
   "unread_message_count": "Tampilkan jumlah pesan belum dibaca",
-  "unread_count_info": "Kontrol bagaimana penghitung belum dibaca ditampilkan di tab folder dan tab 'Semua Chat'.",
+  "unread_count_info": "Sesuaikan cara penghitung belum dibaca berperilaku di folder. Ketika keduanya diaktifkan, hanya chat yang tidak dibisukan yang dihitung.",
   "refreshed_badges": "Diperbarui {count} lencana dari QuantaConfig",
   "debug_logging": "Pencatatan debug",
   "enabled": "Diaktifkan",

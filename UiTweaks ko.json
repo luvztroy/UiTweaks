@@ -256,7 +256,7 @@
   "unread_count_controls": "읽지 않음 카운터 제어",
   "unread_chat_count": "읽지 않은 채팅 수 표시",
   "unread_message_count": "읽지 않은 메시지 수 표시",
-  "unread_count_info": "폴더 탭과 '모든 채팅' 탭에서 읽지 않음 카운터가 표시되는 방식을 제어합니다.",
+  "unread_count_info": "폴더에서 읽지 않음 카운터가 작동하는 방식을 조정합니다. 둘 다 활성화되면 음소거되지 않은 채팅만 계산됩니다.",
   "refreshed_badges": "QuantaConfig에서 {count}개 배지 새로고침됨",
   "debug_logging": "디버그 로깅",
   "enabled": "활성화됨",

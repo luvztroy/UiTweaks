@@ -256,7 +256,7 @@
   "unread_count_controls": "Unread Count Controls",
   "unread_chat_count": "Show Unread Chat Count",
   "unread_message_count": "Show Unread Message Count",
-  "unread_count_info": "Control how unread counts are displayed in folder tabs and All chats tab.",
+  "unread_count_info": "Adjust how unread counters behave in folders. When both are enabled, only non-muted chats are counted.",
   "refreshed_badges": "Refreshed {count} badges from QuantaConfig",
   "debug_logging": "Debug logging",
   "enabled": "Enabled",

@@ -256,7 +256,7 @@
   "unread_count_controls": "Okunmamış sayaç kontrolleri",
   "unread_chat_count": "Okunmamış sohbet sayısını göster",
   "unread_message_count": "Okunmamış mesaj sayısını göster",
-  "unread_count_info": "Klasör sekmelerinde ve 'Tüm sohbetler' sekmesinde okunmamış sayaçların nasıl görüntüleneceğini kontrol eder.",
+  "unread_count_info": "Klasörlerde okunmamış sayaçların nasıl davrandığını ayarlayın. Her ikisi de etkinleştirildiğinde, yalnızca susturulmamış sohbetler sayılır.",
   "refreshed_badges": "QuantaConfig'den {count} rozet yenilendi",
   "debug_logging": "Hata ayıklama günlüğü",
   "enabled": "Etkin",
