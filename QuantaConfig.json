@@ -4,55 +4,64 @@
       "id": "user1",
       "user_id": 774320669,
       "emoji_id": 5393416280147522806,
-      "text_template": "**{user_name}** is a member of the **Quanta**! development team"
+      "text_template": "**{user_name}** is a member of the **Quanta**! development team",
+      "method": "isExtera"
     },
     {
       "id": "user2",
       "user_id": 1392173058,
       "emoji_id": 5348254875123741873,
-      "text_template": "**{user_name}** is a member of the **Quanta**! development team"
+      "text_template": "**{user_name}** is a member of the **Quanta**! development team",
+      "method": "isExtera"
     },
     {
       "id": "user3",
       "user_id": 938670184,
       "emoji_id": 5249213633652597172,
-      "text_template": "**{user_name}** is a member of the **Quanta**! development team"
+      "text_template": "**{user_name}** is a member of the **Quanta**! development team",
+      "method": "isExtera"
     },
     {
       "id": "user4",
       "user_id": 6985852072,
       "emoji_id": 5456632855805311943,
-      "text_template": "**{user_name}** is a member of the **Quanta**! development team"
+      "text_template": "**{user_name}** is a member of the **Quanta**! development team",
+      "method": "isDeveloper"
     },
     {
       "id": "user5",
       "user_id": 914123704,
       "emoji_id": 5375475162370023069,
-      "text_template": "**{user_name}** is a member of the **Quanta**! beta testing group"
+      "text_template": "**{user_name}** is a member of the **Quanta**! beta testing group",
+      "method": "isExtera"
     },
     {
       "id": "user6",
       "user_id": 1071521215,
       "emoji_id": 5992228811058450471,
-      "text_template": "**{user_name}** is a member of the **Quanta**! beta testing group"
+      "text_template": "**{user_name}** is a member of the **Quanta**! beta testing group",
+      "method": "isExtera"
     },
     {
       "id": "channel1",
       "chat_id": 2863704830,
       "emoji_id": 5393416280147522806,
-      "text_template": "**{chat_name}** is the official resource of **Quanta**!"
+      "text_template": "**{chat_name}** is the official resource of **Quanta**!",
+      "method": "isExtera"
     },
     {
       "id": "channel2",
       "chat_id": 2682286855,
       "emoji_id": 5393416280147522806,
-      "text_template": "**{chat_name}** is the official resource of **Quanta**!"
+      "text_template": "**{chat_name}** is the official resource of **Quanta**!",
+      "method": "isExtera"
     },
     {
       "id": "channel3",
       "chat_id": 3027755146,
       "emoji_id": 5393416280147522806,
-      "text_template": "**{chat_name}** is the official resource of **Quanta**!"
+      "text_template": "**{chat_name}** is the official resource of **Quanta**!",
+      "method": "isExtera"
     }
   ]
 }
