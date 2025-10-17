@@ -253,7 +253,7 @@
   "account_visibility_subtext": "테마 버튼을 길게 눌러 계정 표시/숨기기",
   "add_to_folder_all_tabs": "모든 탭에서 폴더에 추가",
   "add_to_folder_all_tabs_subtext": "모든 폴더 탭에서 '폴더에 추가' 옵션을 활성화합니다. '모든 채팅' 탭에서만이 아닙니다",
-  "unread_count_controls": "읽지 않음 카운터 제어",
+  "manage_folders": "폴더 관리",
   "unread_chat_count": "읽지 않은 채팅 수 표시",
   "unread_message_count": "읽지 않은 메시지 수 표시",
   "unread_count_info": "폴더에서 읽지 않음 카운터가 작동하는 방식을 조정합니다. 둘 다 활성화되면 음소거되지 않은 채팅만 계산됩니다.",

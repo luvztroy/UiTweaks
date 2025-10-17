@@ -253,7 +253,7 @@
   "account_visibility_subtext": "Konten durch langes Drücken des Theme-Buttons ein-/ausblenden",
   "add_to_folder_all_tabs": "Zu Ordner in allen Tabs hinzufügen",
   "add_to_folder_all_tabs_subtext": "Aktiviert die 'Zu Ordner hinzufügen' Option in allen Ordner-Tabs, nicht nur im 'Alle Chats' Tab",
-  "unread_count_controls": "Ungelesene Zähler-Steuerung",
+  "manage_folders": "Ordner verwalten",
   "unread_chat_count": "Ungelesene Chat-Anzahl anzeigen",
   "unread_message_count": "Ungelesene Nachrichten-Anzahl anzeigen",
   "unread_count_info": "Passen Sie an, wie sich ungelesene Zähler in Ordnern verhalten. Wenn beide aktiviert sind, werden nur nicht stummgeschaltete Chats gezählt.",

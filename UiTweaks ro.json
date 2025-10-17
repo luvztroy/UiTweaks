@@ -253,7 +253,7 @@
   "account_visibility_subtext": "Ascunde/afișează conturile prin apăsarea lungă a butonului de temă",
   "add_to_folder_all_tabs": "Adaugă în folder în toate filele",
   "add_to_folder_all_tabs_subtext": "Activează opțiunea 'Adaugă în folder' în toate filele de foldere, nu doar în 'Toate chat-urile'",
-  "unread_count_controls": "Controale contor necitite",
+  "manage_folders": "Gestionează folderele",
   "unread_chat_count": "Afișează numărul de chat-uri necitite",
   "unread_message_count": "Afișează numărul de mesaje necitite",
   "unread_count_info": "Ajustează cum se comportă contoarele de necitite în foldere. Când ambele sunt activate, doar chat-urile neamutate sunt numărate.",

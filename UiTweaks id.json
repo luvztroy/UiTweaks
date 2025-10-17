@@ -253,7 +253,7 @@
   "account_visibility_subtext": "Sembunyikan/tampilkan akun dengan menekan lama tombol tema",
   "add_to_folder_all_tabs": "Tambahkan ke folder di semua tab",
   "add_to_folder_all_tabs_subtext": "Mengaktifkan opsi 'Tambahkan ke folder' di semua tab folder, bukan hanya di 'Semua Chat'",
-  "unread_count_controls": "Kontrol penghitung belum dibaca",
+  "manage_folders": "Kelola folder",
   "unread_chat_count": "Tampilkan jumlah chat belum dibaca",
   "unread_message_count": "Tampilkan jumlah pesan belum dibaca",
   "unread_count_info": "Sesuaikan cara penghitung belum dibaca berperilaku di folder. Ketika keduanya diaktifkan, hanya chat yang tidak dibisukan yang dihitung.",

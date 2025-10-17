@@ -253,7 +253,7 @@
   "account_visibility_subtext": "Hide/show accounts by long-pressing theme button",
   "add_to_folder_all_tabs": "Add to Folder in All Tabs",
   "add_to_folder_all_tabs_subtext": "Enables 'Add to folder' option in all folder tabs, not just the All chats tab",
-  "unread_count_controls": "Unread Count Controls",
+  "manage_folders": "Manage Folders",
   "unread_chat_count": "Show Unread Chat Count",
   "unread_message_count": "Show Unread Message Count",
   "unread_count_info": "Adjust how unread counters behave in folders. When both are enabled, only non-muted chats are counted.",

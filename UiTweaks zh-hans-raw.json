@@ -253,7 +253,7 @@
   "account_visibility_subtext": "长按主题按钮隐藏/显示账户",
   "add_to_folder_all_tabs": "在所有标签页中添加到文件夹",
   "add_to_folder_all_tabs_subtext": "在所有文件夹标签页中启用'添加到文件夹'选项，而不仅仅是在'所有聊天'标签页中",
-  "unread_count_controls": "未读计数控制",
+  "manage_folders": "管理文件夹",
   "unread_chat_count": "显示未读聊天数",
   "unread_message_count": "显示未读消息数",
   "unread_count_info": "调整文件夹中未读计数器的行为方式。当两者都启用时，只计算未静音的聊天。",

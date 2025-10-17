@@ -253,7 +253,7 @@
   "account_visibility_subtext": "Masquer/afficher comptes en appuyant longuement sur le bouton de thème",
   "add_to_folder_all_tabs": "Ajouter au dossier dans tous les onglets",
   "add_to_folder_all_tabs_subtext": "Active l'option 'Ajouter au dossier' dans tous les onglets de dossiers, pas seulement dans 'Tous les chats'",
-  "unread_count_controls": "Contrôles du compteur de non lus",
+  "manage_folders": "Gérer les dossiers",
   "unread_chat_count": "Afficher le nombre de chats non lus",
   "unread_message_count": "Afficher le nombre de messages non lus",
   "unread_count_info": "Ajustez le comportement des compteurs de non lus dans les dossiers. Lorsque les deux sont activés, seuls les chats non silencieux sont comptés.",

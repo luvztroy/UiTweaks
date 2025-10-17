@@ -253,7 +253,7 @@
   "account_visibility_subtext": "Tema butonuna uzun basarak hesapları gizle/göster",
   "add_to_folder_all_tabs": "Tüm sekmelerde klasöre ekle",
   "add_to_folder_all_tabs_subtext": "Tüm klasör sekmelerinde 'Klasöre ekle' seçeneğini etkinleştirir, sadece 'Tüm sohbetler' sekmesinde değil",
-  "unread_count_controls": "Okunmamış sayaç kontrolleri",
+  "manage_folders": "Klasörleri yönet",
   "unread_chat_count": "Okunmamış sohbet sayısını göster",
   "unread_message_count": "Okunmamış mesaj sayısını göster",
   "unread_count_info": "Klasörlerde okunmamış sayaçların nasıl davrandığını ayarlayın. Her ikisi de etkinleştirildiğinde, yalnızca susturulmamış sohbetler sayılır.",

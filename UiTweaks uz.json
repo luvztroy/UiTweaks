@@ -253,7 +253,7 @@
   "account_visibility_subtext": "Mavzu tugmasini uzoq bosib hisoblarni yashirish/ko'rsatish",
   "add_to_folder_all_tabs": "Barcha tablarda papkaga qo'shish",
   "add_to_folder_all_tabs_subtext": "Barcha papka tablarida 'Papkaga qo'shish' variantini yoqadi, faqat 'Barcha suhbatlar' tabida emas",
-  "unread_count_controls": "O'qilmagan hisobchilar boshqaruvi",
+  "manage_folders": "Papkalarni boshqarish",
   "unread_chat_count": "O'qilmagan suhbatlar sonini ko'rsatish",
   "unread_message_count": "O'qilmagan xabarlar sonini ko'rsatish",
   "unread_count_info": "Papkalarda o'qilmagan hisobchilar qanday ishlashini sozlang. Ikkalasi ham yoqilganda, faqat jim qilinmagan suhbatlar hisoblanadi.",

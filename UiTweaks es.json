@@ -253,7 +253,7 @@
   "account_visibility_subtext": "Ocultar/mostrar cuentas manteniendo presionado el botón de tema",
   "add_to_folder_all_tabs": "Añadir a carpeta en todas las pestañas",
   "add_to_folder_all_tabs_subtext": "Habilita la opción 'Añadir a carpeta' en todas las pestañas de carpetas, no solo en 'Todos los chats'",
-  "unread_count_controls": "Controles de contador de no leídos",
+  "manage_folders": "Gestionar carpetas",
   "unread_chat_count": "Mostrar contador de chats no leídos",
   "unread_message_count": "Mostrar contador de mensajes no leídos",
   "unread_count_info": "Ajusta cómo se comportan los contadores de no leídos en las carpetas. Cuando ambos están habilitados, solo se cuentan los chats no silenciados.",
