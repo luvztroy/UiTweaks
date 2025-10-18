@@ -82,6 +82,7 @@
     "enter_message_id":  "أدخل معرف الرسالة",
     "export_settings":  "تصدير الإعدادات",
     "export_settings_success":  "تم تصدير {count} إعداد",
+    "exclude_archived_from_count":  "استبعاد الدردشات المؤرشفة من العدد",
     "fab_action_archived_chats":  "فتح الدردشات المؤرشفة",
     "fab_action_selector":  "إجراء",
     "fab_action_uitweaks_settings":  "فتح إعدادات UiTweaks",

@@ -82,6 +82,7 @@
     "enter_message_id":  "메시지 ID 입력",
     "export_settings":  "설정 내보내기",
     "export_settings_success":  "{count}개 설정 내보냄",
+    "exclude_archived_from_count":  "보관된 채팅을 개수에서 제외",
     "fab_action_archived_chats":  "보관된 채팅 열기",
     "fab_action_selector":  "동작",
     "fab_action_uitweaks_settings":  "UiTweaks 설정 열기",

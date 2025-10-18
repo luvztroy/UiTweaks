@@ -82,6 +82,7 @@
     "enter_message_id":  "Xabar ID ni kiriting",
     "export_settings":  "Sozlamalarni eksport qilish",
     "export_settings_success":  "{count} sozlama eksport qilindi",
+    "exclude_archived_from_count":  "Arxivlangan suhbatlarni hisobdan chiqarish",
     "fab_action_archived_chats":  "Arxivlangan suhbatlarni ochish",
     "fab_action_selector":  "Harakat",
     "fab_action_uitweaks_settings":  "UiTweaks sozlamalarini ochish",

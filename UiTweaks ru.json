@@ -82,6 +82,7 @@
     "enter_message_id":  "Введите ID сообщения",
     "export_settings":  "Экспорт настроек",
     "export_settings_success":  "Экспортировано {count} настроек",
+    "exclude_archived_from_count":  "Исключить архивированные чаты из подсчета",
     "fab_action_archived_chats":  "Архив",
     "fab_action_selector":  "Открывает",
     "fab_action_uitweaks_settings":  "Настройки UiTweaks",

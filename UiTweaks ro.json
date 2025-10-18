@@ -82,6 +82,7 @@
     "enter_message_id":  "Introdu ID-ul Mesajului",
     "export_settings":  "Exportă setările",
     "export_settings_success":  "{count} setări exportate",
+    "exclude_archived_from_count":  "Exclude conversațiile arhivate din numărare",
     "fab_action_archived_chats":  "Deschide conversațiile arhivate",
     "fab_action_selector":  "Acțiune",
     "fab_action_uitweaks_settings":  "Deschide setările UiTweaks",

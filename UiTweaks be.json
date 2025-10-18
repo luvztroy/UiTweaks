@@ -82,6 +82,7 @@
     "enter_message_id":  "Увядзіце ID паведамлення",
     "export_settings":  "Экспарт налад",
     "export_settings_success":  "Экспартавана {count} налад",
+    "exclude_archived_from_count":  "Выключыць архіўныя чаты з ліку",
     "fab_action_archived_chats":  "Адкрыць архіўныя чаты",
     "fab_action_selector":  "Дзеянне",
     "fab_action_uitweaks_settings":  "Адкрыць налады UiTweaks",

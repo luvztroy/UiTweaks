@@ -82,6 +82,7 @@
     "enter_message_id":  "Masukkan ID Pesan",
     "export_settings":  "Ekspor Pengaturan",
     "export_settings_success":  "Diekspor {count} pengaturan",
+    "exclude_archived_from_count":  "Kecualikan obrolan yang diarsipkan dari hitungan",
     "fab_action_archived_chats":  "Buka obrolan yang diarsipkan",
     "fab_action_selector":  "Aksi",
     "fab_action_uitweaks_settings":  "Buka pengaturan UiTweaks",

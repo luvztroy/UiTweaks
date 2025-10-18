@@ -82,6 +82,7 @@
     "enter_message_id":  "输入消息ID",
     "export_settings":  "导出设置",
     "export_settings_success":  "已导出{count}个设置",
+    "exclude_archived_from_count":  "从计数中排除已归档聊天",
     "fab_action_archived_chats":  "打开已归档聊天",
     "fab_action_selector":  "操作",
     "fab_action_uitweaks_settings":  "打开 UiTweaks 设置",

@@ -82,6 +82,7 @@
     "enter_message_id":  "Mesaj ID'sini Gir",
     "export_settings":  "Ayarları dışa aktar",
     "export_settings_success":  "{count} ayar dışa aktarıldı",
+    "exclude_archived_from_count":  "Arşivlenmiş sohbetleri sayımdan çıkar",
     "fab_action_archived_chats":  "Arşivlenmiş sohbetleri aç",
     "fab_action_selector":  "Eylem",
     "fab_action_uitweaks_settings":  "UiTweaks ayarlarını aç",

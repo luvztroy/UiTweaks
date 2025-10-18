@@ -82,6 +82,7 @@
     "enter_message_id":  "Введіть ID повідомлення",
     "export_settings":  "Експорт налаштувань",
     "export_settings_success":  "Експортовано {count} налаштувань",
+    "exclude_archived_from_count":  "Виключити архівні чати з підрахунку",
     "fab_action_archived_chats":  "Відкрити архівні чати",
     "fab_action_selector":  "Дія",
     "fab_action_uitweaks_settings":  "Відкрити налаштування UiTweaks",

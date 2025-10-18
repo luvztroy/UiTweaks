@@ -82,6 +82,7 @@
     "enter_message_id":  "Inserisci ID del Messaggio",
     "export_settings":  "Esporta impostazioni",
     "export_settings_success":  "{count} impostazioni esportate",
+    "exclude_archived_from_count":  "Escludi chat archiviate dal conteggio",
     "fab_action_archived_chats":  "Apri chat archiviate",
     "fab_action_selector":  "Azione",
     "fab_action_uitweaks_settings":  "Apri impostazioni UiTweaks",
