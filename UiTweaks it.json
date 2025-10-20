@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "Messaggi video",
     "progress_timestamp_voice":  "Messaggi vocali",
     "quantahut_configuration":  "Configurazione QuantaHut",
+    "quantahut_restart_drawer": "Riavvia l'app",
+    "quantahut_show_restart": "Mostra Riavvio nel menu laterale",
     "recent_chats":  "Chat Recenti",
     "recent_chats_menu_info":  "Mostra chat recenti quando si preme a lungo l'icona del cassetto nella lista chat. Memorizza fino a 20 chat.",
     "refreshed_badges":  "Aggiornati {count} badge da QuantaConfig",

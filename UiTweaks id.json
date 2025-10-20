@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "Pesan video",
     "progress_timestamp_voice":  "Pesan suara",
     "quantahut_configuration":  "Konfigurasi QuantaHut",
+    "quantahut_restart_drawer": "Mulai ulang aplikasi",
+    "quantahut_show_restart": "Tampilkan Mulai Ulang di menu samping",
     "recent_chats":  "Chat Terbaru",
     "recent_chats_menu_info":  "Menampilkan chat terbaru saat menekan lama ikon laci di daftar chat. Menyimpan hingga 20 chat.",
     "refreshed_badges":  "Diperbarui {count} lencana dari QuantaConfig",

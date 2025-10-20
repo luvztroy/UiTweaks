@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "Mensagens de vídeo",
     "progress_timestamp_voice":  "Mensagens de voz",
     "quantahut_configuration":  "Configuração do QuantaHut",
+    "quantahut_restart_drawer": "Reiniciar aplicativo",
+    "quantahut_show_restart": "Mostrar Reinício no menu lateral",
     "recent_chats":  "Chats recentes",
     "recent_chats_menu_info":  "Mostra chats recentes ao pressionar e segurar o ícone da gaveta na lista de chats. Armazena até 20 chats.",
     "refreshed_badges":  "Atualizados {count} emblemas do QuantaConfig",

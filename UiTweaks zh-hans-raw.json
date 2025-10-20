@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "视频消息",
     "progress_timestamp_voice":  "语音消息",
     "quantahut_configuration":  "QuantaHut 配置",
+    "quantahut_restart_drawer": "重启应用",
+    "quantahut_show_restart": "在侧边菜单显示重启",
     "recent_chats":  "最近聊天",
     "recent_chats_menu_info":  "在聊天列表中长按抽屉图标时显示最近的聊天。最多存储20个聊天。",
     "refreshed_badges":  "从 QuantaConfig 刷新了 {count} 个徽章",

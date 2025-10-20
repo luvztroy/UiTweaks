@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "Videonachrichten",
     "progress_timestamp_voice":  "Sprachnachrichten",
     "quantahut_configuration":  "QuantaHut-Konfiguration",
+    "quantahut_restart_drawer": "App neu starten",
+    "quantahut_show_restart": "Neustart im Menü anzeigen",
     "recent_chats":  "Letzte Chats",
     "recent_chats_menu_info":  "Zeigt kürzliche Chats beim Langdrücken des Schubladen-Symbols in der Chatliste. Speichert bis zu 20 Chats.",
     "refreshed_badges":  "{count} Abzeichen von QuantaConfig aktualisiert",

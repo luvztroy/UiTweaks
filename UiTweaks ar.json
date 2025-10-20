@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "رسائل الفيديو",
     "progress_timestamp_voice":  "رسائل الصوت",
     "quantahut_configuration":  "إعدادات QuantaHut",
+    "quantahut_restart_drawer": "إعادة تشغيل التطبيق",
+    "quantahut_show_restart": "إظهار خيار إعادة التشغيل في القائمة الجانبية",
     "recent_chats":  "الدردشات الأخيرة",
     "recent_chats_menu_info":  "يعرض المحادثات الأخيرة عند الضغط مطولاً على أيقونة الدرج في قائمة المحادثات. يخزن حتى 20 محادثة.",
     "refreshed_badges":  "تم تحديث {count} شارة من QuantaConfig",

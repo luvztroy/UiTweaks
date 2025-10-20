@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "Messages vidéo",
     "progress_timestamp_voice":  "Messages vocaux",
     "quantahut_configuration":  "Configuration QuantaHut",
+    "quantahut_restart_drawer": "Redémarrer l'application",
+    "quantahut_show_restart": "Afficher Redémarrer dans le menu latéral",
     "recent_chats":  "Chats Récents",
     "recent_chats_menu_info":  "Affiche les chats récents lors d'un appui long sur l'icône du tiroir dans la liste des chats. Stocke jusqu'à 20 chats.",
     "refreshed_badges":  "Actualisé {count} badges de QuantaConfig",

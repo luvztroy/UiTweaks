@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "Video mesajlar",
     "progress_timestamp_voice":  "Sesli mesajlar",
     "quantahut_configuration":  "QuantaHut Yapılandırması",
+    "quantahut_restart_drawer": "Uygulamayı yeniden başlat",
+    "quantahut_show_restart": "Yeniden Başlat'ı yan menüde göster",
     "recent_chats":  "Son sohbetler",
     "recent_chats_menu_info":  "Chat listesindeki çekmece simgesine uzun basıldığında son sohbetleri gösterir. 20 sohbete kadar saklar.",
     "refreshed_badges":  "QuantaConfig'den {count} rozet yenilendi",

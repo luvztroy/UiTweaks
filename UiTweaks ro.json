@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "Mesaje video",
     "progress_timestamp_voice":  "Mesaje vocale",
     "quantahut_configuration":  "Configurare QuantaHut",
+    "quantahut_restart_drawer": "Repornește aplicația",
+    "quantahut_show_restart": "Arată Repornește în meniul lateral",
     "recent_chats":  "Chat-uri Recente",
     "recent_chats_menu_info":  "Afișează chat-urile recente când apăsați lung pe iconița sertarului în lista de chat-uri. Stochează până la 20 de chat-uri.",
     "refreshed_badges":  "Actualizate {count} insigne din QuantaConfig",

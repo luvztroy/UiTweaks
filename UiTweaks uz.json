@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "Video xabarlar",
     "progress_timestamp_voice":  "Ovozli xabarlar",
     "quantahut_configuration":  "QuantaHut konfiguratsiyasi",
+    "quantahut_restart_drawer": "Ilovani qayta ishga tushirish",
+    "quantahut_show_restart": "Qayta ishga tushirishni yon menyuda ko‘rsatish",
     "recent_chats":  "So'nggi chatlar",
     "recent_chats_menu_info":  "Chat ro'yxatida drawer belgisini uzoq bosganingizda so'nggi chatlarni ko'rsatadi. 20 tagacha chatni saqlaydi.",
     "refreshed_badges":  "QuantaConfig'dan {count} ta nishon yangilandi",

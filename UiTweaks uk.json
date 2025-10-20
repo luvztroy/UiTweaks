@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "Відео повідомлення",
     "progress_timestamp_voice":  "Голосові повідомлення",
     "quantahut_configuration":  "Конфігурація QuantaHut",
+    "quantahut_restart_drawer": "Перезапустити застосунок",
+    "quantahut_show_restart": "Показувати Перезапуск у боковому меню",
     "recent_chats":  "Останні чати",
     "recent_chats_menu_info":  "Показує недавні чати при довгому натисканні на іконку ящика в списку чатів. Зберігає до 20 чатів.",
     "refreshed_badges":  "Оновлено {count} значків з QuantaConfig",

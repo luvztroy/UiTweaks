@@ -192,6 +192,8 @@
     "progress_timestamp_video":  "비디오 메시지",
     "progress_timestamp_voice":  "음성 메시지",
     "quantahut_configuration":  "QuantaHut 구성",
+    "quantahut_restart_drawer": "앱 다시 시작",
+    "quantahut_show_restart": "사이드 메뉴에 다시 시작 표시",
     "recent_chats":  "최근 채팅",
     "recent_chats_menu_info":  "채팅 목록에서 서랍 아이콘을 길게 누르면 최근 채팅을 표시합니다. 최대 20개의 채팅을 저장합니다.",
     "refreshed_badges":  "QuantaConfig에서 {count}개 배지 새로고침됨",
