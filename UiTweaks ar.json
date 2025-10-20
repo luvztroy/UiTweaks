@@ -78,7 +78,7 @@
     "enable_no_quote_forward":  "تفعيل إعادة التوجيه بدون اقتباس",
     "enable_recent_chats_menu":  "تفعيل قائمة الدردشات الأخيرة",
     "enable_reply_private_chat":  "تفعيل الرد في الدردشة الخاصة",
-    "enable_small_fab_shortcut":  "تفعيل اختصار زر FAB الصغير",
+    "hold_mini_fab_mark_all_read":  "اضغط مع الاستمرار على زر FAB المصغّر لاعتبار الكل مقروءًا",
     "enabled":  "مفعل",
     "enter_caption":  "أدخل التعليق...",
     "enter_message_id":  "أدخل معرف الرسالة",

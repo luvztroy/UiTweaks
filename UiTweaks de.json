@@ -78,7 +78,7 @@
     "enable_no_quote_forward":  "Weiterleitung ohne Zitat aktivieren",
     "enable_recent_chats_menu":  "Menü für letzte Chats aktivieren",
     "enable_reply_private_chat":  "Antwort in privatem Chat aktivieren",
-    "enable_small_fab_shortcut":  "Kleine FAB-Verknüpfung aktivieren",
+    "hold_mini_fab_mark_all_read":  "Mini-FAB gedrückt halten, um alles als gelesen zu markieren",
     "enabled":  "Aktiviert",
     "enter_caption":  "Beschriftung eingeben...",
     "enter_message_id":  "Nachrichten-ID eingeben",

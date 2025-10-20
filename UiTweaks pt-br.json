@@ -78,7 +78,7 @@
     "enable_no_quote_forward":  "Habilitar encaminhamento sem citação",
     "enable_recent_chats_menu":  "Habilitar menu de chats recentes",
     "enable_reply_private_chat":  "Habilitar resposta em chat privado",
-    "enable_small_fab_shortcut":  "Ativar atalho do FAB pequeno",
+    "hold_mini_fab_mark_all_read":  "Mantenha o mini FAB pressionado para marcar tudo como lido",
     "enabled":  "Habilitado",
     "enter_caption":  "Digite a legenda...",
     "enter_message_id":  "Inserir ID da Mensagem",

@@ -78,7 +78,7 @@
     "enable_no_quote_forward":  "Включить пересылку без цитирования",
     "enable_recent_chats_menu":  "Включить меню недавних чатов",
     "enable_reply_private_chat":  "Включить ответ в личном чате",
-    "enable_small_fab_shortcut":  "Включить ярлык маленькой FAB-кнопки",
+    "hold_mini_fab_mark_all_read":  "Удерживайте мини-FAB, чтобы пометить всё как прочитанное",
     "enabled":  "Включено",
     "enter_caption":  "Введите подпись...",
     "enter_message_id":  "Введите ID сообщения",

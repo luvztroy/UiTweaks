@@ -78,7 +78,7 @@
     "enable_no_quote_forward":  "Enable No-Quote Forward",
     "enable_recent_chats_menu":  "Enable Recent Chats Menu",
     "enable_reply_private_chat":  "Enable Reply in Private Chat",
-    "enable_small_fab_shortcut":  "Enable small FAB Shortcut",
+    "hold_mini_fab_mark_all_read":  "Hold mini FAB to mark all as read",
     "enabled":  "Enabled",
     "enter_caption":  "Enter caption...",
     "enter_message_id":  "Enter Message ID",

@@ -78,7 +78,7 @@
     "enable_no_quote_forward":  "인용 없는 전달 활성화",
     "enable_recent_chats_menu":  "최근 채팅 메뉴 활성화",
     "enable_reply_private_chat":  "개인 채팅에서 답장 활성화",
-    "enable_small_fab_shortcut":  "작은 FAB 바로가기 활성화",
+    "hold_mini_fab_mark_all_read":  "미니 FAB을 길게 눌러 모두 읽음으로 표시",
     "enabled":  "활성화됨",
     "enter_caption":  "캡션 입력...",
     "enter_message_id":  "메시지 ID 입력",

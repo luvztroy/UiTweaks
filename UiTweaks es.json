@@ -78,7 +78,7 @@
     "enable_no_quote_forward":  "Habilitar reenvío sin cita",
     "enable_recent_chats_menu":  "Habilitar menú de chats recientes",
     "enable_reply_private_chat":  "Habilitar respuesta en chat privado",
-    "enable_small_fab_shortcut":  "Habilitar acceso directo al FAB pequeño",
+    "hold_mini_fab_mark_all_read":  "Mantén presionado el mini FAB para marcar todo como leído",
     "enabled":  "Habilitado",
     "enter_caption":  "Ingresa descripción...",
     "enter_message_id":  "Ingresar ID del Mensaje",

@@ -78,7 +78,7 @@
     "enable_no_quote_forward":  "Activer le transfert sans citation",
     "enable_recent_chats_menu":  "Activer le menu des chats récents",
     "enable_reply_private_chat":  "Activer la réponse en chat privé",
-    "enable_small_fab_shortcut":  "Activer le raccourci de la petite FAB",
+    "hold_mini_fab_mark_all_read":  "Maintenir mini FAB pour tout marquer comme lu",
     "enabled":  "Activé",
     "enter_caption":  "Entrez la légende...",
     "enter_message_id":  "Entrer l'ID du Message",

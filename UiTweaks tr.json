@@ -78,7 +78,7 @@
     "enable_no_quote_forward":  "Alıntısız yönlendirmeyi etkinleştir",
     "enable_recent_chats_menu":  "Son sohbetler menüsünü etkinleştir",
     "enable_reply_private_chat":  "Özel sohbette yanıtlamayı etkinleştir",
-    "enable_small_fab_shortcut":  "Küçük FAB kısayolunu etkinleştir",
+    "hold_mini_fab_mark_all_read":  "Mini FAB'ı basılı tutarak tümünü okundu yap",
     "enabled":  "Etkin",
     "enter_caption":  "Açıklama girin...",
     "enter_message_id":  "Mesaj ID'sini Gir",

@@ -78,7 +78,7 @@
     "enable_no_quote_forward":  "启用无引用转发",
     "enable_recent_chats_menu":  "启用最近聊天菜单",
     "enable_reply_private_chat":  "启用私聊回复",
-    "enable_small_fab_shortcut":  "启用小型 FAB 快捷方式",
+    "hold_mini_fab_mark_all_read":  "长按迷你 FAB 将全部标记为已读",
     "enabled":  "已启用",
     "enter_caption":  "输入说明...",
     "enter_message_id":  "输入消息ID",
