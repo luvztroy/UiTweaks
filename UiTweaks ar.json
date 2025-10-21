@@ -143,6 +143,7 @@
     "memory_dump_success":  "تم تفريغ الذاكرة بنجاح! تم تحرير {freed_memory:.1f} ميجابايت",
     "memory_warning_message":  "استخدام ذاكرة عالي: {used_mb} ميجابايت.\n\nإعادة تشغيل التطبيق أم تفريغ الذاكرة؟",
     "memory_warning_title":  "تحذير الذاكرة",
+    "MobileHidden":  "رقم الهاتف مخفي",
     "mention_id_hint":  "المعرف",
     "mention_menu_item":  "إشارة",
     "menu_visibility":  "رؤية القائمة",

@@ -143,6 +143,7 @@
     "memory_dump_success":  "Memoria golită cu succes! Eliberat {freed_memory:.1f}MB",
     "memory_warning_message":  "Utilizare ridicată a memoriei: {used_mb}MB.\n\nRepornire app sau golire memorie?",
     "memory_warning_title":  "Avertisment de memorie",
+    "MobileHidden":  "Telefon ascuns",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "Mențiune",
     "menu_visibility":  "Vizibilitatea meniului",

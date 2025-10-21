@@ -143,6 +143,7 @@
     "memory_dump_success":  "Memoria svuotata con successo! Liberati {freed_memory:.1f}MB",
     "memory_warning_message":  "Alto utilizzo della memoria: {used_mb}MB.\n\nRiavviare app o svuotare memoria?",
     "memory_warning_title":  "Avviso di memoria",
+    "MobileHidden":  "Cellulare nascosto",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "Menzione",
     "menu_visibility":  "Visibilità del menu",

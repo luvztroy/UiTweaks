@@ -143,6 +143,7 @@
     "memory_dump_success":  "内存清理成功！释放了 {freed_memory:.1f}MB",
     "memory_warning_message":  "内存占用过高：{used_mb}MB。\n\n重启应用或清理内存?",
     "memory_warning_title":  "内存警告",
+    "MobileHidden":  "手机号已隐藏",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "提及",
     "menu_visibility":  "菜单可见性",

@@ -143,6 +143,7 @@
     "memory_dump_success":  "Bellek başarıyla boşaltıldı! {freed_memory:.1f}MB serbest bırakıldı",
     "memory_warning_message":  "Yüksek bellek kullanımı: {used_mb}MB.\n\nUygulamayı yeniden başlat veya belleği boşalt?",
     "memory_warning_title":  "Bellek Uyarısı",
+    "MobileHidden":  "Telefon numarası gizlendi",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "Bahsetme",
     "menu_visibility":  "Menü görünürlüğü",

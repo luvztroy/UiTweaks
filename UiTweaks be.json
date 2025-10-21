@@ -143,6 +143,7 @@
     "memory_dump_success":  "Скід памяці прайшоў паспяхова! Вызвалена {freed_memory:.1f}МБ",
     "memory_warning_message":  "Высокае выкарыстанне памяці: {used_mb}МБ.\n\nПеразапуск дадатку ці скід памяці?",
     "memory_warning_title":  "Папярэджанне аб памяці",
+    "MobileHidden":  "Нумар тэлефона схаваны",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "Згадванне",
     "menu_visibility":  "Бачнасць меню",

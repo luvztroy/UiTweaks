@@ -143,6 +143,7 @@
     "memory_dump_success":  "Пам'ять успішно скинута! Звільнено {freed_memory:.1f}МБ",
     "memory_warning_message":  "Високе використання пам'яті: {used_mb}МБ.\n\nПерезапустити застосунок або скинути пам'ять?",
     "memory_warning_title":  "Попередження про пам'ять",
+    "MobileHidden":  "Номер телефону приховано",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "Згадування",
     "menu_visibility":  "Видимість меню",

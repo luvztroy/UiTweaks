@@ -143,6 +143,7 @@
     "memory_dump_success":  "Xotira muvaffaqiyatli tozalandi! {freed_memory:.1f}MB bo'shatildi",
     "memory_warning_message":  "Yuqori xotira ishlatilishi: {used_mb}MB.\n\nIlovani qayta ishga tushirish yoki xotirani tozalash?",
     "memory_warning_title":  "Xotira ogohlantirishi",
+    "MobileHidden":  "Telefon raqami yashirilgan",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "Eslatma",
     "menu_visibility":  "Menyu ko'rinishi",

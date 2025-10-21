@@ -143,6 +143,7 @@
     "memory_dump_success":  "Speicher erfolgreich geleert! {freed_memory:.1f}MB freigegeben",
     "memory_warning_message":  "Hohe Speichernutzung: {used_mb}MB.\n\nApp neu starten oder Speicher leeren?",
     "memory_warning_title":  "Speicherwarnung",
+    "MobileHidden":  "Handynummer verborgen",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "Erwähnung",
     "menu_visibility":  "Menü-Sichtbarkeit",

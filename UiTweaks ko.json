@@ -143,6 +143,7 @@
     "memory_dump_success":  "메모리 덤프 성공! {freed_memory:.1f}MB 해제됨",
     "memory_warning_message":  "높은 메모리 사용량: {used_mb}MB.\n\n앱 재시작 또는 메모리 덤프?",
     "memory_warning_title":  "메모리 경고",
+    "MobileHidden":  "전화번호 숨김",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "멘션",
     "menu_visibility":  "메뉴 가시성",

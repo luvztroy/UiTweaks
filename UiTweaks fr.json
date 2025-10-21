@@ -143,6 +143,7 @@
     "memory_dump_success":  "Mémoire vidée avec succès ! {freed_memory:.1f}MB libérés",
     "memory_warning_message":  "Utilisation élevée de la mémoire : {used_mb}MB.\n\nRedémarrer l'app ou vider la mémoire?",
     "memory_warning_title":  "Avertissement mémoire",
+    "MobileHidden":  "Numéro de téléphone masqué",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "Mention",
     "menu_visibility":  "Visibilité du menu",

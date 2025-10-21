@@ -143,6 +143,7 @@
     "memory_dump_success":  "Memori berhasil dibuang! Dibebaskan {freed_memory:.1f}MB",
     "memory_warning_message":  "Penggunaan memori tinggi: {used_mb}MB.\n\nRestart app atau buang memori?",
     "memory_warning_title":  "Peringatan memori",
+    "MobileHidden":  "Nomor telepon disembunyikan",
     "mention_id_hint":  "ID",
     "mention_menu_item":  "Mention",
     "menu_visibility":  "Visibilitas menu",
