@@ -213,6 +213,7 @@
     "reset_shared_preferences":  "Uygulama tercihlerini sıfırla",
     "safe_mode":  "Güvenli Mod",
     "safe_mode_subtext":  "Eklenti güvenli modunu etkinleştirmek için ses kısma düğmesine 5 kez hızlıca basın ~ Güvenli Modda, tüm eklentiler devre dışıdır. Bu, sorunlu bir eklentiyi güvenli bir şekilde bulmanıza ve devre dışı bırakmanıza olanak tanır.",
+    "search_by_user_id":  "Kullanıcı ID'sine göre ara",
     "restart_app":  "Yeniden başlat",
     "restart_to_apply_changes":  "Değişiklikleri uygulamak için yeniden başlat",
     "round_video_time_display":  "Video mesajlar için ilerleme zaman damgası",

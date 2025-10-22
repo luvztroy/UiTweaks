@@ -215,6 +215,7 @@
     "round_video_time_display":  "Timestamp di progresso per messaggi video",
     "safe_mode":  "Modalità Sicura",
     "safe_mode_subtext":  "Premi il pulsante volume giù 5 volte rapidamente per attivare la modalità sicura del plugin ~ In Modalità Sicura, tutti i plugin sono inattivi. Questo ti permette di trovare e disabilitare in sicurezza un plugin problematico.",
+    "search_by_user_id":  "Cerca per ID utente",
     "select":  "Seleziona",
     "select_all":  "Seleziona tutto",
     "select_all_dialogs_menu":  "Seleziona Tutte le Chat",

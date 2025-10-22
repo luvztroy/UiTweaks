@@ -212,6 +212,7 @@
     "reset_shared_preferences":  "Reset Shared Preferences",
     "safe_mode":  "Safe Mode",
     "safe_mode_subtext":  "Press volume down 5 times quickly to enable plugin safe mode ~ In Safe Mode, all plugins are inactive. This allows you to safely find and disable a problematic plugin.",
+    "search_by_user_id":  "Search by User ID",
     "restart_app":  "Restart",
     "restart_to_apply_changes":  "Restart to apply changes",
     "round_video_time_display":  "Progress Timestamp For Video Messages",

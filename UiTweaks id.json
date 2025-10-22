@@ -216,6 +216,7 @@
     "round_video_time_display":  "Timestamp Progres untuk Pesan Video",
     "safe_mode":  "Mode Aman",
     "safe_mode_subtext":  "Tekan tombol volume turun 5 kali dengan cepat untuk mengaktifkan mode aman plugin ~ Dalam Mode Aman, semua plugin tidak aktif. Ini memungkinkan Anda menemukan dan menonaktifkan plugin bermasalah dengan aman.",
+    "search_by_user_id":  "Cari berdasarkan ID pengguna",
     "select":  "Pilih",
     "select_all":  "Pilih Semua",
     "select_all_dialogs_menu":  "Pilih Semua Obrolan",

@@ -212,6 +212,7 @@
     "reset_shared_preferences":  "重置应用偏好设置",
     "safe_mode":  "安全模式",
     "safe_mode_subtext":  "快速按5次音量减按钮以启用插件安全模式 ~ 在安全模式下，所有插件均处于非活动状态。这允许您安全地找到并禁用有问题的插件。",
+    "search_by_user_id":  "按用户ID搜索",
     "restart_app":  "重启",
     "restart_to_apply_changes":  "重启以应用更改",
     "round_video_time_display":  "视频消息进度时间戳",

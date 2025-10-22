@@ -215,6 +215,7 @@
     "round_video_time_display":  "Marca de tiempo de progreso para mensajes de video",
     "safe_mode":  "Modo seguro",
     "safe_mode_subtext":  "Presiona el botón de bajar volumen 5 veces rápidamente para activar el modo seguro del plugin ~ En modo seguro, todos los plugins están inactivos. Esto te permite encontrar y desactivar de forma segura un plugin problemático.",
+    "search_by_user_id":  "Buscar por ID de usuario",
     "select":  "Seleccionar",
     "select_all":  "Seleccionar todo",
     "select_all_dialogs_menu":  "Seleccionar todos los chats",

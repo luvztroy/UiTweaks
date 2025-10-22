@@ -212,6 +212,7 @@
     "reset_shared_preferences":  "Redefinir Preferências Compartilhadas",
     "safe_mode":  "Modo Seguro",
     "safe_mode_subtext":  "Pressione o botão de diminuir volume 5 vezes rapidamente para ativar o modo seguro do plugin ~ No Modo Seguro, todos os plugins estão inativos. Isso permite que você encontre e desative com segurança um plugin problemático.",
+    "search_by_user_id":  "Pesquisar por ID de usuário",
     "restart_app":  "Reiniciar",
     "restart_to_apply_changes":  "Reiniciar para aplicar alterações",
     "round_video_time_display":  "Timestamp de progresso para mensagens de vídeo",

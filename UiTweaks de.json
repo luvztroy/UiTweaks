@@ -212,6 +212,7 @@
     "reset_shared_preferences":  "App-Einstellungen zurücksetzen",
     "safe_mode":  "Sicherer Modus",
     "safe_mode_subtext":  "Drücken Sie die Lautstärke-Leiser-Taste 5 Mal schnell, um den sicheren Plugin-Modus zu aktivieren ~ Im sicheren Modus sind alle Plugins inaktiv. Damit können Sie ein problematisches Plugin sicher finden und deaktivieren.",
+    "search_by_user_id":  "Suche nach Benutzer-ID",
     "restart_app":  "Neu starten",
     "restart_to_apply_changes":  "Neustart, um Änderungen anzuwenden",
     "round_video_time_display":  "Fortschritts-Zeitstempel für Videomeldungen",

@@ -213,6 +213,7 @@
     "reset_shared_preferences":  "Ilova sozlamalarini tiklash",
     "safe_mode":  "Xavfsiz rejim",
     "safe_mode_subtext":  "Plagin xavfsiz rejimini yoqish uchun ovoz pasaytirish tugmasini 5 marta tez bosing ~ Xavfsiz rejimda barcha plaginlar faol emas. Bu sizga muammoli plaginni xavfsiz topish va o'chirishga imkon beradi.",
+    "search_by_user_id":  "Foydalanuvchi ID orqali qidirish",
     "restart_app":  "Qayta ishga tushirish",
     "restart_to_apply_changes":  "O'zgarishlarni qo'llash uchun qayta ishga tushiring",
     "round_video_time_display":  "Video xabarlar uchun taraqqiyot vaqti belgisi",

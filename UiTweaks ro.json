@@ -212,6 +212,7 @@
     "reset_shared_preferences":  "Resetează Preferințele Partajate",
     "safe_mode":  "Mod Sigur",
     "safe_mode_subtext":  "Apăsați butonul de scădere a volumului de 5 ori rapid pentru a activa modul sigur al plugin-ului ~ În Modul Sigur, toate plugin-urile sunt inactive. Acest lucru vă permite să găsiți și să dezactivați în siguranță un plugin problematic.",
+    "search_by_user_id":  "Căutare după ID utilizator",
     "restart_app":  "Repornește",
     "restart_to_apply_changes":  "Repornește pentru a aplica modificările",
     "round_video_time_display":  "Marcaj temporal de progres pentru mesajele video",
