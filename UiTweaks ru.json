@@ -48,7 +48,7 @@
     "disable_article_viewer_swipe":  "Свайп назад для закрытия статей",
     "disable_auto_web_login":  "Отключить автоматический веб-вход",
     "disable_memory_warning":  "Отключить предупреждение о памяти",
-    "disable_swipe_gestures":  "\"Отключить\" в меню жестов свайпа",
+    "disable_swipe_gestures":  "\"Отключить\" свайп списка чатов",
     "disable_swipe_subtext":  "Добавить опцию отключения в меню \"Жесты свайпа списка чатов\" Telegram",
     "disable_topics_swipe":  "Отключить свайп, скрывающий темы",
     "disabled":  "Отключено",
