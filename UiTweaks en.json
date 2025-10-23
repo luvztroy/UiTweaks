@@ -95,7 +95,7 @@
     "goto_message_plugin_sub":  "Plugin Sub-Item",
     "hidden_name":  "Hidden Name",
     "hide_archived_chats":  "Hide archived chats",
-    "hide_archived_chats_info":  "This will remove archived chats from the chat list by filtering them out of the dialogs query.",
+    "hide_archived_chats_info":  "This will remove archived chats cell from the chat list by filtering them out of the dialogs query.",
     "hide_archived_from_drawer":  "Hide from drawer",
     "hide_birthday_alert":  "Hide Birthday Alert",
     "hide_birthday_alert_info":  "Hides the birthday setup suggestion that appears in the chat list.",
