@@ -38,6 +38,7 @@
     "contact_status_in_profile":  "프로필의 상호 연락처",
     "context_menu_info":  "이것은 메시지를 탭할 때 나타나는 컨텍스트 메뉴에 항목을 추가합니다.",
     "continue":  "계속",
+    "quick_access_gift_market": "선물 마켓 빠른 액세스",
     "create_code_dialog_title":  "코드 생성",
     "create_mention_dialog_title":  "멘션 생성",
     "current_language_detected":  "현재 언어 감지됨: {language}",

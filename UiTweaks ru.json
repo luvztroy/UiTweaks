@@ -38,6 +38,7 @@
     "contact_status_in_profile":  "Взаимный контакт в профиле",
     "context_menu_info":  "Это добавит элементы в контекстное меню, которое появляется при нажатии на любое сообщение.",
     "continue":  "Продолжить",
+    "quick_access_gift_market": "Быстрый доступ к магазину подарков",
     "create_code_dialog_title":  "Создать код",
     "create_mention_dialog_title":  "Создать упоминание",
     "current_language_detected":  "Обнаружен язык: {language}",

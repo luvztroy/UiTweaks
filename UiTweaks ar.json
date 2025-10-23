@@ -38,6 +38,7 @@
     "confirmation_settings":  "اختر الإجراءات",
     "context_menu_info":  "سيؤدي هذا إلى إضافة عناصر إلى القائمة السياقية التي تظهر عند النقر على أي رسالة.",
     "continue":  "متابعة",
+    "quick_access_gift_market": "الوصول السريع إلى سوق الهدايا",
     "create_code_dialog_title":  "إنشاء كود",
     "create_mention_dialog_title":  "إنشاء إشارة",
     "current_language_detected":  "تم اكتشاف اللغة الحالية: {language}",
