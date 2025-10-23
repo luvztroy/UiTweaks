@@ -96,6 +96,7 @@
     "hidden_name":  "Nome nascosto",
     "hide_archived_chats":  "Nascondi chat archiviate",
     "hide_archived_chats_info":  "Questo rimuoverà le chat archiviate dalla lista delle chat filtrandole dalla query dei dialoghi.",
+    "hide_archived_from_drawer":  "Nascondi dal cassetto",
     "hide_birthday_alert":  "Nascondi avviso compleanno",
     "hide_birthday_alert_info":  "Nasconde il suggerimento di configurazione compleanno che appare nella lista chat.",
     "hide_bot_button":  "Nascondi pulsante bot nel campo di input",

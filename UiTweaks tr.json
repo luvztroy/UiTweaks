@@ -96,6 +96,7 @@
     "hidden_name":  "Gizli isim",
     "hide_archived_chats":  "Arşivlenmiş sohbetleri gizle",
     "hide_archived_chats_info":  "Bu, arşivlenmiş sohbetleri diyalog sorgusundan filtreleyerek sohbet listesinden kaldırır.",
+    "hide_archived_from_drawer":  "Çekmeceden gizle",
     "hide_birthday_alert":  "Doğum günü uyarısını gizle",
     "hide_birthday_alert_info":  "Sohbet listesinde görünen doğum günü kurulum önerisini gizler.",
     "hide_bot_button":  "Giriş alanında bot düğmesini gizle",

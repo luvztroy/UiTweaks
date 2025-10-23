@@ -96,6 +96,7 @@
     "hidden_name":  "Nume ascuns",
     "hide_archived_chats":  "Ascunde chat-urile arhivate",
     "hide_archived_chats_info":  "Aceasta va elimina chat-urile arhivate din lista de chat-uri prin filtrarea lor din interogarea dialogurilor.",
+    "hide_archived_from_drawer":  "Ascunde din sertar",
     "hide_birthday_alert":  "Ascunde alertele de ziua de naștere",
     "hide_birthday_alert_info":  "Ascunde sugestia de configurare a zilei de naștere care apare în lista de chat-uri.",
     "hide_bot_button":  "Ascunde butonul bot în câmpul de introducere",

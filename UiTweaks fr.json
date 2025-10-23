@@ -96,6 +96,7 @@
     "hidden_name":  "Nom masqué",
     "hide_archived_chats":  "Masquer les chats archivés",
     "hide_archived_chats_info":  "Cela supprimera les chats archivés de la liste des chats en les filtrant de la requête des dialogues.",
+    "hide_archived_from_drawer":  "Masquer du tiroir",
     "hide_birthday_alert":  "Masquer l'alerte d'anniversaire",
     "hide_birthday_alert_info":  "Masque la suggestion de configuration d'anniversaire qui apparaît dans la liste des chats.",
     "hide_bot_button":  "Masquer le bouton bot dans le champ de saisie",

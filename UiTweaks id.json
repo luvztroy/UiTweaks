@@ -96,6 +96,7 @@
     "hidden_name":  "Nama Tersembunyi",
     "hide_archived_chats":  "Sembunyikan chat yang diarsipkan",
     "hide_archived_chats_info":  "Ini akan menghapus chat yang diarsipkan dari daftar chat dengan memfilternya dari kueri dialog.",
+    "hide_archived_from_drawer":  "Sembunyikan dari laci",
     "hide_birthday_alert":  "Sembunyikan peringatan ulang tahun",
     "hide_birthday_alert_info":  "Menyembunyikan saran pengaturan ulang tahun yang muncul di daftar chat.",
     "hide_bot_button":  "Sembunyikan tombol bot di bidang input",

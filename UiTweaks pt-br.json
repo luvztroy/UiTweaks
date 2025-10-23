@@ -96,6 +96,7 @@
     "hidden_name":  "Nome oculto",
     "hide_archived_chats":  "Ocultar chats arquivados",
     "hide_archived_chats_info":  "Isso removerá chats arquivados da lista de chats filtrando-os da consulta de diálogos.",
+    "hide_archived_from_drawer":  "Ocultar da gaveta",
     "hide_birthday_alert":  "Ocultar alerta de aniversário",
     "hide_birthday_alert_info":  "Oculta a sugestão de configuração de aniversário que aparece na lista de chats.",
     "hide_bot_button":  "Ocultar botão do bot no campo de entrada",
