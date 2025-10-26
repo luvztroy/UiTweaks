@@ -247,5 +247,10 @@
     "unread_count_info":  "Ajuste como os contadores de não lidos se comportam nas pastas. Quando ambos estão habilitados, apenas chats não silenciados são contados.",
     "unread_message_count":  "Mostrar contador de mensagens não lidas",
     "voice_message_time_display":  "Timestamp de progresso para mensagens de voz",
-    "warning":  "Aviso"
+    "warning":  "Aviso",
+    "enable_ai_summarize":  "Resumir conversa",
+    "summarize_menu_item":  "Resumir",
+    "message_count_label":  "Quantidade de mensagens",
+    "summarize_button":  "Resumir",
+    "summarize_title":  "Resumir"
 }

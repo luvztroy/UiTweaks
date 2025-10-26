@@ -247,5 +247,10 @@
     "unread_count_info":  "폴더에서 읽지 않음 카운터가 작동하는 방식을 조정합니다. 둘 다 활성화되면 음소거되지 않은 채팅만 계산됩니다.",
     "unread_message_count":  "읽지 않은 메시지 수 표시",
     "voice_message_time_display":  "음성 메시지용 진행 타임스탬프",
-    "warning":  "경고"
+    "warning":  "경고",
+    "enable_ai_summarize":  "채팅 요약",
+    "summarize_menu_item":  "요약",
+    "message_count_label":  "메시지 수",
+    "summarize_button":  "요약",
+    "summarize_title":  "요약"
 }

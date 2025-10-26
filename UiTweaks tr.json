@@ -248,5 +248,10 @@
     "unread_count_info":  "Klasörlerde okunmamış sayaçların nasıl davrandığını ayarlayın. Her ikisi de etkinleştirildiğinde, yalnızca susturulmamış sohbetler sayılır.",
     "unread_message_count":  "Okunmamış mesaj sayısını göster",
     "voice_message_time_display":  "Sesli mesajlar için ilerleme zaman damgası",
-    "warning":  "Uyarı"
+    "warning":  "Uyarı",
+    "enable_ai_summarize":  "Sohbeti özetle",
+    "summarize_menu_item":  "Özetle",
+    "message_count_label":  "Mesaj sayısı",
+    "summarize_button":  "Özetle",
+    "summarize_title":  "Özetle"
 }

@@ -247,5 +247,10 @@
     "unread_count_info":  "Regola come si comportano i contatori di non letti nelle cartelle. Quando entrambi sono abilitati, vengono contati solo i chat non silenziati.",
     "unread_message_count":  "Mostra contatore messaggi non letti",
     "voice_message_time_display":  "Timestamp di progresso per messaggi vocali",
-    "warning":  "Avviso"
+    "warning":  "Avviso",
+    "enable_ai_summarize":  "Riassumi chat",
+    "summarize_menu_item":  "Riassumi",
+    "message_count_label":  "Numero di messaggi",
+    "summarize_button":  "Riassumi",
+    "summarize_title":  "Riassumi"
 }

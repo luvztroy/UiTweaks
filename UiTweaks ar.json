@@ -247,5 +247,10 @@
     "unread_count_info":  "اضبط كيفية عمل عدادات الرسائل غير المقروءة في المجلدات. عند تفعيل كليهما، يتم حساب المحادثات غير المكتومة فقط.",
     "unread_message_count":  "إظهار عدد الرسائل غير المقروءة",
     "voice_message_time_display":  "طابع زمني للتقدم للرسائل الصوتية",
-    "warning":  "تحذير"
+    "warning":  "تحذير",
+    "enable_ai_summarize":  "تلخيص المحادثة",
+    "summarize_menu_item":  "تلخيص",
+    "message_count_label":  "عدد الرسائل",
+    "summarize_button":  "تلخيص",
+    "summarize_title":  "تلخيص"
 }

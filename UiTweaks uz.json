@@ -248,5 +248,10 @@
     "unread_count_info":  "Papkalarda o'qilmagan hisobchilar qanday ishlashini sozlang. Ikkalasi ham yoqilganda, faqat jim qilinmagan suhbatlar hisoblanadi.",
     "unread_message_count":  "O'qilmagan xabarlar sonini ko'rsatish",
     "voice_message_time_display":  "Ovozli xabarlar uchun taraqqiyot vaqti belgisi",
-    "warning":  "Ogohlantirish"
+    "warning":  "Ogohlantirish",
+    "enable_ai_summarize":  "Suhbatni umumlashtirish",
+    "summarize_menu_item":  "Umumlashtirish",
+    "message_count_label":  "Xabarlar soni",
+    "summarize_button":  "Umumlashtirish",
+    "summarize_title":  "Umumlashtirish"
 }

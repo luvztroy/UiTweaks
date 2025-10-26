@@ -247,5 +247,10 @@
     "unread_count_info":  "Sesuaikan cara penghitung belum dibaca berperilaku di folder. Ketika keduanya diaktifkan, hanya chat yang tidak dibisukan yang dihitung.",
     "unread_message_count":  "Tampilkan jumlah pesan belum dibaca",
     "voice_message_time_display":  "Timestamp Progres untuk Pesan Suara",
-    "warning":  "Peringatan"
+    "warning":  "Peringatan",
+    "enable_ai_summarize":  "Ringkas Obrolan",
+    "summarize_menu_item":  "Ringkas",
+    "message_count_label":  "Jumlah Pesan",
+    "summarize_button":  "Ringkas",
+    "summarize_title":  "Ringkas"
 }

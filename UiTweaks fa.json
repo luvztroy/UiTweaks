@@ -247,5 +247,10 @@
     "unread_count_info": "تنظیم نحوه رفتار شمارنده‌های خوانده‌نشده در پوشه‌ها. زمانی که هر دو فعال باشند، فقط گفتگوهای بی‌صدا نشده شمرده می‌شوند.",
     "unread_message_count": "نمایش تعداد پیام‌های خوانده‌نشده",
     "voice_message_time_display": "برچسب زمانی پیشرفت برای پیام‌های صوتی",
-    "warning": "هشدار"
+    "warning": "هشدار",
+    "enable_ai_summarize": "خلاصه گفتگو",
+    "summarize_menu_item": "خلاصه",
+    "message_count_label": "تعداد پیام‌ها",
+    "summarize_button": "خلاصه",
+    "summarize_title": "خلاصه"
 }

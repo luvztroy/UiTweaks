@@ -247,5 +247,10 @@
     "unread_count_info":  "Passen Sie an, wie sich ungelesene Zähler in Ordnern verhalten. Wenn beide aktiviert sind, werden nur nicht stummgeschaltete Chats gezählt.",
     "unread_message_count":  "Ungelesene Nachrichten-Anzahl anzeigen",
     "voice_message_time_display":  "Fortschritts-Zeitstempel für Sprachmeldungen",
-    "warning":  "Warnung"
+    "warning":  "Warnung",
+    "enable_ai_summarize":  "Chat zusammenfassen",
+    "summarize_menu_item":  "Zusammenfassen",
+    "message_count_label":  "Nachrichtenanzahl",
+    "summarize_button":  "Zusammenfassen",
+    "summarize_title":  "Zusammenfassen"
 }

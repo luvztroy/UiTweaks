@@ -247,5 +247,10 @@
     "unread_count_info":  "Adjust how unread counters behave in folders. When both are enabled, only non-muted chats are counted.",
     "unread_message_count":  "Show Unread Message Count",
     "voice_message_time_display":  "Progress Timestamp For Voice Messages",
-    "warning":  "Warning"
+    "warning":  "Warning",
+    "enable_ai_summarize":  "Summarize Chat",
+    "summarize_menu_item":  "Summarize",
+    "message_count_label":  "Message Count",
+    "summarize_button":  "Summarize",
+    "summarize_title":  "Summarize"
 }

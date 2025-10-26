@@ -247,5 +247,10 @@
     "unread_count_info":  "Ajustează cum se comportă contoarele de necitite în foldere. Când ambele sunt activate, doar chat-urile neamutate sunt numărate.",
     "unread_message_count":  "Afișează numărul de mesaje necitite",
     "voice_message_time_display":  "Marcaj temporal de progres pentru mesajele vocale",
-    "warning":  "Avertisment"
+    "warning":  "Avertisment",
+    "enable_ai_summarize":  "Rezumă conversația",
+    "summarize_menu_item":  "Rezumă",
+    "message_count_label":  "Număr de mesaje",
+    "summarize_button":  "Rezumă",
+    "summarize_title":  "Rezumă"
 }
