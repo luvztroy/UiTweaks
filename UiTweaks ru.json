@@ -252,5 +252,6 @@
     "summarize_menu_item":  "Резюмировать",
     "message_count_label":  "Количество сообщений",
     "summarize_button":  "Резюмировать",
+    "ai_summarizing":  "Резюмирование...",
     "summarize_title":  "Резюмировать"
 }

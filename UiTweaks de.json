@@ -252,5 +252,6 @@
     "summarize_menu_item":  "Zusammenfassen",
     "message_count_label":  "Nachrichtenanzahl",
     "summarize_button":  "Zusammenfassen",
+    "ai_summarizing":  "Zusammenfassen...",
     "summarize_title":  "Zusammenfassen"
 }

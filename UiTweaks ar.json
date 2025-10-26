@@ -252,5 +252,6 @@
     "summarize_menu_item":  "تلخيص",
     "message_count_label":  "عدد الرسائل",
     "summarize_button":  "تلخيص",
+    "ai_summarizing":  "جارٍ التلخيص...",
     "summarize_title":  "تلخيص"
 }

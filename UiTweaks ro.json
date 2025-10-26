@@ -252,5 +252,6 @@
     "summarize_menu_item":  "Rezumă",
     "message_count_label":  "Număr de mesaje",
     "summarize_button":  "Rezumă",
+    "ai_summarizing":  "Se rezumă...",
     "summarize_title":  "Rezumă"
 }

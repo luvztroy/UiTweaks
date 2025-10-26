@@ -252,5 +252,6 @@
     "summarize_menu_item":  "요약",
     "message_count_label":  "메시지 수",
     "summarize_button":  "요약",
+    "ai_summarizing":  "요약 중...",
     "summarize_title":  "요약"
 }

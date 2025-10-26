@@ -252,5 +252,6 @@
     "summarize_menu_item":  "Ringkas",
     "message_count_label":  "Jumlah Pesan",
     "summarize_button":  "Ringkas",
+    "ai_summarizing":  "Meringkas...",
     "summarize_title":  "Ringkas"
 }

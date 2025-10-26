@@ -252,5 +252,6 @@
     "summarize_menu_item":  "Resumir",
     "message_count_label":  "Cantidad de mensajes",
     "summarize_button":  "Resumir",
+    "ai_summarizing":  "Resumiendo...",
     "summarize_title":  "Resumir"
 }
