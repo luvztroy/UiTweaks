@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "اضغط مطولاً على زر الملصق في المحادثات الخاصة للوصول إلى مبدل الحسابات.",
     "account_visibility":  "رؤية الحسابات",
     "account_visibility_subtext":  "إخفاء/إظهار الحسابات بالضغط المطول على زر السمة",
     "add_caption_to_gif":  "إضافة تعليق إلى GIF",
@@ -70,7 +69,6 @@
     "download_localization":  "تحميل الترجمة",
     "download_localization_title":  "تحميل الترجمة",
     "dump_memory":  "تفريغ الذاكرة",
-    "enable_account_switcher":  "تفعيل مبدل الحسابات",
     "enable_confirmation_settings":  "تفعيل إعدادات التأكيد",
     "enable_debug_logging_quantahut":  "تفعيل سجلات التصحيح",
     "enable_debug_logging_quantahut_subtext":  "عرض سجلات مفصلة لعمليات QuantaHut",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "تفعيل إعادة التوجيه بدون اقتباس",
     "enable_recent_chats_menu":  "تفعيل قائمة الدردشات الأخيرة",
     "enable_reply_private_chat":  "تفعيل الرد في الدردشة الخاصة",
-    "hold_mini_fab_mark_all_read":  "اضغط مع الاستمرار على زر FAB المصغّر لاعتبار الكل مقروءًا",
     "enabled":  "مفعل",
     "enter_caption":  "أدخل التعليق...",
     "enter_message_id":  "أدخل معرف الرسالة",

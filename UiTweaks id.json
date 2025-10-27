@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Tahan tombol stiker di chat pribadi untuk mengakses pengganti akun.",
     "account_visibility":  "Visibilitas akun",
     "account_visibility_subtext":  "Sembunyikan/tampilkan akun dengan menekan lama tombol tema",
     "add_caption_to_gif":  "Tambahkan Keterangan ke GIF",
@@ -70,7 +69,6 @@
     "download_localization":  "Unduh lokalisasi",
     "download_localization_title":  "Unduh lokalisasi",
     "dump_memory":  "Buang memori",
-    "enable_account_switcher":  "Aktifkan pengalih akun",
     "enable_confirmation_settings":  "Aktifkan pengaturan konfirmasi",
     "enable_debug_logging_quantahut":  "Aktifkan logging debug",
     "enable_debug_logging_quantahut_subtext":  "Tampilkan log detail operasi QuantaHut",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Aktifkan Penerusan Tanpa Kutipan",
     "enable_recent_chats_menu":  "Aktifkan Menu Chat Terbaru",
     "enable_reply_private_chat":  "Aktifkan Balas di Chat Pribadi",
-    "hold_mini_fab_mark_all_read":  "Tahan mini FAB untuk menandai semua sebagai dibaca",
     "enabled":  "Diaktifkan",
     "enter_caption":  "Masukkan keterangan...",
     "enter_message_id":  "Masukkan ID Pesan",

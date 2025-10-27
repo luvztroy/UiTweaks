@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Țineți apăsat butonul de sticker în conversațiile private pentru a accesa selectorul de conturi.",
     "account_visibility":  "Vizibilitatea contului",
     "account_visibility_subtext":  "Ascunde/afișează conturile prin apăsarea lungă a butonului de temă",
     "add_caption_to_gif":  "Adaugă legendă la GIF",
@@ -70,7 +69,6 @@
     "download_localization":  "Descarcă localizarea",
     "download_localization_title":  "Descarcă localizarea",
     "dump_memory":  "Golire memorie",
-    "enable_account_switcher":  "Activează selectorul de conturi",
     "enable_confirmation_settings":  "Activează setările de confirmare",
     "enable_debug_logging_quantahut":  "Activează jurnalizarea de depanare",
     "enable_debug_logging_quantahut_subtext":  "Afișează jurnale detaliate ale operațiunilor QuantaHut",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Activați trimiterea fără citare",
     "enable_recent_chats_menu":  "Activează meniul de chat-uri recente",
     "enable_reply_private_chat":  "Activați răspunsul în chat privat",
-    "hold_mini_fab_mark_all_read":  "Ține apăsat mini FAB pentru a marca totul ca citit",
     "enabled":  "Activat",
     "enter_caption":  "Introduceți legenda...",
     "enter_message_id":  "Introdu ID-ul Mesajului",

@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Hesap değiştiriciye erişmek için özel sohbetlerde çıkartma düğmesini basılı tutun.",
     "account_visibility":  "Hesap görünürlüğü",
     "account_visibility_subtext":  "Tema butonuna uzun basarak hesapları gizle/göster",
     "add_caption_to_gif":  "GIF'e açıklama ekle",
@@ -70,7 +69,6 @@
     "download_localization":  "Yerelleştirmeyi indir",
     "download_localization_title":  "Yerelleştirmeyi indir",
     "dump_memory":  "Belleği boşalt",
-    "enable_account_switcher":  "Hesap değiştiriciyi etkinleştir",
     "enable_confirmation_settings":  "Onay ayarlarını etkinleştir",
     "enable_debug_logging_quantahut":  "Hata ayıklama günlüğünü etkinleştir",
     "enable_debug_logging_quantahut_subtext":  "QuantaHut işlemlerinin ayrıntılı günlüklerini göster",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Alıntısız yönlendirmeyi etkinleştir",
     "enable_recent_chats_menu":  "Son sohbetler menüsünü etkinleştir",
     "enable_reply_private_chat":  "Özel sohbette yanıtlamayı etkinleştir",
-    "hold_mini_fab_mark_all_read":  "Mini FAB'ı basılı tutarak tümünü okundu yap",
     "enabled":  "Etkin",
     "enter_caption":  "Açıklama girin...",
     "enter_message_id":  "Mesaj ID'sini Gir",

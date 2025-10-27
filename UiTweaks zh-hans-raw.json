@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "在私聊中长按贴纸按钮以访问账户切换器。",
     "account_visibility":  "账户可见性",
     "account_visibility_subtext":  "长按主题按钮隐藏/显示账户",
     "add_caption_to_gif":  "为 GIF 添加说明",
@@ -70,7 +69,6 @@
     "download_localization":  "下载本地化",
     "download_localization_title":  "下载本地化",
     "dump_memory":  "清理内存",
-    "enable_account_switcher":  "启用账户切换器",
     "enable_confirmation_settings":  "启用确认设置",
     "enable_debug_logging_quantahut":  "启用调试日志",
     "enable_debug_logging_quantahut_subtext":  "显示 QuantaHut 操作的详细日志",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "启用无引用转发",
     "enable_recent_chats_menu":  "启用最近聊天菜单",
     "enable_reply_private_chat":  "启用私聊回复",
-    "hold_mini_fab_mark_all_read":  "长按迷你 FAB 将全部标记为已读",
     "enabled":  "已启用",
     "enter_caption":  "输入说明...",
     "enter_message_id":  "输入消息ID",

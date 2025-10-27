@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "개인 채팅에서 스티커 버튼을 길게 눌러 계정 전환기에 액세스하세요.",
     "account_visibility":  "계정 표시",
     "account_visibility_subtext":  "테마 버튼을 길게 눌러 계정 표시/숨기기",
     "add_caption_to_gif":  "GIF에 캡션 추가",
@@ -70,7 +69,6 @@
     "download_localization":  "현지화 다운로드",
     "download_localization_title":  "현지화 다운로드",
     "dump_memory":  "메모리 덤프",
-    "enable_account_switcher":  "계정 전환기 활성화",
     "enable_confirmation_settings":  "확인 설정 활성화",
     "enable_debug_logging_quantahut":  "디버그 로깅 활성화",
     "enable_debug_logging_quantahut_subtext":  "QuantaHut 작업의 상세한 로그 표시",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "인용 없는 전달 활성화",
     "enable_recent_chats_menu":  "최근 채팅 메뉴 활성화",
     "enable_reply_private_chat":  "개인 채팅에서 답장 활성화",
-    "hold_mini_fab_mark_all_read":  "미니 FAB을 길게 눌러 모두 읽음으로 표시",
     "enabled":  "활성화됨",
     "enter_caption":  "캡션 입력...",
     "enter_message_id":  "메시지 ID 입력",

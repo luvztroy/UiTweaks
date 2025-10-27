@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Удерживайте кнопку стикера в личных чатах для доступа к переключателю аккаунтов.",
     "account_visibility":  "Скрытие дополнительных аккаунтов",
     "account_visibility_subtext":  "Скрывать/показывать дополнительные аккаунты долгим нажатием на кнопку изменения темы в боковом меню.",
     "add_caption_to_gif":  "Добавить подпись к GIF",
@@ -70,7 +69,6 @@
     "download_localization":  "Скачать локализацию",
     "download_localization_title":  "Скачать локализацию",
     "dump_memory":  "Сбросить память",
-    "enable_account_switcher":  "Включить переключатель аккаунтов",
     "enable_confirmation_settings":  "Включить подтверждение действий",
     "enable_debug_logging_quantahut":  "Включить отладочное логирование",
     "enable_debug_logging_quantahut_subtext":  "Показывать подробные логи работы QuantaHut",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Включить пересылку без цитирования",
     "enable_recent_chats_menu":  "Включить меню недавних чатов",
     "enable_reply_private_chat":  "Включить ответ в личном чате",
-    "hold_mini_fab_mark_all_read":  "Удерживайте мини-FAB, чтобы пометить всё как прочитанное",
     "enabled":  "Включено",
     "enter_caption":  "Введите подпись...",
     "enter_message_id":  "Введите ID сообщения",

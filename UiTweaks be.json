@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Трымайце кнопку стыкера ў прыватных чатах для доступу да пераключальніка акаўнтаў.",
     "account_visibility":  "Бачнасць акаўнтаў",
     "account_visibility_subtext":  "Схаваць/паказаць акаўнты доўгім націсканнем на кнопку тэмы",
     "add_caption_to_gif":  "Дадаць подпіс да GIF",
@@ -70,7 +69,6 @@
     "download_localization":  "Спампаваць лакалізацыю",
     "download_localization_title":  "Спампаваць лакалізацыю",
     "dump_memory":  "Скід памяці",
-    "enable_account_switcher":  "Уключыць пераключальнік уліковых запісаў",
     "enable_confirmation_settings":  "Уключыць налады пацверджання",
     "enable_debug_logging_quantahut":  "Уключыць журнал адладкі",
     "enable_debug_logging_quantahut_subtext":  "Паказваць падрабязныя журналы аперацый QuantaHut",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Уключыць перасылку без цытавання",
     "enable_recent_chats_menu":  "Уключыць меню апошніх чатоў",
     "enable_reply_private_chat":  "Уключыць адказ у асабістым чаце",
-    "hold_mini_fab_mark_all_read":  "Утрымлівайце міні-FAB, каб адзначыць усё прачытаным",
     "enabled":  "Уключана",
     "enter_caption":  "Увядзіце подпіс...",
     "enter_message_id":  "Увядзіце ID паведамлення",

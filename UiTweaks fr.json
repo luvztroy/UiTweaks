@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Maintenez le bouton d'autocollants dans les chats privés pour accéder au sélecteur de comptes.",
     "account_visibility":  "Visibilité des comptes",
     "account_visibility_subtext":  "Masquer/afficher comptes en appuyant longuement sur le bouton de thème",
     "add_caption_to_gif":  "Ajouter une légende au GIF",
@@ -70,7 +69,6 @@
     "download_localization":  "Télécharger la localisation",
     "download_localization_title":  "Télécharger la localisation",
     "dump_memory":  "Vider la mémoire",
-    "enable_account_switcher":  "Activer le sélecteur de comptes",
     "enable_confirmation_settings":  "Activer les paramètres de confirmation",
     "enable_debug_logging_quantahut":  "Activer les journaux de débogage",
     "enable_debug_logging_quantahut_subtext":  "Afficher les journaux détaillés des opérations QuantaHut",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Activer le transfert sans citation",
     "enable_recent_chats_menu":  "Activer le menu des chats récents",
     "enable_reply_private_chat":  "Activer la réponse en chat privé",
-    "hold_mini_fab_mark_all_read":  "Maintenir mini FAB pour tout marquer comme lu",
     "enabled":  "Activé",
     "enter_caption":  "Entrez la légende...",
     "enter_message_id":  "Entrer l'ID du Message",

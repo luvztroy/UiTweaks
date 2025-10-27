@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Tieni premuto il pulsante sticker nelle chat private per accedere al selettore account.",
     "account_visibility":  "Visibilità account",
     "account_visibility_subtext":  "Nascondi/mostra account tenendo premuto il pulsante tema",
     "add_caption_to_gif":  "Aggiungi didascalia al GIF",
@@ -70,7 +69,6 @@
     "download_localization":  "Scarica localizzazione",
     "download_localization_title":  "Scarica localizzazione",
     "dump_memory":  "Svuota memoria",
-    "enable_account_switcher":  "Abilita selettore account",
     "enable_confirmation_settings":  "Abilita impostazioni di conferma",
     "enable_debug_logging_quantahut":  "Abilita registri di debug",
     "enable_debug_logging_quantahut_subtext":  "Mostra registri dettagliati delle operazioni QuantaHut",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Abilita inoltro senza citazione",
     "enable_recent_chats_menu":  "Abilita menu chat recenti",
     "enable_reply_private_chat":  "Abilita risposta in chat privata",
-    "hold_mini_fab_mark_all_read":  "Tieni premuto il mini FAB per segnarli tutti come letti",
     "enabled":  "Abilitato",
     "enter_caption":  "Inserisci didascalia...",
     "enter_message_id":  "Inserisci ID del Messaggio",

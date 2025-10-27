@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Shaxsiy suhbatlarda stiker tugmasini ushlab turing, hisob almashtiruvchiga kirish uchun.",
     "account_visibility":  "Hisob ko'rinishi",
     "account_visibility_subtext":  "Mavzu tugmasini uzoq bosib hisoblarni yashirish/ko'rsatish",
     "add_caption_to_gif":  "GIFga sarlavha qo'shish",
@@ -70,7 +69,6 @@
     "download_localization":  "Lokalizatsiyani yuklab olish",
     "download_localization_title":  "Lokalizatsiyani yuklab olish",
     "dump_memory":  "Xotirani tozalash",
-    "enable_account_switcher":  "Hisob almashtiruvchini yoqish",
     "enable_confirmation_settings":  "Tasdiqlash sozlamalarini yoqish",
     "enable_debug_logging_quantahut":  "Debug jurnalini yoqish",
     "enable_debug_logging_quantahut_subtext":  "QuantaHut operatsiyalarining batafsil jurnallarini ko'rsatish",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Iqtibossiz yuborishni yoqish",
     "enable_recent_chats_menu":  "So'nggi chatlar menyusini yoqish",
     "enable_reply_private_chat":  "Xususiy chatda javob berishni yoqish",
-    "hold_mini_fab_mark_all_read":  "Mini FABni bosib turib barchasini o'qilgan deb belgilash",
     "enabled":  "Yoqilgan",
     "enter_caption":  "Sarlavha kiriting...",
     "enter_message_id":  "Xabar ID ni kiriting",

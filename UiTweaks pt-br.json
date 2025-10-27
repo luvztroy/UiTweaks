@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Segure o botão de adesivo em chats privados para acessar o seletor de contas.",
     "account_visibility":  "Visibilidade da conta",
     "account_visibility_subtext":  "Ocultar/mostrar contas mantendo pressionado o botão de tema",
     "add_caption_to_gif":  "Adicionar legenda ao GIF",
@@ -70,7 +69,6 @@
     "download_localization":  "Baixar localização",
     "download_localization_title":  "Baixar localização",
     "dump_memory":  "Descarregar memória",
-    "enable_account_switcher":  "Ativar seletor de contas",
     "enable_confirmation_settings":  "Ativar configurações de confirmação",
     "enable_debug_logging_quantahut":  "Habilitar registro de depuração",
     "enable_debug_logging_quantahut_subtext":  "Mostrar registros detalhados das operações do QuantaHut",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Habilitar encaminhamento sem citação",
     "enable_recent_chats_menu":  "Habilitar menu de chats recentes",
     "enable_reply_private_chat":  "Habilitar resposta em chat privado",
-    "hold_mini_fab_mark_all_read":  "Mantenha o mini FAB pressionado para marcar tudo como lido",
     "enabled":  "Habilitado",
     "enter_caption":  "Digite a legenda...",
     "enter_message_id":  "Inserir ID da Mensagem",

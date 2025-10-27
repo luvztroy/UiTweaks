@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Halten Sie die Sticker-Taste in privaten Chats gedrückt, um auf den Konten-Wechsler zuzugreifen.",
     "account_visibility":  "Kontosichtbarkeit",
     "account_visibility_subtext":  "Konten durch langes Drücken des Theme-Buttons ein-/ausblenden",
     "add_caption_to_gif":  "Beschriftung zum GIF hinzufügen",
@@ -70,7 +69,6 @@
     "download_localization":  "Lokalisierung herunterladen",
     "download_localization_title":  "Lokalisierung herunterladen",
     "dump_memory":  "Speicher leeren",
-    "enable_account_switcher":  "Konto-Wechsler aktivieren",
     "enable_confirmation_settings":  "Bestätigungseinstellungen aktivieren",
     "enable_debug_logging_quantahut":  "Debug-Protokollierung aktivieren",
     "enable_debug_logging_quantahut_subtext":  "Detaillierte QuantaHut-Betriebsprotokolle anzeigen",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Weiterleitung ohne Zitat aktivieren",
     "enable_recent_chats_menu":  "Menü für letzte Chats aktivieren",
     "enable_reply_private_chat":  "Antwort in privatem Chat aktivieren",
-    "hold_mini_fab_mark_all_read":  "Mini-FAB gedrückt halten, um alles als gelesen zu markieren",
     "enabled":  "Aktiviert",
     "enter_caption":  "Beschriftung eingeben...",
     "enter_message_id":  "Nachrichten-ID eingeben",

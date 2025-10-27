@@ -1,5 +1,4 @@
 {
-    "account_switcher_info":  "Hold the sticker button in private chats to access the account switcher.",
     "account_visibility":  "Account Visibility",
     "account_visibility_subtext":  "Hide/show accounts by long-pressing theme button",
     "add_caption_to_gif":  "Add Caption to GIF",
@@ -70,7 +69,6 @@
     "download_localization":  "Download Localization",
     "download_localization_title":  "Download Localization",
     "dump_memory":  "Dump Memory",
-    "enable_account_switcher":  "Enable Account Switcher",
     "enable_confirmation_settings":  "Enable Confirmation Settings",
     "enable_debug_logging_quantahut":  "Enable Debug Logging",
     "enable_debug_logging_quantahut_subtext":  "Display detailed QuantaHut operation logs",
@@ -79,7 +77,6 @@
     "enable_no_quote_forward":  "Enable No-Quote Forward",
     "enable_recent_chats_menu":  "Enable Recent Chats Menu",
     "enable_reply_private_chat":  "Enable Reply in Private Chat",
-    "hold_mini_fab_mark_all_read":  "Hold mini FAB to mark all as read",
     "enabled":  "Enabled",
     "enter_caption":  "Enter caption...",
     "enter_message_id":  "Enter Message ID",
