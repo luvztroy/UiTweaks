@@ -260,5 +260,8 @@
     "no_leave_as_is":  "Не, пакінуць як ёсць",
     "imported_settings_from_plugins":  "Імпартаваны налады з {count} плагінаў",
     "imported_settings_count":  "Імпартавана {count} налад",
-    "failed_to_import_settings":  "Не атрымалася імпартаваць налады"
+    "failed_to_import_settings":  "Не атрымалася імпартаваць налады",
+    "export_warning_title":  "Экспарт налад",
+    "export_warning_message":  "Некаторыя плагіны змяшчаюць канфідэнцыйныя даныя. Хочаце ўключыць іх?",
+    "include_api_keys":  "Уключыць канфідэнцыйныя даныя"
 }

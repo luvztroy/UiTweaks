@@ -260,5 +260,8 @@
     "no_leave_as_is":  "Tidak, biarkan apa adanya",
     "imported_settings_from_plugins":  "Pengaturan diimpor dari {count} plugin",
     "imported_settings_count":  "{count} pengaturan diimpor",
-    "failed_to_import_settings":  "Gagal mengimpor pengaturan"
+    "failed_to_import_settings":  "Gagal mengimpor pengaturan",
+    "export_warning_title":  "Ekspor Pengaturan",
+    "export_warning_message":  "Beberapa plugin berisi data sensitif. Apakah Anda ingin menyertakannya?",
+    "include_api_keys":  "Sertakan data sensitif"
 }

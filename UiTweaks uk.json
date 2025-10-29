@@ -260,5 +260,8 @@
     "no_leave_as_is":  "Ні, залишити як є",
     "imported_settings_from_plugins":  "Імпортовано налаштування з {count} плагінів",
     "imported_settings_count":  "Імпортовано {count} налаштувань",
-    "failed_to_import_settings":  "Не вдалося імпортувати налаштування"
+    "failed_to_import_settings":  "Не вдалося імпортувати налаштування",
+    "export_warning_title":  "Експорт налаштувань",
+    "export_warning_message":  "Деякі плагіни містять конфіденційні дані. Включити їх?",
+    "include_api_keys":  "Включити конфіденційні дані"
 }

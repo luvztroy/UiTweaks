@@ -260,5 +260,8 @@
     "no_leave_as_is":  "Hayır, olduğu gibi bırak",
     "imported_settings_from_plugins":  "{count} eklentiden ayarlar içe aktarıldı",
     "imported_settings_count":  "{count} ayar içe aktarıldı",
-    "failed_to_import_settings":  "Ayarlar içe aktarılamadı"
+    "failed_to_import_settings":  "Ayarlar içe aktarılamadı",
+    "export_warning_title":  "Ayarları Dışa Aktar",
+    "export_warning_message":  "Bazı eklentiler hassas veriler içeriyor. Dahil etmek ister misiniz?",
+    "include_api_keys":  "Hassas verileri dahil et"
 }

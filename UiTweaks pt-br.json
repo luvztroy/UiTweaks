@@ -260,5 +260,8 @@
     "no_leave_as_is":  "Não, deixar como está",
     "imported_settings_from_plugins":  "Configurações importadas de {count} plugins",
     "imported_settings_count":  "{count} configurações importadas",
-    "failed_to_import_settings":  "Falha ao importar configurações"
+    "failed_to_import_settings":  "Falha ao importar configurações",
+    "export_warning_title":  "Exportar configurações",
+    "export_warning_message":  "Alguns plugins contêm dados sensíveis. Deseja incluí-los?",
+    "include_api_keys":  "Incluir dados sensíveis"
 }

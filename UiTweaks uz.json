@@ -260,5 +260,8 @@
     "no_leave_as_is":  "Yo'q, shunday qoldirish",
     "imported_settings_from_plugins":  "{count} plagindan sozlamalar import qilindi",
     "imported_settings_count":  "{count} sozlama import qilindi",
-    "failed_to_import_settings":  "Sozlamalarni import qilish amalga oshmadi"
+    "failed_to_import_settings":  "Sozlamalarni import qilish amalga oshmadi",
+    "export_warning_title":  "Sozlamalarni eksport qilish",
+    "export_warning_message":  "Ba'zi plaginlar maxfiy ma'lumotlarni o'z ichiga oladi. Ularni qo'shmoqchimisiz?",
+    "include_api_keys":  "Maxfiy ma'lumotlarni qo'shish"
 }

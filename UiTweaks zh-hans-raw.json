@@ -260,5 +260,8 @@
     "no_leave_as_is":  "不，保持原样",
     "imported_settings_from_plugins":  "已从 {count} 个插件导入设置",
     "imported_settings_count":  "已导入 {count} 项设置",
-    "failed_to_import_settings":  "导入设置失败"
+    "failed_to_import_settings":  "导入设置失败",
+    "export_warning_title":  "导出设置",
+    "export_warning_message":  "某些插件包含敏感数据。您想包含它们吗？",
+    "include_api_keys":  "包含敏感数据"
 }

@@ -260,5 +260,8 @@
     "no_leave_as_is": "نه، همین‌طور بماند",
     "imported_settings_from_plugins": "تنظیمات از {count} افزونه وارد شد",
     "imported_settings_count": "{count} تنظیمات وارد شد",
-    "failed_to_import_settings": "وارد کردن تنظیمات ناموفق بود"
+    "failed_to_import_settings": "وارد کردن تنظیمات ناموفق بود",
+    "export_warning_title": "صادر کردن تنظیمات",
+    "export_warning_message": "برخی افزونه‌ها حاوی داده‌های حساس هستند. آیا می‌خواهید آنها را شامل کنید؟",
+    "include_api_keys": "شامل کردن داده‌های حساس"
 }

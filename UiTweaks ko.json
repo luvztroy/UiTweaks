@@ -260,5 +260,8 @@
     "no_leave_as_is":  "아니요, 그대로 두기",
     "imported_settings_from_plugins":  "{count}개 플러그인에서 설정을 가져왔습니다",
     "imported_settings_count":  "{count}개 설정을 가져왔습니다",
-    "failed_to_import_settings":  "설정을 가져오지 못했습니다"
+    "failed_to_import_settings":  "설정을 가져오지 못했습니다",
+    "export_warning_title":  "설정 내보내기",
+    "export_warning_message":  "일부 플러그인에 민감한 데이터가 포함되어 있습니다. 포함하시겠습니까?",
+    "include_api_keys":  "민감한 데이터 포함"
 }
