@@ -2,8 +2,8 @@
   "badges": [
     {
       "id": "user1",
-      "user_id": 774320669,
-      "emoji_id": 5818753711878442644,
+      "user_id": 6985852072,
+      "emoji_id": 6012473147998084083,
       "text_template": "**{user_name}** is a member of the **Quanta**! development team"
     },
     {
@@ -20,8 +20,8 @@
     },
     {
       "id": "user4",
-      "user_id": 6985852072,
-      "emoji_id": 5456632855805311943,
+      "user_id": 774320669,
+      "emoji_id": 5818753711878442644,
       "text_template": "**{user_name}** is a member of the **Quanta**! development team"
     },
     {
