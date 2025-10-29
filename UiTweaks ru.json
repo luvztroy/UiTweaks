@@ -250,5 +250,15 @@
     "message_count_label":  "Количество сообщений",
     "summarize_button":  "Резюмировать",
     "ai_summarizing":  "Резюмирование...",
-    "summarize_title":  "Резюмировать"
+    "summarize_title":  "Резюмировать",
+    "export_all_settings":  "Экспортировать все настройки плагинов",
+    "settings_same_as_current":  "Похоже, что настройки такие же, как и текущие.",
+    "changes_will_be_applied_singular":  "{count} изменение будет применено к текущим настройкам.",
+    "changes_will_be_applied_plural":  "{count} изменений будут применены к текущим настройкам.",
+    "apply_settings_confirmation":  "Вы уверены, что хотите применить эти настройки?",
+    "yes_apply":  "Да, применить",
+    "no_leave_as_is":  "Нет, оставить как есть",
+    "imported_settings_from_plugins":  "Импортированы настройки из {count} плагинов",
+    "imported_settings_count":  "Импортировано {count} настроек",
+    "failed_to_import_settings":  "Не удалось импортировать настройки"
 }

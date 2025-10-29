@@ -250,5 +250,15 @@
     "message_count_label":  "Mesaj sayısı",
     "summarize_button":  "Özetle",
     "ai_summarizing":  "Özetleniyor...",
-    "summarize_title":  "Özetle"
+    "summarize_title":  "Özetle",
+    "export_all_settings":  "Tüm Eklenti Ayarlarını Dışa Aktar",
+    "settings_same_as_current":  "Ayarlar mevcut ayarlarla aynı görünüyor.",
+    "changes_will_be_applied_singular":  "Mevcut ayarlara {count} değişiklik uygulanacak.",
+    "changes_will_be_applied_plural":  "Mevcut ayarlara {count} değişiklik uygulanacak.",
+    "apply_settings_confirmation":  "Bu ayarları uygulamak istediğinizden emin misiniz?",
+    "yes_apply":  "Evet, uygula",
+    "no_leave_as_is":  "Hayır, olduğu gibi bırak",
+    "imported_settings_from_plugins":  "{count} eklentiden ayarlar içe aktarıldı",
+    "imported_settings_count":  "{count} ayar içe aktarıldı",
+    "failed_to_import_settings":  "Ayarlar içe aktarılamadı"
 }

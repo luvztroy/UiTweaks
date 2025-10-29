@@ -250,5 +250,15 @@
     "message_count_label":  "Număr de mesaje",
     "summarize_button":  "Rezumă",
     "ai_summarizing":  "Se rezumă...",
-    "summarize_title":  "Rezumă"
+    "summarize_title":  "Rezumă",
+    "export_all_settings":  "Exportă toate setările plugin-urilor",
+    "settings_same_as_current":  "Se pare că setările sunt aceleași cu cele actuale.",
+    "changes_will_be_applied_singular":  "{count} modificare va fi aplicată la setările actuale.",
+    "changes_will_be_applied_plural":  "{count} modificări vor fi aplicate la setările actuale.",
+    "apply_settings_confirmation":  "Ești sigur că vrei să aplici aceste setări?",
+    "yes_apply":  "Da, aplică",
+    "no_leave_as_is":  "Nu, lasă așa",
+    "imported_settings_from_plugins":  "Setări importate de la {count} plugin-uri",
+    "imported_settings_count":  "{count} setări importate",
+    "failed_to_import_settings":  "Eșec la importarea setărilor"
 }

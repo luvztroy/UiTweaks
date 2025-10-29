@@ -250,5 +250,15 @@
     "message_count_label":  "消息数量",
     "summarize_button":  "总结",
     "ai_summarizing":  "总结中...",
-    "summarize_title":  "总结"
+    "summarize_title":  "总结",
+    "export_all_settings":  "导出所有插件设置",
+    "settings_same_as_current":  "设置似乎与当前设置相同。",
+    "changes_will_be_applied_singular":  "将对当前设置应用 {count} 项更改。",
+    "changes_will_be_applied_plural":  "将对当前设置应用 {count} 项更改。",
+    "apply_settings_confirmation":  "您确定要应用这些设置吗？",
+    "yes_apply":  "是的，应用",
+    "no_leave_as_is":  "不，保持原样",
+    "imported_settings_from_plugins":  "已从 {count} 个插件导入设置",
+    "imported_settings_count":  "已导入 {count} 项设置",
+    "failed_to_import_settings":  "导入设置失败"
 }

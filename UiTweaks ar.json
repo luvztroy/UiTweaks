@@ -250,5 +250,15 @@
     "message_count_label":  "عدد الرسائل",
     "summarize_button":  "تلخيص",
     "ai_summarizing":  "جارٍ التلخيص...",
-    "summarize_title":  "تلخيص"
+    "summarize_title":  "تلخيص",
+    "export_all_settings":  "تصدير جميع إعدادات الإضافات",
+    "settings_same_as_current":  "يبدو أن الإعدادات هي نفسها الإعدادات الحالية.",
+    "changes_will_be_applied_singular":  "سيتم تطبيق {count} تغيير على الإعدادات الحالية.",
+    "changes_will_be_applied_plural":  "سيتم تطبيق {count} تغييرات على الإعدادات الحالية.",
+    "apply_settings_confirmation":  "هل أنت متأكد أنك تريد تطبيق هذه الإعدادات؟",
+    "yes_apply":  "نعم، تطبيق",
+    "no_leave_as_is":  "لا، اتركها كما هي",
+    "imported_settings_from_plugins":  "تم استيراد الإعدادات من {count} إضافات",
+    "imported_settings_count":  "تم استيراد {count} إعدادات",
+    "failed_to_import_settings":  "فشل استيراد الإعدادات"
 }

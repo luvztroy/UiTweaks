@@ -250,5 +250,15 @@
     "message_count_label":  "Кількість повідомлень",
     "summarize_button":  "Резюмувати",
     "ai_summarizing":  "Резюмування...",
-    "summarize_title":  "Резюмувати"
+    "summarize_title":  "Резюмувати",
+    "export_all_settings":  "Експортувати всі налаштування плагінів",
+    "settings_same_as_current":  "Схоже, що налаштування такі ж, як і поточні.",
+    "changes_will_be_applied_singular":  "{count} зміна буде застосована до поточних налаштувань.",
+    "changes_will_be_applied_plural":  "{count} змін будуть застосовані до поточних налаштувань.",
+    "apply_settings_confirmation":  "Ви впевнені, що хочете застосувати ці налаштування?",
+    "yes_apply":  "Так, застосувати",
+    "no_leave_as_is":  "Ні, залишити як є",
+    "imported_settings_from_plugins":  "Імпортовано налаштування з {count} плагінів",
+    "imported_settings_count":  "Імпортовано {count} налаштувань",
+    "failed_to_import_settings":  "Не вдалося імпортувати налаштування"
 }

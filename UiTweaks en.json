@@ -250,5 +250,15 @@
     "message_count_label":  "Message Count",
     "summarize_button":  "Summarize",
     "ai_summarizing":  "Summarizing...",
-    "summarize_title":  "Summarize"
+    "summarize_title":  "Summarize",
+    "export_all_settings":  "Export All Plugin Settings",
+    "settings_same_as_current":  "It looks like the settings are the same as the current ones.",
+    "changes_will_be_applied_singular":  "{count} change will be applied to the current settings.",
+    "changes_will_be_applied_plural":  "{count} changes will be applied to the current settings.",
+    "apply_settings_confirmation":  "Are you sure you want to apply these settings?",
+    "yes_apply":  "Yes, apply",
+    "no_leave_as_is":  "No, leave as is",
+    "imported_settings_from_plugins":  "Imported settings from {count} plugins",
+    "imported_settings_count":  "Imported {count} settings",
+    "failed_to_import_settings":  "Failed to import settings"
 }

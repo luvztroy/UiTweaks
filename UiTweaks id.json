@@ -250,5 +250,15 @@
     "message_count_label":  "Jumlah Pesan",
     "summarize_button":  "Ringkas",
     "ai_summarizing":  "Meringkas...",
-    "summarize_title":  "Ringkas"
+    "summarize_title":  "Ringkas",
+    "export_all_settings":  "Ekspor Semua Pengaturan Plugin",
+    "settings_same_as_current":  "Sepertinya pengaturannya sama dengan yang sekarang.",
+    "changes_will_be_applied_singular":  "{count} perubahan akan diterapkan ke pengaturan saat ini.",
+    "changes_will_be_applied_plural":  "{count} perubahan akan diterapkan ke pengaturan saat ini.",
+    "apply_settings_confirmation":  "Apakah Anda yakin ingin menerapkan pengaturan ini?",
+    "yes_apply":  "Ya, terapkan",
+    "no_leave_as_is":  "Tidak, biarkan apa adanya",
+    "imported_settings_from_plugins":  "Pengaturan diimpor dari {count} plugin",
+    "imported_settings_count":  "{count} pengaturan diimpor",
+    "failed_to_import_settings":  "Gagal mengimpor pengaturan"
 }

@@ -250,5 +250,15 @@
     "message_count_label":  "Nachrichtenanzahl",
     "summarize_button":  "Zusammenfassen",
     "ai_summarizing":  "Zusammenfassen...",
-    "summarize_title":  "Zusammenfassen"
+    "summarize_title":  "Zusammenfassen",
+    "export_all_settings":  "Alle Plugin-Einstellungen exportieren",
+    "settings_same_as_current":  "Es sieht so aus, als wären die Einstellungen dieselben wie die aktuellen.",
+    "changes_will_be_applied_singular":  "{count} Änderung wird auf die aktuellen Einstellungen angewendet.",
+    "changes_will_be_applied_plural":  "{count} Änderungen werden auf die aktuellen Einstellungen angewendet.",
+    "apply_settings_confirmation":  "Sind Sie sicher, dass Sie diese Einstellungen anwenden möchten?",
+    "yes_apply":  "Ja, anwenden",
+    "no_leave_as_is":  "Nein, so belassen",
+    "imported_settings_from_plugins":  "Einstellungen von {count} Plugins importiert",
+    "imported_settings_count":  "{count} Einstellungen importiert",
+    "failed_to_import_settings":  "Fehler beim Importieren der Einstellungen"
 }

@@ -250,5 +250,15 @@
     "message_count_label":  "Numero di messaggi",
     "summarize_button":  "Riassumi",
     "ai_summarizing":  "Riassumendo...",
-    "summarize_title":  "Riassumi"
+    "summarize_title":  "Riassumi",
+    "export_all_settings":  "Esporta tutte le impostazioni dei plugin",
+    "settings_same_as_current":  "Sembra che le impostazioni siano le stesse di quelle attuali.",
+    "changes_will_be_applied_singular":  "{count} modifica verrà applicata alle impostazioni attuali.",
+    "changes_will_be_applied_plural":  "{count} modifiche verranno applicate alle impostazioni attuali.",
+    "apply_settings_confirmation":  "Sei sicuro di voler applicare queste impostazioni?",
+    "yes_apply":  "Sì, applica",
+    "no_leave_as_is":  "No, lascia così",
+    "imported_settings_from_plugins":  "Impostazioni importate da {count} plugin",
+    "imported_settings_count":  "{count} impostazioni importate",
+    "failed_to_import_settings":  "Impossibile importare le impostazioni"
 }

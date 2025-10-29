@@ -250,5 +250,15 @@
     "message_count_label":  "Nombre de messages",
     "summarize_button":  "Résumer",
     "ai_summarizing":  "Résumé en cours...",
-    "summarize_title":  "Résumer"
+    "summarize_title":  "Résumer",
+    "export_all_settings":  "Exporter tous les paramètres des plugins",
+    "settings_same_as_current":  "Il semble que les paramètres soient les mêmes que les actuels.",
+    "changes_will_be_applied_singular":  "{count} modification sera appliquée aux paramètres actuels.",
+    "changes_will_be_applied_plural":  "{count} modifications seront appliquées aux paramètres actuels.",
+    "apply_settings_confirmation":  "Êtes-vous sûr de vouloir appliquer ces paramètres ?",
+    "yes_apply":  "Oui, appliquer",
+    "no_leave_as_is":  "Non, laisser tel quel",
+    "imported_settings_from_plugins":  "Paramètres importés de {count} plugins",
+    "imported_settings_count":  "{count} paramètres importés",
+    "failed_to_import_settings":  "Échec de l'importation des paramètres"
 }

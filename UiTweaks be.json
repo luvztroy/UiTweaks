@@ -250,5 +250,15 @@
     "message_count_label":  "Колькасць паведамленняў",
     "summarize_button":  "Рэзюмаваць",
     "ai_summarizing":  "Рэзюмаванне...",
-    "summarize_title":  "Рэзюмаваць"
+    "summarize_title":  "Рэзюмаваць",
+    "export_all_settings":  "Экспартаваць усе налады плагінаў",
+    "settings_same_as_current":  "Здаецца, што налады такія ж, як і бягучыя.",
+    "changes_will_be_applied_singular":  "{count} змена будзе прымененая да бягучых налад.",
+    "changes_will_be_applied_plural":  "{count} змены будуць прымененыя да бягучых налад.",
+    "apply_settings_confirmation":  "Вы ўпэўненыя, што хочаце прымяніць гэтыя налады?",
+    "yes_apply":  "Так, прымяніць",
+    "no_leave_as_is":  "Не, пакінуць як ёсць",
+    "imported_settings_from_plugins":  "Імпартаваны налады з {count} плагінаў",
+    "imported_settings_count":  "Імпартавана {count} налад",
+    "failed_to_import_settings":  "Не атрымалася імпартаваць налады"
 }

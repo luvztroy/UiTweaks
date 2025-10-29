@@ -250,5 +250,15 @@
     "message_count_label": "تعداد پیام‌ها",
     "summarize_button": "خلاصه",
     "ai_summarizing": "در حال خلاصه‌سازی...",
-    "summarize_title": "خلاصه"
+    "summarize_title": "خلاصه",
+    "export_all_settings": "صادر کردن همه تنظیمات افزونه‌ها",
+    "settings_same_as_current": "به نظر می‌رسد تنظیمات همان تنظیمات فعلی هستند.",
+    "changes_will_be_applied_singular": "{count} تغییر به تنظیمات فعلی اعمال خواهد شد.",
+    "changes_will_be_applied_plural": "{count} تغییر به تنظیمات فعلی اعمال خواهند شد.",
+    "apply_settings_confirmation": "آیا مطمئن هستید که می‌خواهید این تنظیمات را اعمال کنید؟",
+    "yes_apply": "بله، اعمال کن",
+    "no_leave_as_is": "نه، همین‌طور بماند",
+    "imported_settings_from_plugins": "تنظیمات از {count} افزونه وارد شد",
+    "imported_settings_count": "{count} تنظیمات وارد شد",
+    "failed_to_import_settings": "وارد کردن تنظیمات ناموفق بود"
 }
