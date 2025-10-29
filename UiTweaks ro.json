@@ -263,5 +263,6 @@
     "failed_to_import_settings":  "Eșec la importarea setărilor",
     "export_warning_title":  "Exportă setări",
     "export_warning_message":  "Unele plugin-uri conțin date sensibile. Doriți să le includeți?",
-    "include_api_keys":  "Include date sensibile"
+    "include_api_keys":  "Include date sensibile",
+    "tips_and_tricks":  "Sfaturi și trucuri"
 }

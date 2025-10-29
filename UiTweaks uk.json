@@ -263,5 +263,6 @@
     "failed_to_import_settings":  "Не вдалося імпортувати налаштування",
     "export_warning_title":  "Експорт налаштувань",
     "export_warning_message":  "Деякі плагіни містять конфіденційні дані. Включити їх?",
-    "include_api_keys":  "Включити конфіденційні дані"
+    "include_api_keys":  "Включити конфіденційні дані",
+    "tips_and_tricks":  "Поради та хитрощі"
 }

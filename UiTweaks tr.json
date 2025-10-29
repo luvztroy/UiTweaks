@@ -263,5 +263,6 @@
     "failed_to_import_settings":  "Ayarlar içe aktarılamadı",
     "export_warning_title":  "Ayarları Dışa Aktar",
     "export_warning_message":  "Bazı eklentiler hassas veriler içeriyor. Dahil etmek ister misiniz?",
-    "include_api_keys":  "Hassas verileri dahil et"
+    "include_api_keys":  "Hassas verileri dahil et",
+    "tips_and_tricks":  "İpuçları ve Hileler"
 }

@@ -263,5 +263,6 @@
     "failed_to_import_settings":  "Fehler beim Importieren der Einstellungen",
     "export_warning_title":  "Einstellungen exportieren",
     "export_warning_message":  "Einige Plugins enthalten sensible Daten. Möchten Sie diese einbeziehen?",
-    "include_api_keys":  "Sensible Daten einbeziehen"
+    "include_api_keys":  "Sensible Daten einbeziehen",
+    "tips_and_tricks":  "Tipps und Tricks"
 }

@@ -263,5 +263,6 @@
     "failed_to_import_settings": "وارد کردن تنظیمات ناموفق بود",
     "export_warning_title": "صادر کردن تنظیمات",
     "export_warning_message": "برخی افزونه‌ها حاوی داده‌های حساس هستند. آیا می‌خواهید آنها را شامل کنید؟",
-    "include_api_keys": "شامل کردن داده‌های حساس"
+    "include_api_keys": "شامل کردن داده‌های حساس",
+    "tips_and_tricks": "نکات و ترفندها"
 }

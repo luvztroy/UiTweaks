@@ -263,5 +263,6 @@
     "failed_to_import_settings":  "导入设置失败",
     "export_warning_title":  "导出设置",
     "export_warning_message":  "某些插件包含敏感数据。您想包含它们吗？",
-    "include_api_keys":  "包含敏感数据"
+    "include_api_keys":  "包含敏感数据",
+    "tips_and_tricks":  "提示和技巧"
 }

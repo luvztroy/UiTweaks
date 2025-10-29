@@ -263,5 +263,6 @@
     "failed_to_import_settings":  "فشل استيراد الإعدادات",
     "export_warning_title":  "تصدير الإعدادات",
     "export_warning_message":  "تحتوي بعض الإضافات على بيانات حساسة. هل تريد تضمينها؟",
-    "include_api_keys":  "تضمين البيانات الحساسة"
+    "include_api_keys":  "تضمين البيانات الحساسة",
+    "tips_and_tricks":  "نصائح وحيل"
 }
