@@ -264,5 +264,8 @@
     "export_warning_title":  "Exporter les paramètres",
     "export_warning_message":  "Certains plugins contiennent des données sensibles. Souhaitez-vous les inclure?",
     "include_api_keys":  "Inclure les données sensibles",
-    "tips_and_tricks":  "Trucs et astuces"
+    "tips_and_tricks":  "Trucs et astuces",
+    "localization_branch":  "Branche de localisation",
+    "branch_main":  "Principale",
+    "branch_beta":  "Bêta"
 }
