@@ -264,5 +264,8 @@
     "export_warning_title":  "Ayarları Dışa Aktar",
     "export_warning_message":  "Bazı eklentiler hassas veriler içeriyor. Dahil etmek ister misiniz?",
     "include_api_keys":  "Hassas verileri dahil et",
-    "tips_and_tricks":  "İpuçları ve Hileler"
+    "tips_and_tricks":  "İpuçları ve Hileler",
+    "localization_branch":  "Yerelleştirme Dalı",
+    "branch_main":  "Ana",
+    "branch_beta":  "Beta"
 }

@@ -264,5 +264,8 @@
     "export_warning_title":  "Exportă setări",
     "export_warning_message":  "Unele plugin-uri conțin date sensibile. Doriți să le includeți?",
     "include_api_keys":  "Include date sensibile",
-    "tips_and_tricks":  "Sfaturi și trucuri"
+    "tips_and_tricks":  "Sfaturi și trucuri",
+    "localization_branch":  "Ramură de localizare",
+    "branch_main":  "Principală",
+    "branch_beta":  "Beta"
 }

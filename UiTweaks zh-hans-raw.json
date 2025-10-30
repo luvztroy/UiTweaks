@@ -264,5 +264,8 @@
     "export_warning_title":  "导出设置",
     "export_warning_message":  "某些插件包含敏感数据。您想包含它们吗？",
     "include_api_keys":  "包含敏感数据",
-    "tips_and_tricks":  "提示和技巧"
+    "tips_and_tricks":  "提示和技巧",
+    "localization_branch":  "本地化分支",
+    "branch_main":  "主分支",
+    "branch_beta":  "测试版"
 }
