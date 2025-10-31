@@ -267,5 +267,21 @@
     "tips_and_tricks":  "Dicas e truques",
     "localization_branch":  "Ramo de localização",
     "branch_main":  "Principal",
-    "branch_beta":  "Beta"
+    "branch_beta":  "Beta",
+    "export_all_plugins": "Exportar todos os plugins",
+    "no_plugins_to_export": "Nenhum plugin para exportar",
+    "no_plugins_exported": "Nenhum plugin foi exportado",
+    "share_plugins": "Compartilhar plugins",
+    "exported_plugins_count": "{count} plugins exportados",
+    "failed_to_export_plugins": "Falha ao exportar plugins",
+    "no_plugins_in_file": "Nenhum plugin encontrado no arquivo",
+    "plugins_will_be_imported_singular": "{count} plugin será importado.",
+    "plugins_will_be_imported_plural": "{count} plugins serão importados.",
+    "import_plugins_confirmation": "Importar plugins?",
+    "import_plugins_description": "Plugins existentes com o mesmo nome serão substituídos.",
+    "yes_import": "Sim, importar",
+    "failed_to_read_plugins_file": "Falha ao ler o arquivo de plugins",
+    "imported_plugins_count_reloaded": "{count} plugins importados com sucesso!",
+    "no_plugins_imported": "Nenhum plugin foi importado",
+    "failed_to_import_plugins": "Falha ao importar plugins"
 }

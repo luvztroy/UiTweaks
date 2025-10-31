@@ -267,5 +267,21 @@
     "tips_and_tricks":  "Парады і хітрасці",
     "localization_branch":  "Галіна лакалізацыі",
     "branch_main":  "Асноўная",
-    "branch_beta":  "Бета"
+    "branch_beta":  "Бета",
+    "export_all_plugins": "Экспартаваць усе плагіны",
+    "no_plugins_to_export": "Няма плагінаў для экспарту",
+    "no_plugins_exported": "Плагіны не былі экспартаваны",
+    "share_plugins": "Падзяліцца плагінамі",
+    "exported_plugins_count": "Экспартавана {count} плагінаў",
+    "failed_to_export_plugins": "Не атрымалася экспартаваць плагіны",
+    "no_plugins_in_file": "Плагіны не знойдзены ў файле",
+    "plugins_will_be_imported_singular": "{count} плагін будзе імпартаваны.",
+    "plugins_will_be_imported_plural": "{count} плагінаў будзе імпартавана.",
+    "import_plugins_confirmation": "Імпартаваць плагіны?",
+    "import_plugins_description": "Існуючыя плагіны з такой жа назвай будуць заменены.",
+    "yes_import": "Так, імпартаваць",
+    "failed_to_read_plugins_file": "Не атрымалася прачытаць файл плагінаў",
+    "imported_plugins_count_reloaded": "Імпартавана {count} плагінаў паспяхова!",
+    "no_plugins_imported": "Плагіны не былі імпартаваны",
+    "failed_to_import_plugins": "Не атрымалася імпартаваць плагіны"
 }

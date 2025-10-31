@@ -267,5 +267,21 @@
     "tips_and_tricks": "نکات و ترفندها",
     "localization_branch": "شاخه محلی‌سازی",
     "branch_main": "اصلی",
-    "branch_beta": "بتا"
+    "branch_beta": "بتا",
+    "export_all_plugins": "صادر کردن همه افزونه‌ها",
+    "no_plugins_to_export": "افزونه‌ای برای صادر کردن وجود ندارد",
+    "no_plugins_exported": "هیچ افزونه‌ای صادر نشد",
+    "share_plugins": "اشتراک‌گذاری افزونه‌ها",
+    "exported_plugins_count": "{count} افزونه صادر شد",
+    "failed_to_export_plugins": "صادر کردن افزونه‌ها ناموفق بود",
+    "no_plugins_in_file": "افزونه‌ای در فایل یافت نشد",
+    "plugins_will_be_imported_singular": "{count} افزونه وارد خواهد شد.",
+    "plugins_will_be_imported_plural": "{count} افزونه وارد خواهد شد.",
+    "import_plugins_confirmation": "وارد کردن افزونه‌ها؟",
+    "import_plugins_description": "افزونه‌های موجود با همان نام جایگزین خواهند شد.",
+    "yes_import": "بله، وارد کن",
+    "failed_to_read_plugins_file": "خواندن فایل افزونه‌ها ناموفق بود",
+    "imported_plugins_count_reloaded": "{count} افزونه با موفقیت وارد شد!",
+    "no_plugins_imported": "هیچ افزونه‌ای وارد نشد",
+    "failed_to_import_plugins": "وارد کردن افزونه‌ها ناموفق بود"
 }

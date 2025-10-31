@@ -267,5 +267,21 @@
     "tips_and_tricks":  "Поради та хитрощі",
     "localization_branch":  "Гілка локалізації",
     "branch_main":  "Основна",
-    "branch_beta":  "Бета"
+    "branch_beta":  "Бета",
+    "export_all_plugins": "Експортувати всі плагіни",
+    "no_plugins_to_export": "Немає плагінів для експорту",
+    "no_plugins_exported": "Плагіни не були експортовані",
+    "share_plugins": "Поділитися плагінами",
+    "exported_plugins_count": "Експортовано {count} плагінів",
+    "failed_to_export_plugins": "Не вдалося експортувати плагіни",
+    "no_plugins_in_file": "Плагіни не знайдені у файлі",
+    "plugins_will_be_imported_singular": "{count} плагін буде імпортовано.",
+    "plugins_will_be_imported_plural": "{count} плагінів буде імпортовано.",
+    "import_plugins_confirmation": "Імпортувати плагіни?",
+    "import_plugins_description": "Існуючі плагіни з такою ж назвою будуть замінені.",
+    "yes_import": "Так, імпортувати",
+    "failed_to_read_plugins_file": "Не вдалося прочитати файл плагінів",
+    "imported_plugins_count_reloaded": "Імпортовано {count} плагінів успішно!",
+    "no_plugins_imported": "Плагіни не були імпортовані",
+    "failed_to_import_plugins": "Не вдалося імпортувати плагіни"
 }

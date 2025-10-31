@@ -267,5 +267,21 @@
     "tips_and_tricks":  "Tips dan Trik",
     "localization_branch":  "Cabang Lokalisasi",
     "branch_main":  "Utama",
-    "branch_beta":  "Beta"
+    "branch_beta":  "Beta",
+    "export_all_plugins": "Ekspor Semua Plugin",
+    "no_plugins_to_export": "Tidak ada plugin untuk diekspor",
+    "no_plugins_exported": "Tidak ada plugin yang diekspor",
+    "share_plugins": "Bagikan Plugin",
+    "exported_plugins_count": "{count} plugin diekspor",
+    "failed_to_export_plugins": "Gagal mengekspor plugin",
+    "no_plugins_in_file": "Tidak ada plugin ditemukan dalam file",
+    "plugins_will_be_imported_singular": "{count} plugin akan diimpor.",
+    "plugins_will_be_imported_plural": "{count} plugin akan diimpor.",
+    "import_plugins_confirmation": "Impor Plugin?",
+    "import_plugins_description": "Plugin yang ada dengan nama yang sama akan diganti.",
+    "yes_import": "Ya, impor",
+    "failed_to_read_plugins_file": "Gagal membaca file plugin",
+    "imported_plugins_count_reloaded": "{count} plugin berhasil diimpor!",
+    "no_plugins_imported": "Tidak ada plugin yang diimpor",
+    "failed_to_import_plugins": "Gagal mengimpor plugin"
 }

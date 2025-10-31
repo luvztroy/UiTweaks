@@ -267,5 +267,21 @@
     "tips_and_tricks":  "Советы и хитрости",
     "localization_branch":  "Ветка локализации",
     "branch_main":  "Основная",
-    "branch_beta":  "Бета"
+    "branch_beta":  "Бета",
+    "export_all_plugins": "Экспортировать все плагины",
+    "no_plugins_to_export": "Нет плагинов для экспорта",
+    "no_plugins_exported": "Плагины не были экспортированы",
+    "share_plugins": "Поделиться плагинами",
+    "exported_plugins_count": "Экспортировано {count} плагинов",
+    "failed_to_export_plugins": "Не удалось экспортировать плагины",
+    "no_plugins_in_file": "Плагины не найдены в файле",
+    "plugins_will_be_imported_singular": "{count} плагин будет импортирован.",
+    "plugins_will_be_imported_plural": "{count} плагинов будет импортировано.",
+    "import_plugins_confirmation": "Импортировать плагины?",
+    "import_plugins_description": "Существующие плагины с таким же именем будут заменены.",
+    "yes_import": "Да, импортировать",
+    "failed_to_read_plugins_file": "Не удалось прочитать файл плагинов",
+    "imported_plugins_count_reloaded": "Импортировано {count} плагинов успешно!",
+    "no_plugins_imported": "Плагины не были импортированы",
+    "failed_to_import_plugins": "Не удалось импортировать плагины"
 }

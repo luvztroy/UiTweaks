@@ -267,5 +267,21 @@
     "tips_and_tricks":  "팁과 요령",
     "localization_branch":  "현지화 브랜치",
     "branch_main":  "메인",
-    "branch_beta":  "베타"
+    "branch_beta":  "베타",
+    "export_all_plugins": "모든 플러그인 내보내기",
+    "no_plugins_to_export": "내보낼 플러그인이 없습니다",
+    "no_plugins_exported": "플러그인을 내보내지 못했습니다",
+    "share_plugins": "플러그인 공유",
+    "exported_plugins_count": "{count}개 플러그인을 내보냈습니다",
+    "failed_to_export_plugins": "플러그인 내보내기 실패",
+    "no_plugins_in_file": "파일에서 플러그인을 찾을 수 없습니다",
+    "plugins_will_be_imported_singular": "{count}개 플러그인을 가져옵니다.",
+    "plugins_will_be_imported_plural": "{count}개 플러그인을 가져옵니다.",
+    "import_plugins_confirmation": "플러그인을 가져오시겠습니까?",
+    "import_plugins_description": "같은 이름의 기존 플러그인이 교체됩니다.",
+    "yes_import": "예, 가져오기",
+    "failed_to_read_plugins_file": "플러그인 파일을 읽지 못했습니다",
+    "imported_plugins_count_reloaded": "{count}개 플러그인을 성공적으로 가져왔습니다!",
+    "no_plugins_imported": "플러그인을 가져오지 못했습니다",
+    "failed_to_import_plugins": "플러그인 가져오기 실패"
 }

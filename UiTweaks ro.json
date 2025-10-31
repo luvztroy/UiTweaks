@@ -267,5 +267,21 @@
     "tips_and_tricks":  "Sfaturi și trucuri",
     "localization_branch":  "Ramură de localizare",
     "branch_main":  "Principală",
-    "branch_beta":  "Beta"
+    "branch_beta":  "Beta",
+    "export_all_plugins": "Exportă toate plugin-urile",
+    "no_plugins_to_export": "Nu există plugin-uri de exportat",
+    "no_plugins_exported": "Nu au fost exportate plugin-uri",
+    "share_plugins": "Partajează plugin-uri",
+    "exported_plugins_count": "{count} plugin-uri exportate",
+    "failed_to_export_plugins": "Eșec la exportarea plugin-urilor",
+    "no_plugins_in_file": "Nu s-au găsit plugin-uri în fișier",
+    "plugins_will_be_imported_singular": "{count} plugin va fi importat.",
+    "plugins_will_be_imported_plural": "{count} plugin-uri vor fi importate.",
+    "import_plugins_confirmation": "Importă plugin-uri?",
+    "import_plugins_description": "Plugin-urile existente cu același nume vor fi înlocuite.",
+    "yes_import": "Da, importă",
+    "failed_to_read_plugins_file": "Eșec la citirea fișierului de plugin-uri",
+    "imported_plugins_count_reloaded": "{count} plugin-uri importate cu succes!",
+    "no_plugins_imported": "Nu au fost importate plugin-uri",
+    "failed_to_import_plugins": "Eșec la importarea plugin-urilor"
 }

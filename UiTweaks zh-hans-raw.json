@@ -267,5 +267,21 @@
     "tips_and_tricks":  "提示和技巧",
     "localization_branch":  "本地化分支",
     "branch_main":  "主分支",
-    "branch_beta":  "测试版"
+    "branch_beta":  "测试版",
+    "export_all_plugins": "导出所有插件",
+    "no_plugins_to_export": "没有可导出的插件",
+    "no_plugins_exported": "未导出任何插件",
+    "share_plugins": "分享插件",
+    "exported_plugins_count": "已导出 {count} 个插件",
+    "failed_to_export_plugins": "导出插件失败",
+    "no_plugins_in_file": "文件中未找到插件",
+    "plugins_will_be_imported_singular": "将导入 {count} 个插件。",
+    "plugins_will_be_imported_plural": "将导入 {count} 个插件。",
+    "import_plugins_confirmation": "导入插件？",
+    "import_plugins_description": "同名的现有插件将被替换。",
+    "yes_import": "是，导入",
+    "failed_to_read_plugins_file": "读取插件文件失败",
+    "imported_plugins_count_reloaded": "成功导入 {count} 个插件！",
+    "no_plugins_imported": "未导入任何插件",
+    "failed_to_import_plugins": "导入插件失败"
 }
