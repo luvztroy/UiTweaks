@@ -286,5 +286,10 @@
     "failed_to_import_plugins": "فشل استيراد الإضافات",
     "enable_delete_with_duration": "حذف مع اختيار المدة",
     "delete_with_duration_info": "يضيف اختيار المدة عند حظر/تقييد المستخدمين بعد حذف رسائلهم.",
-    "ai_role_limit": "زيادة حد دور الذكاء الاصطناعي"
+    "ai_role_limit": "زيادة حد دور الذكاء الاصطناعي",
+    "filter_all": "الكل",
+    "filter_enabled": "مفعّل",
+    "filter_disabled": "معطّل",
+    "filter_has_settings": "لديه إعدادات",
+    "filter_errors": "أخطاء"
 }

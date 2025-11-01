@@ -286,5 +286,10 @@
     "failed_to_import_plugins": "导入插件失败",
     "enable_delete_with_duration": "删除时选择持续时间",
     "delete_with_duration_info": "在删除用户消息后封禁/限制用户时添加持续时间选择。",
-    "ai_role_limit": "增加AI角色限制"
+    "ai_role_limit": "增加AI角色限制",
+    "filter_all": "全部",
+    "filter_enabled": "已启用",
+    "filter_disabled": "已禁用",
+    "filter_has_settings": "有设置",
+    "filter_errors": "错误"
 }

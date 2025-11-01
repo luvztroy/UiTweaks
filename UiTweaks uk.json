@@ -286,5 +286,10 @@
     "failed_to_import_plugins": "Не вдалося імпортувати плагіни",
     "enable_delete_with_duration": "Видалення з вибором тривалості",
     "delete_with_duration_info": "Додає вибір тривалості при блокуванні/обмеженні користувачів після видалення їхніх повідомлень.",
-    "ai_role_limit": "Збільшення ліміту ролі ШІ"
+    "ai_role_limit": "Збільшення ліміту ролі ШІ",
+    "filter_all": "Всі",
+    "filter_enabled": "Увімкнено",
+    "filter_disabled": "Вимкнено",
+    "filter_has_settings": "З налаштуваннями",
+    "filter_errors": "Помилки"
 }

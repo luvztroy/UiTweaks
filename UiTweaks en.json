@@ -286,5 +286,10 @@
     "failed_to_import_plugins": "Failed to import plugins",
     "enable_delete_with_duration": "Delete with Duration Selection",
     "delete_with_duration_info": "Adds duration selection when banning/restricting users after deleting their messages.",
-    "ai_role_limit":  "AI Role Limit Increaser"
+    "ai_role_limit":  "AI Role Limit Increaser",
+    "filter_all": "All",
+    "filter_enabled": "Enabled",
+    "filter_disabled": "Disabled",
+    "filter_has_settings": "Has Settings",
+    "filter_errors": "Errors"
 }

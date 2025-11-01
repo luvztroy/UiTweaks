@@ -286,5 +286,10 @@
     "failed_to_import_plugins": "Plaginlarni import qilish amalga oshmadi",
     "enable_delete_with_duration": "Davomiylik Tanlash bilan O'chirish",
     "delete_with_duration_info": "Xabarlarni o'chirgandan keyin foydalanuvchilarni bloklash/cheklashda davomiylik tanlashni qo'shadi.",
-    "ai_role_limit": "AI Rol Chegarasini Oshirish"
+    "ai_role_limit": "AI Rol Chegarasini Oshirish",
+    "filter_all": "Hammasi",
+    "filter_enabled": "Yoqilgan",
+    "filter_disabled": "O'chirilgan",
+    "filter_has_settings": "Sozlamalari bor",
+    "filter_errors": "Xatolar"
 }

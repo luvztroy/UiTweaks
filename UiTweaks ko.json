@@ -286,5 +286,10 @@
     "failed_to_import_plugins": "플러그인 가져오기 실패",
     "enable_delete_with_duration": "기간 선택으로 삭제",
     "delete_with_duration_info": "사용자의 메시지를 삭제한 후 차단/제한할 때 기간 선택을 추가합니다.",
-    "ai_role_limit": "AI 역할 제한 증가"
+    "ai_role_limit": "AI 역할 제한 증가",
+    "filter_all": "모두",
+    "filter_enabled": "활성화됨",
+    "filter_disabled": "비활성화됨",
+    "filter_has_settings": "설정 있음",
+    "filter_errors": "오류"
 }

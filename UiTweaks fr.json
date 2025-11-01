@@ -286,5 +286,10 @@
     "failed_to_import_plugins": "Échec de l'importation des plugins",
     "enable_delete_with_duration": "Supprimer avec sélection de durée",
     "delete_with_duration_info": "Ajoute la sélection de durée lors du bannissement/restriction des utilisateurs après suppression de leurs messages.",
-    "ai_role_limit": "Augmenter la limite de rôle IA"
+    "ai_role_limit": "Augmenter la limite de rôle IA",
+    "filter_all": "Tous",
+    "filter_enabled": "Activé",
+    "filter_disabled": "Désactivé",
+    "filter_has_settings": "Avec paramètres",
+    "filter_errors": "Erreurs"
 }

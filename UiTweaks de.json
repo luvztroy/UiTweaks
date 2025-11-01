@@ -286,5 +286,10 @@
     "failed_to_import_plugins": "Fehler beim Importieren von Plugins",
     "enable_delete_with_duration": "Löschen mit Dauerauswahl",
     "delete_with_duration_info": "Fügt Dauerauswahl hinzu, wenn Benutzer nach dem Löschen ihrer Nachrichten gesperrt/eingeschränkt werden.",
-    "ai_role_limit": "AI-Rollenlimit erhöhen"
+    "ai_role_limit": "AI-Rollenlimit erhöhen",
+    "filter_all": "Alle",
+    "filter_enabled": "Aktiviert",
+    "filter_disabled": "Deaktiviert",
+    "filter_has_settings": "Mit Einstellungen",
+    "filter_errors": "Fehler"
 }

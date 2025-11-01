@@ -286,5 +286,10 @@
     "failed_to_import_plugins": "وارد کردن افزونه‌ها ناموفق بود",
     "enable_delete_with_duration": "حذف با انتخاب مدت زمان",
     "delete_with_duration_info": "انتخاب مدت زمان را هنگام مسدود کردن/محدود کردن کاربران پس از حذف پیام‌هایشان اضافه می‌کند.",
-    "ai_role_limit": "افزایش محدودیت نقش هوش مصنوعی"
+    "ai_role_limit": "افزایش محدودیت نقش هوش مصنوعی",
+    "filter_all": "همه",
+    "filter_enabled": "فعال",
+    "filter_disabled": "غیرفعال",
+    "filter_has_settings": "دارای تنظیمات",
+    "filter_errors": "خطاها"
 }

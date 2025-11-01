@@ -286,5 +286,10 @@
     "failed_to_import_plugins": "Gagal mengimpor plugin",
     "enable_delete_with_duration": "Hapus dengan Pilihan Durasi",
     "delete_with_duration_info": "Menambahkan pilihan durasi saat memblokir/membatasi pengguna setelah menghapus pesan mereka.",
-    "ai_role_limit": "Tingkatkan Batas Peran AI"
+    "ai_role_limit": "Tingkatkan Batas Peran AI",
+    "filter_all": "Semua",
+    "filter_enabled": "Diaktifkan",
+    "filter_disabled": "Dinonaktifkan",
+    "filter_has_settings": "Memiliki Pengaturan",
+    "filter_errors": "Kesalahan"
 }
