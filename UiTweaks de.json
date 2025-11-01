@@ -283,5 +283,7 @@
     "failed_to_read_plugins_file": "Fehler beim Lesen der Plugin-Datei",
     "imported_plugins_count_reloaded": "{count} Plugins erfolgreich importiert!",
     "no_plugins_imported": "Es wurden keine Plugins importiert",
-    "failed_to_import_plugins": "Fehler beim Importieren der Plugins"
+    "failed_to_import_plugins": "Fehler beim Importieren von Plugins",
+    "enable_delete_with_duration": "Löschen mit Dauerauswahl",
+    "delete_with_duration_info": "Fügt Dauerauswahl hinzu, wenn Benutzer nach dem Löschen ihrer Nachrichten gesperrt/eingeschränkt werden."
 }

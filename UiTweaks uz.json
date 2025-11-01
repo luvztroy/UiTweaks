@@ -283,5 +283,7 @@
     "failed_to_read_plugins_file": "Plagin faylini o'qish amalga oshmadi",
     "imported_plugins_count_reloaded": "{count} plagin muvaffaqiyatli import qilindi!",
     "no_plugins_imported": "Hech qanday plagin import qilinmadi",
-    "failed_to_import_plugins": "Plaginlarni import qilish amalga oshmadi"
+    "failed_to_import_plugins": "Plaginlarni import qilish amalga oshmadi",
+    "enable_delete_with_duration": "Davomiylik Tanlash bilan O'chirish",
+    "delete_with_duration_info": "Xabarlarni o'chirgandan keyin foydalanuvchilarni bloklash/cheklashda davomiylik tanlashni qo'shadi."
 }

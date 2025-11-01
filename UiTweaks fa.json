@@ -283,5 +283,7 @@
     "failed_to_read_plugins_file": "خواندن فایل افزونه‌ها ناموفق بود",
     "imported_plugins_count_reloaded": "{count} افزونه با موفقیت وارد شد!",
     "no_plugins_imported": "هیچ افزونه‌ای وارد نشد",
-    "failed_to_import_plugins": "وارد کردن افزونه‌ها ناموفق بود"
+    "failed_to_import_plugins": "وارد کردن افزونه‌ها ناموفق بود",
+    "enable_delete_with_duration": "حذف با انتخاب مدت زمان",
+    "delete_with_duration_info": "انتخاب مدت زمان را هنگام مسدود کردن/محدود کردن کاربران پس از حذف پیام‌هایشان اضافه می‌کند."
 }

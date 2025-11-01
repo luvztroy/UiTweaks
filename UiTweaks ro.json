@@ -283,5 +283,7 @@
     "failed_to_read_plugins_file": "Eșec la citirea fișierului de plugin-uri",
     "imported_plugins_count_reloaded": "{count} plugin-uri importate cu succes!",
     "no_plugins_imported": "Nu au fost importate plugin-uri",
-    "failed_to_import_plugins": "Eșec la importarea plugin-urilor"
+    "failed_to_import_plugins": "Eșec la importarea plugin-urilor",
+    "enable_delete_with_duration": "Ștergere cu Selecție Durată",
+    "delete_with_duration_info": "Adaugă selecția duratei la blocarea/restricționarea utilizatorilor după ștergerea mesajelor lor."
 }

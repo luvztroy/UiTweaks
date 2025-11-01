@@ -283,5 +283,7 @@
     "failed_to_read_plugins_file": "Failed to read plugins file",
     "imported_plugins_count_reloaded": "Imported {count} plugins successfully!",
     "no_plugins_imported": "No plugins were imported",
-    "failed_to_import_plugins": "Failed to import plugins"
+    "failed_to_import_plugins": "Failed to import plugins",
+    "enable_delete_with_duration": "Delete with Duration Selection",
+    "delete_with_duration_info": "Adds duration selection when banning/restricting users after deleting their messages."
 }

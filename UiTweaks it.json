@@ -283,5 +283,7 @@
     "failed_to_read_plugins_file": "Impossibile leggere il file dei plugin",
     "imported_plugins_count_reloaded": "{count} plugin importati con successo!",
     "no_plugins_imported": "Nessun plugin è stato importato",
-    "failed_to_import_plugins": "Impossibile importare i plugin"
+    "failed_to_import_plugins": "Impossibile importare i plugin",
+    "enable_delete_with_duration": "Elimina con selezione durata",
+    "delete_with_duration_info": "Aggiunge la selezione della durata quando si bannano/limitano gli utenti dopo aver eliminato i loro messaggi."
 }

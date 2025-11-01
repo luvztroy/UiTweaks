@@ -283,5 +283,7 @@
     "failed_to_read_plugins_file": "Не вдалося прочитати файл плагінів",
     "imported_plugins_count_reloaded": "Імпортовано {count} плагінів успішно!",
     "no_plugins_imported": "Плагіни не були імпортовані",
-    "failed_to_import_plugins": "Не вдалося імпортувати плагіни"
+    "failed_to_import_plugins": "Не вдалося імпортувати плагіни",
+    "enable_delete_with_duration": "Видалення з вибором тривалості",
+    "delete_with_duration_info": "Додає вибір тривалості при блокуванні/обмеженні користувачів після видалення їхніх повідомлень."
 }

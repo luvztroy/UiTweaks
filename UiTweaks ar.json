@@ -283,5 +283,7 @@
     "failed_to_read_plugins_file": "فشل قراءة ملف الإضافات",
     "imported_plugins_count_reloaded": "تم استيراد {count} إضافة بنجاح!",
     "no_plugins_imported": "لم يتم استيراد أي إضافات",
-    "failed_to_import_plugins": "فشل استيراد الإضافات"
+    "failed_to_import_plugins": "فشل استيراد الإضافات",
+    "enable_delete_with_duration": "حذف مع اختيار المدة",
+    "delete_with_duration_info": "يضيف اختيار المدة عند حظر/تقييد المستخدمين بعد حذف رسائلهم."
 }

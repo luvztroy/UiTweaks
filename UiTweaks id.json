@@ -283,5 +283,7 @@
     "failed_to_read_plugins_file": "Gagal membaca file plugin",
     "imported_plugins_count_reloaded": "{count} plugin berhasil diimpor!",
     "no_plugins_imported": "Tidak ada plugin yang diimpor",
-    "failed_to_import_plugins": "Gagal mengimpor plugin"
+    "failed_to_import_plugins": "Gagal mengimpor plugin",
+    "enable_delete_with_duration": "Hapus dengan Pilihan Durasi",
+    "delete_with_duration_info": "Menambahkan pilihan durasi saat memblokir/membatasi pengguna setelah menghapus pesan mereka."
 }

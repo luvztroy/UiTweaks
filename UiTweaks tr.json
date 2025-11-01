@@ -283,5 +283,7 @@
     "failed_to_read_plugins_file": "Eklenti dosyası okunamadı",
     "imported_plugins_count_reloaded": "{count} eklenti başarıyla içe aktarıldı!",
     "no_plugins_imported": "Hiçbir eklenti içe aktarılmadı",
-    "failed_to_import_plugins": "Eklentiler içe aktarılamadı"
+    "failed_to_import_plugins": "Eklentiler içe aktarılamadı",
+    "enable_delete_with_duration": "Süre Seçimi ile Sil",
+    "delete_with_duration_info": "Mesajları sildikten sonra kullanıcıları yasaklarken/kısıtlarken süre seçimi ekler."
 }
