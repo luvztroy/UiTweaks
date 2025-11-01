@@ -285,5 +285,6 @@
     "no_plugins_imported": "No plugins were imported",
     "failed_to_import_plugins": "Failed to import plugins",
     "enable_delete_with_duration": "Delete with Duration Selection",
-    "delete_with_duration_info": "Adds duration selection when banning/restricting users after deleting their messages."
+    "delete_with_duration_info": "Adds duration selection when banning/restricting users after deleting their messages.",
+    "ai_role_limit":  "AI Role Limit Increaser"
 }

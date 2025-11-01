@@ -285,5 +285,6 @@
     "no_plugins_imported": "플러그인을 가져오지 못했습니다",
     "failed_to_import_plugins": "플러그인 가져오기 실패",
     "enable_delete_with_duration": "기간 선택으로 삭제",
-    "delete_with_duration_info": "메시지를 삭제한 후 사용자를 차단/제한할 때 기간 선택을 추가합니다."
+    "delete_with_duration_info": "사용자의 메시지를 삭제한 후 차단/제한할 때 기간 선택을 추가합니다.",
+    "ai_role_limit": "AI 역할 제한 증가"
 }

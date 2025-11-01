@@ -285,5 +285,6 @@
     "no_plugins_imported": "لم يتم استيراد أي إضافات",
     "failed_to_import_plugins": "فشل استيراد الإضافات",
     "enable_delete_with_duration": "حذف مع اختيار المدة",
-    "delete_with_duration_info": "يضيف اختيار المدة عند حظر/تقييد المستخدمين بعد حذف رسائلهم."
+    "delete_with_duration_info": "يضيف اختيار المدة عند حظر/تقييد المستخدمين بعد حذف رسائلهم.",
+    "ai_role_limit": "زيادة حد دور الذكاء الاصطناعي"
 }

@@ -285,5 +285,6 @@
     "no_plugins_imported": "Tidak ada plugin yang diimpor",
     "failed_to_import_plugins": "Gagal mengimpor plugin",
     "enable_delete_with_duration": "Hapus dengan Pilihan Durasi",
-    "delete_with_duration_info": "Menambahkan pilihan durasi saat memblokir/membatasi pengguna setelah menghapus pesan mereka."
+    "delete_with_duration_info": "Menambahkan pilihan durasi saat memblokir/membatasi pengguna setelah menghapus pesan mereka.",
+    "ai_role_limit": "Tingkatkan Batas Peran AI"
 }

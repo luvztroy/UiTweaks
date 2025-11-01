@@ -285,5 +285,6 @@
     "no_plugins_imported": "Hech qanday plagin import qilinmadi",
     "failed_to_import_plugins": "Plaginlarni import qilish amalga oshmadi",
     "enable_delete_with_duration": "Davomiylik Tanlash bilan O'chirish",
-    "delete_with_duration_info": "Xabarlarni o'chirgandan keyin foydalanuvchilarni bloklash/cheklashda davomiylik tanlashni qo'shadi."
+    "delete_with_duration_info": "Xabarlarni o'chirgandan keyin foydalanuvchilarni bloklash/cheklashda davomiylik tanlashni qo'shadi.",
+    "ai_role_limit": "AI Rol Chegarasini Oshirish"
 }

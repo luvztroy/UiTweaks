@@ -285,5 +285,6 @@
     "no_plugins_imported": "Hiçbir eklenti içe aktarılmadı",
     "failed_to_import_plugins": "Eklentiler içe aktarılamadı",
     "enable_delete_with_duration": "Süre Seçimi ile Sil",
-    "delete_with_duration_info": "Mesajları sildikten sonra kullanıcıları yasaklarken/kısıtlarken süre seçimi ekler."
+    "delete_with_duration_info": "Mesajları sildikten sonra kullanıcıları yasaklarken/kısıtlarken süre seçimi ekler.",
+    "ai_role_limit": "AI Rol Sınırını Artır"
 }
