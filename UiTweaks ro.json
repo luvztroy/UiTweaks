@@ -290,6 +290,7 @@
     "filter_all": "Toate",
     "filter_enabled": "Activat",
     "filter_disabled": "Dezactivat",
+    "filter_recently_updated": "Actualizat recent",
     "filter_has_settings": "Cu setări",
     "filter_errors": "Erori"
 }

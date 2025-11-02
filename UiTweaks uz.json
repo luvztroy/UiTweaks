@@ -290,6 +290,7 @@
     "filter_all": "Hammasi",
     "filter_enabled": "Yoqilgan",
     "filter_disabled": "O'chirilgan",
+    "filter_recently_updated": "Yaqinda yangilangan",
     "filter_has_settings": "Sozlamalari bor",
     "filter_errors": "Xatolar"
 }

@@ -290,6 +290,7 @@
     "filter_all": "همه",
     "filter_enabled": "فعال",
     "filter_disabled": "غیرفعال",
+    "filter_recently_updated": "اخیراً به‌روزرسانی شده",
     "filter_has_settings": "دارای تنظیمات",
     "filter_errors": "خطاها"
 }

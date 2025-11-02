@@ -290,6 +290,7 @@
     "filter_all": "Semua",
     "filter_enabled": "Diaktifkan",
     "filter_disabled": "Dinonaktifkan",
+    "filter_recently_updated": "Baru Diperbarui",
     "filter_has_settings": "Memiliki Pengaturan",
     "filter_errors": "Kesalahan"
 }

@@ -291,5 +291,6 @@
     "filter_enabled": "활성화됨",
     "filter_disabled": "비활성화됨",
     "filter_has_settings": "설정 있음",
+    "filter_recently_updated": "최근 업데이트됨",
     "filter_errors": "오류"
 }
