@@ -292,5 +292,6 @@
     "filter_disabled": "Вимкнено",
     "filter_recently_updated": "Нещодавно оновлено",
     "filter_has_settings": "З налаштуваннями",
-    "filter_errors": "Помилки"
+    "filter_errors": "Помилки",
+    "enable_select_all_media": "Кнопка Вибрати всі медіа"
 }

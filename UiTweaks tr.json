@@ -292,5 +292,6 @@
     "filter_disabled": "Devre Dışı",
     "filter_recently_updated": "Son Güncellenen",
     "filter_has_settings": "Ayarları Var",
-    "filter_errors": "Hatalar"
+    "filter_errors": "Hatalar",
+    "enable_select_all_media": "Tüm Medyayı Seç Düğmesi"
 }

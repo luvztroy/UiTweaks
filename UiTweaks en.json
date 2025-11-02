@@ -292,5 +292,6 @@
     "filter_disabled": "Disabled",
     "filter_recently_updated": "Recently Updated",
     "filter_has_settings": "Has Settings",
-    "filter_errors": "Errors"
+    "filter_errors": "Errors",
+    "enable_select_all_media": "Select All Media Button"
 }

@@ -292,5 +292,6 @@
     "filter_disabled": "O'chirilgan",
     "filter_recently_updated": "Yaqinda yangilangan",
     "filter_has_settings": "Sozlamalari bor",
-    "filter_errors": "Xatolar"
+    "filter_errors": "Xatolar",
+    "enable_select_all_media": "Barcha Mediani Tanlash Tugmasi"
 }

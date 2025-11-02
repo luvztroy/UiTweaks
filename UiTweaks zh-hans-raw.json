@@ -292,5 +292,6 @@
     "filter_disabled": "已禁用",
     "filter_recently_updated": "最近更新",
     "filter_has_settings": "有设置",
-    "filter_errors": "错误"
+    "filter_errors": "错误",
+    "enable_select_all_media": "全选媒体按钮"
 }

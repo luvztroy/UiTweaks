@@ -292,5 +292,6 @@
     "filter_disabled": "Dezactivat",
     "filter_recently_updated": "Actualizat recent",
     "filter_has_settings": "Cu setări",
-    "filter_errors": "Erori"
+    "filter_errors": "Erori",
+    "enable_select_all_media": "Buton Selectează Toate Mediile"
 }

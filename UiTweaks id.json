@@ -292,5 +292,6 @@
     "filter_disabled": "Dinonaktifkan",
     "filter_recently_updated": "Baru Diperbarui",
     "filter_has_settings": "Memiliki Pengaturan",
-    "filter_errors": "Kesalahan"
+    "filter_errors": "Kesalahan",
+    "enable_select_all_media": "Tombol Pilih Semua Media"
 }

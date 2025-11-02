@@ -292,5 +292,6 @@
     "filter_disabled": "معطّل",
     "filter_recently_updated": "محدّث مؤخراً",
     "filter_has_settings": "لديه إعدادات",
-    "filter_errors": "أخطاء"
+    "filter_errors": "أخطاء",
+    "enable_select_all_media": "زر تحديد جميع الوسائط"
 }

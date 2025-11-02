@@ -292,5 +292,6 @@
     "filter_disabled": "Deaktiviert",
     "filter_recently_updated": "Kürzlich aktualisiert",
     "filter_has_settings": "Mit Einstellungen",
-    "filter_errors": "Fehler"
+    "filter_errors": "Fehler",
+    "enable_select_all_media": "Alles auswählen Medien-Schaltfläche"
 }

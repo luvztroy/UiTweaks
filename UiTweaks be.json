@@ -292,5 +292,6 @@
     "filter_disabled": "Адключана",
     "filter_recently_updated": "Нядаўна абноўлена",
     "filter_has_settings": "З наладамі",
-    "filter_errors": "Памылкі"
+    "filter_errors": "Памылкі",
+    "enable_select_all_media": "Кнопка выбраць усе медыя"
 }
