@@ -290,6 +290,7 @@
     "filter_all": "Tümü",
     "filter_enabled": "Etkin",
     "filter_disabled": "Devre Dışı",
+    "filter_recently_updated": "Son Güncellenen",
     "filter_has_settings": "Ayarları Var",
     "filter_errors": "Hatalar"
 }

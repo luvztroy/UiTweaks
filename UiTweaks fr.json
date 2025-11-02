@@ -290,6 +290,7 @@
     "filter_all": "Tous",
     "filter_enabled": "Activé",
     "filter_disabled": "Désactivé",
+    "filter_recently_updated": "Récemment mis à jour",
     "filter_has_settings": "Avec paramètres",
     "filter_errors": "Erreurs"
 }

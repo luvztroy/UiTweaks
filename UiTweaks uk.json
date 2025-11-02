@@ -290,6 +290,7 @@
     "filter_all": "Всі",
     "filter_enabled": "Увімкнено",
     "filter_disabled": "Вимкнено",
+    "filter_recently_updated": "Нещодавно оновлено",
     "filter_has_settings": "З налаштуваннями",
     "filter_errors": "Помилки"
 }

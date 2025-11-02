@@ -288,8 +288,9 @@
     "delete_with_duration_info": "Добавляет выбор длительности при блокировке/ограничении пользователей после удаления их сообщений.",
     "ai_role_limit": "Увеличение лимита символов роли ИИ",
     "filter_all": "Все",
-    "filter_enabled": "Включённые",
-    "filter_disabled": "Отключённые",
+    "filter_enabled": "Включено",
+    "filter_disabled": "Отключено",
+    "filter_recently_updated": "Недавно обновлено",
     "filter_has_settings": "С настройками",
     "filter_errors": "Ошибки"
 }

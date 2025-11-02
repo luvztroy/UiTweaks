@@ -290,6 +290,7 @@
     "filter_all": "الكل",
     "filter_enabled": "مفعّل",
     "filter_disabled": "معطّل",
+    "filter_recently_updated": "محدّث مؤخراً",
     "filter_has_settings": "لديه إعدادات",
     "filter_errors": "أخطاء"
 }
