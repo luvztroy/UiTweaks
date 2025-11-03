@@ -294,5 +294,10 @@
     "filter_recently_updated": "Son Güncellenen",
     "filter_has_settings": "Ayarları Var",
     "filter_errors": "Hatalar",
-    "enable_select_all_media": "Tüm Medyayı Seç Düğmesi"
+    "enable_select_all_media": "Tüm Medyayı Seç Düğmesi",
+    "localization": "Yerelleştirme",
+    "pluging_engine": "Eklenti Motoru Özellikleri",
+    "cleanup": "Temizlik ve Sıfırlama",
+    "plugins_skipped_count": "({count} atlandı)",
+    "no_plugins_imported_skipped": "Hiçbir eklenti içe aktarılmadı ({count} atlandı - aynı veya daha yeni sürüm)"
 }

@@ -294,5 +294,10 @@
     "filter_recently_updated": "Récemment mis à jour",
     "filter_has_settings": "Avec paramètres",
     "filter_errors": "Erreurs",
-    "enable_select_all_media": "Bouton Tout sélectionner les médias"
+    "enable_select_all_media": "Bouton Sélectionner Tous les Médias",
+    "localization": "Localisation",
+    "pluging_engine": "Fonctionnalités du Moteur de Plugins",
+    "cleanup": "Nettoyage et Réinitialisation",
+    "plugins_skipped_count": "({count} ignorés)",
+    "no_plugins_imported_skipped": "Aucun plugin importé ({count} ignorés - même version ou plus récente)"
 }

@@ -294,5 +294,10 @@
     "filter_has_settings": "설정 있음",
     "filter_recently_updated": "최근 업데이트됨",
     "filter_errors": "오류",
-    "enable_select_all_media": "모든 미디어 선택 버튼"
+    "enable_select_all_media": "모든 미디어 선택 버튼",
+    "localization": "현지화",
+    "pluging_engine": "플러그인 엔진 기능",
+    "cleanup": "정리 및 재설정",
+    "plugins_skipped_count": "({count}개 건너뜀)",
+    "no_plugins_imported_skipped": "플러그인을 가져오지 않음 ({count}개 건너뜀 - 동일하거나 최신 버전)"
 }

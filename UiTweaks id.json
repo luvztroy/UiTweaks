@@ -294,5 +294,10 @@
     "filter_recently_updated": "Baru Diperbarui",
     "filter_has_settings": "Memiliki Pengaturan",
     "filter_errors": "Kesalahan",
-    "enable_select_all_media": "Tombol Pilih Semua Media"
+    "enable_select_all_media": "Tombol Pilih Semua Media",
+    "localization": "Lokalisasi",
+    "pluging_engine": "Fitur Mesin Plugin",
+    "cleanup": "Pembersihan & Reset",
+    "plugins_skipped_count": "({count} dilewati)",
+    "no_plugins_imported_skipped": "Tidak ada plugin yang diimpor ({count} dilewati - versi sama atau lebih baru)"
 }

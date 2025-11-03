@@ -294,5 +294,10 @@
     "filter_recently_updated": "محدّث مؤخراً",
     "filter_has_settings": "لديه إعدادات",
     "filter_errors": "أخطاء",
-    "enable_select_all_media": "زر تحديد جميع الوسائط"
+    "enable_select_all_media": "زر تحديد جميع الوسائط",
+    "localization": "الترجمة",
+    "pluging_engine": "ميزات محرك الإضافات",
+    "cleanup": "التنظيف وإعادة التعيين",
+    "plugins_skipped_count": "({count} تم تخطيها)",
+    "no_plugins_imported_skipped": "لم يتم استيراد إضافات ({count} تم تخطيها - نفس الإصدار أو أحدث)"
 }

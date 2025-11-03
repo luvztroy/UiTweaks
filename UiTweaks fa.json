@@ -294,5 +294,10 @@
     "filter_recently_updated": "اخیراً به‌روزرسانی شده",
     "filter_has_settings": "دارای تنظیمات",
     "filter_errors": "خطاها",
-    "enable_select_all_media": "دکمه انتخاب همه رسانه‌ها"
+    "enable_select_all_media": "دکمه انتخاب همه رسانه‌ها",
+    "localization": "بومی‌سازی",
+    "pluging_engine": "ویژگی‌های موتور افزونه",
+    "cleanup": "پاکسازی و بازنشانی",
+    "plugins_skipped_count": "({count} رد شد)",
+    "no_plugins_imported_skipped": "هیچ افزونه‌ای وارد نشد ({count} رد شد - نسخه یکسان یا جدیدتر)"
 }

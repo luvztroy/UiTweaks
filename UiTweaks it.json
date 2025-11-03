@@ -294,5 +294,10 @@
     "filter_recently_updated": "Aggiornato di recente",
     "filter_has_settings": "Con impostazioni",
     "filter_errors": "Errori",
-    "enable_select_all_media": "Pulsante Seleziona Tutti i Media"
+    "enable_select_all_media": "Pulsante Seleziona Tutti i Media",
+    "localization": "Localizzazione",
+    "pluging_engine": "Funzionalità del Motore Plugin",
+    "cleanup": "Pulizia e Ripristino",
+    "plugins_skipped_count": "({count} saltati)",
+    "no_plugins_imported_skipped": "Nessun plugin importato ({count} saltati - stessa versione o più recente)"
 }

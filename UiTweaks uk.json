@@ -294,5 +294,10 @@
     "filter_recently_updated": "Нещодавно оновлено",
     "filter_has_settings": "З налаштуваннями",
     "filter_errors": "Помилки",
-    "enable_select_all_media": "Кнопка Вибрати всі медіа"
+    "enable_select_all_media": "Кнопка вибору всіх медіа",
+    "localization": "Локалізація",
+    "pluging_engine": "Функції рушія плагінів",
+    "cleanup": "Очищення та скидання",
+    "plugins_skipped_count": "({count} пропущено)",
+    "no_plugins_imported_skipped": "Плагіни не імпортовано ({count} пропущено - та сама або новіша версія)"
 }
