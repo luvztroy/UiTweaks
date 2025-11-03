@@ -264,7 +264,7 @@
     "export_warning_title":  "Експорт налаштувань",
     "export_warning_message":  "Деякі плагіни містять конфіденційні дані. Включити їх?",
     "include_api_keys":  "Включити конфіденційні дані",
-    "tips_and_tricks":  "Поради та хитрощі",
+    "tips_and_tricks":  "Поради",
     "localization_branch":  "Гілка локалізації",
     "branch_main":  "Основна",
     "branch_beta":  "Бета",

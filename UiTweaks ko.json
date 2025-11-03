@@ -264,7 +264,7 @@
     "export_warning_title":  "설정 내보내기",
     "export_warning_message":  "일부 플러그인에 민감한 데이터가 포함되어 있습니다. 포함하시겠습니까?",
     "include_api_keys":  "민감한 데이터 포함",
-    "tips_and_tricks":  "팁과 요령",
+    "tips_and_tricks":  "팁",
     "localization_branch":  "현지화 브랜치",
     "branch_main":  "메인",
     "branch_beta":  "베타",

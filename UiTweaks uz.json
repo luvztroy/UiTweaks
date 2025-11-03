@@ -264,7 +264,7 @@
     "export_warning_title":  "Sozlamalarni eksport qilish",
     "export_warning_message":  "Ba'zi plaginlar maxfiy ma'lumotlarni o'z ichiga oladi. Ularni qo'shmoqchimisiz?",
     "include_api_keys":  "Maxfiy ma'lumotlarni qo'shish",
-    "tips_and_tricks":  "Maslahatlar va hiylalar",
+    "tips_and_tricks":  "Maslahatlar",
     "localization_branch":  "Lokalizatsiya tarmog'i",
     "branch_main":  "Asosiy",
     "branch_beta":  "Beta",

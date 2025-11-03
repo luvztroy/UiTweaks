@@ -264,7 +264,7 @@
     "export_warning_title":  "تصدير الإعدادات",
     "export_warning_message":  "تحتوي بعض الإضافات على بيانات حساسة. هل تريد تضمينها؟",
     "include_api_keys":  "تضمين البيانات الحساسة",
-    "tips_and_tricks":  "نصائح وحيل",
+    "tips_and_tricks":  "نصائح",
     "localization_branch":  "فرع الترجمة",
     "branch_main":  "الرئيسي",
     "branch_beta":  "بيتا",

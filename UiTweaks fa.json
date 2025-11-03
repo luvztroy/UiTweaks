@@ -264,7 +264,7 @@
     "export_warning_title": "صادر کردن تنظیمات",
     "export_warning_message": "برخی افزونه‌ها حاوی داده‌های حساس هستند. آیا می‌خواهید آنها را شامل کنید؟",
     "include_api_keys": "شامل کردن داده‌های حساس",
-    "tips_and_tricks": "نکات و ترفندها",
+    "tips_and_tricks": "نکات",
     "localization_branch": "شاخه محلی‌سازی",
     "branch_main": "اصلی",
     "branch_beta": "بتا",
