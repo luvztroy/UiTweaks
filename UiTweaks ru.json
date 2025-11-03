@@ -299,5 +299,5 @@
     "pluging_engine": "Функции движка плагинов",
     "cleanup": "Очистка и сброс",
     "plugins_skipped_count": "({count} пропущено)",
-    "no_plugins_imported_skipped": "Плагины не импортированы ({count} пропущено - та же или новее версия)"
+    "no_plugins_imported_skipped": "Плагины не импортированы ({count} пропущено - та же или более новая версия)"
 }
