@@ -299,5 +299,11 @@
     "pluging_engine": "Функции движка плагинов",
     "cleanup": "Очистка и сброс",
     "plugins_skipped_count": "({count} пропущено)",
-    "no_plugins_imported_skipped": "Плагины не импортированы ({count} пропущено - та же или новее версия)"
+    "no_plugins_imported_skipped": "Плагины не импортированы ({count} пропущено - та же или новая версия)",
+    "auto_update": "Автообновление",
+    "update_branch": "Ветка обновлений",
+    "update_branch_info": "Выберите ветку для получения обновлений. Beta может содержать экспериментальные функции.",
+    "branch_selector_enabled": "Селектор ветки включен!",
+    "branch_selector_disabled": "Селектор ветки скрыт",
+    "updates": "Обновления"
 }

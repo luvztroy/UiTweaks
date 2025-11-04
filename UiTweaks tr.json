@@ -299,5 +299,11 @@
     "pluging_engine": "Eklenti Motoru Özellikleri",
     "cleanup": "Temizlik ve Sıfırlama",
     "plugins_skipped_count": "({count} atlandı)",
-    "no_plugins_imported_skipped": "Hiçbir eklenti içe aktarılmadı ({count} atlandı - aynı veya daha yeni sürüm)"
+    "no_plugins_imported_skipped": "Hiçbir eklenti içe aktarılmadı ({count} atlandı - aynı veya daha yeni sürüm)",
+    "auto_update": "Otomatik Güncelleme",
+    "update_branch": "Güncelleme Dalı",
+    "update_branch_info": "Güncellemeleri almak istediğiniz dalı seçin. Beta deneysel özellikler içerebilir.",
+    "branch_selector_enabled": "Dal seçici etkinleştirildi!",
+    "branch_selector_disabled": "Dal seçici gizlendi",
+    "updates": "Güncellemeler"
 }

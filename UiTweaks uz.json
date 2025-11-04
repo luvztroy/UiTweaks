@@ -299,5 +299,11 @@
     "pluging_engine": "Plagin Mexanizmi Xususiyatlari",
     "cleanup": "Tozalash va Tiklash",
     "plugins_skipped_count": "({count} o'tkazib yuborildi)",
-    "no_plugins_imported_skipped": "Hech qanday plagin import qilinmadi ({count} o'tkazib yuborildi - bir xil yoki yangi versiya)"
+    "no_plugins_imported_skipped": "Hech qanday plagin import qilinmadi ({count} o'tkazib yuborildi - bir xil yoki yangi versiya)",
+    "auto_update": "Avtomatik Yangilash",
+    "update_branch": "Yangilash Tarmog'i",
+    "update_branch_info": "Yangilanishlarni qaysi tarmoqdan olishni tanlang. Beta tajribaviy funksiyalarni o'z ichiga olishi mumkin.",
+    "branch_selector_enabled": "Tarmoq tanlagich yoqildi!",
+    "branch_selector_disabled": "Tarmoq tanlagich yashirildi",
+    "updates": "Yangilanishlar"
 }

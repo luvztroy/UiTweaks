@@ -299,5 +299,11 @@
     "pluging_engine": "Функцыі плагінаў",
     "cleanup": "Ачыстка і скід",
     "plugins_skipped_count": "({count} прапушчана)",
-    "no_plugins_imported_skipped": "Плагіны не імпартаваны ({count} прапушчана - такая ж або навейшая версія)"
+    "no_plugins_imported_skipped": "Плагіны не імпартаваны ({count} прапушчана - такая ж або навейшая версія)",
+    "auto_update": "Аўтаабнаўленне",
+    "update_branch": "Галіна абнаўленняў",
+    "update_branch_info": "Выберыце галіну для атрымання абнаўленняў. Beta можа ўтрымліваць эксперыментальныя функцыі.",
+    "branch_selector_enabled": "Селектар галіны ўключаны!",
+    "branch_selector_disabled": "Селектар галіны схаваны",
+    "updates": "Абнаўленні"
 }

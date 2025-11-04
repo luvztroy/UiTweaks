@@ -299,5 +299,11 @@
     "pluging_engine": "Функції рушія плагінів",
     "cleanup": "Очищення та скидання",
     "plugins_skipped_count": "({count} пропущено)",
-    "no_plugins_imported_skipped": "Плагіни не імпортовано ({count} пропущено - та сама або новіша версія)"
+    "no_plugins_imported_skipped": "Плагіни не імпортовано ({count} пропущено - та сама або новіша версія)",
+    "auto_update": "Автооновлення",
+    "update_branch": "Гілка оновлень",
+    "update_branch_info": "Виберіть гілку для отримання оновлень. Beta може містити експериментальні функції.",
+    "branch_selector_enabled": "Селектор гілки увімкнено!",
+    "branch_selector_disabled": "Селектор гілки приховано",
+    "updates": "Оновлення"
 }

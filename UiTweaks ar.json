@@ -299,5 +299,11 @@
     "pluging_engine": "ميزات محرك الإضافات",
     "cleanup": "التنظيف وإعادة التعيين",
     "plugins_skipped_count": "({count} تم تخطيها)",
-    "no_plugins_imported_skipped": "لم يتم استيراد إضافات ({count} تم تخطيها - نفس الإصدار أو أحدث)"
+    "no_plugins_imported_skipped": "لم يتم استيراد إضافات ({count} تم تخطيها - نفس الإصدار أو أحدث)",
+    "auto_update": "التحديث التلقائي",
+    "update_branch": "فرع التحديث",
+    "update_branch_info": "اختر الفرع الذي تريد تلقي التحديثات منه. قد يحتوي Beta على ميزات تجريبية.",
+    "branch_selector_enabled": "تم تفعيل محدد الفرع!",
+    "branch_selector_disabled": "تم إخفاء محدد الفرع",
+    "updates": "التحديثات"
 }

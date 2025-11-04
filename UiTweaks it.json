@@ -299,5 +299,11 @@
     "pluging_engine": "Funzionalità del Motore Plugin",
     "cleanup": "Pulizia e Ripristino",
     "plugins_skipped_count": "({count} saltati)",
-    "no_plugins_imported_skipped": "Nessun plugin importato ({count} saltati - stessa versione o più recente)"
+    "no_plugins_imported_skipped": "Nessun plugin importato ({count} saltati - stessa versione o più recente)",
+    "auto_update": "Aggiornamento Automatico",
+    "update_branch": "Ramo di Aggiornamento",
+    "update_branch_info": "Seleziona il ramo da cui desideri ricevere gli aggiornamenti. Beta può contenere funzionalità sperimentali.",
+    "branch_selector_enabled": "Selettore ramo attivato!",
+    "branch_selector_disabled": "Selettore ramo nascosto",
+    "updates": "Aggiornamenti"
 }

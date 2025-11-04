@@ -299,5 +299,11 @@
     "pluging_engine": "Funcții Motor Plugin",
     "cleanup": "Curățare și Resetare",
     "plugins_skipped_count": "({count} omise)",
-    "no_plugins_imported_skipped": "Niciun plugin importat ({count} omise - aceeași versiune sau mai recentă)"
+    "no_plugins_imported_skipped": "Niciun plugin importat ({count} omise - aceeași versiune sau mai recentă)",
+    "auto_update": "Actualizare Automată",
+    "update_branch": "Ramură de Actualizare",
+    "update_branch_info": "Selectați ramura de la care doriți să primiți actualizări. Beta poate conține funcții experimentale.",
+    "branch_selector_enabled": "Selector de ramură activat!",
+    "branch_selector_disabled": "Selector de ramură ascuns",
+    "updates": "Actualizări"
 }

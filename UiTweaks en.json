@@ -299,5 +299,11 @@
     "pluging_engine": "Plugin Engine Features",
     "cleanup": "Cleanup & Reset",
     "plugins_skipped_count": "({count} skipped)",
-    "no_plugins_imported_skipped": "No plugins imported ({count} skipped - same or newer version)"
+    "no_plugins_imported_skipped": "No plugins imported ({count} skipped - same or newer version)",
+    "auto_update": "Auto Update",
+    "update_branch": "Update Branch",
+    "update_branch_info": "Select which branch to receive updates from. Beta may contain experimental features.",
+    "branch_selector_enabled": "Branch selector enabled!",
+    "branch_selector_disabled": "Branch selector hidden",
+    "updates": "Updates"
 }

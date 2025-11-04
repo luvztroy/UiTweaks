@@ -299,5 +299,11 @@
     "pluging_engine": "Recursos do Motor de Plugins",
     "cleanup": "Limpeza e Redefinição",
     "plugins_skipped_count": "({count} ignorados)",
-    "no_plugins_imported_skipped": "Nenhum plugin importado ({count} ignorados - mesma versão ou mais recente)"
+    "no_plugins_imported_skipped": "Nenhum plugin importado ({count} ignorados - mesma versão ou mais recente)",
+    "auto_update": "Atualização Automática",
+    "update_branch": "Ramo de Atualização",
+    "update_branch_info": "Selecione o ramo do qual deseja receber atualizações. Beta pode conter recursos experimentais.",
+    "branch_selector_enabled": "Seletor de ramo ativado!",
+    "branch_selector_disabled": "Seletor de ramo oculto",
+    "updates": "Atualizações"
 }

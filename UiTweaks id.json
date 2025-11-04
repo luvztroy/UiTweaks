@@ -299,5 +299,11 @@
     "pluging_engine": "Fitur Mesin Plugin",
     "cleanup": "Pembersihan & Reset",
     "plugins_skipped_count": "({count} dilewati)",
-    "no_plugins_imported_skipped": "Tidak ada plugin yang diimpor ({count} dilewati - versi sama atau lebih baru)"
+    "no_plugins_imported_skipped": "Tidak ada plugin yang diimpor ({count} dilewati - versi sama atau lebih baru)",
+    "auto_update": "Pembaruan Otomatis",
+    "update_branch": "Cabang Pembaruan",
+    "update_branch_info": "Pilih cabang yang ingin Anda terima pembaruannya. Beta mungkin berisi fitur eksperimental.",
+    "branch_selector_enabled": "Pemilih cabang diaktifkan!",
+    "branch_selector_disabled": "Pemilih cabang disembunyikan",
+    "updates": "Pembaruan"
 }

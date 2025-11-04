@@ -299,5 +299,11 @@
     "pluging_engine": "ویژگی‌های موتور افزونه",
     "cleanup": "پاکسازی و بازنشانی",
     "plugins_skipped_count": "({count} رد شد)",
-    "no_plugins_imported_skipped": "هیچ افزونه‌ای وارد نشد ({count} رد شد - نسخه یکسان یا جدیدتر)"
+    "no_plugins_imported_skipped": "هیچ افزونه‌ای وارد نشد ({count} رد شد - نسخه یکسان یا جدیدتر)",
+    "auto_update": "به‌روزرسانی خودکار",
+    "update_branch": "شاخه به‌روزرسانی",
+    "update_branch_info": "شاخه‌ای را که می‌خواهید به‌روزرسانی‌ها را از آن دریافت کنید انتخاب کنید. Beta ممکن است شامل ویژگی‌های آزمایشی باشد.",
+    "branch_selector_enabled": "انتخابگر شاخه فعال شد!",
+    "branch_selector_disabled": "انتخابگر شاخه مخفی شد",
+    "updates": "به‌روزرسانی‌ها"
 }

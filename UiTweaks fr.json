@@ -299,5 +299,11 @@
     "pluging_engine": "Fonctionnalités du Moteur de Plugins",
     "cleanup": "Nettoyage et Réinitialisation",
     "plugins_skipped_count": "({count} ignorés)",
-    "no_plugins_imported_skipped": "Aucun plugin importé ({count} ignorés - même version ou plus récente)"
+    "no_plugins_imported_skipped": "Aucun plugin importé ({count} ignorés - même version ou plus récente)",
+    "auto_update": "Mise à Jour Automatique",
+    "update_branch": "Branche de Mise à Jour",
+    "update_branch_info": "Sélectionnez la branche à partir de laquelle vous souhaitez recevoir les mises à jour. Beta peut contenir des fonctionnalités expérimentales.",
+    "branch_selector_enabled": "Sélecteur de branche activé!",
+    "branch_selector_disabled": "Sélecteur de branche masqué",
+    "updates": "Mises à Jour"
 }
