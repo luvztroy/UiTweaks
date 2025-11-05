@@ -296,6 +296,7 @@
     "filter_errors": "错误",
     "enable_select_all_media": "全选媒体按钮",
     "localization": "本地化",
+    "localization_update": "更新本地化",
     "pluging_engine": "插件引擎功能",
     "cleanup": "清理和重置",
     "plugins_skipped_count": "({count}个已跳过)",

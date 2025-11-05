@@ -296,6 +296,7 @@
     "filter_errors": "Erros",
     "enable_select_all_media": "Botão Selecionar Todas as Mídias",
     "localization": "Localização",
+    "localization_update": "Atualizar Localização",
     "pluging_engine": "Recursos do Motor de Plugins",
     "cleanup": "Limpeza e Redefinição",
     "plugins_skipped_count": "({count} ignorados)",

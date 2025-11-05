@@ -296,6 +296,7 @@
     "filter_errors": "Kesalahan",
     "enable_select_all_media": "Tombol Pilih Semua Media",
     "localization": "Lokalisasi",
+    "localization_update": "Perbarui Lokalisasi",
     "pluging_engine": "Fitur Mesin Plugin",
     "cleanup": "Pembersihan & Reset",
     "plugins_skipped_count": "({count} dilewati)",

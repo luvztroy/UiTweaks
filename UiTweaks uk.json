@@ -296,6 +296,7 @@
     "filter_errors": "Помилки",
     "enable_select_all_media": "Кнопка вибору всіх медіа",
     "localization": "Локалізація",
+    "localization_update": "Оновити локалізацію",
     "pluging_engine": "Функції рушія плагінів",
     "cleanup": "Очищення та скидання",
     "plugins_skipped_count": "({count} пропущено)",

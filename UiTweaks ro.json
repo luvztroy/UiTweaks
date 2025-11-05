@@ -296,6 +296,7 @@
     "filter_errors": "Erori",
     "enable_select_all_media": "Buton Selectează Toate Fișierele Media",
     "localization": "Localizare",
+    "localization_update": "Actualizează Localizare",
     "pluging_engine": "Funcții Motor Plugin",
     "cleanup": "Curățare și Resetare",
     "plugins_skipped_count": "({count} omise)",

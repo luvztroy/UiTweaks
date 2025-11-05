@@ -296,6 +296,7 @@
     "filter_errors": "Hatalar",
     "enable_select_all_media": "Tüm Medyayı Seç Düğmesi",
     "localization": "Yerelleştirme",
+    "localization_update": "Yerelleştirmeyi Güncelle",
     "pluging_engine": "Eklenti Motoru Özellikleri",
     "cleanup": "Temizlik ve Sıfırlama",
     "plugins_skipped_count": "({count} atlandı)",

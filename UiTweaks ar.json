@@ -296,6 +296,7 @@
     "filter_errors": "أخطاء",
     "enable_select_all_media": "زر تحديد جميع الوسائط",
     "localization": "الترجمة",
+    "localization_update": "تحديث الترجمة",
     "pluging_engine": "ميزات محرك الإضافات",
     "cleanup": "التنظيف وإعادة التعيين",
     "plugins_skipped_count": "({count} تم تخطيها)",

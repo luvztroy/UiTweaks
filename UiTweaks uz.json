@@ -296,6 +296,7 @@
     "filter_errors": "Xatolar",
     "enable_select_all_media": "Barcha Mediani Tanlash Tugmasi",
     "localization": "Mahalliylashtirish",
+    "localization_update": "Mahalliylashtirish Yangilash",
     "pluging_engine": "Plagin Mexanizmi Xususiyatlari",
     "cleanup": "Tozalash va Tiklash",
     "plugins_skipped_count": "({count} o'tkazib yuborildi)",
