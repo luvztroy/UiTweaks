@@ -152,7 +152,7 @@
     "menu_visibility":  "Видимость меню",
     "menu_visibility_info":  "Это заставит кнопки всегда отображаться в панели действий.",
     "message_id_hint":  "ID сообщения",
-    "message_preview_send_button":  "Отправка превью при предпросмотре сообщения",
+    "message_preview_send_button":  "Отправка превью при предпросмотре ссылки",
     "message_type_command":  "эту команду",
     "message_type_file":  "этот документ",
     "message_type_file_plural":  "документа",
