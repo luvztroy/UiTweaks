@@ -53,7 +53,13 @@
       "chat_id": 3027755146,
       "emoji_id": 5393416280147522806,
       "text_template": "**{chat_name}** is the official resource of **Quanta**!"
-    }
+    },
+    {
+      "id": "channel4",
+      "chat_id": 3151293977,
+      "emoji_id": 5393416280147522806,
+      "text_template": "**{chat_name}** is the official resource of **Quanta**!"
+    }    
   ]
 }
 
