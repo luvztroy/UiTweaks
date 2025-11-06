@@ -113,6 +113,8 @@
     "hide_with_spoiler":  "Hide with spoiler",
     "import_settings":  "Import Settings",
     "import_settings_success":  "Imported {count} settings",
+    "importing_plugins":  "Importing plugins...",
+    "importing_plugins_info":  "Please keep this window open while plugins are importing.",
     "item_bot_commands":  "Bot Commands",
     "item_documents":  "Documents",
     "item_external_links":  "External Links",

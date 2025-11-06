@@ -113,6 +113,8 @@
     "hide_with_spoiler":  "Spoiler bilan yashirish",
     "import_settings":  "Sozlamalarni import qilish",
     "import_settings_success":  "{count} sozlama import qilindi",
+    "importing_plugins":  "Plaginlar import qilinmoqda...",
+    "importing_plugins_info":  "Plaginlar import qilinayotganda bu oynani ochiq saqlang.",
     "item_bot_commands":  "Bot buyruqlari",
     "item_documents":  "Hujjatlar",
     "item_external_links":  "Tashqi havolalar",

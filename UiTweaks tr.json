@@ -113,6 +113,8 @@
     "hide_with_spoiler":  "Spoiler ile gizle",
     "import_settings":  "Ayarları içe aktar",
     "import_settings_success":  "{count} ayar içe aktarıldı",
+    "importing_plugins":  "Eklentiler içe aktarılıyor...",
+    "importing_plugins_info":  "Eklentiler içe aktarılırken lütfen bu pencereyi açık tutun.",
     "item_bot_commands":  "Bot komutları",
     "item_documents":  "Belgeler",
     "item_external_links":  "Harici bağlantılar",

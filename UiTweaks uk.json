@@ -113,6 +113,8 @@
     "hide_with_spoiler":  "Приховати зі спойлером",
     "import_settings":  "Імпорт налаштувань",
     "import_settings_success":  "Імпортовано {count} налаштувань",
+    "importing_plugins":  "Імпорт плагінів...",
+    "importing_plugins_info":  "Будь ласка, не закривайте це вікно, поки імпортуються плагіни.",
     "item_bot_commands":  "Команди ботів",
     "item_documents":  "Документи",
     "item_external_links":  "Зовнішні посилання",

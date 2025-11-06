@@ -113,6 +113,8 @@
     "hide_with_spoiler":  "Sembunyikan dengan spoiler",
     "import_settings":  "Impor Pengaturan",
     "import_settings_success":  "Diimpor {count} pengaturan",
+    "importing_plugins":  "Mengimpor plugin...",
+    "importing_plugins_info":  "Harap biarkan jendela ini terbuka saat plugin diimpor.",
     "item_bot_commands":  "Perintah bot",
     "item_documents":  "Dokumen",
     "item_external_links":  "Tautan eksternal",

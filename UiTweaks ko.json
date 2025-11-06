@@ -113,6 +113,8 @@
     "hide_with_spoiler":  "스포일러로 숨기기",
     "import_settings":  "설정 가져오기",
     "import_settings_success":  "{count}개 설정 가져옴",
+    "importing_plugins":  "플러그인 가져오는 중...",
+    "importing_plugins_info":  "플러그인을 가져오는 동안 이 창을 열어두세요.",
     "item_bot_commands":  "봇 명령어",
     "item_documents":  "문서",
     "item_external_links":  "외부 링크",

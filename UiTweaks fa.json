@@ -113,6 +113,8 @@
     "hide_with_spoiler": "مخفی کردن با اسپویلر",
     "import_settings": "وارد کردن تنظیمات",
     "import_settings_success": "‏{count} عدد تنظیمات با موفقیت وارد شد",
+    "importing_plugins": "در حال وارد کردن افزونه‌ها...",
+    "importing_plugins_info": "لطفاً این پنجره را باز نگه دارید تا افزونه‌ها وارد شوند.",
     "item_bot_commands": "دستورات ربات",
     "item_documents": "اسناد",
     "item_external_links": "لینک‌های خارجی",

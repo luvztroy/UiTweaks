@@ -113,6 +113,8 @@
     "hide_with_spoiler":  "Ascunde cu spoiler",
     "import_settings":  "Importă setările",
     "import_settings_success":  "{count} setări importate",
+    "importing_plugins":  "Se importă plugin-uri...",
+    "importing_plugins_info":  "Vă rugăm să păstrați această fereastră deschisă în timp ce plugin-urile sunt importate.",
     "item_bot_commands":  "Comenzi bot",
     "item_documents":  "Documente",
     "item_external_links":  "Linkuri externe",

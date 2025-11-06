@@ -113,6 +113,8 @@
     "hide_with_spoiler":  "Mit Spoiler verstecken",
     "import_settings":  "Einstellungen importieren",
     "import_settings_success":  "{count} Einstellungen importiert",
+    "importing_plugins":  "Plugins werden importiert...",
+    "importing_plugins_info":  "Bitte lassen Sie dieses Fenster geöffnet, während Plugins importiert werden.",
     "item_bot_commands":  "Bot-Befehle",
     "item_documents":  "Dokumente",
     "item_external_links":  "Externe Links",

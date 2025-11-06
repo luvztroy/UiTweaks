@@ -113,6 +113,8 @@
     "hide_with_spoiler":  "Схаваць са спойлерам",
     "import_settings":  "Імпарт налад",
     "import_settings_success":  "Імпартавана {count} налад",
+    "importing_plugins":  "Імпарт плагінаў...",
+    "importing_plugins_info":  "Калі ласка, трымайце гэта акно адкрытым, пакуль плагіны імпартуюцца.",
     "item_bot_commands":  "Каманды ботаў",
     "item_documents":  "Дакументы",
     "item_external_links":  "Вонкавыя спасылкі",

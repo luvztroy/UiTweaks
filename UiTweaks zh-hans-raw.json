@@ -113,6 +113,8 @@
     "hide_with_spoiler":  "添加遮罩",
     "import_settings":  "导入设置",
     "import_settings_success":  "已导入{count}个设置",
+    "importing_plugins":  "正在导入插件...",
+    "importing_plugins_info":  "导入插件时请保持此窗口打开。",
     "item_bot_commands":  "机器人命令",
     "item_documents":  "文档",
     "item_external_links":  "外部链接",
