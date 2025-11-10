@@ -318,5 +318,7 @@
     "update_branch_info": "اختر الفرع الذي تريد تلقي التحديثات منه. قد يحتوي Beta على ميزات تجريبية.",
     "branch_selector_enabled": "تم تفعيل محدد الفرع!",
     "branch_selector_disabled": "تم إخفاء محدد الفرع",
-    "updates": "التحديثات"
+    "updates": "التحديثات",
+    "check_update": "التحقق من التحديثات",
+    "already_uptodate": "محدث بالفعل"
 }

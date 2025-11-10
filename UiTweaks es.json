@@ -318,5 +318,7 @@
     "update_branch_info": "Seleccione la rama de la que desea recibir actualizaciones. Beta puede contener funciones experimentales.",
     "branch_selector_enabled": "¡Selector de rama activado!",
     "branch_selector_disabled": "Selector de rama oculto",
-    "updates": "Actualizaciones"
+    "updates": "Actualizaciones",
+    "check_update": "Buscar actualizaciones",
+    "already_uptodate": "Ya está actualizado"
 }

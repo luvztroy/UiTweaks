@@ -318,5 +318,7 @@
     "update_branch_info": "Selectați ramura de la care doriți să primiți actualizări. Beta poate conține funcții experimentale.",
     "branch_selector_enabled": "Selector de ramură activat!",
     "branch_selector_disabled": "Selector de ramură ascuns",
-    "updates": "Actualizări"
+    "updates": "Actualizări",
+    "check_update": "Verifică actualizări",
+    "already_uptodate": "Deja actualizat"
 }

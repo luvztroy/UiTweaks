@@ -318,5 +318,7 @@
     "update_branch_info": "选择要接收更新的分支。Beta 可能包含实验性功能。",
     "branch_selector_enabled": "分支选择器已启用！",
     "branch_selector_disabled": "分支选择器已隐藏",
-    "updates": "更新"
+    "updates": "更新",
+    "check_update": "检查更新",
+    "already_uptodate": "已是最新"
 }

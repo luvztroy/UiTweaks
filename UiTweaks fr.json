@@ -318,5 +318,7 @@
     "update_branch_info": "Sélectionnez la branche à partir de laquelle vous souhaitez recevoir les mises à jour. Beta peut contenir des fonctionnalités expérimentales.",
     "branch_selector_enabled": "Sélecteur de branche activé!",
     "branch_selector_disabled": "Sélecteur de branche masqué",
-    "updates": "Mises à Jour"
+    "updates": "Mises à Jour",
+    "check_update": "Vérifier les mises à jour",
+    "already_uptodate": "Déjà à jour"
 }

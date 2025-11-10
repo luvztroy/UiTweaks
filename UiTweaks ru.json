@@ -318,6 +318,8 @@
     "update_branch_info": "Выберите ветку для получения обновлений. Beta может содержать экспериментальные функции.",
     "branch_selector_enabled": "Селектор ветки включен!",
     "branch_selector_disabled": "Селектор ветки скрыт",
-    "updates": "Обновления"
+    "updates": "Обновления",
+    "check_update": "Проверить обновления",
+    "already_uptodate": "Уже обновлено"
 
 }

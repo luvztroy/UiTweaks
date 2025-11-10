@@ -318,5 +318,7 @@
     "update_branch_info": "Yangilanishlarni qaysi tarmoqdan olishni tanlang. Beta tajribaviy funksiyalarni o'z ichiga olishi mumkin.",
     "branch_selector_enabled": "Tarmoq tanlagich yoqildi!",
     "branch_selector_disabled": "Tarmoq tanlagich yashirildi",
-    "updates": "Yangilanishlar"
+    "updates": "Yangilanishlar",
+    "check_update": "Yangilanishlarni tekshirish",
+    "already_uptodate": "Allaqachon yangilangan"
 }

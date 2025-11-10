@@ -318,5 +318,7 @@
     "update_branch_info": "Seleziona il ramo da cui desideri ricevere gli aggiornamenti. Beta può contenere funzionalità sperimentali.",
     "branch_selector_enabled": "Selettore ramo attivato!",
     "branch_selector_disabled": "Selettore ramo nascosto",
-    "updates": "Aggiornamenti"
+    "updates": "Aggiornamenti",
+    "check_update": "Verifica aggiornamenti",
+    "already_uptodate": "Già aggiornato"
 }

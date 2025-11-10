@@ -318,5 +318,7 @@
     "update_branch_info": "Güncellemeleri almak istediğiniz dalı seçin. Beta deneysel özellikler içerebilir.",
     "branch_selector_enabled": "Dal seçici etkinleştirildi!",
     "branch_selector_disabled": "Dal seçici gizlendi",
-    "updates": "Güncellemeler"
+    "updates": "Güncellemeler",
+    "check_update": "Güncelleme Kontrolü",
+    "already_uptodate": "Zaten güncel"
 }

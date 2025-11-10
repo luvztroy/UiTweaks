@@ -318,5 +318,7 @@
     "update_branch_info": "Select which branch to receive updates from. Beta may contain experimental features.",
     "branch_selector_enabled": "Branch selector enabled!",
     "branch_selector_disabled": "Branch selector hidden",
-    "updates": "Updates"
+    "updates": "Updates",
+    "check_update": "Check for Update",
+    "already_uptodate": "Already up to date"
 }

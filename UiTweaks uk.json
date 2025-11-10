@@ -318,5 +318,7 @@
     "update_branch_info": "Виберіть гілку для отримання оновлень. Beta може містити експериментальні функції.",
     "branch_selector_enabled": "Селектор гілки увімкнено!",
     "branch_selector_disabled": "Селектор гілки приховано",
-    "updates": "Оновлення"
+    "updates": "Оновлення",
+    "check_update": "Перевірити оновлення",
+    "already_uptodate": "Вже оновлено"
 }
