@@ -319,7 +319,7 @@
     "branch_selector_enabled": "Селектор ветки включен!",
     "branch_selector_disabled": "Селектор ветки скрыт",
     "updates": "Обновления",
-    "check_update": "Проверить обновления",
+    "check_update": "Проверить обновления плагинов",
     "already_uptodate": "Уже обновлено"
 
 }

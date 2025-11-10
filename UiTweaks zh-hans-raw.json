@@ -319,6 +319,6 @@
     "branch_selector_enabled": "分支选择器已启用！",
     "branch_selector_disabled": "分支选择器已隐藏",
     "updates": "更新",
-    "check_update": "检查更新",
+    "check_update": "检查插件更新",
     "already_uptodate": "已是最新"
 }

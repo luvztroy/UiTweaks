@@ -319,6 +319,6 @@
     "branch_selector_enabled": "브랜치 선택기가 활성화되었습니다!",
     "branch_selector_disabled": "브랜치 선택기가 숨겨졌습니다",
     "updates": "업데이트",
-    "check_update": "업데이트 확인",
+    "check_update": "플러그인 업데이트 확인",
     "already_uptodate": "이미 최신 버전입니다"
 }

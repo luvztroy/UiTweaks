@@ -319,6 +319,6 @@
     "branch_selector_enabled": "¡Selector de rama activado!",
     "branch_selector_disabled": "Selector de rama oculto",
     "updates": "Actualizaciones",
-    "check_update": "Buscar actualizaciones",
+    "check_update": "Buscar actualizaciones de plugins",
     "already_uptodate": "Ya está actualizado"
 }

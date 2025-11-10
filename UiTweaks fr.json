@@ -319,6 +319,6 @@
     "branch_selector_enabled": "Sélecteur de branche activé!",
     "branch_selector_disabled": "Sélecteur de branche masqué",
     "updates": "Mises à Jour",
-    "check_update": "Vérifier les mises à jour",
+    "check_update": "Vérifier les mises à jour des plugins",
     "already_uptodate": "Déjà à jour"
 }
