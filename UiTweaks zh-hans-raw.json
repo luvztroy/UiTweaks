@@ -320,5 +320,12 @@
     "branch_selector_disabled": "分支选择器已隐藏",
     "updates": "更新",
     "check_update": "检查插件更新",
-    "already_uptodate": "已是最新"
+    "already_uptodate": "已是最新",
+    "sleep_timer": "音乐睡眠定时器",
+    "sleep_timer_menu": "睡眠定时器",
+    "sleep_timer_title": "睡眠定时器",
+    "sleep_timer_custom": "睡眠定时器",
+    "sleep_timer_disable": "禁用",
+    "sleep_timer_set": "睡眠定时器已设置为 {time}",
+    "sleep_timer_disabled": "睡眠定时器已禁用"
 }

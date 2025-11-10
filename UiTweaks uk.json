@@ -320,5 +320,12 @@
     "branch_selector_disabled": "Селектор гілки приховано",
     "updates": "Оновлення",
     "check_update": "Перевірити оновлення плагінів",
-    "already_uptodate": "Вже оновлено"
+    "already_uptodate": "Вже оновлено",
+    "sleep_timer": "Таймер сну для музики",
+    "sleep_timer_menu": "Таймер сну",
+    "sleep_timer_title": "Таймер сну",
+    "sleep_timer_custom": "Таймер сну",
+    "sleep_timer_disable": "Вимкнути",
+    "sleep_timer_set": "Таймер сну встановлено на {time}",
+    "sleep_timer_disabled": "Таймер сну вимкнено"
 }

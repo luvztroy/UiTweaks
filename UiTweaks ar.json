@@ -320,5 +320,12 @@
     "branch_selector_disabled": "تم إخفاء محدد الفرع",
     "updates": "التحديثات",
     "check_update": "التحقق من تحديثات الإضافات",
-    "already_uptodate": "محدث بالفعل"
+    "already_uptodate": "محدث بالفعل",
+    "sleep_timer": "مؤقت النوم للموسيقى",
+    "sleep_timer_menu": "مؤقت النوم",
+    "sleep_timer_title": "مؤقت النوم",
+    "sleep_timer_custom": "مؤقت النوم",
+    "sleep_timer_disable": "تعطيل",
+    "sleep_timer_set": "تم ضبط مؤقت النوم على {time}",
+    "sleep_timer_disabled": "تم تعطيل مؤقت النوم"
 }

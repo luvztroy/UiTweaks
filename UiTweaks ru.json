@@ -320,6 +320,12 @@
     "branch_selector_disabled": "Селектор ветки скрыт",
     "updates": "Обновления",
     "check_update": "Проверить обновления плагинов",
-    "already_uptodate": "Уже обновлено"
-
+    "already_uptodate": "Уже обновлено",
+    "sleep_timer": "Таймер сна для музыки",
+    "sleep_timer_menu": "Таймер сна",
+    "sleep_timer_title": "Таймер сна",
+    "sleep_timer_custom": "Таймер сна",
+    "sleep_timer_disable": "Отключить",
+    "sleep_timer_set": "Таймер сна установлен на {time}",
+    "sleep_timer_disabled": "Таймер сна отключён"
 }

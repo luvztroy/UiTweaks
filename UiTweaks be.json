@@ -319,5 +319,12 @@
     "branch_selector_disabled": "Селектар галіны схаваны",
     "updates": "Абнаўленні",
     "check_update": "Праверыць абнаўленні плагінаў",
-    "already_uptodate": "Ужо абноўлена"
+    "already_uptodate": "Ужо абноўлена",
+    "sleep_timer": "Таймер сну для музыкі",
+    "sleep_timer_menu": "Таймер сну",
+    "sleep_timer_title": "Таймер сну",
+    "sleep_timer_custom": "Таймер сну",
+    "sleep_timer_disable": "Адключыць",
+    "sleep_timer_set": "Таймер сну ўстанаўлены на {time}",
+    "sleep_timer_disabled": "Таймер сну адключаны"
 }

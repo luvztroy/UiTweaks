@@ -320,5 +320,12 @@
     "branch_selector_disabled": "브랜치 선택기가 숨겨졌습니다",
     "updates": "업데이트",
     "check_update": "플러그인 업데이트 확인",
-    "already_uptodate": "이미 최신 버전입니다"
+    "already_uptodate": "이미 최신 버전입니다",
+    "sleep_timer": "음악 슬립 타이머",
+    "sleep_timer_menu": "슬립 타이머",
+    "sleep_timer_title": "슬립 타이머",
+    "sleep_timer_custom": "슬립 타이머",
+    "sleep_timer_disable": "비활성화",
+    "sleep_timer_set": "슬립 타이머가 {time}(으)로 설정되었습니다",
+    "sleep_timer_disabled": "슬립 타이머가 비활성화되었습니다"
 }

@@ -320,5 +320,12 @@
     "branch_selector_disabled": "Dal seçici gizlendi",
     "updates": "Güncellemeler",
     "check_update": "Eklenti Güncellemelerini Kontrol Et",
-    "already_uptodate": "Zaten güncel"
+    "already_uptodate": "Zaten güncel",
+    "sleep_timer": "Müzik Uyku Zamanlayıcısı",
+    "sleep_timer_menu": "Uyku Zamanlayıcısı",
+    "sleep_timer_title": "Uyku Zamanlayıcısı",
+    "sleep_timer_custom": "Uyku Zamanlayıcısı",
+    "sleep_timer_disable": "Devre Dışı Bırak",
+    "sleep_timer_set": "Uyku zamanlayıcısı {time} olarak ayarlandı",
+    "sleep_timer_disabled": "Uyku zamanlayıcısı devre dışı"
 }

@@ -320,5 +320,12 @@
     "branch_selector_disabled": "Sélecteur de branche masqué",
     "updates": "Mises à Jour",
     "check_update": "Vérifier les mises à jour des plugins",
-    "already_uptodate": "Déjà à jour"
+    "already_uptodate": "Déjà à jour",
+    "sleep_timer": "Minuteur de Sommeil Musical",
+    "sleep_timer_menu": "Minuteur de Sommeil",
+    "sleep_timer_title": "Minuteur de Sommeil",
+    "sleep_timer_custom": "Minuteur de Sommeil",
+    "sleep_timer_disable": "Désactiver",
+    "sleep_timer_set": "Minuteur de sommeil réglé sur {time}",
+    "sleep_timer_disabled": "Minuteur de sommeil désactivé"
 }

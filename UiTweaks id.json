@@ -320,5 +320,12 @@
     "branch_selector_disabled": "Pemilih cabang disembunyikan",
     "updates": "Pembaruan",
     "check_update": "Periksa pembaruan plugin",
-    "already_uptodate": "Sudah terbaru"
+    "already_uptodate": "Sudah terbaru",
+    "sleep_timer": "Pengatur Waktu Tidur Musik",
+    "sleep_timer_menu": "Pengatur Waktu Tidur",
+    "sleep_timer_title": "Pengatur Waktu Tidur",
+    "sleep_timer_custom": "Pengatur Waktu Tidur",
+    "sleep_timer_disable": "Nonaktifkan",
+    "sleep_timer_set": "Pengatur waktu tidur diatur ke {time}",
+    "sleep_timer_disabled": "Pengatur waktu tidur dinonaktifkan"
 }

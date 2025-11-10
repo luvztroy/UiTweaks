@@ -320,5 +320,12 @@
     "branch_selector_disabled": "Selettore ramo nascosto",
     "updates": "Aggiornamenti",
     "check_update": "Verifica aggiornamenti plugin",
-    "already_uptodate": "Già aggiornato"
+    "already_uptodate": "Già aggiornato",
+    "sleep_timer": "Timer di Sospensione Musicale",
+    "sleep_timer_menu": "Timer di Sospensione",
+    "sleep_timer_title": "Timer di Sospensione",
+    "sleep_timer_custom": "Timer di Sospensione",
+    "sleep_timer_disable": "Disattiva",
+    "sleep_timer_set": "Timer di sospensione impostato su {time}",
+    "sleep_timer_disabled": "Timer di sospensione disattivato"
 }

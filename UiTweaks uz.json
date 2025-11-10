@@ -320,5 +320,12 @@
     "branch_selector_disabled": "Tarmoq tanlagich yashirildi",
     "updates": "Yangilanishlar",
     "check_update": "Plagin yangilanishlarini tekshirish",
-    "already_uptodate": "Allaqachon yangilangan"
+    "already_uptodate": "Allaqachon yangilangan",
+    "sleep_timer": "Musiqa Uyqu Taymeri",
+    "sleep_timer_menu": "Uyqu Taymeri",
+    "sleep_timer_title": "Uyqu Taymeri",
+    "sleep_timer_custom": "Uyqu Taymeri",
+    "sleep_timer_disable": "O'chirish",
+    "sleep_timer_set": "Uyqu taymeri {time}ga o'rnatildi",
+    "sleep_timer_disabled": "Uyqu taymeri o'chirildi"
 }

@@ -320,5 +320,12 @@
     "branch_selector_disabled": "انتخابگر شاخه مخفی شد",
     "updates": "به‌روزرسانی‌ها",
     "check_update": "بررسی به‌روزرسانی افزونه‌ها",
-    "already_uptodate": "از قبل به‌روز است"
+    "already_uptodate": "از قبل به‌روز است",
+    "sleep_timer": "تایمر خواب موسیقی",
+    "sleep_timer_menu": "تایمر خواب",
+    "sleep_timer_title": "تایمر خواب",
+    "sleep_timer_custom": "تایمر خواب",
+    "sleep_timer_disable": "غیرفعال کردن",
+    "sleep_timer_set": "تایمر خواب روی {time} تنظیم شد",
+    "sleep_timer_disabled": "تایمر خواب غیرفعال شد"
 }

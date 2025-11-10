@@ -320,5 +320,12 @@
     "branch_selector_disabled": "Branch selector hidden",
     "updates": "Updates",
     "check_update": "Check for Plugin Updates",
-    "already_uptodate": "Already up to date"
+    "already_uptodate": "Already up to date",
+    "sleep_timer": "Music Sleep Timer",
+    "sleep_timer_menu": "Sleep Timer",
+    "sleep_timer_title": "Sleep Timer",
+    "sleep_timer_custom": "Sleep Timer",
+    "sleep_timer_disable": "Disable",
+    "sleep_timer_set": "Sleep timer is set to {time}",
+    "sleep_timer_disabled": "Sleep timer is disabled"
 }

@@ -320,5 +320,12 @@
     "branch_selector_disabled": "Selector de rama oculto",
     "updates": "Actualizaciones",
     "check_update": "Buscar actualizaciones de plugins",
-    "already_uptodate": "Ya está actualizado"
+    "already_uptodate": "Ya está actualizado",
+    "sleep_timer": "Temporizador de Suspensión de Música",
+    "sleep_timer_menu": "Temporizador de Suspensión",
+    "sleep_timer_title": "Temporizador de Suspensión",
+    "sleep_timer_custom": "Temporizador de Suspensión",
+    "sleep_timer_disable": "Desactivar",
+    "sleep_timer_set": "Temporizador de suspensión configurado a {time}",
+    "sleep_timer_disabled": "Temporizador de suspensión desactivado"
 }
