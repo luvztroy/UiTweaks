@@ -51,6 +51,8 @@
     "disable_swipe_subtext":  "Adicionar opção de desabilitar no menu \"Gestos de deslizar da lista de chat\" do Telegram",
     "disable_topics_swipe":  "Desativar deslizar tópicos para ocultar",
     "disabled":  "Desabilitado",
+    "enable_adaptive_audio_length":  "Comprimento adaptativo de mensagens de áudio",
+    "adaptive_audio_length_info":  "O comprimento da bolha da mensagem de áudio dependerá da duração da gravação e se ajustará automaticamente à largura da tela.",
     "do_not_share_phone_number":  "Não compartilhar meu número de telefone",
     "donation_info_description":  "Doações são uma forma de reconhecer o esforço por trás deste Plugin. Elas não concedem privilégios especiais, porém você pode solicitar uma função como agradecimento.",
     "donation_info_footer":  "Obrigado por considerar apoiar o desenvolvimento do UiTweaks!",

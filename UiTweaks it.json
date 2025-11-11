@@ -51,6 +51,8 @@
     "disable_swipe_subtext":  "Aggiungi opzione disabilita nel menu \"Gesti di scorrimento elenco chat\" di Telegram",
     "disable_topics_swipe":  "Disabilita scorrimento argomenti per nascondere",
     "disabled":  "Disabilitato",
+    "enable_adaptive_audio_length":  "Lunghezza adattiva dei messaggi audio",
+    "adaptive_audio_length_info":  "La lunghezza della bolla del messaggio audio dipenderà dalla durata della registrazione e si adatterà automaticamente alla larghezza dello schermo.",
     "do_not_share_phone_number":  "Non condividere il mio numero di telefono",
     "donation_info_description":  "Le donazioni sono un modo per apprezzare il lavoro dietro questo plugin. Non concedono privilegi speciali, ma puoi chiedere una funzione come ringraziamento.",
     "donation_info_footer":  "Grazie per aver considerato di supportare lo sviluppo di UiTweaks!",

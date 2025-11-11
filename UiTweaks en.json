@@ -51,6 +51,8 @@
     "disable_swipe_subtext":  "Add disable option in Telegrams \"Chat list swipe gesture\" menu",
     "disable_topics_swipe":  "Disable Topics Swipe to Hide",
     "disabled":  "Disabled",
+    "enable_adaptive_audio_length":  "Adaptive Audio Message Length",
+    "adaptive_audio_length_info":  "The audio message bubble length will depend on the recording duration and automatically adjust to the screen width.",
     "do_not_share_phone_number":  "Do Not Share My Phone Number",
     "donation_info_description":  "Donations are a way to appreciate the effort behind this Plugin. They don’t grant special privileges, though you may request a feature as thanks.",
     "donation_info_footer":  "Thank you for considering supporting the development of UiTweaks!",

@@ -51,6 +51,8 @@
     "disable_swipe_subtext":  "Telegram'daki \"Sohbet listesi kaydırma hareketleri\" menüsüne devre dışı bırakma seçeneği ekle",
     "disable_topics_swipe":  "Konu gizleme kaydırmasını devre dışı bırak",
     "disabled":  "Devre dışı",
+    "enable_adaptive_audio_length":  "Uyarlanabilir Sesli Mesaj Uzunluğu",
+    "adaptive_audio_length_info":  "Sesli mesaj balonunun uzunluğu kayıt süresine bağlı olacak ve ekran genişliğine otomatik olarak ayarlanacaktır.",
     "do_not_share_phone_number":  "Telefon numaramı paylaşma",
     "donation_info_description":  "Bağışlar, bu eklentinin arkasındaki emeği takdir etmenin bir yoludur. Özel ayrıcalıklar sağlamaz, ancak teşekkür olarak bir özellik isteyebilirsiniz.",
     "donation_info_footer":  "UiTweaks geliştirmesini desteklemeyi düşündüğünüz için teşekkürler!",
