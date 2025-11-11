@@ -53,6 +53,8 @@
     "disabled":  "已禁用",
     "enable_adaptive_audio_length":  "自适应语音消息长度",
     "adaptive_audio_length_info":  "语音消息气泡的长度将取决于录音时长，并自动调整以适应屏幕宽度。",
+    "enable_custom_saved_messages":  "自定义保存的消息",
+    "selected_chat":  "已选择的聊天",
     "do_not_share_phone_number":  "不分享我的电话号码",
     "donation_info_description":  "捐赠是对该插件背后工作的认可方式。捐赠不会带来特殊权限，但你可以请求功能作为答谢。",
     "donation_info_footer":  "感谢你考虑支持 UiTweaks 的开发！",

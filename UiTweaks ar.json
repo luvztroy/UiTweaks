@@ -53,6 +53,8 @@
     "disabled":  "معطل",
     "enable_adaptive_audio_length":  "طول رسالة صوتية تكيفي",
     "adaptive_audio_length_info":  "سيعتمد طول فقاعة الرسالة الصوتية على مدة التسجيل وسيتم ضبطه تلقائيًا على عرض الشاشة.",
+    "enable_custom_saved_messages":  "رسائل محفوظة مخصصة",
+    "selected_chat":  "الدردشة المحددة",
     "do_not_share_phone_number":  "عدم مشاركة رقم هاتفي",
     "donation_info_description":  "التبرعات هي طريقة لتقدير الجهد وراء هذه الإضافة. لا تمنح امتيازات خاصة، لكن يمكنك طلب ميزة كنوع من الشكر.",
     "donation_info_footer":  "شكرًا لك على التفكير في دعم تطوير UiTweaks!",

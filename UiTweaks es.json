@@ -53,6 +53,8 @@
     "disabled":  "Deshabilitado",
     "enable_adaptive_audio_length":  "Longitud adaptativa de mensajes de audio",
     "adaptive_audio_length_info":  "La longitud de la burbuja del mensaje de audio dependerá de la duración de la grabación y se ajustará automáticamente al ancho de la pantalla.",
+    "enable_custom_saved_messages":  "Mensajes guardados personalizados",
+    "selected_chat":  "Chat seleccionado",
     "do_not_share_phone_number":  "No compartir mi número de teléfono",
     "donation_info_description":  "Las donaciones son una forma de agradecer el trabajo detrás de este plugin. No otorgan privilegios especiales, pero puedes solicitar una función como agradecimiento.",
     "donation_info_footer":  "¡Gracias por considerar apoyar el desarrollo de UiTweaks!",

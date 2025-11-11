@@ -53,6 +53,8 @@
     "disabled":  "O'chirilgan",
     "enable_adaptive_audio_length":  "Moslashuvchan audio xabar uzunligi",
     "adaptive_audio_length_info":  "Audio xabar pufakchasining uzunligi yozuv davomiyligiga bog'liq bo'ladi va ekran kengligiga avtomatik ravishda moslashadi.",
+    "enable_custom_saved_messages":  "Maxsus saqlangan xabarlar",
+    "selected_chat":  "Tanlangan chat",
     "do_not_share_phone_number":  "Telefon raqamimni baham ko'rmaslik",
     "donation_info_description":  "Xayriyalar — ushbu plagin ortidagi mehnatni qadrlash yo‘lidir. Ular maxsus imtiyozlar bermaydi, biroq minnatdorchilik sifatida funksiyani so‘rashingiz mumkin.",
     "donation_info_footer":  "UiTweaks rivojlanishini qo‘llab-quvvatlashni ko‘rib chiqqaningiz uchun rahmat!",

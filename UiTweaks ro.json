@@ -53,6 +53,8 @@
     "disabled":  "Dezactivat",
     "enable_adaptive_audio_length":  "Lungime adaptivă a mesajelor audio",
     "adaptive_audio_length_info":  "Lungimea bulei mesajului audio va depinde de durata înregistrării și se va ajusta automat la lățimea ecranului.",
+    "enable_custom_saved_messages":  "Mesaje salvate personalizate",
+    "selected_chat":  "Chat selectat",
     "do_not_share_phone_number":  "Nu împărtăși numărul meu de telefon",
     "donation_info_description":  "Donațiile reprezintă o modalitate de a aprecia munca din spatele acestui plugin. Nu oferă privilegii speciale, dar poți solicita o funcție ca mulțumire.",
     "donation_info_footer":  "Îți mulțumim că iei în considerare să susții dezvoltarea UiTweaks!",

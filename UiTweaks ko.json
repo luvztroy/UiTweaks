@@ -53,6 +53,8 @@
     "disabled":  "비활성화됨",
     "enable_adaptive_audio_length":  "적응형 음성 메시지 길이",
     "adaptive_audio_length_info":  "음성 메시지 버블의 길이는 녹음 시간에 따라 달라지며 화면 너비에 자동으로 조정됩니다.",
+    "enable_custom_saved_messages":  "사용자 지정 저장된 메시지",
+    "selected_chat":  "선택된 채팅",
     "do_not_share_phone_number":  "내 전화번호 공유하지 않기",
     "donation_info_description":  "후원은 이 플러그인에 담긴 노력을 인정하는 방법입니다. 특별한 혜택은 없지만, 감사로 기능을 요청할 수 있습니다.",
     "donation_info_footer":  "UiTweaks 개발 지원을 고려해 주셔서 감사합니다!",

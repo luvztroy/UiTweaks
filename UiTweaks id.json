@@ -53,6 +53,8 @@
     "disabled":  "Dinonaktifkan",
     "enable_adaptive_audio_length":  "Panjang Pesan Audio Adaptif",
     "adaptive_audio_length_info":  "Panjang gelembung pesan audio akan bergantung pada durasi rekaman dan secara otomatis menyesuaikan dengan lebar layar.",
+    "enable_custom_saved_messages":  "Pesan Tersimpan Kustom",
+    "selected_chat":  "Obrolan Terpilih",
     "do_not_share_phone_number":  "Jangan bagikan nomor telepon saya",
     "donation_info_description":  "Donasi adalah cara untuk menghargai kerja di balik plugin ini. Donasi tidak memberikan hak istimewa khusus, tetapi Anda dapat meminta fitur sebagai bentuk terima kasih.",
     "donation_info_footer":  "Terima kasih telah mempertimbangkan untuk mendukung pengembangan UiTweaks!",
