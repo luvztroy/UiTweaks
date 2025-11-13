@@ -331,5 +331,7 @@
     "sleep_timer_custom": "Temporizador de Suspensão",
     "sleep_timer_disable": "Desativar",
     "sleep_timer_set": "Temporizador de suspensão definido para {time}",
-    "sleep_timer_disabled": "Temporizador de suspensão desativado"
+    "sleep_timer_disabled": "Temporizador de suspensão desativado",
+    "enable_music_speed_control": "Controle de Velocidade de Música",
+    "music_speed_control_info": "Ativar controle de velocidade de reprodução para todos os arquivos de música independentemente da duração."
 }

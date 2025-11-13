@@ -331,5 +331,7 @@
     "sleep_timer_custom": "Schlaf-Timer",
     "sleep_timer_disable": "Deaktivieren",
     "sleep_timer_set": "Schlaf-Timer auf {time} eingestellt",
-    "sleep_timer_disabled": "Schlaf-Timer deaktiviert"
+    "sleep_timer_disabled": "Schlaf-Timer deaktiviert",
+    "enable_music_speed_control": "Musikgeschwindigkeitssteuerung",
+    "music_speed_control_info": "Aktivieren Sie die Wiedergabegeschwindigkeitssteuerung für alle Musikdateien unabhängig von der Dauer."
 }

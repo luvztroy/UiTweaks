@@ -331,5 +331,7 @@
     "sleep_timer_custom": "Cronometru de Somn",
     "sleep_timer_disable": "Dezactivează",
     "sleep_timer_set": "Cronometrul de somn este setat la {time}",
-    "sleep_timer_disabled": "Cronometrul de somn este dezactivat"
+    "sleep_timer_disabled": "Cronometrul de somn este dezactivat",
+    "enable_music_speed_control": "Control Viteză Muzică",
+    "music_speed_control_info": "Activează controlul vitezei de redare pentru toate fișierele muzicale indiferent de durată."
 }

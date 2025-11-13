@@ -331,5 +331,7 @@
     "sleep_timer_custom": "Таймер сну",
     "sleep_timer_disable": "Вимкнути",
     "sleep_timer_set": "Таймер сну встановлено на {time}",
-    "sleep_timer_disabled": "Таймер сну вимкнено"
+    "sleep_timer_disabled": "Таймер сну вимкнено",
+    "enable_music_speed_control": "Керування швидкістю музики",
+    "music_speed_control_info": "Увімкнути керування швидкістю відтворення для всіх музичних файлів незалежно від тривалості."
 }

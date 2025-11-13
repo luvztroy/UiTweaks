@@ -331,5 +331,7 @@
     "sleep_timer_custom": "Sleep Timer",
     "sleep_timer_disable": "Disable",
     "sleep_timer_set": "Sleep timer is set to {time}",
-    "sleep_timer_disabled": "Sleep timer is disabled"
+    "sleep_timer_disabled": "Sleep timer is disabled",
+    "enable_music_speed_control": "Music Speed Control",
+    "music_speed_control_info": "Enable playback speed control for all music files regardless of duration."
 }

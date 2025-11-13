@@ -331,5 +331,7 @@
     "sleep_timer_custom": "مؤقت النوم",
     "sleep_timer_disable": "تعطيل",
     "sleep_timer_set": "تم ضبط مؤقت النوم على {time}",
-    "sleep_timer_disabled": "تم تعطيل مؤقت النوم"
+    "sleep_timer_disabled": "تم تعطيل مؤقت النوم",
+    "enable_music_speed_control": "التحكم في سرعة الموسيقى",
+    "music_speed_control_info": "تمكين التحكم في سرعة التشغيل لجميع ملفات الموسيقى بغض النظر عن المدة."
 }

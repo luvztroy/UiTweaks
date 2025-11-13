@@ -331,5 +331,7 @@
     "sleep_timer_custom": "Pengatur Waktu Tidur",
     "sleep_timer_disable": "Nonaktifkan",
     "sleep_timer_set": "Pengatur waktu tidur diatur ke {time}",
-    "sleep_timer_disabled": "Pengatur waktu tidur dinonaktifkan"
+    "sleep_timer_disabled": "Pengatur waktu tidur dinonaktifkan",
+    "enable_music_speed_control": "Kontrol Kecepatan Musik",
+    "music_speed_control_info": "Aktifkan kontrol kecepatan pemutaran untuk semua file musik terlepas dari durasi."
 }

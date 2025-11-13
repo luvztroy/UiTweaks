@@ -331,5 +331,7 @@
     "sleep_timer_custom": "Uyqu Taymeri",
     "sleep_timer_disable": "O'chirish",
     "sleep_timer_set": "Uyqu taymeri {time}ga o'rnatildi",
-    "sleep_timer_disabled": "Uyqu taymeri o'chirildi"
+    "sleep_timer_disabled": "Uyqu taymeri o'chirildi",
+    "enable_music_speed_control": "Musiqa Tezligini Boshqarish",
+    "music_speed_control_info": "Davomiyligidan qat'i nazar, barcha musiqa fayllari uchun ijro tezligini boshqarishni yoqing."
 }

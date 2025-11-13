@@ -331,5 +331,7 @@
     "sleep_timer_custom": "睡眠定时器",
     "sleep_timer_disable": "禁用",
     "sleep_timer_set": "睡眠定时器已设置为 {time}",
-    "sleep_timer_disabled": "睡眠定时器已禁用"
+    "sleep_timer_disabled": "睡眠定时器已禁用",
+    "enable_music_speed_control": "音乐速度控制",
+    "music_speed_control_info": "为所有音乐文件启用播放速度控制，无论时长。"
 }

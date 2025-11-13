@@ -331,5 +331,7 @@
     "sleep_timer_custom": "Таймер сна",
     "sleep_timer_disable": "Отключить",
     "sleep_timer_set": "Таймер сна установлен на {time}",
-    "sleep_timer_disabled": "Таймер сна отключён"
+    "sleep_timer_disabled": "Таймер сна отключен",
+    "enable_music_speed_control": "Управление скоростью музыки",
+    "music_speed_control_info": "Включить управление скоростью воспроизведения для всех музыкальных файлов независимо от продолжительности."
 }
