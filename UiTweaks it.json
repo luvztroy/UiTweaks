@@ -333,5 +333,6 @@
     "sleep_timer_set": "Timer di sospensione impostato su {time}",
     "sleep_timer_disabled": "Timer di sospensione disattivato",
     "enable_music_speed_control": "Controllo Velocità Musica",
-    "music_speed_control_info": "Abilita il controllo della velocità di riproduzione per tutti i file musicali indipendentemente dalla durata."
+    "music_speed_control_info": "Abilita il controllo della velocità di riproduzione per tutti i file musicali indipendentemente dalla durata.",
+    "send_comments_after_forward": "Invia commenti dopo l'inoltro"
 }

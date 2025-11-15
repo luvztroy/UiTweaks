@@ -333,5 +333,6 @@
     "sleep_timer_set": "Uyku zamanlayıcısı {time} olarak ayarlandı",
     "sleep_timer_disabled": "Uyku zamanlayıcısı devre dışı",
     "enable_music_speed_control": "Müzik Hız Kontrolü",
-    "music_speed_control_info": "Süreye bakılmaksızın tüm müzik dosyaları için oynatma hızı kontrolünü etkinleştirin."
+    "music_speed_control_info": "Süreye bakılmaksızın tüm müzik dosyaları için oynatma hızı kontrolünü etkinleştirin.",
+    "send_comments_after_forward": "Yeniden gönderdikten sonra yorumlar gönder"
 }

@@ -333,5 +333,6 @@
     "sleep_timer_set": "Minuteur de sommeil réglé sur {time}",
     "sleep_timer_disabled": "Minuteur de sommeil désactivé",
     "enable_music_speed_control": "Contrôle de Vitesse de Musique",
-    "music_speed_control_info": "Activer le contrôle de la vitesse de lecture pour tous les fichiers musicaux quelle que soit la durée."
+    "music_speed_control_info": "Activer le contrôle de la vitesse de lecture pour tous les fichiers musicaux quelle que soit la durée.",
+    "send_comments_after_forward": "Envoyer des commentaires après la transmission"
 }

@@ -333,5 +333,6 @@
     "sleep_timer_set": "تایمر خواب روی {time} تنظیم شد",
     "sleep_timer_disabled": "تایمر خواب غیرفعال شد",
     "enable_music_speed_control": "کنترل سرعت موسیقی",
-    "music_speed_control_info": "فعال کردن کنترل سرعت پخش برای همه فایل‌های موسیقی بدون توجه به مدت زمان."
+    "music_speed_control_info": "فعال کردن کنترل سرعت پخش برای همه فایل‌های موسیقی بدون توجه به مدت زمان.",
+    "send_comments_after_forward": "ارسال نظرات پس از به العامی رساندن"
 }

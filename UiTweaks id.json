@@ -333,5 +333,6 @@
     "sleep_timer_set": "Pengatur waktu tidur diatur ke {time}",
     "sleep_timer_disabled": "Pengatur waktu tidur dinonaktifkan",
     "enable_music_speed_control": "Kontrol Kecepatan Musik",
-    "music_speed_control_info": "Aktifkan kontrol kecepatan pemutaran untuk semua file musik terlepas dari durasi."
+    "music_speed_control_info": "Aktifkan kontrol kecepatan pemutaran untuk semua file musik terlepas dari durasi.",
+    "send_comments_after_forward": "Kirim komentar setelah meneruskan"
 }
