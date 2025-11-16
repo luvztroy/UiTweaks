@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "플러그인을 가져오지 않음 ({count}개 건너뜀 - 동일하거나 최신 버전)",
     "auto_update": "자동 업데이트",
     "update_branch": "업데이트 브랜치",
-    "update_branch_info": "업데이트를 받을 브랜치를 선택하세요. Beta에는 실험적 기능이 포함될 수 있습니다.",
+    "update_branch_info": "업데이트를 받고 로컬라이제이션 파일을 다운로드하고 싶은 브랜치를 선택하세요. Beta는 실험적 기능과 더 최신 번역을 포함할 수 있습니다.",
     "branch_selector_enabled": "브랜치 선택기가 활성화되었습니다!",
     "branch_selector_disabled": "브랜치 선택기가 숨겨졌습니다",
     "updates": "업데이트",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "슬립 타이머가 비활성화되었습니다",
     "enable_music_speed_control": "음악 속도 제어",
     "music_speed_control_info": "재생 시간에 관계없이 모든 음악 파일에 대해 재생 속도 제어를 활성화합니다.",
-    "send_comments_after_forward": "전달 후 댓글 전송"
+    "send_comments_after_forward": "전달 후 댓글 전송",
+    "always_visible_schedule_button": "일정 버튼 항상 표시"
 }

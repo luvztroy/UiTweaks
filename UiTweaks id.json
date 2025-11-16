@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "Tidak ada plugin yang diimpor ({count} dilewati - versi sama atau lebih baru)",
     "auto_update": "Pembaruan Otomatis",
     "update_branch": "Cabang Pembaruan",
-    "update_branch_info": "Pilih cabang yang ingin Anda terima pembaruannya. Beta mungkin berisi fitur eksperimental.",
+    "update_branch_info": "Pilih cabang tempat Anda ingin menerima pembaruan dan mengunduh file lokalisasi. Beta mungkin berisi fitur eksperimental dan terjemahan yang lebih baru.",
     "branch_selector_enabled": "Pemilih cabang diaktifkan!",
     "branch_selector_disabled": "Pemilih cabang disembunyikan",
     "updates": "Pembaruan",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "Pengatur waktu tidur dinonaktifkan",
     "enable_music_speed_control": "Kontrol Kecepatan Musik",
     "music_speed_control_info": "Aktifkan kontrol kecepatan pemutaran untuk semua file musik terlepas dari durasi.",
-    "send_comments_after_forward": "Kirim komentar setelah meneruskan"
+    "send_comments_after_forward": "Kirim Komentar Setelah Meneruskan",
+    "always_visible_schedule_button": "Tombol Jadwal Selalu Terlihat"
 }

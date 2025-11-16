@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "لم يتم استيراد إضافات ({count} تم تخطيها - نفس الإصدار أو أحدث)",
     "auto_update": "التحديث التلقائي",
     "update_branch": "فرع التحديث",
-    "update_branch_info": "اختر الفرع الذي تريد تلقي التحديثات منه. قد يحتوي Beta على ميزات تجريبية.",
+    "update_branch_info": "اختر الفرع الذي تريد تلقي التحديثات وتحميل ملفات الترجمة منه. قد يحتوي Beta على ميزات تجريبية وترجمات أحدث.",
     "branch_selector_enabled": "تم تفعيل محدد الفرع!",
     "branch_selector_disabled": "تم إخفاء محدد الفرع",
     "updates": "التحديثات",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "تم تعطيل مؤقت النوم",
     "enable_music_speed_control": "التحكم في سرعة الموسيقى",
     "music_speed_control_info": "تمكين التحكم في سرعة التشغيل لجميع ملفات الموسيقى بغض النظر عن المدة.",
-    "send_comments_after_forward": "إرسال التعليقات بعد إعادة التوجيه"
+    "send_comments_after_forward": "إرسال التعليقات بعد إعادة التوجيه",
+    "always_visible_schedule_button": "زر الجدولة مرئي دائماً"
 }

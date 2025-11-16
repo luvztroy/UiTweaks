@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "Niciun plugin importat ({count} omise - aceeași versiune sau mai recentă)",
     "auto_update": "Actualizare Automată",
     "update_branch": "Ramură de Actualizare",
-    "update_branch_info": "Selectați ramura de la care doriți să primiți actualizări. Beta poate conține funcții experimentale.",
+    "update_branch_info": "Selectaţi ramura din care doriţi să primiţi actualizări și să descarcaţi fișiere de localizare. Beta poate conţine caracteristici experimentale și traducări mai noi.",
     "branch_selector_enabled": "Selector de ramură activat!",
     "branch_selector_disabled": "Selector de ramură ascuns",
     "updates": "Actualizări",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "Cronometrul de somn este dezactivat",
     "enable_music_speed_control": "Control Viteză Muzică",
     "music_speed_control_info": "Activează controlul vitezei de redare pentru toate fișierele muzicale indiferent de durată.",
-    "send_comments_after_forward": "Trimite comentarii după redirecționare"
+    "send_comments_after_forward": "Trimite comentarii după înaintare",
+    "always_visible_schedule_button": "Buton de programare mereu vizibil"
 }

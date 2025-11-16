@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "未导入插件 ({count}个已跳过 - 相同或更新版本)",
     "auto_update": "自动更新",
     "update_branch": "更新分支",
-    "update_branch_info": "选择要接收更新的分支。Beta 可能包含实验性功能。",
+    "update_branch_info": "选择您想要接收更新和下载本地化文件的分支。Beta 可能包含实験性功能和更新的翻译。",
     "branch_selector_enabled": "分支选择器已启用！",
     "branch_selector_disabled": "分支选择器已隐藏",
     "updates": "更新",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "睡眠定时器已禁用",
     "enable_music_speed_control": "音乐速度控制",
     "music_speed_control_info": "为所有音乐文件启用播放速度控制，无论时长。",
-    "send_comments_after_forward": "转发后发送评论"
+    "send_comments_after_forward": "转发后发送评论",
+    "always_visible_schedule_button": "日程按针始终可见"
 }

@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "No plugins imported ({count} skipped - same or newer version)",
     "auto_update": "Auto Update",
     "update_branch": "Update Branch",
-    "update_branch_info": "Select which branch to receive updates from. Beta may contain experimental features.",
+    "update_branch_info": "Select which branch to receive updates and download localization files from. Beta may contain experimental features and newer translations.",
     "branch_selector_enabled": "Branch selector enabled!",
     "branch_selector_disabled": "Branch selector hidden",
     "updates": "Updates",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "Sleep timer is disabled",
     "enable_music_speed_control": "Music Speed Control",
     "music_speed_control_info": "Enable playback speed control for all music files regardless of duration.",
-    "send_comments_after_forward": "Send Comments After Forward"
+    "send_comments_after_forward": "Send Comments After Forward",
+    "always_visible_schedule_button": "Always Visible Schedule Button"
 }

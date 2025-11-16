@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "Hech qanday plagin import qilinmadi ({count} o'tkazib yuborildi - bir xil yoki yangi versiya)",
     "auto_update": "Avtomatik Yangilash",
     "update_branch": "Yangilash Tarmog'i",
-    "update_branch_info": "Yangilanishlarni qaysi tarmoqdan olishni tanlang. Beta tajribaviy funksiyalarni o'z ichiga olishi mumkin.",
+    "update_branch_info": "Yangilanishlarni olish va lokalizatsiya fayllarini yuklab olishni xohlagan filialini tanlang. Beta eksperimental xususiyatlar va yangi tarjimalarni o'z ichiga olishi mumkin.",
     "branch_selector_enabled": "Tarmoq tanlagich yoqildi!",
     "branch_selector_disabled": "Tarmoq tanlagich yashirildi",
     "updates": "Yangilanishlar",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "Uyqu taymeri o'chirildi",
     "enable_music_speed_control": "Musiqa Tezligini Boshqarish",
     "music_speed_control_info": "Davomiyligidan qat'i nazar, barcha musiqa fayllari uchun ijro tezligini boshqarishni yoqing.",
-    "send_comments_after_forward": "Yo'naltirish keyin sharhlar yuboring"
+    "send_comments_after_forward": "Yo'naltirish keyin sharhlar yuboring",
+    "always_visible_schedule_button": "Jadval tugmasi har doim ko'rinadi"
 }

@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "No se importaron plugins ({count} omitidos - misma versión o más reciente)",
     "auto_update": "Actualización Automática",
     "update_branch": "Rama de Actualización",
-    "update_branch_info": "Seleccione la rama de la que desea recibir actualizaciones. Beta puede contener funciones experimentales.",
+    "update_branch_info": "Selecciona la rama de la que deseas recibir actualizaciones y descargar archivos de localización. Beta puede contener funciones experimentales y traducciones más nuevas.",
     "branch_selector_enabled": "¡Selector de rama activado!",
     "branch_selector_disabled": "Selector de rama oculto",
     "updates": "Actualizaciones",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "Temporizador de suspensión desactivado",
     "enable_music_speed_control": "Control de Velocidad de Música",
     "music_speed_control_info": "Habilitar control de velocidad de reproducción para todos los archivos de música independientemente de la duración.",
-    "send_comments_after_forward": "Enviar comentarios después de reenviar"
+    "send_comments_after_forward": "Enviar comentarios después de reenviar",
+    "always_visible_schedule_button": "Botón de programación siempre visible"
 }

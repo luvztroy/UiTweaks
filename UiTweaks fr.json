@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "Aucun plugin importé ({count} ignorés - même version ou plus récente)",
     "auto_update": "Mise à Jour Automatique",
     "update_branch": "Branche de Mise à Jour",
-    "update_branch_info": "Sélectionnez la branche à partir de laquelle vous souhaitez recevoir les mises à jour. Beta peut contenir des fonctionnalités expérimentales.",
+    "update_branch_info": "Sélectionnez la branche à partir de laquelle vous souhaitez recevoir les mises à jour et télécharger les fichiers de localisation. Beta peut contenir des fonctionnalités expérimentales et des traductions plus récentes.",
     "branch_selector_enabled": "Sélecteur de branche activé!",
     "branch_selector_disabled": "Sélecteur de branche masqué",
     "updates": "Mises à Jour",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "Minuteur de sommeil désactivé",
     "enable_music_speed_control": "Contrôle de Vitesse de Musique",
     "music_speed_control_info": "Activer le contrôle de la vitesse de lecture pour tous les fichiers musicaux quelle que soit la durée.",
-    "send_comments_after_forward": "Envoyer des commentaires après la transmission"
+    "send_comments_after_forward": "Envoyer des commentaires après le transfert",
+    "always_visible_schedule_button": "Bouton de planification toujours visible"
 }

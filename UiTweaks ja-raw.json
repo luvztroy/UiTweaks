@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "プラグインはインポートされませんでした({count}スキップ - 同じまたはより新しいバージョン)",
     "auto_update": "自動更新",
     "update_branch": "更新ブランチ",
-    "update_branch_info": "どのブランチから更新を受け取るかを選択します。",
+    "update_branch_info": "更新を受け取りたいブランチを選んで、ローカライゼーションファイルをダウンロードしてください。Betaは実験的な機能とより新しい翻訳を含む場合があります。",
     "branch_selector_enabled": "ブランチセレクターが有効になりました！",
     "branch_selector_disabled": "ブランチセレクターが非表示になりました",
     "updates": "更新",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "スリープタイマーが無効になりました",
     "enable_music_speed_control": "音声速度控制",
     "music_speed_control_info": "すべての音声ファイルの再生速度控制を有効にします。",
-    "send_comments_after_forward": "転送後にコメントを送信"
+    "send_comments_after_forward": "転送後にコメントを送信",
+    "always_visible_schedule_button": "スケジュールボタンを常に表示"
 }

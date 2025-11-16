@@ -319,7 +319,7 @@
     "no_plugins_imported_skipped": "Keine Plugins importiert ({count} übersprungen - gleiche oder neuere Version)",
     "auto_update": "Automatisches Update",
     "update_branch": "Update-Zweig",
-    "update_branch_info": "Wählen Sie den Zweig aus, von dem Sie Updates erhalten möchten. Beta kann experimentelle Funktionen enthalten.",
+    "update_branch_info": "Wählen Sie den Branch, von dem Sie Updates erhalten und Lokalisierungsdateien herunterladen möchten. Beta kann experimentelle Funktionen und neuere Übersetzungen enthalten.",
     "branch_selector_enabled": "Zweig-Auswahl aktiviert!",
     "branch_selector_disabled": "Zweig-Auswahl ausgeblendet",
     "updates": "Updates",
@@ -334,5 +334,6 @@
     "sleep_timer_disabled": "Schlaf-Timer deaktiviert",
     "enable_music_speed_control": "Musikgeschwindigkeitssteuerung",
     "music_speed_control_info": "Aktivieren Sie die Wiedergabegeschwindigkeitssteuerung für alle Musikdateien unabhängig von der Dauer.",
-    "send_comments_after_forward": "Kommentare nach Weiterleitung senden"
+    "send_comments_after_forward": "Kommentare nach Weiterleitung senden",
+    "always_visible_schedule_button": "Zeitplan-Button immer sichtbar"
 }
