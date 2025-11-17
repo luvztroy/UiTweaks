@@ -271,7 +271,7 @@
     "export_warning_title":  "Экспорт настроек",
     "export_warning_message":  "Некоторые плагины содержат конфиденциальные данные. Включить их?",
     "include_api_keys":  "Включить конфиденциальные данные",
-    "tips_and_tricks":  "Советы",
+    "tips_and_tricks":  "Гайды и объяснения функций",
     "localization_branch":  "Ветка локализации",
     "branch_main":  "Основная",
     "branch_beta":  "Бета",
@@ -334,6 +334,6 @@
     "sleep_timer_disabled": "Таймер сна отключен",
     "enable_music_speed_control": "Управление скоростью музыки",
     "music_speed_control_info": "Включает возможность управления скоростью воспроизведения для всех музыкальных файлов независимо от продолжительности.",
-    "send_comments_after_forward": "Отправить комментарии после передачи",
-    "always_visible_schedule_button": "Кнопка расписания всегда видна"
+    "send_comments_after_forward": "Отправлять комментарии после пересылки",
+    "always_visible_schedule_button": "Всегда показывать кнопку отложенной отправки"
 }
