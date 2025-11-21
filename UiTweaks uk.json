@@ -334,6 +334,7 @@
     "sleep_timer_disabled": "Таймер сну вимкнено",
     "enable_music_speed_control": "Керування швидкістю музики",
     "music_speed_control_info": "Увімкнути керування швидкістю відтворення для всіх музичних файлів незалежно від тривалості.",
-    "send_comments_after_forward": "Надіслати коментарі після передачі",
-    "always_visible_schedule_button": "Кнопка розкладу завжди видна"
+    "send_comments_after_forward": "Надсилати коментарі після пересилання",
+    "always_visible_schedule_button": "Кнопка планування завжди видна",
+    "disable_emoji_suggestions": "Вимкнути поради емодзі"
 }

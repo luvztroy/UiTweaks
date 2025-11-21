@@ -335,5 +335,6 @@
     "enable_music_speed_control": "التحكم في سرعة الموسيقى",
     "music_speed_control_info": "تمكين التحكم في سرعة التشغيل لجميع ملفات الموسيقى بغض النظر عن المدة.",
     "send_comments_after_forward": "إرسال التعليقات بعد إعادة التوجيه",
-    "always_visible_schedule_button": "زر الجدولة مرئي دائماً"
+    "always_visible_schedule_button": "زر الجدولة مرئي دائماً",
+    "disable_emoji_suggestions": "تعطيل اقتراحات الرموز التعبيرية"
 }

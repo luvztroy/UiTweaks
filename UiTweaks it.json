@@ -335,5 +335,6 @@
     "enable_music_speed_control": "Controllo Velocità Musica",
     "music_speed_control_info": "Abilita il controllo della velocità di riproduzione per tutti i file musicali indipendentemente dalla durata.",
     "send_comments_after_forward": "Invia commenti dopo l'inoltro",
-    "always_visible_schedule_button": "Pulsante Pianificazione Sempre Visibile"
+    "always_visible_schedule_button": "Pulsante Pianificazione Sempre Visibile",
+    "disable_emoji_suggestions": "Disabilita suggerimenti emoji"
 }

@@ -335,5 +335,6 @@
     "enable_music_speed_control": "Music Speed Control",
     "music_speed_control_info": "Enable playback speed control for all music files regardless of duration.",
     "send_comments_after_forward": "Send Comments After Forward",
-    "always_visible_schedule_button": "Always Visible Schedule Button"
+    "always_visible_schedule_button": "Always Visible Schedule Button",
+    "disable_emoji_suggestions": "Disable Emoji Suggestions"
 }

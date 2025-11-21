@@ -335,5 +335,6 @@
     "enable_music_speed_control": "音乐速度控制",
     "music_speed_control_info": "为所有音乐文件启用播放速度控制，无论时长。",
     "send_comments_after_forward": "转发后发送评论",
-    "always_visible_schedule_button": "日程按针始终可见"
+    "always_visible_schedule_button": "日程按钮始终可见",
+    "disable_emoji_suggestions": "禁用表情符号建议"
 }

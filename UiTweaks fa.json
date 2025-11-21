@@ -334,6 +334,7 @@
     "sleep_timer_disabled": "تایمر خواب غیرفعال شد",
     "enable_music_speed_control": "کنترل سرعت موسیقی",
     "music_speed_control_info": "فعال کردن کنترل سرعت پخش برای همه فایل‌های موسیقی بدون توجه به مدت زمان.",
-    "send_comments_after_forward": "ارسال نظرات پس از به روزرسانی",
-    "always_visible_schedule_button": "دكمه زمانبندی هميشه نمايان"
+    "send_comments_after_forward": "ارسال نظرات بعد از به اللام رساندن",
+    "always_visible_schedule_button": "دكمه برنامه ريزي هميشه قابل رؤيت",
+    "disable_emoji_suggestions": "غيرفعال كردن پيشنهادات ايموجي"
 }

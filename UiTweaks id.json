@@ -335,5 +335,6 @@
     "enable_music_speed_control": "Kontrol Kecepatan Musik",
     "music_speed_control_info": "Aktifkan kontrol kecepatan pemutaran untuk semua file musik terlepas dari durasi.",
     "send_comments_after_forward": "Kirim Komentar Setelah Meneruskan",
-    "always_visible_schedule_button": "Tombol Jadwal Selalu Terlihat"
+    "always_visible_schedule_button": "Tombol Jadwal Selalu Terlihat",
+    "disable_emoji_suggestions": "Nonaktifkan Saran Emoji"
 }

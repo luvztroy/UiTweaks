@@ -335,5 +335,6 @@
     "enable_music_speed_control": "음악 속도 제어",
     "music_speed_control_info": "재생 시간에 관계없이 모든 음악 파일에 대해 재생 속도 제어를 활성화합니다.",
     "send_comments_after_forward": "전달 후 댓글 전송",
-    "always_visible_schedule_button": "일정 버튼 항상 표시"
+    "always_visible_schedule_button": "일정 버튼 항상 표시",
+    "disable_emoji_suggestions": "이모지 제안 비활성화"
 }

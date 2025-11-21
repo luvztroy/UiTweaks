@@ -335,5 +335,6 @@
     "enable_music_speed_control": "Control Viteză Muzică",
     "music_speed_control_info": "Activează controlul vitezei de redare pentru toate fișierele muzicale indiferent de durată.",
     "send_comments_after_forward": "Trimite comentarii după înaintare",
-    "always_visible_schedule_button": "Buton de programare mereu vizibil"
+    "always_visible_schedule_button": "Buton de programare mereu vizibil",
+    "disable_emoji_suggestions": "Dezactiveaza sugestiile de emoji"
 }

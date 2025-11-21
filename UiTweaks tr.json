@@ -335,5 +335,6 @@
     "enable_music_speed_control": "Müzik Hız Kontrolü",
     "music_speed_control_info": "Süreye bakılmaksızın tüm müzik dosyaları için oynatma hızı kontrolünü etkinleştirin.",
     "send_comments_after_forward": "İletme Sonrası Yorumları Gönder",
-    "always_visible_schedule_button": "Zamanlama Düğmesi Her Zaman Görünür"
+    "always_visible_schedule_button": "Zamanlama Düğmesi Her Zaman Görünür",
+    "disable_emoji_suggestions": "Emoji önerilerini devre dışı bırak"
 }

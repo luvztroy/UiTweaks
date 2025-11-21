@@ -334,6 +334,7 @@
     "sleep_timer_disabled": "Schlaf-Timer deaktiviert",
     "enable_music_speed_control": "Musikgeschwindigkeitssteuerung",
     "music_speed_control_info": "Aktivieren Sie die Wiedergabegeschwindigkeitssteuerung für alle Musikdateien unabhängig von der Dauer.",
-    "send_comments_after_forward": "Kommentare nach Weiterleitung senden",
-    "always_visible_schedule_button": "Zeitplan-Button immer sichtbar"
+    "send_comments_after_forward": "Kommentare nach dem Weiterleiten senden",
+    "always_visible_schedule_button": "Schaltfläche \"Zeitplan\" immer sichtbar",
+    "disable_emoji_suggestions": "Emoji-Vorschläge deaktivieren"
 }

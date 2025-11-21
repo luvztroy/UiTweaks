@@ -335,5 +335,6 @@
     "enable_music_speed_control": "Musiqa Tezligini Boshqarish",
     "music_speed_control_info": "Davomiyligidan qat'i nazar, barcha musiqa fayllari uchun ijro tezligini boshqarishni yoqing.",
     "send_comments_after_forward": "Yo'naltirish keyin sharhlar yuboring",
-    "always_visible_schedule_button": "Jadval tugmasi har doim ko'rinadi"
+    "always_visible_schedule_button": "Jadval tugmasi har doim ko'rinadi",
+    "disable_emoji_suggestions": "Emoji takliflarini o'chirib qo'ying"
 }

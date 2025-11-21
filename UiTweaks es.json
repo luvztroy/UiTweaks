@@ -335,5 +335,6 @@
     "enable_music_speed_control": "Control de Velocidad de Música",
     "music_speed_control_info": "Habilitar control de velocidad de reproducción para todos los archivos de música independientemente de la duración.",
     "send_comments_after_forward": "Enviar comentarios después de reenviar",
-    "always_visible_schedule_button": "Botón de programación siempre visible"
+    "always_visible_schedule_button": "Botón de programación siempre visible",
+    "disable_emoji_suggestions": "Desactivar sugerencias de emoji"
 }
