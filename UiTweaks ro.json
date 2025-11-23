@@ -336,5 +336,8 @@
     "music_speed_control_info": "Activează controlul vitezei de redare pentru toate fișierele muzicale indiferent de durată.",
     "send_comments_after_forward": "Trimite comentarii după înaintare",
     "always_visible_schedule_button": "Buton de programare mereu vizibil",
-    "disable_emoji_suggestions": "Dezactiveaza sugestiile de emoji"
+    "disable_emoji_suggestions": "Dezactivează sugestiile de emoji",
+    "forward_mode": "Modul de trimitere",
+    "forward_option": "Trimite",
+    "no_quote_option": "Fără citată"
 }

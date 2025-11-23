@@ -336,5 +336,8 @@
     "music_speed_control_info": "Увімкнути керування швидкістю відтворення для всіх музичних файлів незалежно від тривалості.",
     "send_comments_after_forward": "Надсилати коментарі після пересилання",
     "always_visible_schedule_button": "Кнопка планування завжди видна",
-    "disable_emoji_suggestions": "Вимкнути поради емодзі"
+    "disable_emoji_suggestions": "Вимкнути поради емодзі",
+    "forward_mode": "Режим пересилання",
+    "forward_option": "Пересилати",
+    "no_quote_option": "Без цитати"
 }

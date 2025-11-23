@@ -336,5 +336,8 @@
     "music_speed_control_info": "Activer le contrôle de la vitesse de lecture pour tous les fichiers musicaux quelle que soit la durée.",
     "send_comments_after_forward": "Envoyer des commentaires après le transfert",
     "always_visible_schedule_button": "Bouton de planification toujours visible",
-    "disable_emoji_suggestions": "Désactiver les suggestions d'emoji"
+    "disable_emoji_suggestions": "Désactiver les suggestions d'emoji",
+    "forward_mode": "Mode de transfert",
+    "forward_option": "Transférer",
+    "no_quote_option": "Sans citation"
 }

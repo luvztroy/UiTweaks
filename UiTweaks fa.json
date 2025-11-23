@@ -336,5 +336,8 @@
     "music_speed_control_info": "فعال کردن کنترل سرعت پخش برای همه فایل‌های موسیقی بدون توجه به مدت زمان.",
     "send_comments_after_forward": "ارسال نظرات بعد از به اللام رساندن",
     "always_visible_schedule_button": "دكمه برنامه ريزي هميشه قابل رؤيت",
-    "disable_emoji_suggestions": "غيرفعال كردن پيشنهادات ايموجي"
+    "disable_emoji_suggestions": "غیرفعال کردن پیشنهادات ایموجی",
+    "forward_mode": "حالت ارسال مجدد",
+    "forward_option": "ارسال مجدد",
+    "no_quote_option": "بدون نقل قول"
 }

@@ -336,5 +336,8 @@
     "music_speed_control_info": "Ativar controle de velocidade de reprodução para todos os arquivos de música independentemente da duração.",
     "send_comments_after_forward": "Enviar comentários após reencaminhar",
     "always_visible_schedule_button": "Botão de agendamento sempre visível",
-    "disable_emoji_suggestions": "Desabilitar sugestões de emoji"
+    "disable_emoji_suggestions": "Desabilitar sugestões de emoji",
+    "forward_mode": "Modo de Encaminhamento",
+    "forward_option": "Encaminhar",
+    "no_quote_option": "Sem Citação"
 }

@@ -336,5 +336,8 @@
     "music_speed_control_info": "为所有音乐文件启用播放速度控制，无论时长。",
     "send_comments_after_forward": "转发后发送评论",
     "always_visible_schedule_button": "日程按钮始终可见",
-    "disable_emoji_suggestions": "禁用表情符号建议"
+    "disable_emoji_suggestions": "禁用表情符号建议",
+    "forward_mode": "转发模式",
+    "forward_option": "转发",
+    "no_quote_option": "无引用"
 }
