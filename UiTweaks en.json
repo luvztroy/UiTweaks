@@ -83,7 +83,7 @@
     "enable_reply_private_chat":  "Enable Reply in Private Chat",
     "enabled":  "Enabled",
     "enter_caption":  "Enter caption...",
-    "enter_message_id":  "Enter Message ID",
+    "search_messages":  "Search Messages",
     "export_settings":  "Export Settings",
     "export_settings_success":  "Exported {count} settings",
     "exclude_archived_from_count":  "Exclude Archived Chats from Count",
@@ -157,7 +157,7 @@
     "mention_menu_item":  "Mention",
     "menu_visibility":  "Menu Visibility",
     "menu_visibility_info":  "This will force the buttons to always show in the action bar.",
-    "message_id_hint":  "Message ID",
+    "id_hint":  " ID",
     "message_preview_send_button":  "Link Preview Send Button",
     "message_type_command":  "command",
     "message_type_file":  "file",
@@ -339,5 +339,6 @@
     "disable_emoji_suggestions": "Disable Emoji Suggestions",
     "forward_mode": "Forward Mode",
     "forward_option": "Forward",
-    "no_quote_option": "No Quote"
+    "no_quote_option": "No Quote",
+    "search": "Search"
 }
