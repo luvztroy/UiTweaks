@@ -338,5 +338,6 @@
     "disable_emoji_suggestions": "Desactivar sugerencias de emoji",
     "forward_mode": "Modo de reenvío",
     "forward_option": "Reenviar",
-    "no_quote_option": "Sin cita"
+    "no_quote_option": "Sin cita",
+    "search": "Buscar"
 }

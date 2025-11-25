@@ -338,5 +338,6 @@
     "disable_emoji_suggestions": "تعطيل اقتراحات الرموز التعبيرية",
     "forward_mode": "وضع إعادة التوجيه",
     "forward_option": "إعادة التوجيه",
-    "no_quote_option": "بدون اقتباس"
+    "no_quote_option": "بدون اقتباس",
+    "search": "بحث"
 }

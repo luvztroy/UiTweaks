@@ -338,5 +338,6 @@
     "disable_emoji_suggestions": "絵文字の提案を無効化",
     "forward_mode": "転送モード",
     "forward_option": "転送",
-    "no_quote_option": "引用なし"
+    "no_quote_option": "引用なし",
+    "search": "検索"
 }

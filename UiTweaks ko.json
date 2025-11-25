@@ -338,5 +338,6 @@
     "disable_emoji_suggestions": "이모지 제안 비활성화",
     "forward_mode": "전달 모드",
     "forward_option": "전달",
-    "no_quote_option": "인용 없음"
+    "no_quote_option": "인용 없음",
+    "search": "검색"
 }

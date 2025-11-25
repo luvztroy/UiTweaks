@@ -338,5 +338,6 @@
     "disable_emoji_suggestions": "禁用表情符号建议",
     "forward_mode": "转发模式",
     "forward_option": "转发",
-    "no_quote_option": "无引用"
+    "no_quote_option": "不带引文",
+    "search": "搜索"
 }

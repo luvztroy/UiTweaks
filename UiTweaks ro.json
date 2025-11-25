@@ -338,5 +338,6 @@
     "disable_emoji_suggestions": "Dezactivează sugestiile de emoji",
     "forward_mode": "Modul de trimitere",
     "forward_option": "Trimite",
-    "no_quote_option": "Fără citată"
+    "no_quote_option": "Fără citat",
+    "search": "Căutare"
 }

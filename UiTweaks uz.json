@@ -338,5 +338,6 @@
     "disable_emoji_suggestions": "Emoji takliflarini o'chirib qo'yish",
     "forward_mode": "Yuborish rejimi",
     "forward_option": "Yuborish",
-    "no_quote_option": "Iqtibossiz"
+    "no_quote_option": "Iqtibossiz",
+    "search": "Qidirish"
 }

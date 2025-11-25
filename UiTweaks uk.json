@@ -338,5 +338,6 @@
     "disable_emoji_suggestions": "Вимкнути поради емодзі",
     "forward_mode": "Режим пересилання",
     "forward_option": "Пересилати",
-    "no_quote_option": "Без цитати"
+    "no_quote_option": "Без цитування",
+    "search": "Пошук"
 }
