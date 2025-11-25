@@ -153,7 +153,6 @@
     "memory_warning_message":  "High memory usage: {used_mb}MB.\n\nRestart app or dump memory?",
     "memory_warning_title":  "Memory Warning",
     "MobileHidden":  "Mobile hidden",
-    "mention_id_hint":  "ID",
     "mention_menu_item":  "Mention",
     "menu_visibility":  "Menu Visibility",
     "menu_visibility_info":  "This will force the buttons to always show in the action bar.",
