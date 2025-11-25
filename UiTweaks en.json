@@ -1,7 +1,7 @@
 {
     "account_visibility":  "Account Visibility",
     "account_visibility_subtext":  "Hide/show accounts by long-pressing theme button",
-    "add_caption_to_gif":  "Add Caption to GIF",
+    "add_caption_to_gif":  "Caption",
     "add_folders_to_share_sheet":  "Folders in direct share sheet",
     "add_to_folder_all_tabs":  "Add to Folder in All Tabs",
     "add_to_folder_all_tabs_subtext":  "Enables 'Add to folder' option in all folder tabs, not just the All chats tab",
@@ -82,7 +82,7 @@
     "enable_recent_chats_menu":  "Enable Recent Chats Menu",
     "enable_reply_private_chat":  "Enable Reply in Private Chat",
     "enabled":  "Enabled",
-    "enter_caption":  "Enter caption...",
+    "enter_caption":  "Message",
     "search_messages":  "Search Messages",
     "export_settings":  "Export Settings",
     "export_settings_success":  "Exported {count} settings",
