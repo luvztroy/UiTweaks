@@ -339,5 +339,7 @@
     "forward_mode": "Mode de transfert",
     "forward_option": "Transférer",
     "no_quote_option": "Sans citation",
-    "search": "Recherche"
+    "search": "Rechercher",
+    "enable_reply_in_another_chat_shortcut": "Répondre dans un autre chat",
+    "reply_in_another_chat_shortcut_info": "Maintenez le bouton de réponse enfoncé pour répondre rapidement à un message dans un autre chat."
 }

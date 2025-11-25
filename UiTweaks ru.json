@@ -339,5 +339,7 @@
     "forward_mode": "Режим пересылки",
     "forward_option": "Пересылка",
     "no_quote_option": "Без цитаты",
-    "search": "Поиск"
+    "search": "Поиск",
+    "enable_reply_in_another_chat_shortcut": "Ответить в другом чате",
+    "reply_in_another_chat_shortcut_info": "Нажмите и удерживайте кнопку ответа, чтобы быстро ответить на сообщение в другом чате."
 }

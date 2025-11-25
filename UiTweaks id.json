@@ -339,5 +339,7 @@
     "forward_mode": "Mode Terusan",
     "forward_option": "Teruskan",
     "no_quote_option": "Tanpa Kutipan",
-    "search": "Cari"
+    "search": "Cari",
+    "enable_reply_in_another_chat_shortcut": "Balas di Obrolan Lain",
+    "reply_in_another_chat_shortcut_info": "Tahan tombol balas untuk dengan cepat membalas pesan di obrolan lain."
 }

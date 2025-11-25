@@ -339,5 +339,7 @@
     "forward_mode": "حالت ارسال مجدد",
     "forward_option": "ارسال مجدد",
     "no_quote_option": "بدون نقل قول",
-    "search": "جستجو"
+    "search": "جستجو",
+    "enable_reply_in_another_chat_shortcut": "پاسخ در گفتگوی دیگر",
+    "reply_in_another_chat_shortcut_info": "دکمه پاسخ را برای پاسخ سریع به ابلاغ در گفتگوی دیگر نگه دارید."
 }

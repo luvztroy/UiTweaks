@@ -339,5 +339,7 @@
     "forward_mode": "Yuborish rejimi",
     "forward_option": "Yuborish",
     "no_quote_option": "Iqtibossiz",
-    "search": "Qidirish"
+    "search": "Qidirish",
+    "enable_reply_in_another_chat_shortcut": "Boshqa chatda javob bering",
+    "reply_in_another_chat_shortcut_info": "Boshqa chatdagi xabarga tez javob berish uchun javob tugmasini bosib turing."
 }

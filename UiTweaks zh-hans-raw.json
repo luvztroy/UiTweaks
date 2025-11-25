@@ -339,5 +339,7 @@
     "forward_mode": "转发模式",
     "forward_option": "转发",
     "no_quote_option": "不带引文",
-    "search": "搜索"
+    "search": "搜索",
+    "enable_reply_in_another_chat_shortcut": "在另一个聊天中回复",
+    "reply_in_another_chat_shortcut_info": "長按回复按鈕以快速回复另一个聊天中的消息。"
 }

@@ -339,5 +339,7 @@
     "forward_mode": "전달 모드",
     "forward_option": "전달",
     "no_quote_option": "인용 없음",
-    "search": "검색"
+    "search": "검색",
+    "enable_reply_in_another_chat_shortcut": "다른 채팅에서 답장",
+    "reply_in_another_chat_shortcut_info": "다른 채팅에서 메시지에 빠른식으로 답장하려면 답장 버튼을 길게 누른다."
 }

@@ -339,5 +339,7 @@
     "forward_mode": "Weiterleitungsmodus",
     "forward_option": "Weiterleiten",
     "no_quote_option": "Ohne Zitat",
-    "search": "Suche"
+    "search": "Suche",
+    "enable_reply_in_another_chat_shortcut": "In anderem Chat antworten",
+    "reply_in_another_chat_shortcut_info": "Halten Sie die Antworttaste gedrückt, um schnell auf eine Nachricht in einem anderen Chat zu antworten."
 }

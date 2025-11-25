@@ -339,5 +339,7 @@
     "forward_mode": "Modalità di inoltro",
     "forward_option": "Inoltra",
     "no_quote_option": "Senza citazione",
-    "search": "Ricerca"
+    "search": "Ricerca",
+    "enable_reply_in_another_chat_shortcut": "Rispondi in un'altra chat",
+    "reply_in_another_chat_shortcut_info": "Tieni premuto il pulsante di risposta per rispondere rapidamente a un messaggio in un'altra chat."
 }
