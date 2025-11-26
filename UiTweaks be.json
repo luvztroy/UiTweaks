@@ -139,6 +139,8 @@
     "language_pref_reset_failed":  "Не ўдалося скінуць перавагу мовы",
     "language_pref_reset_success":  "Перавага мовы была скінута",
     "links":  "Спасылкі",
+    "long_press_to_configure_actions":  "Доўгі націсак для налаштування дзеянняў",
+    "long_press_to_select_message_types":  "Доўгі націсак для выбару тыпаў паведамленняў",
     "localization_bottom_text":  "Гэты працэс адбываецца толькі адзін раз. Пасля спампоўкі файлы захоўваюцца лакальна, каб даць вам бесперапынны доступ да UiTweaks на вашай мове ў любы час.",
     "localization_continue_text":  "Вы можаце працягваць выкарыстоўваць UiTweaks на англійскай мове або выбраць іншую мову з кнопкі выбару мовы.",
     "localization_not_available":  "Лакалізацыя недаступная",

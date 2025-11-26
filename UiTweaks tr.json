@@ -139,6 +139,8 @@
     "language_pref_reset_failed":  "Dil tercihi sıfırlanamadı",
     "language_pref_reset_success":  "Dil tercihi sıfırlandı",
     "links":  "Bağlantılar",
+    "long_press_to_configure_actions":  "İşlemleri yapılandırmak için uzun basın",
+    "long_press_to_select_message_types":  "İleti türlerini seçmek için uzun basın",
     "localization_bottom_text":  "Bu işlem yalnızca bir kez gerçekleşir. İndirmeden sonra, dosyalar dilinizde UiTweaks'a istediğiniz zaman sorunsuz erişim sağlamak için yerel olarak kaydedilir.",
     "localization_continue_text":  "UiTweaks'ı İngilizce olarak kullanmaya devam edebilir veya dil seçici düğmesinden farklı bir dil seçebilirsiniz.",
     "localization_not_available":  "Yerelleştirme mevcut değil",

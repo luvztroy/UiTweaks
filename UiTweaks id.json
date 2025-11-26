@@ -139,6 +139,8 @@
     "language_pref_reset_failed":  "Gagal mereset preferensi bahasa",
     "language_pref_reset_success":  "Preferensi bahasa berhasil direset",
     "links":  "Tautan",
+    "long_press_to_configure_actions":  "Tekan lama untuk mengonfigurasi tindakan",
+    "long_press_to_select_message_types":  "Tekan lama untuk memilih jenis pesan",
     "localization_bottom_text":  "Proses ini hanya terjadi sekali. Setelah mengunduh, file disimpan secara lokal untuk memberi Anda akses mulus ke UiTweaks dalam bahasa Anda kapan saja.",
     "localization_continue_text":  "Anda masih dapat menggunakan UiTweaks dalam bahasa Inggris, atau memilih bahasa yang berbeda dari tombol pemilih bahasa.",
     "localization_not_available":  "Lokalisasi tidak tersedia",

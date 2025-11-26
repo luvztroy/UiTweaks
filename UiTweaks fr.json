@@ -139,6 +139,8 @@
     "language_pref_reset_failed":  "Échec de la réinitialisation de la préférence de langue",
     "language_pref_reset_success":  "La préférence de langue a été réinitialisée",
     "links":  "Liens",
+    "long_press_to_configure_actions":  "Appuyez longuement pour configurer les actions",
+    "long_press_to_select_message_types":  "Appuyez longuement pour sélectionner les types de messages",
     "localization_bottom_text":  "Ce processus ne se produit qu'une seule fois. Après le téléchargement, les fichiers sont sauvegardés localement pour vous donner un accès fluide à UiTweaks dans votre langue à tout moment.",
     "localization_continue_text":  "Vous pouvez continuer à utiliser UiTweaks en anglais, ou sélectionner une langue différente du bouton sélecteur de langue.",
     "localization_not_available":  "Localisation non disponible",

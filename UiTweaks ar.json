@@ -139,6 +139,8 @@
     "language_pref_reset_failed":  "فشل في إعادة تعيين تفضيل اللغة",
     "language_pref_reset_success":  "تم إعادة تعيين تفضيل اللغة",
     "links":  "الروابط",
+    "long_press_to_configure_actions":  "اضغط مطولاً لتكوين الإجراءات",
+    "long_press_to_select_message_types":  "اضغط مطولاً لتحديد أنواع الرسائل",
     "localization_bottom_text":  "هذه العملية تحدث مرة واحدة فقط. بعد التحميل، يتم حفظ الملفات محلياً لتمنحك وصولاً سلساً إلى UiTweaks بلغتك في أي وقت.",
     "localization_continue_text":  "يمكنك الاستمرار في استخدام UiTweaks باللغة الإنجليزية، أو اختيار لغة مختلفة من زر اختيار اللغة.",
     "localization_not_available":  "الترجمة غير متاحة",

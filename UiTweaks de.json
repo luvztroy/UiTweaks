@@ -139,6 +139,8 @@
     "language_pref_reset_failed":  "Zurücksetzen der Spracheinstellung fehlgeschlagen",
     "language_pref_reset_success":  "Spracheinstellung wurde zurückgesetzt",
     "links":  "Links",
+    "long_press_to_configure_actions":  "Lange drücken zum Konfigurieren von Aktionen",
+    "long_press_to_select_message_types":  "Lange drücken zum Auswählen von Nachrichtentypen",
     "localization_bottom_text":  "Dieser Vorgang passiert nur einmal. Nach dem Herunterladen werden die Dateien lokal gespeichert, um dir jederzeit nahtlosen Zugang zu UiTweaks in deiner Sprache zu geben.",
     "localization_continue_text":  "Das Plugin funktioniert weiterhin auf Englisch. Schaue später nach Lokalisierungs-Updates.",
     "localization_not_available":  "Lokalisierung nicht verfügbar",

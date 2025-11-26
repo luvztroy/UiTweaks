@@ -139,6 +139,8 @@
     "language_pref_reset_failed":  "언어 설정 재설정에 실패했습니다",
     "language_pref_reset_success":  "언어 설정이 재설정되었습니다",
     "links":  "링크",
+    "long_press_to_configure_actions":  "길게 눌러 작업 구성",
+    "long_press_to_select_message_types":  "길게 눌러 메시지 유형 선택",
     "localization_bottom_text":  "이 프로세스는 한 번만 발생합니다. 다운로드 후 파일은 로컬에 저장되어 언제든지 귀하의 언어로 UiTweaks에 원활하게 액세스할 수 있습니다.",
     "localization_continue_text":  "영어로 UiTweaks를 계속 사용하거나 언어 선택기 버튼에서 다른 언어를 선택할 수 있습니다.",
     "localization_not_available":  "현지화를 사용할 수 없음",

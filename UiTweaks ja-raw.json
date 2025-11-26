@@ -139,6 +139,8 @@
     "language_pref_reset_failed":  "言語設定のリセットに失敗しました",
     "language_pref_reset_success":  "言語設定がリセットされました",
     "links":  "リンク",
+    "long_press_to_configure_actions":  "長押しして操作を構成",
+    "long_press_to_select_message_types":  "長押ししてメッセージタイプを選択",
     "localization_bottom_text":  "このプロセスは1回だけ発生します。",
     "localization_continue_text":  "プラグインは引き続き英語で動作します。",
     "localization_not_available":  "ローカライゼーションは利用できません",

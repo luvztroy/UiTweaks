@@ -139,6 +139,8 @@
     "language_pref_reset_failed":  "Til sozlamasini tiklashda xatolik",
     "language_pref_reset_success":  "Til sozlamasi tiklandi",
     "links":  "Havolalar",
+    "long_press_to_configure_actions":  "Amalni sozlash uchun uzoq bosing",
+    "long_press_to_select_message_types":  "Xabar turlarini tanlash uchun uzoq bosing",
     "localization_bottom_text":  "Bu jarayon faqat bir marta sodir bo'ladi. Yuklab olinganidan so'ng, fayllar mahalliy ravishda saqlanadi va sizga istalgan vaqtda tilingizda UiTweaks'ga silliq kirish imkonini beradi.",
     "localization_continue_text":  "Siz UiTweaks'ni ingliz tilida ishlatishda davom etishingiz mumkin yoki til tanlov tugmasidan boshqa tilni tanlashingiz mumkin.",
     "localization_not_available":  "Lokalizatsiya mavjud emas",
