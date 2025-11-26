@@ -341,5 +341,6 @@
     "no_quote_option": "Alıntısız",
     "search": "Ara",
     "enable_reply_in_another_chat_shortcut": "Başka Sohbette Yanıtla",
-    "reply_in_another_chat_shortcut_info": "Başka bir sohbetteki bir mesaja hızlı bir şekilde yanıtlamak için yanıtla düğmesini basılı tutun."
+    "reply_in_another_chat_shortcut_info": "Başka bir sohbetteki bir mesaja hızlıca yanıt vermek için Yanıtla düğmesine basılı tutun.",
+    "remove_greeting_sticker": "Selamlaşma Çıkartısını Kaldır"
 }

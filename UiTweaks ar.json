@@ -341,5 +341,6 @@
     "no_quote_option": "بدون اقتباس",
     "search": "بحث",
     "enable_reply_in_another_chat_shortcut": "اختصار الرد في دردشة أخرى",
-    "reply_in_another_chat_shortcut_info": "اضغط مع الاستمرار على زر الرد للرد بسرعة على رسالة في دردشة أخرى."
+    "reply_in_another_chat_shortcut_info": "اضغط مع الاستمرار على زر الرد للرد بسرعة على رسالة في دردشة أخرى.",
+    "remove_greeting_sticker": "إزالة ملصق الترحيب"
 }

@@ -341,5 +341,6 @@
     "no_quote_option": "Без цитування",
     "search": "Пошук",
     "enable_reply_in_another_chat_shortcut": "Відповідати в іншому чаті",
-    "reply_in_another_chat_shortcut_info": "Натисніть і тримайте кнопку відповіді, щоб швидко відповісти на повідомлення в іншому чаті."
+    "reply_in_another_chat_shortcut_info": "Натисніть і тримайте кнопку Відповіді, щоб швидко відповісти на повідомлення в іншому чаті.",
+    "remove_greeting_sticker": "Видалити привітний стикер"
 }

@@ -341,5 +341,6 @@
     "no_quote_option": "Senza citazione",
     "search": "Ricerca",
     "enable_reply_in_another_chat_shortcut": "Rispondi in un'altra chat",
-    "reply_in_another_chat_shortcut_info": "Tieni premuto il pulsante di risposta per rispondere rapidamente a un messaggio in un'altra chat."
+    "reply_in_another_chat_shortcut_info": "Tieni premuto il pulsante Rispondi per rispondere rapidamente a un messaggio in un'altra chat.",
+    "remove_greeting_sticker": "Rimuovi adesivo di saluto"
 }

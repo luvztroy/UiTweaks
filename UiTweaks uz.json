@@ -341,5 +341,6 @@
     "no_quote_option": "Iqtibossiz",
     "search": "Qidirish",
     "enable_reply_in_another_chat_shortcut": "Boshqa chatda javob bering",
-    "reply_in_another_chat_shortcut_info": "Boshqa chatdagi xabarga tez javob berish uchun javob tugmasini bosib turing."
+    "reply_in_another_chat_shortcut_info": "Boshqa chatda xabarni tez javob berish uchun Javob tugmasini bosib turing.",
+    "remove_greeting_sticker": "Salomlash stikkerini olib tashlash"
 }

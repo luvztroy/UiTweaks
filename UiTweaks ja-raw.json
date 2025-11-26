@@ -341,5 +341,6 @@
     "no_quote_option": "引用なし",
     "search": "検索",
     "enable_reply_in_another_chat_shortcut": "別のチャットで返信",
-    "reply_in_another_chat_shortcut_info": "返信ボタンを長押して、別のチャットでメッセージに返信します。"
+    "reply_in_another_chat_shortcut_info": "返信ボタンを長押して、別のチャットでメッセージに返信します。",
+    "remove_greeting_sticker": "あいさつステッカーを削除"
 }

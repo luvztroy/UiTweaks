@@ -341,5 +341,6 @@
     "no_quote_option": "Sans citation",
     "search": "Rechercher",
     "enable_reply_in_another_chat_shortcut": "Répondre dans un autre chat",
-    "reply_in_another_chat_shortcut_info": "Maintenez le bouton de réponse enfoncé pour répondre rapidement à un message dans un autre chat."
+    "reply_in_another_chat_shortcut_info": "Appuyez longuement sur le bouton Répondre pour répondre rapidement à un message dans un autre chat.",
+    "remove_greeting_sticker": "Supprimer l'autocollant de bienvenue"
 }
