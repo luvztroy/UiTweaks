@@ -342,5 +342,21 @@
     "search": "Пошук",
     "enable_reply_in_another_chat_shortcut": "Відповідати в іншому чаті",
     "reply_in_another_chat_shortcut_info": "Натисніть і тримайте кнопку Відповіді, щоб швидко відповісти на повідомлення в іншому чаті.",
-    "remove_greeting_sticker": "Видалити привітний стикер"
+    "remove_greeting_sticker": "Видалити привітний стикер",
+    "security_and_privacy": "Безпека та Приватність",
+    "profile_and_chats": "Профіль та Чати",
+    "quick_access": "Швидкий доступ",
+    "general": "Загальне",
+    "chats": "Чати",
+    "chat_list": "Список чатів",
+    "account_and_display": "Обліковий рахунок та Відображення",
+    "advanced": "Настройки",
+    "action_bar": "Панель дій",
+    "Indicators": "Показники",
+    "input_field": "Поле вводу",
+    "message_reactions": "Реакції на повідомлення",
+    "message_actions": "Дії повідомлення",
+    "media_playback": "Відтворення медіа",
+    "content_features": "Функції міста",
+    "saved_messages": "Збережені повідомлення"
 }

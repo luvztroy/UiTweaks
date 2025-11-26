@@ -342,5 +342,21 @@
     "search": "Cari",
     "enable_reply_in_another_chat_shortcut": "Balas di Obrolan Lain",
     "reply_in_another_chat_shortcut_info": "Tekan lama tombol Balas untuk membalas pesan dengan cepat di obrolan lain.",
-    "remove_greeting_sticker": "Hapus Stiker Sambutan"
+    "remove_greeting_sticker": "Hapus Stiker Sambutan",
+    "security_and_privacy": "Keamanan dan Privasi",
+    "profile_and_chats": "Profil dan Obrolan",
+    "quick_access": "Akses Cepat",
+    "general": "Umum",
+    "chats": "Obrolan",
+    "chat_list": "Daftar Obrolan",
+    "account_and_display": "Akun dan Tampilan",
+    "advanced": "Lanjutan",
+    "action_bar": "Bilah Tindakan",
+    "Indicators": "Indikator",
+    "input_field": "Kolom Input",
+    "message_reactions": "Reaksi Pesan",
+    "message_actions": "Tindakan Pesan",
+    "media_playback": "Pemutaran Media",
+    "content_features": "Fitur Konten",
+    "saved_messages": "Pesan Tersimpan"
 }

@@ -342,5 +342,21 @@
     "search": "Поиск",
     "enable_reply_in_another_chat_shortcut": "Ответить в другом чате",
     "reply_in_another_chat_shortcut_info": "Нажмите и удерживайте кнопку Ответить, чтобы быстро ответить на сообщение в другом чате.",
-    "remove_greeting_sticker": "Удалить стикер приветствия"
+    "remove_greeting_sticker": "Удалить стикер приветствия",
+    "security_and_privacy": "Безопасность и Конфиденциальность",
+    "profile_and_chats": "Профиль и Чаты",
+    "quick_access": "Быстрый доступ",
+    "general": "Общие",
+    "chats": "Чаты",
+    "chat_list": "Список чатов",
+    "account_and_display": "Аккаунт и Отображение",
+    "advanced": "Настройки",
+    "action_bar": "Панель действий",
+    "Indicators": "Показатели",
+    "input_field": "Поле ввода",
+    "message_reactions": "Отношения к сообщениям",
+    "message_actions": "Действия сообщения",
+    "media_playback": "Проигрывание медиа",
+    "content_features": "Функции контента",
+    "saved_messages": "Сохраненные сообщения"
 }

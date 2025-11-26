@@ -341,5 +341,21 @@
     "search": "Пошук",
     "enable_reply_in_another_chat_shortcut": "Адказаць у іншым чаты",
     "reply_in_another_chat_shortcut_info": "Натисніце і трымайце кнопку адказу, щоб хутка адказаць на поведомленне у іншым чаты.",
-    "remove_greeting_sticker": "Удаліць стікер прывітання"
+    "remove_greeting_sticker": "Удаліць стікер прывітання",
+    "security_and_privacy": "Безпека і прыватносць",
+    "profile_and_chats": "Профіль і чаты",
+    "quick_access": "Шыхкі доступ",
+    "general": "Галавны",
+    "chats": "Чаты",
+    "chat_list": "Ліст чатаў",
+    "account_and_display": "Конта і дисплей",
+    "advanced": "Прадвыснуты",
+    "action_bar": "Панель действия",
+    "Indicators": "Показчыки",
+    "input_field": "Поле ввода",
+    "message_reactions": "Реакцыі на сообщенні",
+    "message_actions": "Действія сообщення",
+    "media_playback": "Праведенне медыя",
+    "content_features": "Метады контенту",
+    "saved_messages": "Захаваныя сообщенны"
 }

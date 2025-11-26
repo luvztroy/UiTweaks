@@ -342,5 +342,21 @@
     "search": "Pesquisar",
     "enable_reply_in_another_chat_shortcut": "Responder em outro chat",
     "reply_in_another_chat_shortcut_info": "Mantenha pressionado o botão de resposta para responder rapidamente a uma mensagem em outro chat.",
-    "remove_greeting_sticker": "Remover adesivo de saudação"
+    "remove_greeting_sticker": "Remover adesivo de saudação",
+    "security_and_privacy": "Segurança e Privacidade",
+    "profile_and_chats": "Perfil e Chats",
+    "quick_access": "Acesso Rápido",
+    "general": "Geral",
+    "chats": "Chats",
+    "chat_list": "Lista de Chats",
+    "account_and_display": "Conta e Exibição",
+    "advanced": "Avançado",
+    "action_bar": "Barra de Ação",
+    "Indicators": "Indicadores",
+    "input_field": "Campo de Entrada",
+    "message_reactions": "Reações de Mensagem",
+    "message_actions": "Ações de Mensagem",
+    "media_playback": "Reprodução de Mídia",
+    "content_features": "Recursos de Conteúdo",
+    "saved_messages": "Mensagens Salvas"
 }

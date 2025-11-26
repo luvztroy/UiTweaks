@@ -342,5 +342,21 @@
     "search": "جستجو",
     "enable_reply_in_another_chat_shortcut": "پاسخ در گفتگوی دیگر",
     "reply_in_another_chat_shortcut_info": "دکمه پاسخ را برای پاسخ سریع به ابلاغ در گفتگوی دیگر نگه دارید.",
-    "remove_greeting_sticker": "حذف استیکر خوشآمدی"
+    "remove_greeting_sticker": "حذف استیکر خوشآمدی",
+    "security_and_privacy": "امنیت و حریم خصوصی",
+    "profile_and_chats": "پروفایل و گفتگوها",
+    "quick_access": "دسترسی سریع",
+    "general": "عمومی",
+    "chats": "گفتگوها",
+    "chat_list": "فهرست گفتگوها",
+    "account_and_display": "حساب و نمایش",
+    "advanced": "پیشرفته",
+    "action_bar": "نوار عمل",
+    "Indicators": "نشانگرها",
+    "input_field": "فیلد ورودی",
+    "message_reactions": "واکنش به پیامها",
+    "message_actions": "اقدامات پیام",
+    "media_playback": "پخش رسانه",
+    "content_features": "ویژگی های محتوا",
+    "saved_messages": "پیام های ذخیره شده"
 }

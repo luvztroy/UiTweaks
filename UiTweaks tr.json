@@ -342,5 +342,21 @@
     "search": "Ara",
     "enable_reply_in_another_chat_shortcut": "Başka Sohbette Yanıtla",
     "reply_in_another_chat_shortcut_info": "Başka bir sohbetteki bir mesaja hızlıca yanıt vermek için Yanıtla düğmesine basılı tutun.",
-    "remove_greeting_sticker": "Selamlaşma Çıkartısını Kaldır"
+    "remove_greeting_sticker": "Selamlaşma Çıkartısını Kaldır",
+    "security_and_privacy": "Güvenlik ve Gizlilik",
+    "profile_and_chats": "Profil ve Sohbetler",
+    "quick_access": "Hızlı Erişim",
+    "general": "Genel",
+    "chats": "Sohbetler",
+    "chat_list": "Sohbet Listesi",
+    "account_and_display": "Hesap ve Görüntüleme",
+    "advanced": "Gelişmiş",
+    "action_bar": "Eylem Çubuğu",
+    "Indicators": "Göstergeler",
+    "input_field": "Giriş Alanı",
+    "message_reactions": "Mesaj Reaksiyonları",
+    "message_actions": "Mesaj İşlemleri",
+    "media_playback": "Medya Oynatma",
+    "content_features": "İçerik Özellikleri",
+    "saved_messages": "Kaydedilen Mesajlar"
 }

@@ -342,5 +342,21 @@
     "search": "Qidirish",
     "enable_reply_in_another_chat_shortcut": "Boshqa chatda javob bering",
     "reply_in_another_chat_shortcut_info": "Boshqa chatda xabarni tez javob berish uchun Javob tugmasini bosib turing.",
-    "remove_greeting_sticker": "Salomlash stikkerini olib tashlash"
+    "remove_greeting_sticker": "Salomlash stikkerini olib tashlash",
+    "security_and_privacy": "Xavfsizlik va Maxfiylik",
+    "profile_and_chats": "Profil va Chatlar",
+    "quick_access": "Tezkor Kirish",
+    "general": "Umumiy",
+    "chats": "Chatlar",
+    "chat_list": "Chat Ro'yxati",
+    "account_and_display": "Hisob va Ko'rinish",
+    "advanced": "Ilg'or",
+    "action_bar": "Amal Paneli",
+    "Indicators": "Ko'rsatkichlar",
+    "input_field": "Kiritish Maydoni",
+    "message_reactions": "Xabar Reaktsiyalari",
+    "message_actions": "Xabar Amallari",
+    "media_playback": "Media Ijro Etish",
+    "content_features": "Kontent Xususiyatlari",
+    "saved_messages": "Saqlangan Xabarlar"
 }

@@ -342,5 +342,21 @@
     "search": "Search",
     "enable_reply_in_another_chat_shortcut": "Reply in Another Chat Shortcut",
     "reply_in_another_chat_shortcut_info": "Long-press the Reply button to quickly reply to a message in another chat.",
-    "remove_greeting_sticker": "Remove Greeting Sticker"
+    "remove_greeting_sticker": "Remove Greeting Sticker",
+    "security_and_privacy": "Security & Privacy",
+    "profile_and_chats": "Profile & Chats",
+    "quick_access": "Quick Access",
+    "general": "General",
+    "chats": "Chats",
+    "chat_list": "Chat List",
+    "account_and_display": "Account & Display",
+    "advanced": "Advanced",
+    "action_bar": "Action Bar",
+    "Indicators": "Indicators",
+    "input_field": "Input Field",
+    "message_reactions": "Message Reactions",
+    "message_actions": "Message Actions",
+    "media_playback": "Media Playback",
+    "content_features": "Content Features",
+    "saved_messages": "Saved Messages"
 }

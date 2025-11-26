@@ -342,5 +342,21 @@
     "search": "Căutare",
     "enable_reply_in_another_chat_shortcut": "Răspunde în alt chat",
     "reply_in_another_chat_shortcut_info": "În apăsat butonul de răspuns pentru a răspunde rapid la un mesaj în alt chat.",
-    "remove_greeting_sticker": "Ștergeţi autocolantul de salut"
+    "remove_greeting_sticker": "Ștergeţi autocolantul de salut",
+    "security_and_privacy": "Securitate și Confidențialitate",
+    "profile_and_chats": "Profil și Conversații",
+    "quick_access": "Acces Rapid",
+    "general": "General",
+    "chats": "Conversații",
+    "chat_list": "Lista de Conversații",
+    "account_and_display": "Cont și Afișare",
+    "advanced": "Avansat",
+    "action_bar": "Bara de Acțiuni",
+    "Indicators": "Indicatori",
+    "input_field": "Câmp de Intrare",
+    "message_reactions": "Reacții la Mesaje",
+    "message_actions": "Acțiuni Mesaj",
+    "media_playback": "Redare Media",
+    "content_features": "Caracteristici Conținut",
+    "saved_messages": "Mesaje Salvate"
 }

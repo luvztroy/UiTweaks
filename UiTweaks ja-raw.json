@@ -342,5 +342,21 @@
     "search": "検索",
     "enable_reply_in_another_chat_shortcut": "別のチャットで返信",
     "reply_in_another_chat_shortcut_info": "返信ボタンを長押して、別のチャットでメッセージに返信します。",
-    "remove_greeting_sticker": "あいさつステッカーを削除"
+    "remove_greeting_sticker": "あいさつステッカーを削除",
+    "security_and_privacy": "セキュリティとプライバシー",
+    "profile_and_chats": "プロフィールとチャット",
+    "quick_access": "クイックアクセス",
+    "general": "一般",
+    "chats": "チャット",
+    "chat_list": "チャットリスト",
+    "account_and_display": "アカウントと表示",
+    "advanced": "詳論",
+    "action_bar": "アクションバー",
+    "Indicators": "インジケーター",
+    "input_field": "入力フィールド",
+    "message_reactions": "メッセージを反応",
+    "message_actions": "メッセージアクション",
+    "media_playback": "メディア再生",
+    "content_features": "コンテンツ機能",
+    "saved_messages": "保存されたメッセージ"
 }

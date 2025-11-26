@@ -342,5 +342,21 @@
     "search": "بحث",
     "enable_reply_in_another_chat_shortcut": "اختصار الرد في دردشة أخرى",
     "reply_in_another_chat_shortcut_info": "اضغط مع الاستمرار على زر الرد للرد بسرعة على رسالة في دردشة أخرى.",
-    "remove_greeting_sticker": "إزالة ملصق الترحيب"
+    "remove_greeting_sticker": "إزالة ملصق الترحيب",
+    "security_and_privacy": "الأمان والخصوصية",
+    "profile_and_chats": "الملف الشخصي والدردشات",
+    "quick_access": "الوصول السريع",
+    "general": "عام",
+    "chats": "الدردشات",
+    "chat_list": "قائمة الدردشة",
+    "account_and_display": "الحساب والعرض",
+    "advanced": "متقدم",
+    "action_bar": "شريط الإجراءات",
+    "Indicators": "المؤشرات",
+    "input_field": "حقل الإدخال",
+    "message_reactions": "ردود الفعل على الرسائل",
+    "message_actions": "إجراءات الرسالة",
+    "media_playback": "تشغيل الوسائط",
+    "content_features": "ميزات المحتوى",
+    "saved_messages": "الرسائل المحفوظة"
 }

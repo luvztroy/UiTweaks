@@ -342,5 +342,21 @@
     "search": "搜索",
     "enable_reply_in_another_chat_shortcut": "在另一个聊天中回复",
     "reply_in_another_chat_shortcut_info": "长按回复按钮以快速回复另一个聊天中的消息。",
-    "remove_greeting_sticker": "移除问候贴纸"
+    "remove_greeting_sticker": "移除问候贴纸",
+    "security_and_privacy": "安全性与隐私",
+    "profile_and_chats": "个人资料与聊天",
+    "quick_access": "快速访问",
+    "general": "一般",
+    "chats": "聊天",
+    "chat_list": "聊天列表",
+    "account_and_display": "账户与显示",
+    "advanced": "高级",
+    "action_bar": "操作栏",
+    "Indicators": "指示器",
+    "input_field": "输入框",
+    "message_reactions": "消息反应",
+    "message_actions": "消息操作",
+    "media_playback": "媒体播放",
+    "content_features": "内容功能",
+    "saved_messages": "已保存的消息"
 }

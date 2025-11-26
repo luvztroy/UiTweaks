@@ -342,5 +342,21 @@
     "search": "검색",
     "enable_reply_in_another_chat_shortcut": "다른 채팅에서 답장",
     "reply_in_another_chat_shortcut_info": "다른 채팅에서 메시지에 빠른식으로 답장하려면 답장 버튼을 길게 누른다.",
-    "remove_greeting_sticker": "인사 스티커 제거"
+    "remove_greeting_sticker": "인사 스티커 제거",
+    "security_and_privacy": "보안 및 개인보호",
+    "profile_and_chats": "프로필 및 채팅",
+    "quick_access": "빠른 접근성",
+    "general": "일반",
+    "chats": "채팅",
+    "chat_list": "채팅 목록",
+    "account_and_display": "계정 및 디스플레이",
+    "advanced": "고급",
+    "action_bar": "동작 모음",
+    "Indicators": "지시기",
+    "input_field": "입력 필드",
+    "message_reactions": "메시지 반응",
+    "message_actions": "메시지 동작",
+    "media_playback": "미디어 재생",
+    "content_features": "콘테늤츠 기능",
+    "saved_messages": "저장된 메시지"
 }
