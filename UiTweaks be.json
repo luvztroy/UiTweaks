@@ -359,5 +359,10 @@
     "message_actions": "Действія сообщення",
     "media_playback": "Праведенне медыя",
     "content_features": "Метады контенту",
-    "saved_messages": "Захаваныя сообщенны"
+    "saved_messages": "Захаваныя сообщенны",
+    "swipe_action": "Дзеянне пры пракрутцы паведамлення",
+    "swipe_reply": "Адказаць",
+    "swipe_save": "Захаваць",
+    "swipe_translate": "Перавесці",
+    "swipe_direct_share": "Прамая сдача"
 }

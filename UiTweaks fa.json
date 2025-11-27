@@ -360,5 +360,10 @@
     "message_actions": "اقدامات پیام",
     "media_playback": "پخش رسانه",
     "content_features": "ویژگی های محتوا",
-    "saved_messages": "پیام های ذخیره شده"
+    "saved_messages": "پیام‌های ذخیره شده",
+    "swipe_action": "عمل لغزش پیام",
+    "swipe_reply": "پاسخ",
+    "swipe_save": "ذخیره",
+    "swipe_translate": "ترجمه",
+    "swipe_direct_share": "اشتراک مستقیم"
 }

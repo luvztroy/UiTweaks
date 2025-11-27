@@ -360,5 +360,10 @@
     "message_actions": "إجراءات الرسالة",
     "media_playback": "تشغيل الوسائط",
     "content_features": "ميزات المحتوى",
-    "saved_messages": "الرسائل المحفوظة"
+    "saved_messages": "الرسائل المحفوظة",
+    "swipe_action": "إجراء التمرير على الرسالة",
+    "swipe_reply": "رد",
+    "swipe_save": "حفظ",
+    "swipe_translate": "ترجمة",
+    "swipe_direct_share": "مشاركة مباشرة"
 }

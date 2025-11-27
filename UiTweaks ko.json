@@ -360,5 +360,10 @@
     "message_actions": "메시지 동작",
     "media_playback": "미디어 재생",
     "content_features": "콘테늤츠 기능",
-    "saved_messages": "저장된 메시지"
+    "saved_messages": "저장된 메시지",
+    "swipe_action": "메시지 스와이프 동작",
+    "swipe_reply": "답장",
+    "swipe_save": "저장",
+    "swipe_translate": "번역",
+    "swipe_direct_share": "단차 공유"
 }

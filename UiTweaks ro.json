@@ -360,5 +360,10 @@
     "message_actions": "Acțiuni Mesaj",
     "media_playback": "Redare Media",
     "content_features": "Caracteristici Conținut",
-    "saved_messages": "Mesaje Salvate"
+    "saved_messages": "Mesaje salvate",
+    "swipe_action": "Acţiune de glisare a mesajului",
+    "swipe_reply": "Răspunde",
+    "swipe_save": "Salvează",
+    "swipe_translate": "Traduce",
+    "swipe_direct_share": "Partajare directă"
 }

@@ -360,5 +360,10 @@
     "message_actions": "Acciones de Mensajes",
     "media_playback": "Reproducción de Medios",
     "content_features": "Características de Contenido",
-    "saved_messages": "Mensajes Guardados"
+    "saved_messages": "Mensajes guardados",
+    "swipe_action": "Acción de deslizamiento de mensajes",
+    "swipe_reply": "Responder",
+    "swipe_save": "Guardar",
+    "swipe_translate": "Traducir",
+    "swipe_direct_share": "Compartir directamente"
 }

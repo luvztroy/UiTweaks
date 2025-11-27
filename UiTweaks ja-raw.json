@@ -360,5 +360,10 @@
     "message_actions": "メッセージアクション",
     "media_playback": "メディア再生",
     "content_features": "コンテンツ機能",
-    "saved_messages": "保存されたメッセージ"
+    "saved_messages": "保存されたメッセージ",
+    "swipe_action": "メッセージスワイプアクション",
+    "swipe_reply": "返信",
+    "swipe_save": "保存",
+    "swipe_translate": "翻訳",
+    "swipe_direct_share": "直接共有"
 }

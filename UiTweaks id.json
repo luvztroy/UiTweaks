@@ -360,5 +360,10 @@
     "message_actions": "Tindakan Pesan",
     "media_playback": "Pemutaran Media",
     "content_features": "Fitur Konten",
-    "saved_messages": "Pesan Tersimpan"
+    "saved_messages": "Pesan Tersimpan",
+    "swipe_action": "Aksi Geser Pesan",
+    "swipe_reply": "Balas",
+    "swipe_save": "Simpan",
+    "swipe_translate": "Terjemahkan",
+    "swipe_direct_share": "Bagikan Langsung"
 }

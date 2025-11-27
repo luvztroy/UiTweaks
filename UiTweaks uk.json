@@ -360,5 +360,10 @@
     "message_actions": "Дії повідомлення",
     "media_playback": "Відтворення медіа",
     "content_features": "Функції міста",
-    "saved_messages": "Збережені повідомлення"
+    "saved_messages": "Збережені повідомлення",
+    "swipe_action": "Дія при гортанні повідомлення",
+    "swipe_reply": "Відповісти",
+    "swipe_save": "Зберегти",
+    "swipe_translate": "Перекласти",
+    "swipe_direct_share": "Поділитися безпосередньо"
 }

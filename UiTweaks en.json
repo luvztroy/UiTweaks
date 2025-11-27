@@ -360,5 +360,10 @@
     "message_actions": "Message Actions",
     "media_playback": "Media Playback",
     "content_features": "Content Features",
-    "saved_messages": "Saved Messages"
+    "saved_messages": "Saved Messages",
+    "swipe_action": "Message Swipe Action",
+    "swipe_reply": "Reply",
+    "swipe_save": "Save",
+    "swipe_translate": "Translate",
+    "swipe_direct_share": "Direct Share"
 }

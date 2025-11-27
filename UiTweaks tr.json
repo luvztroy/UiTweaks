@@ -360,5 +360,10 @@
     "message_actions": "Mesaj İşlemleri",
     "media_playback": "Medya Oynatma",
     "content_features": "İçerik Özellikleri",
-    "saved_messages": "Kaydedilen Mesajlar"
+    "saved_messages": "Kaydedilen Mesajlar",
+    "swipe_action": "Mesaj Kaydırma İşlemi",
+    "swipe_reply": "Yanıtla",
+    "swipe_save": "Kaydet",
+    "swipe_translate": "Çevir",
+    "swipe_direct_share": "Doğrudan Paylaş"
 }

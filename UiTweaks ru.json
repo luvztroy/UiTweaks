@@ -360,5 +360,10 @@
     "message_actions": "Действия сообщения",
     "media_playback": "Проигрывание медиа",
     "content_features": "Функции контента",
-    "saved_messages": "Сохраненные сообщения"
+    "saved_messages": "Сохранённые сообщения",
+    "swipe_action": "Действие при прокрутке сообщения",
+    "swipe_reply": "Ответить",
+    "swipe_save": "Сохранить",
+    "swipe_translate": "Перевести",
+    "swipe_direct_share": "Прямая сделиться"
 }

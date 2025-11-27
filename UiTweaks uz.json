@@ -360,5 +360,10 @@
     "message_actions": "Xabar Amallari",
     "media_playback": "Media Ijro Etish",
     "content_features": "Kontent Xususiyatlari",
-    "saved_messages": "Saqlangan Xabarlar"
+    "saved_messages": "Saqlangan xabarlar",
+    "swipe_action": "Xabar suring harakati",
+    "swipe_reply": "Javob berish",
+    "swipe_save": "Saqlash",
+    "swipe_translate": "Tarjima qilish",
+    "swipe_direct_share": "To'g'ridan-to'g'ri ulashish"
 }
