@@ -369,5 +369,6 @@
     "swipe_reply": "Відповісти",
     "swipe_save": "Зберегти",
     "swipe_translate": "Перекласти",
-    "swipe_direct_share": "Поділитися безпосередньо"
+    "swipe_direct_share": "Прямий обмін",
+    "remove_https_from_links": "Видалити HTTPS з посилань"
 }

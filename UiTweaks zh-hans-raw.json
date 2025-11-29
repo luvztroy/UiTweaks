@@ -369,5 +369,6 @@
     "swipe_reply": "回复",
     "swipe_save": "保存",
     "swipe_translate": "翻译",
-    "swipe_direct_share": "直接分享"
+    "swipe_direct_share": "直接分享",
+    "remove_https_from_links": "从链接中删除HTTPS"
 }

@@ -369,5 +369,6 @@
     "swipe_reply": "Responder",
     "swipe_save": "Salvar",
     "swipe_translate": "Traduzir",
-    "swipe_direct_share": "Compartilhar diretamente"
+    "swipe_direct_share": "Compartilhamento Direto",
+    "remove_https_from_links": "Remover HTTPS dos Links"
 }

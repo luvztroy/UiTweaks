@@ -368,5 +368,6 @@
     "swipe_reply": "Адказаць",
     "swipe_save": "Захаваць",
     "swipe_translate": "Перавесці",
-    "swipe_direct_share": "Прамая сдача"
+    "swipe_direct_share": "Прамая дзеля",
+    "remove_https_from_links": "Выдаліць HTTPS з спасылак"
 }

@@ -369,5 +369,6 @@
     "swipe_reply": "پاسخ",
     "swipe_save": "ذخیره",
     "swipe_translate": "ترجمه",
-    "swipe_direct_share": "اشتراک مستقیم"
+    "swipe_direct_share": "اشتراک مستقیم",
+    "remove_https_from_links": "حذف HTTPS از پیوندها"
 }

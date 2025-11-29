@@ -369,5 +369,6 @@
     "swipe_reply": "返信",
     "swipe_save": "保存",
     "swipe_translate": "翻訳",
-    "swipe_direct_share": "直接共有"
+    "swipe_direct_share": "ダイレクトシェア",
+    "remove_https_from_links": "リンクからHTTPSを削除"
 }

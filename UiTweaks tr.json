@@ -369,5 +369,6 @@
     "swipe_reply": "Yanıtla",
     "swipe_save": "Kaydet",
     "swipe_translate": "Çevir",
-    "swipe_direct_share": "Doğrudan Paylaş"
+    "swipe_direct_share": "Doğrudan Paylaş",
+    "remove_https_from_links": "Bağlantılardan HTTPS'i Kaldır"
 }

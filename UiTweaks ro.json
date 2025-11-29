@@ -369,5 +369,6 @@
     "swipe_reply": "Răspunde",
     "swipe_save": "Salvează",
     "swipe_translate": "Traduce",
-    "swipe_direct_share": "Partajare directă"
+    "swipe_direct_share": "Partajare directă",
+    "remove_https_from_links": "Eliminați HTTPS din linkuri"
 }

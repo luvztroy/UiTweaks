@@ -369,5 +369,6 @@
     "swipe_reply": "답장",
     "swipe_save": "저장",
     "swipe_translate": "번역",
-    "swipe_direct_share": "단차 공유"
+    "swipe_direct_share": "직접 공유",
+    "remove_https_from_links": "링크에서 HTTPS 제거"
 }

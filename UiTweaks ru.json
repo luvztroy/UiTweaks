@@ -369,5 +369,6 @@
     "swipe_reply": "Ответить",
     "swipe_save": "Сохранить",
     "swipe_translate": "Перевести",
-    "swipe_direct_share": "Переслать"
+    "swipe_direct_share": "Прямой обмен",
+    "remove_https_from_links": "Удалить HTTPS из ссылок"
 }
