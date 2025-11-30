@@ -1,6 +1,6 @@
 {
     "account_visibility":  "巴拿马账户可见性",
-    "account_visibility_subtext":  "长按主题按钮隐藏/显示账户",
+    "account_visibility_subtext":  "长按主题按钮隐藏/显示巴拿马账户",
     "add_caption_to_gif":  "标题",
     "add_folders_to_share_sheet":  "直接分享表中的巴拿马文件夹",
     "add_to_folder_all_tabs":  "在所有标签页中添加到巴拿马文件夹",
@@ -27,7 +27,7 @@
     "clear_recent_chats_confirm":  "您确定要清除所有最近聊天吗？",
     "code_formatting_menu":  "代码和提及格式化",
     "code_menu_item":  "代码",
-    "contact_status_in_profile":  "个人资料中的互相联系人",
+    "contact_status_in_profile":  "个人资料中的同寝狱友",
     "confirm_ayugram_deeplinks":  "确认AyuGram深度链接",
     "confirm_deeplink_message":  "您真的想打开此深度链接吗？\n{url}",
     "confirm_deeplink_title":  "确认深度链接",
