@@ -136,6 +136,7 @@
     "item_voice_messages":  "Mesaje vocale",
     "join":  "Alătură-te",
     "join_confirmation":  "Confirmare aderare",
+    "join_request_direct_profile":  "Profil Direct Cerere Aderare",
     "join_confirmation_message":  "Ești sigur că vrei să te alături la **{chat_name}**?",
     "know_more":  "Află mai multe",
     "language_pref_reset_failed":  "Resetarea preferinței de limbă a eșuat",

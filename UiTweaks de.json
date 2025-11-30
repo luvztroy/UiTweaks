@@ -136,6 +136,7 @@
     "item_voice_messages":  "Sprachnachrichten",
     "join":  "Beitreten",
     "join_confirmation":  "Beitrittsbestätigung",
+    "join_request_direct_profile":  "Beitrittsanfrage Direktes Profil",
     "join_confirmation_message":  "Sind Sie sicher, dass Sie **{chat_name}** beitreten möchten?",
     "know_more":  "Mehr erfahren",
     "language_pref_reset_failed":  "Zurücksetzen der Spracheinstellung fehlgeschlagen",

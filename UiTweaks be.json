@@ -136,6 +136,7 @@
     "item_voice_messages":  "Галасавыя паведамленні",
     "join":  "Далучыцца",
     "join_confirmation":  "Пацверджанне далучэння",
+    "join_request_direct_profile":  "Прамы профіль запыту далучэння",
     "join_confirmation_message":  "Вы ўпэўненыя, што хочаце далучыцца да **{chat_name}**?",
     "know_more":  "Даведацца больш",
     "language_pref_reset_failed":  "Не ўдалося скінуць перавагу мовы",

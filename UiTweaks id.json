@@ -136,6 +136,7 @@
     "item_voice_messages":  "Pesan suara",
     "join":  "Bergabung",
     "join_confirmation":  "Konfirmasi Bergabung",
+    "join_request_direct_profile":  "Profil Langsung Permintaan Bergabung",
     "join_confirmation_message":  "Apakah Anda yakin ingin bergabung ke **{chat_name}**?",
     "know_more":  "Pelajari lebih lanjut",
     "language_pref_reset_failed":  "Gagal mereset preferensi bahasa",

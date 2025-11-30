@@ -136,6 +136,7 @@
     "item_voice_messages":  "Mensajes de voz",
     "join":  "Unirse",
     "join_confirmation":  "Confirmación de unirse",
+    "join_request_direct_profile":  "Perfil Directo de Solicitud de Unión",
     "join_confirmation_message":  "¿Estás seguro de que quieres unirte a **{chat_name}**?",
     "know_more":  "Saber más",
     "language_pref_reset_failed":  "Error al restablecer la preferencia de idioma",

@@ -136,6 +136,7 @@
     "item_voice_messages": "پیام‌های صوتی",
     "join": "پیوستن",
     "join_confirmation": "تأیید پیوستن",
+    "join_request_direct_profile": "پروفایل مستقیم درخواست پیوستن",
     "join_confirmation_message": "آیا مطمئن هستید که می‌خواهید به **{chat_name}** بپیوندید؟",
     "know_more": "بیشتر بدانید",
     "language_pref_reset_failed": "بازنشانی تنظیمات زبان ناموفق بود",

@@ -136,6 +136,7 @@
     "item_voice_messages":  "音声メッセージ",
     "join":  "参加",
     "join_confirmation":  "参加確認",
+    "join_request_direct_profile":  "参加リクエストダイレクトプロフィール",
     "join_confirmation_message":  "**{chat_name}**に参加してもよろしいですか？",
     "know_more":  "詳細を知る",
     "language_pref_reset_failed":  "言語設定のリセットに失敗しました",

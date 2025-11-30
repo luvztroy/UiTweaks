@@ -136,6 +136,7 @@
     "item_voice_messages":  "Голосові повідомлення",
     "join":  "Вступити",
     "join_confirmation":  "Підтвердження вступу",
+    "join_request_direct_profile":  "Прямий профіль запиту вступу",
     "join_confirmation_message":  "Ви впевнені, що хочете вступити до **{chat_name}**?",
     "know_more":  "Дізнатися більше",
     "language_pref_reset_failed":  "Не вдалося скинути налаштування мови",

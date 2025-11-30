@@ -136,6 +136,7 @@
     "item_voice_messages":  "Ovozli xabarlar",
     "join":  "Qo'shilish",
     "join_confirmation":  "Qo'shilish tasdiqlash",
+    "join_request_direct_profile":  "Qo'shilish So'rovining To'g'ri Profili",
     "join_confirmation_message":  "**{chat_name}**ga qo'shilmoqchi ekanligingizga ishonchingiz komilmi?",
     "know_more":  "Batafsil ma’lumot",
     "language_pref_reset_failed":  "Til sozlamasini tiklashda xatolik",

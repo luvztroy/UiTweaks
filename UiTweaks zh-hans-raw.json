@@ -136,6 +136,7 @@
     "item_voice_messages":  "语音消息",
     "join":  "加入",
     "join_confirmation":  "加入确认",
+    "join_request_direct_profile":  "加入请求直接档案",
     "join_confirmation_message":  "您确定要加入 **{chat_name}** 吗？",
     "know_more":  "了解更多",
     "language_pref_reset_failed":  "重置语言偏好失败",

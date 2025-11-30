@@ -136,6 +136,7 @@
     "item_voice_messages":  "الرسائل الصوتية",
     "join":  "انضمام",
     "join_confirmation":  "تأكيد الانضمام",
+    "join_request_direct_profile":  "ملف تعريف طلب الانضمام المباشر",
     "join_confirmation_message":  "هل أنت متأكد من أنك تريد الانضمام إلى **{chat_name}**؟",
     "know_more":  "اعرف المزيد",
     "language_pref_reset_failed":  "فشل في إعادة تعيين تفضيل اللغة",
