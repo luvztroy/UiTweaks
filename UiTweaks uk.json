@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Мітка часу прогресу для голосових повідомлень",
     "warning":  "Попередження",
     "enable_ai_summarize":  "Резюмувати чат",
+    "enable_search_filter":  "Фільтр пошуку",
     "summarize_menu_item":  "Резюмувати",
     "message_count_label":  "Кількість повідомлень",
     "summarize_button":  "Резюмувати",

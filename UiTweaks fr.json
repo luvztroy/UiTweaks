@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Horodatage de progression pour les messages vocaux",
     "warning":  "Avertissement",
     "enable_ai_summarize":  "Résumer la discussion",
+    "enable_search_filter":  "Filtre de recherche",
     "summarize_menu_item":  "Résumer",
     "message_count_label":  "Nombre de messages",
     "summarize_button":  "Résumer",

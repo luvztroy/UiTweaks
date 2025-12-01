@@ -257,6 +257,7 @@
     "voice_message_time_display":  "طابع زمني للتقدم للرسائل الصوتية",
     "warning":  "تحذير",
     "enable_ai_summarize":  "تلخيص المحادثة",
+    "enable_search_filter":  "مرشح البحث",
     "summarize_menu_item":  "تلخيص",
     "message_count_label":  "عدد الرسائل",
     "summarize_button":  "تلخيص",

@@ -257,6 +257,7 @@
     "voice_message_time_display":  "音声メッセージの進捕タイムスタンプ",
     "warning":  "警告",
     "enable_ai_summarize":  "チャットを要約",
+    "enable_search_filter":  "検索フィルター",
     "summarize_menu_item":  "要約",
     "message_count_label":  "メッセージ数",
     "summarize_button":  "要約",

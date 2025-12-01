@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Timestamp di progresso per messaggi vocali",
     "warning":  "Avviso",
     "enable_ai_summarize":  "Riassumi chat",
+    "enable_search_filter":  "Filtro di ricerca",
     "summarize_menu_item":  "Riassumi",
     "message_count_label":  "Numero di messaggi",
     "summarize_button":  "Riassumi",

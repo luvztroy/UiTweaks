@@ -257,6 +257,7 @@
     "voice_message_time_display": "برچسب زمانی پیشرفت برای پیام‌های صوتی",
     "warning": "هشدار",
     "enable_ai_summarize": "خلاصه گفتگو",
+    "enable_search_filter": "فیلتر جستجو",
     "summarize_menu_item": "خلاصه",
     "message_count_label": "تعداد پیام‌ها",
     "summarize_button": "خلاصه",

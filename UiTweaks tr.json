@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Sesli mesajlar için ilerleme zaman damgası",
     "warning":  "Uyarı",
     "enable_ai_summarize":  "Sohbeti özetle",
+    "enable_search_filter":  "Arama Filtresi",
     "summarize_menu_item":  "Özetle",
     "message_count_label":  "Mesaj sayısı",
     "summarize_button":  "Özetle",

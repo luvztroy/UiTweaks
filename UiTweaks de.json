@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Fortschritts-Zeitstempel für Sprachmeldungen",
     "warning":  "Warnung",
     "enable_ai_summarize":  "Chat zusammenfassen",
+    "enable_search_filter":  "Suchfilter",
     "summarize_menu_item":  "Zusammenfassen",
     "message_count_label":  "Nachrichtenanzahl",
     "summarize_button":  "Zusammenfassen",

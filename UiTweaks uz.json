@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Ovozli xabarlar uchun taraqqiyot vaqti belgisi",
     "warning":  "Ogohlantirish",
     "enable_ai_summarize":  "Suhbatni umumlashtirish",
+    "enable_search_filter":  "Qidiruv filteri",
     "summarize_menu_item":  "Umumlashtirish",
     "message_count_label":  "Xabarlar soni",
     "summarize_button":  "Umumlashtirish",

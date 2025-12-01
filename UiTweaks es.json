@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Marca de tiempo de progreso para mensajes de voz",
     "warning":  "Advertencia",
     "enable_ai_summarize":  "Resumir chat",
+    "enable_search_filter":  "Filtro de búsqueda",
     "summarize_menu_item":  "Resumir",
     "message_count_label":  "Cantidad de mensajes",
     "summarize_button":  "Resumir",

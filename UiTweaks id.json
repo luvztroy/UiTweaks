@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Timestamp Progres untuk Pesan Suara",
     "warning":  "Peringatan",
     "enable_ai_summarize":  "Ringkas Obrolan",
+    "enable_search_filter":  "Filter Pencarian",
     "summarize_menu_item":  "Ringkas",
     "message_count_label":  "Jumlah Pesan",
     "summarize_button":  "Ringkas",

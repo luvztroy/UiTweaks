@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Marcaj temporal de progres pentru mesajele vocale",
     "warning":  "Avertisment",
     "enable_ai_summarize":  "Rezumă conversația",
+    "enable_search_filter":  "Filtru de căutare",
     "summarize_menu_item":  "Rezumă",
     "message_count_label":  "Număr de mesaje",
     "summarize_button":  "Rezumă",

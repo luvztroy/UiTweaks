@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Прогресс прослушивания голосовых сообщений",
     "warning":  "Предупреждение",
     "enable_ai_summarize":  "Резюмировать чат",
+    "enable_search_filter":  "Фильтр поиска",
     "summarize_menu_item":  "Резюмировать",
     "message_count_label":  "Количество сообщений",
     "summarize_button":  "Резюмировать",

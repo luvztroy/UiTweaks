@@ -257,6 +257,7 @@
     "voice_message_time_display":  "Progress Timestamp For Voice Messages",
     "warning":  "Warning",
     "enable_ai_summarize":  "Summarize Chat",
+    "enable_search_filter":  "Search Filter",
     "summarize_menu_item":  "Summarize",
     "message_count_label":  "Message Count",
     "summarize_button":  "Summarize",
