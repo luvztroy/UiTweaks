@@ -88,6 +88,7 @@
   "disable_auto_web_login": "Адключыць аўтаматычны вэб-уваход",
   "disable_emoji_suggestions": "Выключыць предлоги эмодзи",
   "disable_link_preview": "Адключыць папярэдны прагляд спасылкі",
+  "disable_link_preview_info": "Вы можете исключить ссылки, которые соответствуют шаблону regex. Используйте regex101.com для проверки вашего шаблона",
   "disable_link_preview_pattern_hint": "Узор regex для выключения",
   "disable_memory_warning": "Адключыць папярэджанне пра памяць",
   "disable_swipe_gestures": "Паляпшэнні меню жэстаў смайпа",

@@ -88,6 +88,7 @@
   "disable_auto_web_login": "Dezactivează autentificarea automată web",
   "disable_emoji_suggestions": "Dezactivează sugestiile de emoji",
   "disable_link_preview": "Dezactivează previzualizarea legăturii",
+  "disable_link_preview_info": "Puteți exclude linkurile care se potrivesc cu modelul regex. Utilizați regex101.com pentru a verifica modelul dvs",
   "disable_link_preview_pattern_hint": "Model regex de exclus",
   "disable_memory_warning": "Dezactivează avertizarea de memorie",
   "disable_swipe_gestures": "Îmbunătățiri ale meniului de gesturi de glisare",

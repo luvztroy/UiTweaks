@@ -88,6 +88,7 @@
   "disable_auto_web_login": "禁用自动网页登录",
   "disable_emoji_suggestions": "禁用表情符号建议",
   "disable_link_preview": "禁用链接预览",
+  "disable_link_preview_info": "您可以排除与正则表达式模式匹配的链接。使用 regex101.com 检查您的模式",
   "disable_link_preview_pattern_hint": "排除的正则表达式模式",
   "disable_memory_warning": "禁用内存警告",
   "disable_swipe_gestures": "滑动手势菜单改进",

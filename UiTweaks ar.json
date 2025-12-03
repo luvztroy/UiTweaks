@@ -88,6 +88,7 @@
   "disable_auto_web_login": "تعطيل تسجيل الدخول التلقائي للويب",
   "disable_emoji_suggestions": "تعطيل اقتراحات الرموز التعبيرية",
   "disable_link_preview": "تعطيل معاينة الرابط",
+  "disable_link_preview_info": "يمكنك استبعاد الروابط التي تطابق نمط regex. استخدم regex101.com للتحقق من نمطك",
   "disable_link_preview_pattern_hint": "نمط regex لاستبعاد",
   "disable_memory_warning": "إلغاء تفعيل تحذير الذاكرة",
   "disable_swipe_gestures": "تحسينات قائمة إيماءات السحب",

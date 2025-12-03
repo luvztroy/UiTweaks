@@ -88,6 +88,7 @@
   "disable_auto_web_login": "自動ウェブログインを無効にする",
   "disable_emoji_suggestions": "絵文字の提案を無効化",
   "disable_link_preview": "リンクプレビューを無効にする",
+  "disable_link_preview_info": "正規表現パターンに一致するリンクを除外できます。regex101.comを使用してパターンを確認してください",
   "disable_link_preview_pattern_hint": "除外するための正規表現パターン",
   "disable_memory_warning": "メモリ警告を無効にする",
   "disable_swipe_gestures": "スワイプジェスチャーメニューの改善",

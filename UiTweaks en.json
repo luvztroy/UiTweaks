@@ -88,6 +88,7 @@
   "disable_auto_web_login": "Disable Auto Web Login",
   "disable_emoji_suggestions": "Disable Emoji Suggestions",
   "disable_link_preview": "Disable Link Preview",
+  "disable_link_preview_info": "You can exclude links that match the regex pattern. Use regex101.com to check your pattern",
   "disable_link_preview_pattern_hint": "Regex pattern to exclude",
   "disable_memory_warning": "Disable Memory Warning",
   "disable_swipe_gestures": "Swipe gesture menu improvements",

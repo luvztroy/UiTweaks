@@ -88,6 +88,7 @@
   "disable_auto_web_login": "Nonaktifkan login web otomatis",
   "disable_emoji_suggestions": "Nonaktifkan Saran Emoji",
   "disable_link_preview": "Nonaktifkan pratinjau tautan",
+  "disable_link_preview_info": "Anda dapat mengecualikan tautan yang cocok dengan pola regex. Gunakan regex101.com untuk memeriksa pola Anda",
   "disable_link_preview_pattern_hint": "Pola regex untuk mengecualikan",
   "disable_memory_warning": "Nonaktifkan peringatan memori",
   "disable_swipe_gestures": "Peningkatan menu gestur geser",

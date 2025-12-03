@@ -88,6 +88,7 @@
   "disable_auto_web_login": "Automatische Web-Anmeldung deaktivieren",
   "disable_emoji_suggestions": "Emoji-Vorschläge deaktivieren",
   "disable_link_preview": "Link-Vorschau deaktivieren",
+  "disable_link_preview_info": "Sie können Links ausschließen, die dem Regex-Muster entsprechen. Verwenden Sie regex101.com, um Ihr Muster zu überprüfen",
   "disable_link_preview_pattern_hint": "Regex-Muster zum Ausschließen",
   "disable_memory_warning": "Speicher-Warnung deaktivieren",
   "disable_swipe_gestures": "Verbesserungen des Wischgesten-Menüs",

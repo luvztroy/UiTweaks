@@ -88,6 +88,7 @@
   "disable_auto_web_login": "Disabilita accesso automatico web",
   "disable_emoji_suggestions": "Disabilita suggerimenti emoji",
   "disable_link_preview": "Disabilita anteprima collegamento",
+  "disable_link_preview_info": "Puoi escludere i link che corrispondono al modello regex. Usa regex101.com per verificare il tuo modello",
   "disable_link_preview_pattern_hint": "Modello regex da escludere",
   "disable_memory_warning": "Disabilita avviso memoria",
   "disable_swipe_gestures": "Miglioramenti menu gesti di scorrimento",

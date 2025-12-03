@@ -88,6 +88,7 @@
   "disable_auto_web_login": "Otomatik web girişini devre dışı bırak",
   "disable_emoji_suggestions": "Emoji Önerilerini Devre Dışı Bırak",
   "disable_link_preview": "Bağlantı önizlemesini devre dışı bırak",
+  "disable_link_preview_info": "Regex deseniyle eşleşen bağlantıları hariç tutabilirsiniz. Deseninizi kontrol etmek için regex101.com kullanın",
   "disable_link_preview_pattern_hint": "Hariç tutmak için regex deseni",
   "disable_memory_warning": "Bellek uyarısını devre dışı bırak",
   "disable_swipe_gestures": "Kaydırma hareketi menüsü iyileştirmeleri",

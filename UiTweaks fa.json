@@ -88,6 +88,7 @@
   "disable_auto_web_login": "غیرفعال کردن ورود خودکار به وب",
   "disable_emoji_suggestions": "غیرفعال کردن پیشنهادات ایموجی",
   "disable_link_preview": "غیرفعال کردن پیش‌نمایش پیوند",
+  "disable_link_preview_info": "می‌توانید پیوندهایی را که با الگوی regex مطابقت دارند استثنا کنید. از regex101.com برای بررسی الگوی خود استفاده کنید",
   "disable_link_preview_pattern_hint": "الگوی regex برای استثنا",
   "disable_memory_warning": "غیرفعال کردن هشدار حافظه",
   "disable_swipe_gestures": "بهبود منوی حرکت کشیدنی",

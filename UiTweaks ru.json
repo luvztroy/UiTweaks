@@ -88,6 +88,7 @@
   "disable_auto_web_login": "Отключить автоматический веб-вход",
   "disable_emoji_suggestions": "Отключить предложения эмодзи при вводе",
   "disable_link_preview": "Отключить предпросмотр ссылок",
+  "disable_link_preview_info": "Вы можете исключить ссылки, которые соответствуют шаблону regex. Используйте regex101.com для проверки вашего шаблона",
   "disable_link_preview_pattern_hint": "Шаблон regex для исключения",
   "disable_memory_warning": "Отключить предупреждение о памяти",
   "disable_swipe_gestures": "\"Отключить\" свайп в списке чатов",

@@ -88,6 +88,7 @@
   "disable_auto_web_login": "Avtomatik veb-kirishni o'chirish",
   "disable_emoji_suggestions": "Emoji takliflarini o'chirib qo'yish",
   "disable_link_preview": "Havolani ko'rishni o'chirish",
+  "disable_link_preview_info": "Regex namunasiga mos keladigan havolalarni istisno qilishingiz mumkin. Sizning namunangizni tekshirish uchun regex101.com dan foydalaning",
   "disable_link_preview_pattern_hint": "Istisno qilish uchun regex namunasi",
   "disable_memory_warning": "Xotira ogohlantirishini o'chirish",
   "disable_swipe_gestures": "Siljish harakati menyusi yaxshilanishlari",
