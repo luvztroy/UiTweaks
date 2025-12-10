@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks menambahkan fitur lanjutan di {client_name}, tetapi dapat memengaruhi kinerja perangkat seiring waktu.",
   "performance_warning_footer": "Untuk kinerja optimal, tinjau fitur yang diaktifkan secara berkala dan sisakan hanya yang diperlukan.",
   "performance_warning_subtitle": "Informasi penting",
+  "pin_reactions_info": "Anda dapat menyematkan reaksi dari paket apa pun",
   "pinned_reactions": "Reaksi yang disematkan",
   "pinned_reactions_count": "Reaksi yang disematkan ({count}/7)",
   "pinned_reactions_title": "Reaksi yang disematkan",

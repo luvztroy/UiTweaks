@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks fügt in {client_name} erweiterte Funktionen hinzu, kann jedoch die Geräteleistung im Laufe der Zeit beeinflussen.",
   "performance_warning_footer": "Überprüfen Sie regelmäßig die aktivierten Funktionen und lassen Sie nur die benötigten aktiv.",
   "performance_warning_subtitle": "Wichtige Information",
+  "pin_reactions_info": "Sie können Reaktionen aus jedem Paket anheften",
   "pinned_reactions": "Gepinnte Reaktionen",
   "pinned_reactions_count": "Gepinnte Reaktionen ({count}/7)",
   "pinned_reactions_title": "Gepinnte Reaktionen",

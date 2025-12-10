@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks يضيف ميزات متقدمة في {client_name}، لكنه قد يؤثر على أداء الجهاز مع مرور الوقت.",
   "performance_warning_footer": "لتحسين الأداء، راجع الميزات المفعلة بانتظام وابقِ ما تحتاجه فقط.",
   "performance_warning_subtitle": "معلومات مهمة",
+  "pin_reactions_info": "يمكنك تثبيت التفاعلات من أي حزمة",
   "pinned_reactions": "الردود المثبتة",
   "pinned_reactions_count": "الردود المثبتة ({count}/7)",
   "pinned_reactions_title": "الردود المثبتة",

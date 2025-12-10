@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks {client_name} ga ilg'or funksiyalar qo‘shadi, ammo vaqt o‘tishi bilan qurilma unumdorligiga ta’sir qilishi mumkin.",
   "performance_warning_footer": "Eng yaxshi unumdorlik uchun yoqilgan funksiyalarni vaqti-vaqti bilan ko‘rib chiqing va faqat zarurlarini qoldiring.",
   "performance_warning_subtitle": "Muhim ma’lumot",
+  "pin_reactions_info": "Siz istalgan paketdan reaktsiyalarni mahkamlashingiz mumkin",
   "pinned_reactions": "Qadoqlangan reaktsiyalar",
   "pinned_reactions_count": "Qadoqlangan reaktsiyalar ({count}/7)",
   "pinned_reactions_title": "Qadoqlangan reaktsiyalar",

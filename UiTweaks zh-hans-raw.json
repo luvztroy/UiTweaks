@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks 在 {client_name} 中添加高级功能，但可能会随着时间影响设备性能。",
   "performance_warning_footer": "为获得最佳性能，请定期检查已启用的功能，只保留所需的功能。",
   "performance_warning_subtitle": "重要信息",
+  "pin_reactions_info": "您可以从任何包中固定反应",
   "pinned_reactions": "固定表情",
   "pinned_reactions_count": "固定表情 ({count}/7)",
   "pinned_reactions_title": "固定表情",

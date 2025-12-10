@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks, {client_name}’e gelişmiş özellikler ekler ancak zamanla cihaz performansını etkileyebilir.",
   "performance_warning_footer": "En iyi performans için etkin özellikleri düzenli olarak gözden geçirin ve yalnızca gerekli olanları açık bırakın.",
   "performance_warning_subtitle": "Önemli bilgi",
+  "pin_reactions_info": "Herhangi bir paketten tepkileri sabitleyebilirsiniz",
   "pinned_reactions": "Sabitlenmiş tepkiler",
   "pinned_reactions_count": "Sabitlenmiş tepkiler ({count}/7)",
   "pinned_reactions_title": "Sabitlenmiş tepkiler",

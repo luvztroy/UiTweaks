@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks добавляет расширенные функции в {client_name}, но со временем может повлиять на производительность устройства.",
   "performance_warning_footer": "Для оптимальной производительности регулярно пересматривайте включенные функции и оставляйте только необходимые.",
   "performance_warning_subtitle": "Важная информация",
+  "pin_reactions_info": "Вы можете закрепить реакции из любого пакета",
   "pinned_reactions": "Закрепленные реакции",
   "pinned_reactions_count": "Закрепленные реакции ({count}/7)",
   "pinned_reactions_title": "Закрепленные реакции",

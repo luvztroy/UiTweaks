@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks adaugă funcții avansate în {client_name}, dar poate afecta performanța dispozitivului în timp.",
   "performance_warning_footer": "Pentru performanțe optime, revizuiește periodic funcțiile activate și păstrează doar ce ai nevoie.",
   "performance_warning_subtitle": "Informație importantă",
+  "pin_reactions_info": "Puteți fixa reacții din orice pachet",
   "pinned_reactions": "Reacții fixate",
   "pinned_reactions_count": "Reacții fixate ({count}/7)",
   "pinned_reactions_title": "Reacții fixate",

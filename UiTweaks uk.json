@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks додає розширені функції у {client_name}, але з часом може впливати на продуктивність пристрою.",
   "performance_warning_footer": "Для оптимальної продуктивності регулярно переглядайте увімкнені функції та залишайте лише потрібні.",
   "performance_warning_subtitle": "Важлива інформація",
+  "pin_reactions_info": "Ви можете закріпити реакції з будь-якого пакета",
   "pinned_reactions": "Закріплені реакції",
   "pinned_reactions_count": "Закріплені реакції ({count}/7)",
   "pinned_reactions_title": "Закріплені реакції",

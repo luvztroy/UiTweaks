@@ -293,6 +293,7 @@
   "performance_warning_description": "‏UiTweaks ویژگی‌های پیشرفته‌ای را به {client_name} اضافه می‌کند اما ممکن است به مرور زمان بر عملکرد دستگاه تأثیر بگذارد.",
   "performance_warning_footer": "برای عملکرد بهینه، توصیه می‌شود به طور منظم ویژگی‌های فعال خود را بازبینی کرده و فقط موارد مورد نیاز را فعال نگه دارید.",
   "performance_warning_subtitle": "اطلاعات مهم",
+  "pin_reactions_info": "می‌توانید واکنش‌ها را از هر بسته سنجاق کنید",
   "pinned_reactions": "واکنش‌های سنجاق شده",
   "pinned_reactions_count": "واکنش‌های سنجاق شده ({count}/7)",
   "pinned_reactions_title": "واکنش‌های سنجاق شده",

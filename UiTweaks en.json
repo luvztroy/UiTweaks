@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks adds advanced features in {client_name} but may impact device performance over time.",
   "performance_warning_footer": "For optimal performance, consider reviewing your enabled features regularly and keeping only what you need active.",
   "performance_warning_subtitle": "Important Information",
+  "pin_reactions_info": "You can pin reactions from any pack",
   "pinned_reactions": "Pinned Reactions",
   "pinned_reactions_count": "Pinned Reactions ({count}/7)",
   "pinned_reactions_title": "Pinned Reactions",

@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaksは{client_name}に高度な機能を追加しますが、パフォーマンスに影響を与える可能性があります。",
   "performance_warning_footer": "最適なパフォーマンスのために、有効な機能を定期的に確認してください。",
   "performance_warning_subtitle": "重要な情報",
+  "pin_reactions_info": "任意のパックから反応をピン留めできます",
   "pinned_reactions": "ピン留めされたリアクション",
   "pinned_reactions_count": "ピン留めされたリアクション ({count}/7)",
   "pinned_reactions_title": "ピン留めされたリアクション",

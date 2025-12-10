@@ -293,6 +293,7 @@
   "performance_warning_description": "UiTweaks는 {client_name}에 고급 기능을 추가하지만, 시간이 지나면서 기기 성능에 영향을 줄 수 있습니다.",
   "performance_warning_footer": "최적의 성능을 위해 활성화된 기능을 주기적으로 점검하고 필요한 것만 유지하세요.",
   "performance_warning_subtitle": "중요한 정보",
+  "pin_reactions_info": "모든 팩에서 반응을 고정할 수 있습니다",
   "pinned_reactions": "고정된 반응",
   "pinned_reactions_count": "고정된 반응 ({count}/7)",
   "pinned_reactions_title": "고정된 반응",
