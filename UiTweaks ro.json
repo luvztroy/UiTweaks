@@ -219,7 +219,7 @@
   "join": "Alătură-te",
   "join_confirmation": "Confirmare aderare",
   "join_confirmation_message": "Ești sigur că vrei să te alături la **{chat_name}**?",
-  "join_request_direct_profile": "Profil Direct Cerere Aderare",
+  "join_request_direct_profile": "Deschideți profilul utilizatorului direct din cererile de participare",
   "know_more": "Află mai multe",
   "language_pref_reset_failed": "Resetarea preferinței de limbă a eșuat",
   "language_pref_reset_success": "Preferința de limbă a fost resetată",

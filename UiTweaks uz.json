@@ -219,7 +219,7 @@
   "join": "Qo'shilish",
   "join_confirmation": "Qo'shilish tasdiqlash",
   "join_confirmation_message": "**{chat_name}**ga qo'shilmoqchi ekanligingizga ishonchingiz komilmi?",
-  "join_request_direct_profile": "Qo'shilish So'rovining To'g'ri Profili",
+  "join_request_direct_profile": "Qo'shilish so'rovlaridan to'g'ridan-to'g'ri foydalanuvchi profilini oching",
   "know_more": "Batafsil ma’lumot",
   "language_pref_reset_failed": "Til sozlamasini tiklashda xatolik",
   "language_pref_reset_success": "Til sozlamasi tiklandi",

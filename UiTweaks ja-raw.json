@@ -219,7 +219,7 @@
   "join": "参加",
   "join_confirmation": "参加確認",
   "join_confirmation_message": "**{chat_name}**に参加してもよろしいですか？",
-  "join_request_direct_profile": "参加リクエストダイレクトプロフィール",
+  "join_request_direct_profile": "参加リクエストからユーザープロフィールを直接開く",
   "know_more": "詳細を知る",
   "language_pref_reset_failed": "言語設定のリセットに失敗しました",
   "language_pref_reset_success": "言語設定がリセットされました",

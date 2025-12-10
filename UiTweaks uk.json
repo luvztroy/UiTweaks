@@ -219,7 +219,7 @@
   "join": "Вступити",
   "join_confirmation": "Підтвердження вступу",
   "join_confirmation_message": "Ви впевнені, що хочете вступити до **{chat_name}**?",
-  "join_request_direct_profile": "Прямий профіль запиту вступу",
+  "join_request_direct_profile": "Відкрити профіль користувача безпосередньо з запитів на приєднання",
   "know_more": "Дізнатися більше",
   "language_pref_reset_failed": "Не вдалося скинути налаштування мови",
   "language_pref_reset_success": "Налаштування мови скинуто",

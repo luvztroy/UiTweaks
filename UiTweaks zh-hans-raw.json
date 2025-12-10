@@ -219,7 +219,7 @@
   "join": "加入",
   "join_confirmation": "加入确认",
   "join_confirmation_message": "您确定要加入 **{chat_name}** 吗？",
-  "join_request_direct_profile": "加入请求直接档案",
+  "join_request_direct_profile": "直接从加入请求打开用户资料",
   "know_more": "了解更多",
   "language_pref_reset_failed": "重置语言偏好失败",
   "language_pref_reset_success": "语言偏好已重置",

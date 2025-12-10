@@ -219,7 +219,7 @@
   "join": "انضمام",
   "join_confirmation": "تأكيد الانضمام",
   "join_confirmation_message": "هل أنت متأكد من أنك تريد الانضمام إلى **{chat_name}**؟",
-  "join_request_direct_profile": "ملف تعريف طلب الانضمام المباشر",
+  "join_request_direct_profile": "فتح ملف المستخدم مباشرة من طلبات الانضمام",
   "know_more": "اعرف المزيد",
   "language_pref_reset_failed": "فشل في إعادة تعيين تفضيل اللغة",
   "language_pref_reset_success": "تم إعادة تعيين تفضيل اللغة",

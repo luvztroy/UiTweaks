@@ -219,7 +219,7 @@
   "join": "참여",
   "join_confirmation": "참여 확인",
   "join_confirmation_message": "**{chat_name}**에 참여하시겠습니까?",
-  "join_request_direct_profile": "참여 스른 스날 프로필",
+  "join_request_direct_profile": "참가 요청에서 사용자 프로필 직접 열기",
   "know_more": "자세히 알아보기",
   "language_pref_reset_failed": "언어 설정 재설정에 실패했습니다",
   "language_pref_reset_success": "언어 설정이 재설정되었습니다",

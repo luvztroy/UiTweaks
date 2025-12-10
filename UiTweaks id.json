@@ -219,7 +219,7 @@
   "join": "Bergabung",
   "join_confirmation": "Konfirmasi Bergabung",
   "join_confirmation_message": "Apakah Anda yakin ingin bergabung ke **{chat_name}**?",
-  "join_request_direct_profile": "Profil Langsung Permintaan Bergabung",
+  "join_request_direct_profile": "Buka profil pengguna langsung dari permintaan bergabung",
   "know_more": "Pelajari lebih lanjut",
   "language_pref_reset_failed": "Gagal mereset preferensi bahasa",
   "language_pref_reset_success": "Preferensi bahasa berhasil direset",

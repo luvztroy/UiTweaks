@@ -219,7 +219,7 @@
   "join": "Katıl",
   "join_confirmation": "Katılım onayı",
   "join_confirmation_message": "**{chat_name}**'a katılmak istediğinizden emin misiniz?",
-  "join_request_direct_profile": "Katılım İsteği Doğrudan Profili",
+  "join_request_direct_profile": "Katılım isteklerinden doğrudan kullanıcı profilini aç",
   "know_more": "Daha fazla bilgi",
   "language_pref_reset_failed": "Dil tercihi sıfırlanamadı",
   "language_pref_reset_success": "Dil tercihi sıfırlandı",

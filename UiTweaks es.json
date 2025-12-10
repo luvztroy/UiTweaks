@@ -219,7 +219,7 @@
   "join": "Unirse",
   "join_confirmation": "Confirmación de unirse",
   "join_confirmation_message": "¿Estás seguro de que quieres unirte a **{chat_name}**?",
-  "join_request_direct_profile": "Perfil Directo de Solicitud de Unión",
+  "join_request_direct_profile": "Abrir perfil de usuario directamente desde solicitudes de unión",
   "know_more": "Saber más",
   "language_pref_reset_failed": "Error al restablecer la preferencia de idioma",
   "language_pref_reset_success": "La preferencia de idioma se ha restablecido",

@@ -219,7 +219,7 @@
   "join": "Beitreten",
   "join_confirmation": "Beitrittsbestätigung",
   "join_confirmation_message": "Sind Sie sicher, dass Sie **{chat_name}** beitreten möchten?",
-  "join_request_direct_profile": "Beitrittsanfrage Direktes Profil",
+  "join_request_direct_profile": "Benutzerprofil direkt aus Beitrittanfragen öffnen",
   "know_more": "Mehr erfahren",
   "language_pref_reset_failed": "Zurücksetzen der Spracheinstellung fehlgeschlagen",
   "language_pref_reset_success": "Spracheinstellung wurde zurückgesetzt",

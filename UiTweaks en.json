@@ -219,7 +219,7 @@
   "join": "Join",
   "join_confirmation": "Join Confirmation",
   "join_confirmation_message": "Are you sure you want to join **{chat_name}**?",
-  "join_request_direct_profile": "Join Request Direct Profile",
+  "join_request_direct_profile": "Open user profile directly from join requests",
   "know_more": "Know more",
   "language_pref_reset_failed": "Failed to reset language preference",
   "language_pref_reset_success": "Language preference has been reset",

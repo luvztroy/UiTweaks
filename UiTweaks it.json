@@ -219,7 +219,7 @@
   "join": "Unisciti",
   "join_confirmation": "Conferma adesione",
   "join_confirmation_message": "Sei sicuro di volerti unire a **{chat_name}**?",
-  "join_request_direct_profile": "Profilo Diretto Richiesta Adesione",
+  "join_request_direct_profile": "Apri il profilo utente direttamente dalle richieste di partecipazione",
   "know_more": "Per saperne di più",
   "language_pref_reset_failed": "Impossibile reimpostare la preferenza della lingua",
   "language_pref_reset_success": "La preferenza della lingua è stata reimpostata",

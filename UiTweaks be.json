@@ -218,7 +218,7 @@
   "join": "Далучыцца",
   "join_confirmation": "Пацверджанне далучэння",
   "join_confirmation_message": "Вы ўпэўненыя, што хочаце далучыцца да **{chat_name}**?",
-  "join_request_direct_profile": "Прамы профіль запыту далучэння",
+  "join_request_direct_profile": "Адкрыць профіль карыстальніка непасрэдна з запросаў на ўступленне",
   "know_more": "Даведацца больш",
   "language_pref_reset_failed": "Не ўдалося скінуць перавагу мовы",
   "language_pref_reset_success": "Перавага мовы была скінута",
