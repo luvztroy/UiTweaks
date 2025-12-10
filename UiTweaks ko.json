@@ -60,7 +60,6 @@
   "clear_recent_chats_confirm": "모든 최근 채팅을 지우시겠습니까?",
   "code_formatting_menu": "코드 및 멘션 서식",
   "code_menu_item": "코드",
-  "configure_pinned_reactions": "고정된 반응 구성",
   "confirm_ayugram_deeplinks": "Ayugram 딥링크 확인",
   "confirm_deeplink_message": "정말로 이 딥링크를 열겠습니까?\n{url}",
   "confirm_deeplink_title": "딥링크 확인",

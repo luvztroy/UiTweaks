@@ -60,7 +60,6 @@
   "clear_recent_chats_confirm": "すべての最近のチャットをクリアしてもよろしいですか？",
   "code_formatting_menu": "コード＆メンション書式設定",
   "code_menu_item": "コード",
-  "configure_pinned_reactions": "ピン留めされたリアクションを構成",
   "confirm_ayugram_deeplinks": "AyuGramディープリンクを確認",
   "confirm_deeplink_message": "このディープリンクを本当に開きたいですか？\n{url}",
   "confirm_deeplink_title": "ディープリンクを確認",

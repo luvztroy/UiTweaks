@@ -60,7 +60,6 @@
   "clear_recent_chats_confirm": "آیا مطمئن هستید که می‌خواهید همه گفتگوهای اخیر را پاک کنید؟",
   "code_formatting_menu": "قالب‌بندی کد و منشن",
   "code_menu_item": "کد",
-  "configure_pinned_reactions": "پیکربندی واکنش‌های سنجاق شده",
   "confirm_ayugram_deeplinks": "تأیید لینک‌های عمیق Ayugram",
   "confirm_deeplink_message": "آیا واقعاً می‌خواهید این لینک عمیق را باز کنید؟\n{url}",
   "confirm_deeplink_title": "تأیید لینک عمیق",

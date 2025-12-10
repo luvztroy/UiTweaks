@@ -60,7 +60,6 @@
   "clear_recent_chats_confirm": "¿Estás seguro de que quieres limpiar todos los chats recientes?",
   "code_formatting_menu": "Formato de Código y Menciones",
   "code_menu_item": "Código",
-  "configure_pinned_reactions": "Configurar reacciones fijadas",
   "confirm_ayugram_deeplinks": "Confirmar enlaces profundos de Ayugram",
   "confirm_deeplink_message": "¿Realmente quiere abrir este enlace profundo?\n{url}",
   "confirm_deeplink_title": "Confirmar Enlace Profundo",

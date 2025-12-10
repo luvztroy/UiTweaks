@@ -60,7 +60,6 @@
   "clear_recent_chats_confirm": "您确定要清除所有最近聊天吗？",
   "code_formatting_menu": "代码和提及格式化",
   "code_menu_item": "代码",
-  "configure_pinned_reactions": "配置固定表情",
   "confirm_ayugram_deeplinks": "确认AyuGram深度链接",
   "confirm_deeplink_message": "您真的想打开此深度链接吗？\n{url}",
   "confirm_deeplink_title": "确认深度链接",

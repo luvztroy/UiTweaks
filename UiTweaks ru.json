@@ -60,7 +60,6 @@
   "clear_recent_chats_confirm": "Вы уверены, что хотите очистить все недавние чаты?",
   "code_formatting_menu": "Форматирование в виде кода и упоминаний",
   "code_menu_item": "Код",
-  "configure_pinned_reactions": "Настроить закрепленные реакции",
   "confirm_ayugram_deeplinks": "Подтверждать AyuGram-ссылки",
   "confirm_deeplink_message": "Вы действительно хотите открыть эту deeplink-ссылку?\n{url}",
   "confirm_deeplink_title": "Подтвердить deeplink-ссылку",
