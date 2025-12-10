@@ -219,7 +219,7 @@
   "join": "Entrar",
   "join_confirmation": "Confirmação de entrada",
   "join_confirmation_message": "Tem certeza de que deseja entrar em **{chat_name}**?",
-  "join_request_direct_profile": "Abrir perfil do usuário diretamente de solicitações de participação",
+  "join_request_direct_profile": "Abrir perfil nas solicitações de participação",
   "know_more": "Saiba mais",
   "language_pref_reset_failed": "Falha ao redefinir a preferência de idioma",
   "language_pref_reset_success": "A preferência de idioma foi redefinida",
