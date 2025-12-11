@@ -417,7 +417,7 @@
   "unread_count_info": "フォルダ内の未読カウンターの動作を調整します。",
   "unread_message_count": "未読メッセージ数を表示",
   "update_branch": "更新ブランチ",
-  "update_branch_info": "更新を受け取りたいブランチを選んで、ローカライゼーションファイルをダウンロードしてください。Betaは実験的な機能とより新しい翻訳を含む場合があります。",
+  "update_branch_info": "更新を受け取りたいブランチを選択してください。ベータ版には実験的な機能とバグが含まれる可能性があります。",
   "updates": "更新",
   "vibrate_disable": "無効にする",
   "voice_message_time_display": "音声メッセージの進捕タイムスタンプ",

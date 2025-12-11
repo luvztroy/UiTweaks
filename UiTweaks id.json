@@ -417,7 +417,7 @@
   "unread_count_info": "Sesuaikan cara penghitung belum dibaca berperilaku di folder. Ketika keduanya diaktifkan, hanya chat yang tidak dibisukan yang dihitung.",
   "unread_message_count": "Tampilkan jumlah pesan belum dibaca",
   "update_branch": "Cabang Pembaruan",
-  "update_branch_info": "Pilih cabang tempat Anda ingin menerima pembaruan dan mengunduh file lokalisasi. Beta mungkin berisi fitur eksperimental dan terjemahan yang lebih baru.",
+  "update_branch_info": "Pilih cabang dari mana Anda ingin menerima pembaruan. Versi beta mungkin berisi fitur eksperimental dan bug.",
   "updates": "Pembaruan",
   "vibrate_disable": "Nonaktifkan",
   "voice_message_time_display": "Timestamp Progres untuk Pesan Suara",

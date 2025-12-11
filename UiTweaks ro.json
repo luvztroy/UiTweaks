@@ -417,7 +417,7 @@
   "unread_count_info": "Ajustează cum se comportă contoarele de necitite în foldere. Când ambele sunt activate, doar chat-urile neamutate sunt numărate.",
   "unread_message_count": "Afișează numărul de mesaje necitite",
   "update_branch": "Ramură de Actualizare",
-  "update_branch_info": "Selectaţi ramura din care doriţi să primiţi actualizări și să descarcaţi fișiere de localizare. Beta poate conţine caracteristici experimentale și traducări mai noi.",
+  "update_branch_info": "Selectați ramura din care doriți să primiți actualizări. Versiunea beta poate conține funcții experimentale și bug-uri.",
   "updates": "Actualizări",
   "vibrate_disable": "Dezactivează",
   "voice_message_time_display": "Marcaj temporal de progres pentru mesajele vocale",

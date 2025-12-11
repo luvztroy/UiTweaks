@@ -417,7 +417,7 @@
   "unread_count_info": "Klasörlerde okunmamış sayaçların nasıl davrandığını ayarlayın. Her ikisi de etkinleştirildiğinde, yalnızca susturulmamış sohbetler sayılır.",
   "unread_message_count": "Okunmamış mesaj sayısını göster",
   "update_branch": "Güncelleme Dalı",
-  "update_branch_info": "Güncellemeleri almak ve yerelleştirme dosyalarını indirmek istediğiniz şubе seçin. Beta deneysel özellikler ve daha yeni çeviriler içerebilir.",
+  "update_branch_info": "Güncellemeleri almak istediğiniz dalı seçin. Beta sürümü deneysel özellikler ve hatalar içerebilir.",
   "updates": "Güncellemeler",
   "vibrate_disable": "Devre dışı bırak",
   "voice_message_time_display": "Sesli mesajlar için ilerleme zaman damgası",

@@ -417,7 +417,7 @@
   "unread_count_info": "Ajustez le comportement des compteurs de non lus dans les dossiers. Lorsque les deux sont activés, seuls les chats non silencieux sont comptés.",
   "unread_message_count": "Afficher le nombre de messages non lus",
   "update_branch": "Branche de Mise à Jour",
-  "update_branch_info": "Sélectionnez la branche à partir de laquelle vous souhaitez recevoir les mises à jour et télécharger les fichiers de localisation. Beta peut contenir des fonctionnalités expérimentales et des traductions plus récentes.",
+  "update_branch_info": "Sélectionnez la branche à partir de laquelle vous souhaitez recevoir les mises à jour. La version bêta peut contenir des fonctionnalités expérimentales et des bogues.",
   "updates": "Mises à Jour",
   "vibrate_disable": "Désactiver",
   "voice_message_time_display": "Horodatage de progression pour les messages vocaux",

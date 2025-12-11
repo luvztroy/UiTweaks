@@ -417,7 +417,7 @@
   "unread_count_info": "Adjust how unread counters behave in folders. When both are enabled, only non-muted chats are counted.",
   "unread_message_count": "Show Unread Message Count",
   "update_branch": "Update Branch",
-  "update_branch_info": "Select which branch to receive updates and download localization files from. Beta may contain experimental features and newer translations.",
+  "update_branch_info": "Select which branch to receive updates. Beta may contain experimental features and bugs.",
   "updates": "Updates",
   "vibrate_disable": "Disable",
   "voice_message_time_display": "Progress Timestamp For Voice Messages",

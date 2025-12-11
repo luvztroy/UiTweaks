@@ -417,7 +417,7 @@
   "unread_count_info": "调整文件夹中未读计数器的行为方式。当两者都启用时，只计算未静音的聊天。",
   "unread_message_count": "显示未读消息数",
   "update_branch": "更新分支",
-  "update_branch_info": "选择您想要接收更新和下载本地化文件的分支。Beta 可能包含实験性功能和更新的翻译。",
+  "update_branch_info": "选择要接收更新的分支。测试版可能包含实验性功能和错误。",
   "updates": "更新",
   "vibrate_disable": "禁用",
   "voice_message_time_display": "语音消息进度时间戳",

@@ -417,7 +417,7 @@
   "unread_count_info": "Regola come si comportano i contatori di non letti nelle cartelle. Quando entrambi sono abilitati, vengono contati solo i chat non silenziati.",
   "unread_message_count": "Mostra contatore messaggi non letti",
   "update_branch": "Ramo di Aggiornamento",
-  "update_branch_info": "Seleziona il ramo da cui desideri ricevere gli aggiornamenti e scaricare i file di localizzazione. Beta potrebbe contenere funzioni sperimentali e traduzioni più recenti.",
+  "update_branch_info": "Seleziona il ramo da cui desideri ricevere gli aggiornamenti. La versione beta può contenere funzioni sperimentali e bug.",
   "updates": "Aggiornamenti",
   "vibrate_disable": "Disabilita",
   "voice_message_time_display": "Timestamp di progresso per messaggi vocali",

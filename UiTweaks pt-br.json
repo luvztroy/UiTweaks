@@ -417,7 +417,7 @@
   "unread_count_info": "Ajuste como os contadores de não lidos se comportam nas pastas. Quando ambos estão habilitados, apenas chats não silenciados são contados.",
   "unread_message_count": "Mostrar contador de mensagens não lidas",
   "update_branch": "Ramo de Atualização",
-  "update_branch_info": "Selecione a ramificação da qual deseja receber atualizações e baixar arquivos de idioma. Beta pode conter recursos experimentais e traduções mais recentes.",
+  "update_branch_info": "Selecione a ramificação da qual deseja receber atualizações. A versão beta pode conter recursos experimentais e bugs.",
   "updates": "Atualizações",
   "vibrate_disable": "Desabilitar",
   "voice_message_time_display": "Timestamp de progresso para mensagens de voz",

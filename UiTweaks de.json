@@ -417,7 +417,7 @@
   "unread_count_info": "Passen Sie an, wie sich ungelesene Zähler in Ordnern verhalten. Wenn beide aktiviert sind, werden nur nicht stummgeschaltete Chats gezählt.",
   "unread_message_count": "Ungelesene Nachrichten-Anzahl anzeigen",
   "update_branch": "Update-Zweig",
-  "update_branch_info": "Wählen Sie den Branch, von dem Sie Updates erhalten und Lokalisierungsdateien herunterladen möchten. Beta kann experimentelle Funktionen und neuere Übersetzungen enthalten.",
+  "update_branch_info": "Wählen Sie den Branch aus, von dem Sie Updates erhalten möchten. Die Beta-Version kann experimentelle Funktionen und Fehler enthalten.",
   "updates": "Updates",
   "vibrate_disable": "Deaktivieren",
   "voice_message_time_display": "Fortschritts-Zeitstempel für Sprachmeldungen",

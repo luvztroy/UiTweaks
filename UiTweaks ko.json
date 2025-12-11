@@ -417,7 +417,7 @@
   "unread_count_info": "폴더에서 읽지 않음 카운터가 작동하는 방식을 조정합니다. 둘 다 활성화되면 음소거되지 않은 채팅만 계산됩니다.",
   "unread_message_count": "읽지 않은 메시지 수 표시",
   "update_branch": "업데이트 브랜치",
-  "update_branch_info": "업데이트를 받고 로컬라이제이션 파일을 다운로드하고 싶은 브랜치를 선택하세요. Beta는 실험적 기능과 더 최신 번역을 포함할 수 있습니다.",
+  "update_branch_info": "업데이트를 받을 브랜치를 선택하세요. 베타 버전에는 실험적 기능과 버그가 포함될 수 있습니다.",
   "updates": "업데이트",
   "vibrate_disable": "비활성화",
   "voice_message_time_display": "음성 메시지용 진행 타임스탬프",
