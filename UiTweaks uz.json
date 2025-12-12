@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "Davomiylikni tanlash bilan o'chirish",
   "enable_edit_file_name": "Fayl nomini tahrirlash",
   "enable_goto_message": "Xabar ID bo'yicha qidirish",
+  "enable_header_particles": "Zarra effektini yoqish",
   "enable_memory_warning": "Xotira ogohlantirishini yoqish",
   "enable_message_repeat": "Xabar takrorlanishini yoqing",
   "enable_music_speed_control": "Musiqa Tezligini Boshqarish",

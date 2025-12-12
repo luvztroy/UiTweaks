@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "حذف با انتخاب مدت زمان",
   "enable_edit_file_name": "ویرایش نام فایل",
   "enable_goto_message": "جستجو بر اساس شناسه (ID) پیام",
+  "enable_header_particles": "فعال‌سازی افکت ذرات",
   "enable_memory_warning": "فعال کردن هشدار حافظه",
   "enable_message_repeat": "فعال کردن تکرار پیام",
   "enable_music_speed_control": "کنترل سرعت موسیقی",

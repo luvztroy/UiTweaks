@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "Löschen mit Dauerauswahl",
   "enable_edit_file_name": "Dateiname bearbeiten",
   "enable_goto_message": "Nach Nachrichten-ID suchen",
+  "enable_header_particles": "Partikeleffekt aktivieren",
   "enable_memory_warning": "Speicher-Warnung aktivieren",
   "enable_message_repeat": "Nachrichtenwiederholung aktivieren",
   "enable_music_speed_control": "Musikgeschwindigkeitssteuerung",

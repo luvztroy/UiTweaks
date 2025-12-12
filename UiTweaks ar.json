@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "حذف مع اختيار المدة",
   "enable_edit_file_name": "تحرير اسم الملف",
   "enable_goto_message": "البحث بواسطة معرف الرسالة",
+  "enable_header_particles": "تفعيل تأثير الجسيمات",
   "enable_memory_warning": "تفعيل تحذير الذاكرة",
   "enable_message_repeat": "تفعيل تكرار الرسالة",
   "enable_music_speed_control": "التحكم في سرعة الموسيقى",

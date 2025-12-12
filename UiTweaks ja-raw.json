@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "期間選択で削除",
   "enable_edit_file_name": "ファイル名を編集",
   "enable_goto_message": "メッセージIDで検索",
+  "enable_header_particles": "パーティクル効果を有効にする",
   "enable_memory_warning": "メモリ警告を有効にする",
   "enable_message_repeat": "メッセージ繰り返しを有効にする",
   "enable_music_speed_control": "音声速度控制",

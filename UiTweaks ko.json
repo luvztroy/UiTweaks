@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "기간 선택으로 삭제",
   "enable_edit_file_name": "파일 이름 편집",
   "enable_goto_message": "메시지 ID로 검색",
+  "enable_header_particles": "파티클 효과 활성화",
   "enable_memory_warning": "메모리 경고 활성화",
   "enable_message_repeat": "메시지 반복 활성화",
   "enable_music_speed_control": "음악 속도 제어",

@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "Süre Seçimi ile Sil",
   "enable_edit_file_name": "Dosya Adını Düzenle",
   "enable_goto_message": "Mesaj ID'sine göre ara",
+  "enable_header_particles": "Parçacık Efektini Etkinleştir",
   "enable_memory_warning": "Bellek uyarısını etkinleştir",
   "enable_message_repeat": "İleti Tekrarını Etkinleştir",
   "enable_music_speed_control": "Müzik Hızı Kontrolü",

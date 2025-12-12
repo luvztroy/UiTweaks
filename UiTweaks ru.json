@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "Удаление с выбором длительности наказания",
   "enable_edit_file_name": "Редактировать имя файла",
   "enable_goto_message": "Поиск по ID сообщения",
+  "enable_header_particles": "Включить эффект частиц",
   "enable_memory_warning": "Включить предупреждение о памяти",
   "enable_message_repeat": "Включить повторение сообщения",
   "enable_music_speed_control": "Управление скоростью музыки",

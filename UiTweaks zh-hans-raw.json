@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "删除时选择持续时间",
   "enable_edit_file_name": "编辑文件名",
   "enable_goto_message": "按消息ID搜索",
+  "enable_header_particles": "启用粒子效果",
   "enable_memory_warning": "启用内存警告",
   "enable_message_repeat": "启用消息重复",
   "enable_music_speed_control": "音乐速度控制",

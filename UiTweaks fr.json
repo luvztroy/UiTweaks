@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "Supprimer avec sélection de durée",
   "enable_edit_file_name": "Modifier le nom du fichier",
   "enable_goto_message": "Rechercher par ID de message",
+  "enable_header_particles": "Activer l'effet de particules",
   "enable_memory_warning": "Activer l'avertissement de mémoire",
   "enable_message_repeat": "Activer la répétition de message",
   "enable_music_speed_control": "Contrôle de Vitesse de Musique",

@@ -125,6 +125,7 @@
   "enable_delete_with_duration": "Видалення з вибором тривалості",
   "enable_edit_file_name": "Редагувати ім'я файла",
   "enable_goto_message": "Пошук за ID повідомлення",
+  "enable_header_particles": "Увімкнути ефект частинок",
   "enable_memory_warning": "Увімкнути попередження про пам'ять",
   "enable_message_repeat": "Включити повторення повідомлення",
   "enable_music_speed_control": "Керування швидкістю музики",
