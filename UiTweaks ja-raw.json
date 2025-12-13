@@ -190,7 +190,7 @@
   "hide_phone_number": "プロフィールの電話番号を非表示",
   "hide_phone_number_info": "プロフィールから電話番号が非表示になります。",
   "hide_star_reaction": "スター反応を非表示",
-  "hide_via_bot": "インラインボットを使用する場合、「ボット経由」のキャプションを非表示にする",
+  "hide_via_bot": "「ボット経由」のキャプションを非表示にする",
   "hide_with_spoiler": "スポイラーで非表示",
   "id_hint": "ID",
   "import_plugins_confirmation": "プラグインをインポートしますか？",

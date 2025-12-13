@@ -190,7 +190,7 @@
   "hide_phone_number": "Hide phone number in profiles",
   "hide_phone_number_info": "This will hide the recipient's phone number from their profile.",
   "hide_star_reaction": "Hide star reaction",
-  "hide_via_bot": "Hide 'Via Bot' caption when using inline bots",
+  "hide_via_bot": "Hide 'Via Bot' caption",
   "hide_with_spoiler": "Hide with spoiler",
   "id_hint": " ID",
   "import_plugins_confirmation": "Import Plugins?",

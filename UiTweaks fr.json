@@ -190,7 +190,7 @@
   "hide_phone_number": "Masquer le numéro de téléphone dans les profils",
   "hide_phone_number_info": "Cela masquera le numéro de téléphone du destinataire dans son profil.",
   "hide_star_reaction": "Masquer la réaction étoile",
-  "hide_via_bot": "Masquer la légende 'Via Bot' lors de l'utilisation de bots en ligne",
+  "hide_via_bot": "Masquer la légende 'Via Bot'",
   "hide_with_spoiler": "Masquer avec spoiler",
   "id_hint": "ID",
   "import_plugins_confirmation": "Importer les plugins?",
