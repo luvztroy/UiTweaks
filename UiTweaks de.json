@@ -190,6 +190,7 @@
   "hide_phone_number": "Telefonnummer in Profilen ausblenden",
   "hide_phone_number_info": "Dies verbirgt die Telefonnummer des Empfängers in seinem Profil.",
   "hide_star_reaction": "Stern-Reaktion ausblenden",
+  "hide_via_bot": "Beschriftung 'Via Bot' beim Verwenden von Inline-Bots ausblenden",
   "hide_with_spoiler": "Mit Spoiler verstecken",
   "id_hint": "ID",
   "import_plugins_confirmation": "Plugins importieren?",

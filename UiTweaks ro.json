@@ -190,6 +190,7 @@
   "hide_phone_number": "Ascunde numărul de telefon în profiluri",
   "hide_phone_number_info": "Aceasta va ascunde numărul de telefon al destinatarului din profilul său.",
   "hide_star_reaction": "Ascunde reacția stea",
+  "hide_via_bot": "Ascundeți titlul 'Via Bot' când utilizați boti inline",
   "hide_with_spoiler": "Ascunde cu spoiler",
   "id_hint": "ID",
   "import_plugins_confirmation": "Importă plugin-uri?",

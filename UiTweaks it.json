@@ -190,6 +190,7 @@
   "hide_phone_number": "Nascondi numero di telefono nei profili",
   "hide_phone_number_info": "Questo nasconderà il numero di telefono del destinatario dal suo profilo.",
   "hide_star_reaction": "Nascondi reazione stella",
+  "hide_via_bot": "Nascondi la didascalia 'Via Bot' quando usi bot inline",
   "hide_with_spoiler": "Nascondi con spoiler",
   "id_hint": "ID",
   "import_plugins_confirmation": "Importare i plugin?",

@@ -190,6 +190,7 @@
   "hide_phone_number": "在个人资料中隐藏电话号码",
   "hide_phone_number_info": "这将隐藏收件人个人资料中的电话号码。",
   "hide_star_reaction": "隐藏星形反应",
+  "hide_via_bot": "使用内联机器人时隐藏'通过机器人'标题",
   "hide_with_spoiler": "添加遮罩",
   "id_hint": "ID",
   "import_plugins_confirmation": "导入插件？",

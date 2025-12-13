@@ -190,6 +190,7 @@
   "hide_phone_number": "إخفاء رقم الهاتف في الملفات الشخصية",
   "hide_phone_number_info": "سيؤدي هذا إلى إخفاء رقم هاتف المستلم من ملفه الشخصي.",
   "hide_star_reaction": "إخفاء رد الفعل النجمي",
+  "hide_via_bot": "إخفاء تسمية 'عبر البوت' عند استخدام البوتات المضمنة",
   "hide_with_spoiler": "إخفاء مع إفساد",
   "id_hint": "ID",
   "import_plugins_confirmation": "استيراد الإضافات؟",

@@ -190,6 +190,7 @@
   "hide_phone_number": "Sembunyikan nomor telepon di profil",
   "hide_phone_number_info": "Ini akan menyembunyikan nomor telepon penerima dari profil mereka.",
   "hide_star_reaction": "Sembunyikan reaksi bintang",
+  "hide_via_bot": "Sembunyikan keterangan 'Via Bot' saat menggunakan bot inline",
   "hide_with_spoiler": "Sembunyikan dengan spoiler",
   "id_hint": "ID",
   "import_plugins_confirmation": "Impor Plugin?",

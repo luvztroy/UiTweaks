@@ -190,6 +190,7 @@
   "hide_phone_number": "Ocultar número de teléfono en perfiles",
   "hide_phone_number_info": "Esto ocultará el número de teléfono del destinatario en su perfil.",
   "hide_star_reaction": "Ocultar reacción estrella",
+  "hide_via_bot": "Ocultar la leyenda 'A través del bot' al usar bots en línea",
   "hide_with_spoiler": "Ocultar con spoiler",
   "id_hint": "ID",
   "import_plugins_confirmation": "¿Importar plugins?",
