@@ -351,6 +351,8 @@
   "refresh_localization": "ローカライゼーションを更新",
   "refresh_localization_info": "選択した言語のローカライゼーションを強制更新します。",
   "refreshed_badges": "QuantaConfigから{count}バッジをリフレッシュ",
+  "remove_from_all_folders": "すべてのフォルダから削除",
+  "remove_from_folders_on_leave": "退出時にフォルダからチャットを削除",
   "remove_greeting_sticker": "あいさつステッカーを削除",
   "remove_https_from_links": "リンクからHTTPSを削除",
   "replies": "返信",

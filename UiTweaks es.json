@@ -351,6 +351,8 @@
   "refresh_localization": "Actualizar localización",
   "refresh_localization_info": "Fuerza la actualización de la localización para el idioma seleccionado.",
   "refreshed_badges": "Actualizadas {count} insignias de QuantaConfig",
+  "remove_from_all_folders": "Eliminar de todas las carpetas",
+  "remove_from_folders_on_leave": "Eliminar chat de carpetas al salir",
   "remove_greeting_sticker": "Eliminar pegatina de bienvenida",
   "remove_https_from_links": "Eliminar HTTPS de los enlaces",
   "replies": "Respuestas",

@@ -351,6 +351,8 @@
   "refresh_localization": "Refresh Localization",
   "refresh_localization_info": "Force update the localization for the selected language.",
   "refreshed_badges": "Refreshed {count} badges from QuantaConfig",
+  "remove_from_all_folders": "Remove from all folders",
+  "remove_from_folders_on_leave": "Remove chat from folders on leave",
   "remove_greeting_sticker": "Remove Greeting Sticker",
   "remove_https_from_links": "Remove HTTPS From Links",
   "replies": "Replies",

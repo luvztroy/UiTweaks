@@ -351,6 +351,8 @@
   "refresh_localization": "Обновить локализацию",
   "refresh_localization_info": "Принудительно обновить локализацию для выбранного языка.",
   "refreshed_badges": "Обновлено {count} значков из QuantaConfig",
+  "remove_from_all_folders": "Удалить из всех папок",
+  "remove_from_folders_on_leave": "Удалять чат из папок при выходе",
   "remove_greeting_sticker": "Удалять стикер приветствия",
   "remove_https_from_links": "Удалять https:// из ссылок",
   "replies": "Ответы",

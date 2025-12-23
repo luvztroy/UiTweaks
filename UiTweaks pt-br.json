@@ -351,6 +351,8 @@
   "refresh_localization": "Atualizar Localização",
   "refresh_localization_info": "Forçar atualização da localização para o idioma selecionado.",
   "refreshed_badges": "Atualizados {count} emblemas do QuantaConfig",
+  "remove_from_all_folders": "Remover de todas as pastas",
+  "remove_from_folders_on_leave": "Remover conversa das pastas ao sair",
   "remove_greeting_sticker": "Remover adesivo de saudação",
   "remove_https_from_links": "Remover HTTPS dos Links",
   "replies": "Respostas",

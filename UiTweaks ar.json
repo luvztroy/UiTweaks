@@ -351,6 +351,8 @@
   "refresh_localization": "تحديث التوطين",
   "refresh_localization_info": "فرض تحديث التوطين للغة المحددة.",
   "refreshed_badges": "تم تحديث {count} شارة من QuantaConfig",
+  "remove_from_all_folders": "إزالة من جميع المجلدات",
+  "remove_from_folders_on_leave": "إزالة المحادثة من المجلدات عند المغادرة",
   "remove_greeting_sticker": "إزالة ملصق الترحيب",
   "remove_https_from_links": "إزالة HTTPS من الروابط",
   "replies": "الردود",

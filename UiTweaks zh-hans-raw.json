@@ -351,6 +351,8 @@
   "refresh_localization": "刷新本地化",
   "refresh_localization_info": "强制更新所选语言的本地化。",
   "refreshed_badges": "从 QuantaConfig 刷新了 {count} 个徽章",
+  "remove_from_all_folders": "从所有文件夹中移除",
+  "remove_from_folders_on_leave": "离开时从文件夹中移除聊天",
   "remove_greeting_sticker": "移除问候贴纸",
   "remove_https_from_links": "从链接中删除HTTPS",
   "replies": "回复",

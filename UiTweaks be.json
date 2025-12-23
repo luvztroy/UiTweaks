@@ -350,6 +350,8 @@
   "refresh_localization": "Абнавіць лакалізацыю",
   "refresh_localization_info": "Прымусіць абнавіць лакалізацыю для выбранай мовы.",
   "refreshed_badges": "Абноўлена {count} значкоў з QuantaConfig",
+  "remove_from_all_folders": "Выдаліць з усіх папак",
+  "remove_from_folders_on_leave": "Выдаляць чат з папак пры выхадзе",
   "remove_greeting_sticker": "Удаліць стікер прывітання",
   "remove_https_from_links": "Выдаліць HTTPS з спасылак",
   "replies": "Адказы",

@@ -351,6 +351,8 @@
   "refresh_localization": "지역화 새로고침",
   "refresh_localization_info": "선택한 언어의 지역화를 강제로 업데이트합니다.",
   "refreshed_badges": "QuantaConfig에서 {count}개 배지 새로고침됨",
+  "remove_from_all_folders": "모든 폴더에서 제거",
+  "remove_from_folders_on_leave": "나갈 때 폴더에서 채팅 제거",
   "remove_greeting_sticker": "인사 스티커 제거",
   "remove_https_from_links": "링크에서 HTTPS 제거",
   "replies": "답장",

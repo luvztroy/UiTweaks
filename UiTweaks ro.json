@@ -351,6 +351,8 @@
   "refresh_localization": "Reîmprospătați localizarea",
   "refresh_localization_info": "Forțați actualizarea localizării pentru limba selectată.",
   "refreshed_badges": "Actualizate {count} insigne din QuantaConfig",
+  "remove_from_all_folders": "Elimină din toate folderele",
+  "remove_from_folders_on_leave": "Elimină conversația din foldere la ieșire",
   "remove_greeting_sticker": "Ștergeți autocolantul de salut",
   "remove_https_from_links": "Eliminați HTTPS din linkuri",
   "replies": "Răspunsuri",

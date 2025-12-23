@@ -351,6 +351,8 @@
   "refresh_localization": "Lokalizatsiyani yangilash",
   "refresh_localization_info": "Tanlangan til uchun lokalizatsiyani yangilashni majbur qiling.",
   "refreshed_badges": "QuantaConfig'dan {count} ta nishon yangilandi",
+  "remove_from_all_folders": "Barcha papkalardan olib tashlash",
+  "remove_from_folders_on_leave": "Chiqishda suhbatni papkalardan olib tashlash",
   "remove_greeting_sticker": "Salomlash stikkerini olib tashlash",
   "remove_https_from_links": "Havolalardan HTTPS ni olib tashlash",
   "replies": "Javoblar",

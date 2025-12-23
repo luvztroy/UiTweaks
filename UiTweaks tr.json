@@ -351,6 +351,8 @@
   "refresh_localization": "Yerelleştirmeyi Yenile",
   "refresh_localization_info": "Seçilen dil için yerelleştirmeyi güncellemeye zorlayın.",
   "refreshed_badges": "QuantaConfig'den {count} rozet yenilendi",
+  "remove_from_all_folders": "Tüm klasörlerden kaldır",
+  "remove_from_folders_on_leave": "Ayrılırken sohbeti klasörlerden kaldır",
   "remove_greeting_sticker": "Selamlaşma Çıkartısını Kaldır",
   "remove_https_from_links": "Bağlantılardan HTTPS'i Kaldır",
   "replies": "Yanıtlar",

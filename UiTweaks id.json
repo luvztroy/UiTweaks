@@ -351,6 +351,8 @@
   "refresh_localization": "Segarkan Lokalisasi",
   "refresh_localization_info": "Paksa pembaruan lokalisasi untuk bahasa yang dipilih.",
   "refreshed_badges": "Diperbarui {count} lencana dari QuantaConfig",
+  "remove_from_all_folders": "Hapus dari semua folder",
+  "remove_from_folders_on_leave": "Hapus obrolan dari folder saat keluar",
   "remove_greeting_sticker": "Hapus Stiker Sambutan",
   "remove_https_from_links": "Hapus HTTPS dari Tautan",
   "replies": "Balasan",

@@ -351,6 +351,8 @@
   "refresh_localization": "Lokalisierung aktualisieren",
   "refresh_localization_info": "Erzwinge die Aktualisierung der Lokalisierung für die ausgewählte Sprache.",
   "refreshed_badges": "{count} Abzeichen von QuantaConfig aktualisiert",
+  "remove_from_all_folders": "Aus allen Ordnern entfernen",
+  "remove_from_folders_on_leave": "Chat beim Verlassen aus Ordnern entfernen",
   "remove_greeting_sticker": "Begrüßungs-Sticker entfernen",
   "remove_https_from_links": "HTTPS aus Links entfernen",
   "replies": "Antworten",

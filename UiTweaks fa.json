@@ -351,6 +351,8 @@
   "refresh_localization": "تازه‌سازی محلی‌سازی",
   "refresh_localization_info": "تازه‌سازی اجباری محلی‌سازی برای زبان انتخاب‌شده.",
   "refreshed_badges": "‏{count} عدد نشان از QuantaConfig بازخوانی شد",
+  "remove_from_all_folders": "حذف از همه پوشه‌ها",
+  "remove_from_folders_on_leave": "حذف چت از پوشه‌ها هنگام خروج",
   "remove_greeting_sticker": "حذف استیکر خوشآمدی",
   "remove_https_from_links": "حذف HTTPS از پیوندها",
   "replies": "پاسخ‌ها",
