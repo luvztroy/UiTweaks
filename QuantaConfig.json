@@ -1,12 +1,6 @@
 {
   "badges": [
     {
-      "id": "user1",
-      "user_id": 6985852072,
-      "emoji_id": 6012473147998084083,
-      "text_template": "**{user_name}** helps create bugs in **Quanta**!"
-    },
-    {
       "id": "user2",
       "user_id": 1392173058,
       "emoji_id": 5348254875123741873,
@@ -53,11 +47,6 @@
       "chat_id": 3151293977,
       "emoji_id": 5393416280147522806,
       "text_template": "**{chat_name}** is the official resource of **Quanta**!"
-    }    
+    }
   ]
 }
-
-
-
-
-
