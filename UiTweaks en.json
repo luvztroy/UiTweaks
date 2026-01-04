@@ -354,6 +354,7 @@
   "quick_access": "Quick Access",
   "quick_access_gift_market": "Quick Access to Gift Market",
   "recent_chats": "Recent Chats",
+  "recent_chats_fragment": "Recent Chats Manager",
   "recent_chats_menu_info": "Shows recent chats when long-pressing the drawer icon in chat list. Stores up to 20 chats.",
   "recent_searches": "Recent searches",
   "refresh_localization": "Refresh Localization",

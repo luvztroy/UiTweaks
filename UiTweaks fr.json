@@ -354,6 +354,7 @@
   "quick_access": "Accès Rapide",
   "quick_access_gift_market": "Accès Rapide au Marché des Cadeaux",
   "recent_chats": "Chats Récents",
+  "recent_chats_fragment": "Gestionnaire des discussions récentes",
   "recent_chats_menu_info": "Affiche les chats récents lors d'un appui long sur l'icône du tiroir dans la liste des chats. Stocke jusqu'à 20 chats.",
   "recent_searches": "Recherches récentes",
   "refresh_localization": "Actualiser la localisation",
