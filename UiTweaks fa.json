@@ -75,6 +75,7 @@
   "copy": "کپی",
   "create_code_dialog_title": "ایجاد کد",
   "create_mention_dialog_title": "ایجاد منشن",
+  "custom_privacy": "حریم خصوصی سفارشی",
   "custom_privacy_also_added_you": "{name} شما را هم به مخاطبانش اضافه کرده است.",
   "custom_privacy_manage_privacy": "مدیریت حریم خصوصی",
   "custom_privacy_section_do": "چه کارهایی می‌توانند انجام دهند؟",
@@ -227,6 +228,7 @@
   "language_pref_reset_success": "تنظیمات زبان بازنشانی شد",
   "links": "لینک‌ها",
   "loading": "در حال بارگذاری...",
+  "localization_settings": "تنظیمات بومیسازی",
   "localization": "بومی‌سازی",
   "localization_options": "گزینه‌های محلی‌سازی",
   "long_press_to_configure_actions": "فشار طولانی برای پیکربندی اقدامات",
