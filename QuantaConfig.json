@@ -1,28 +1,29 @@
 {
   "badges": [
+
     {
       "id": "user2",
       "user_id": 1392173058,
       "emoji_id": 5348254875123741873,
-      "text_template": "**{user_name}** is a member of the **Quanta**! insider team"
+      "text_template": "**{user_name}** is a member of the **Quanta**! development team"
     },
     {
       "id": "user3",
       "user_id": 938670184,
       "emoji_id": 5249213633652597172,
-      "text_template": "**{user_name}** is a member of the **Quanta**! insider team"
+      "text_template": "**{user_name}** is a member of the **Quanta**! development team"
     },
     {
       "id": "user4",
       "user_id": 774320669,
       "emoji_id": 5818753711878442644,
-      "text_template": "**{user_name}** is a member of the **Quanta**! insider team"
+      "text_template": "**{user_name}** is a member of the **Quanta**! development team"
     },
     {
       "id": "user5",
       "user_id": 1071521215,
       "emoji_id": 5992228811058450471,
-      "text_template": "**{user_name}** is a member of the **Quanta**! insider team"
+      "text_template": "**{user_name}** is a member of the **Quanta**! development team"
     },
     {
       "id": "channel1",
@@ -47,6 +48,11 @@
       "chat_id": 3151293977,
       "emoji_id": 5393416280147522806,
       "text_template": "**{chat_name}** is the official resource of **Quanta**!"
-    }
+    }    
   ]
 }
+
+
+
+
+
