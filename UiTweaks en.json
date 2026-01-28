@@ -184,8 +184,6 @@
   "hide_folders_info": "Hide specific folders from the folder list. Select which folders to hide.",
   "hide_folders_subtitle": "Select folders to hide",
   "hide_folders_title": "Hide Folders",
-  "hide_hd_icon": "Hide HD icon in media picker",
-  "hide_hd_icon_info": "This will only remove the HD icon from the media picker. It will not affect the quality of the media.",
   "hide_phone_number": "Hide phone number in profiles",
   "hide_phone_number_info": "This will hide the recipient's phone number from their profile.",
   "hide_star_reaction": "Hide star reaction",

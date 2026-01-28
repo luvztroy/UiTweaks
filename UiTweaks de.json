@@ -184,8 +184,6 @@
   "hide_folders_info": "Bestimmte Ordner aus der Ordnerliste ausblenden. Wählen Sie die Ordner aus, die Sie ausblenden möchten.",
   "hide_folders_subtitle": "Ordner zum Ausblenden auswählen",
   "hide_folders_title": "Ordner ausblenden",
-  "hide_hd_icon": "HD-Symbol im Medienauswahl",
-  "hide_hd_icon_info": "Dies entfernt nur das HD-Symbol aus dem Medienauswähler. Es beeinflusst nicht die Qualität der Medien.",
   "hide_phone_number": "Telefonnummer in Profilen ausblenden",
   "hide_phone_number_info": "Dies verbirgt die Telefonnummer des Empfängers in seinem Profil.",
   "hide_star_reaction": "Stern-Reaktion ausblenden",

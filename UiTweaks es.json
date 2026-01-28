@@ -184,8 +184,6 @@
   "hide_folders_info": "Ocultar carpetas específicas de la lista de carpetas. Selecciona las carpetas que deseas ocultar.",
   "hide_folders_subtitle": "Seleccionar carpetas para ocultar",
   "hide_folders_title": "Ocultar carpetas",
-  "hide_hd_icon": "Ocultar icono HD en el selector de medios",
-  "hide_hd_icon_info": "Esto solo eliminará el icono HD del selector de medios. No afectará la calidad de los medios.",
   "hide_phone_number": "Ocultar número de teléfono en perfiles",
   "hide_phone_number_info": "Esto ocultará el número de teléfono del destinatario en su perfil.",
   "hide_star_reaction": "Ocultar reacción estrella",

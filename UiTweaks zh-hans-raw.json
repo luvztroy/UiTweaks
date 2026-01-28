@@ -184,8 +184,6 @@
   "hide_folders_info": "从文件夹列表中隐藏指定文件夹。",
   "hide_folders_subtitle": "选择要隐藏的文件夹",
   "hide_folders_title": "隐藏文件夹",
-  "hide_hd_icon": "隐藏媒体选择器中的 HD 图标",
-  "hide_hd_icon_info": "仅移除 HD 图标，不影响媒体质量。",
   "hide_phone_number": "在个人资料中隐藏手机号",
   "hide_phone_number_info": "将从对方个人资料中隐藏其手机号。",
   "hide_star_reaction": "隐藏星标表情回应",
