@@ -1,27 +1,26 @@
 project_id_env: CROWDIN_PROJECT_ID
 api_token_env: CROWDIN_TOKEN
-base_path: "."
-preserve_hierarchy: true
-
+base_path: .
+preserve_hierarchy: 1
 files:
   - source: /UiTweaks en.json
     translation: /UiTweaks %two_letters_code%.json
     languages_mapping:
       two_letters_code:
-        pt-BR: "pt-br"
-        zh-CN: "zh-hans-raw"
-        ja: "ja-raw"
-        ar: "ar"
-        be: "be"
-        de: "de"
-        es: "es"
-        fa: "fa"
-        fr: "fr"
-        id: "id"
-        it: "it"
-        ko: "ko"
-        ro: "ro"
-        ru: "ru"
-        tr: "tr"
-        uk: "uk"
-        uz: "uz"
+        pt-BR: pt-br
+        zh-CN: zh-hans-raw
+        ja: ja-raw
+        ar: ar
+        be: be
+        de: de
+        es: es
+        fa: fa
+        fr: fr
+        id: id
+        it: it
+        ko: ko
+        ro: ro
+        ru: ru
+        tr: tr
+        uk: uk
+        uz: uz
