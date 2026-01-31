@@ -218,7 +218,7 @@
   "join": "Вступить",
   "join_confirmation": "Подтверждение вступления",
   "join_confirmation_message": "Вы уверены, что хотите вступить в **{chat_name}**?",
-  "join_request_direct_profile": "Открыть профиль пользователя непосредственно из запросов на присоединение",
+  "join_request_direct_profile": "Открывать профили прямо из запросов на присоединение",
   "know_more": "Узнать больше",
   "Language": "Язык",
   "language_fetch": "Ветка обновления языка",
